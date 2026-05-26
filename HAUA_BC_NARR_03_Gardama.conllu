@@ -1,0 +1,662 @@
+# sent_id = HAUA_BC_NARR_03_GMH_01-01
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 1800, 5000
+# text = àbîn ga dai < wasu mutàːne nà: > su huɗu //
+# text_en = This is the story of four men.
+1	àbîn	àbiː	NOUN	_	Definite=Def|Gender=Masc	7	dislocated@subj	_	AlignBegin=1800|AlignEnd=2091|Gloss=thing.Masc.Def
+2	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	1	det	_	AlignBegin=2091|AlignEnd=2382|Gloss=ProxS
+3	dai	dai	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=2382|AlignEnd=2673|Gloss=indeed
+4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=2673|AlignEnd=2964|Gloss=PUNCT
+5	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	6	det	_	AlignBegin=2964|AlignEnd=3255|Gloss=some.Plur
+6	mutàːneː	mùtunèː	NOUN	_	Number=Plur	7	comp:pred	_	AlignBegin=3255|AlignEnd=3546|Gloss=human.Plur|wordform=mutàːne
+7	nàː	neː	AUX	_	_	0	root	_	AlignBegin=3546|AlignEnd=3837|Copula=Yes|Gloss=Ident|wordform=nà:
+8	>	>	PUNCT	_	_	10	punct	_	AlignBegin=3837|AlignEnd=4128|Gloss=PUNCT
+9	su	su	DET	_	Number=Plur	10	det	_	AlignBegin=4128|AlignEnd=4419|Gloss=Plur
+10	huɗu	huɗu	NUM	_	_	7	dislocated@mod	_	AlignBegin=4419|AlignEnd=4710|Gloss=four
+11	//	//	PUNCT	_	_	7	punct	_	AlignBegin=4710|AlignEnd=5000|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_18-18
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 67980, 70020
+# text = ankà cêː yànzu sai à zoː à biɗoː sarkin jiːhwàː //
+# text_en = They said that now, they needed to get the king of aiming.
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=67980|AlignEnd=68165|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=68165|AlignEnd=68350|Gloss=say
+4	yànzu	yànzu	ADV	_	_	8	mod	_	AlignBegin=68350|AlignEnd=68535|Gloss=now
+5	sai	sai	ADV	_	_	8	mod	_	AlignBegin=68535|AlignEnd=68720|Gloss=then
+6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	AlignBegin=68720|AlignEnd=68905|Gloss=4|SpaceAfter=No|wordform=à
+7	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	8	mod/m	_	Gloss=Sub|SpaceAfter=No
+8	zoː	zoː	VERB	_	_	3	comp:obj	_	AlignBegin=68905|AlignEnd=69090|Gloss=go
+9	a-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=69090|AlignEnd=69275|Gloss=4|SpaceAfter=No|wordform=à
+10	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	11	mod/m	_	Gloss=Sub|SpaceAfter=No
+11	biɗoː	biɗ-	VERB	_	_	8	conj:coord	_	AlignBegin=69275|AlignEnd=69460|Gloss=look_for
+12	sarki	sarkiː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=69460|AlignEnd=69645|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur
+14	jiːhwàː	jeːh-	VERB	_	_	13	comp:obj	_	AlignBegin=69645|AlignEnd=69830|Gloss=aim
+15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=69830|AlignEnd=70020|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_23-23
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 85448, 91160
+# text = dà saːnìyaː |c dà mài taːs'àtta |c dà ɗaː-n-tà dà am màːlìye gàreː tà < dut taj= jiːɗoː dà suː //
+# text_en = The cow, the man who was milking it, and its calf that was following it, it knocked them down.
+1	dà	dà	CCONJ	_	_	2	cc@preconj	_	AlignBegin=85448|AlignEnd=85720|Gloss=and
+2	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	21	dislocated@comp	_	AlignBegin=85720|AlignEnd=85992|Gloss=cow.Fem
+3	|c	|c	PUNCT	_	_	2	punct	_	AlignBegin=85992|AlignEnd=86264|Gloss=PUNCT
+4	dà	dà	CCONJ	_	_	5	cc	_	AlignBegin=86264|AlignEnd=86536|Gloss=and
+5	mài	mài	PART	_	Number=Sing|PartType=Der	2	conj:coord	_	AlignBegin=86536|AlignEnd=86808|Gloss=owner_of.Sing|Linker=Yes
+6	taːs'àtta	taːs'-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	compound	_	AlignBegin=86808|AlignEnd=87080|CaseAf=Gen|GenderAf=Fem|Gloss=milk.Vnoun.Fe-3FemGen|MSeg=taːs'àt-ta|PersonAf=3|Poss=Yes|wordform=taːs'àt
+7	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=87080|AlignEnd=87352|Gloss=PUNCT
+8	dà	dà	CCONJ	_	_	9	cc	_	AlignBegin=87352|AlignEnd=87624|Gloss=and
+9	ɗa	ɗaː	NOUN	_	_	5	compound	_	AlignBegin=87624|AlignEnd=87896|GenderAf=Fem|Gloss=child.Masc|Poss=Yes|SpaceAfter=No|wordform=ɗantà
+10	-n	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+11	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Fem.Gen
+12	dà	dà	SCONJ	_	_	9	mod@relcl	_	AlignBegin=87896|AlignEnd=88168|Gloss=REL
+13	am	neː	AUX	_	_	12	comp:obj	_	AlignBegin=88168|AlignEnd=88440|Copula=Yes|Gloss=Ident.Rel|Relative=Yes
+14	màːlìye	maːliy-	VERB	_	ExtPos=ADV|VerbForm=Part	13	comp:pred	_	AlignBegin=88440|AlignEnd=88712|Gloss=suckle.Part
+15	gàreː	gàreː	ADP	_	_	14	mod	_	AlignBegin=88712|AlignEnd=88984|Gloss=by
+16	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	15	comp:obj	_	AlignBegin=88984|AlignEnd=89256|Gloss=3Fem
+17	<	<	PUNCT	_	_	2	punct	_	AlignBegin=89256|AlignEnd=89528|Gloss=PUNCT
+18	dut	dukà	DET	_	ExtPos=PRON|PronType=Tot	21	mod	_	AlignBegin=89528|AlignEnd=89800|Gloss=all
+19	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	21	subj/m	_	AlignBegin=89800|AlignEnd=90072|Gloss=3Fem-|SpaceAfter=No|wordform=taj
+20	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=j=
+21	jiːɗoː	jiːɗ-	VERB	_	_	0	root	_	AlignBegin=90072|AlignEnd=90344|Gloss=come_down
+22	dà	dà	ADP	_	_	21	comp:obl	_	AlignBegin=90344|AlignEnd=90616|Gloss=with
+23	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	comp:obj	_	AlignBegin=90616|AlignEnd=90888|Gloss=3Plur.Nom
+24	//	//	PUNCT	_	_	21	punct	_	AlignBegin=90888|AlignEnd=91160|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_26-26
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 101260, 103980
+# text = tôː ankà cêː [ cikin mutàːnên ga huɗu < wanèː naː yah hi àbin màːmaːkiː ?//] //
+# text_en = Well they said "Beteween these four people, who is the most amazing?"
+1	tôː	tôː	INTJ	_	_	4	discourse	_	AlignBegin=101260|AlignEnd=101430|Gloss=well
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=101430|AlignEnd=101600|Gloss=4-|SpaceAfter=No|wordform=ankà
+3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=101600|AlignEnd=101770|Gloss=say
+5	[	[	PUNCT	_	_	12	punct	_	AlignBegin=101770|AlignEnd=101940|Gloss=PUNCT
+6	cikin	cikin	ADP	_	_	12	mod	_	AlignBegin=101940|AlignEnd=102110|Gloss=in
+7	mutàːnên	mùtunèː	NOUN	_	Definite=Def|Number=Plur	6	comp:obj	_	AlignBegin=102110|AlignEnd=102280|Gloss=human.Plur.Def
+8	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	7	det	_	AlignBegin=102280|AlignEnd=102450|Gloss=ProxS
+9	huɗu	huɗu	NUM	_	_	7	det	_	AlignBegin=102450|AlignEnd=102620|Gloss=four
+10	<	<	PUNCT	_	_	6	punct	_	AlignBegin=102620|AlignEnd=102790|Gloss=PUNCT
+11	wanèː	wanèː	PRON	_	Gender=Masc|PronType=Int	12	comp:pred	_	AlignBegin=102790|AlignEnd=102960|Gloss=which.Masc
+12	naː	neː	AUX	_	_	4	comp:obj	_	AlignBegin=102960|AlignEnd=103130|Copula=Yes|Gloss=Ident
+13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=103130|AlignEnd=103300|Gloss=3Masc-|SpaceAfter=No|wordform=yah
+14	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=h=
+15	hi	fi	VERB	_	_	12	comp:cleft	_	AlignBegin=103300|AlignEnd=103470|Gloss=exceed
+16	àbi	àbiː	NOUN	_	Gender=Masc	15	mod	_	AlignBegin=103470|AlignEnd=103640|Compound=Yes|Gloss=thing.Masc|SpaceAfter=No|wordform=àbin
+17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur
+18	màːmaːkiː	màːmaːkiː	NOUN	_	_	17	comp:obj	_	AlignBegin=103640|AlignEnd=103810|Gloss=wondering
+19	?//]	?//]	PUNCT	_	_	12	punct	_	AlignBegin=103810|AlignEnd=103980|Gloss=PUNCT
+20	//	//	PUNCT	_	_	4	punct	_	AlignBegin=103810|AlignEnd=103980|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_02-02
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 6220, 7780
+# text = a- nà ta gardamà-s-su //= a- nàː gardamà-s-su //
+# text_en = People keep comparing them.
+1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	AlignBegin=6220|AlignEnd=6443|Gloss=4|SpaceAfter=No
+2	nà	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=6220|AlignEnd=6443|Copula=Yes|Gloss=Prog|wordform=anàː
+3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=6443|AlignEnd=6666|Gloss=Iter
+4	gardamà	gardamàː	NOUN	_	_	2	comp:pred	_	AlignBegin=6666|AlignEnd=6889|Gloss=comparing.Fem|SpaceAfter=No|wordform=gardamàssu
+5	-s	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
+6	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	comp:obj/m	_	Gloss=3Plur.Gen
+7	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=6889|AlignEnd=7112|Gloss=PUNCT|SpaceAfter=No
+8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=7112|AlignEnd=7335|Gloss=4|SpaceAfter=No
+9	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis	_	AlignBegin=7112|AlignEnd=7335|Copula=Yes|Gloss=Prog|wordform=anàː
+10	gardamà	gardamàː	NOUN	_	_	9	comp:pred	_	AlignBegin=7335|AlignEnd=7558|Gloss=comparing.Fem|SpaceAfter=No|wordform=gardamàssu
+11	-s	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
+12	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	comp:obj/m	_	Gloss=3Plur.Gen
+13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=7558|AlignEnd=7780|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_03-03
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 8220, 16160
+# text = dà sarkin bìyash shìgaː |c dà sarkin sauraːreː |c dà sarkin jiːhwàː |c dà sarkin sarɓaː //
+# text_en = The king of tracking, the king of listening, the king of aiming, and the king of lassooing.
+1	dà	dà	CCONJ	_	_	2	cc@preconj	_	AlignBegin=8220|AlignEnd=8687|Gloss=and
+2	sarki	sarkiː	NOUN	_	Gender=Masc	0	root	_	AlignBegin=8687|AlignEnd=9154|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen.Masc/Plur
+4	bìyas	bi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:obj	_	AlignBegin=9154|AlignEnd=9621|Gloss=follow.Vnoun.Fem..Fem|SpaceAfter=No|wordform=bìyash
+5	-s	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|wordform=-C
+6	shìgaː	shìgaː	NOUN	_	Gender=Fem	5	comp:obj	_	AlignBegin=9621|AlignEnd=10088|Gloss=track.Fem
+7	|c	|c	PUNCT	_	_	9	punct	_	AlignBegin=10088|AlignEnd=10555|Gloss=PUNCT
+8	dà	dà	CCONJ	_	_	9	cc	_	AlignBegin=10555|AlignEnd=11022|Gloss=and
+9	sarki	sarkiː	NOUN	_	Gender=Masc	2	conj:coord	_	AlignBegin=11022|AlignEnd=11489|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
+11	sauraːreː	sauraːr-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:obj	_	AlignBegin=11489|AlignEnd=11956|Gloss=listening.Masc
+12	|c	|c	PUNCT	_	_	14	punct	_	AlignBegin=11956|AlignEnd=12423|Gloss=PUNCT
+13	dà	dà	CCONJ	_	_	14	cc	_	AlignBegin=12423|AlignEnd=12890|Gloss=and
+14	sarki	sarkiː	NOUN	_	Gender=Masc	9	conj:coord	_	AlignBegin=12890|AlignEnd=13357|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
+16	jiːhwàː	jehw-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	15	comp:obj	_	AlignBegin=13357|AlignEnd=13824|Gloss=throwing.Fem
+17	|c	|c	PUNCT	_	_	19	punct	_	AlignBegin=13824|AlignEnd=14291|Gloss=PUNCT
+18	dà	dà	CCONJ	_	_	19	cc	_	AlignBegin=14291|AlignEnd=14758|Gloss=and
+19	sarki	sarkiː	NOUN	_	Gender=Masc	14	conj:coord	_	AlignBegin=14758|AlignEnd=15225|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
+21	sarɓaː	sarɓ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	20	comp:obj	_	AlignBegin=15225|AlignEnd=15692|Gloss=lassoo.Vnoun.Fem
+22	//	//	PUNCT	_	_	2	punct	_	AlignBegin=15692|AlignEnd=16160|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_04-04
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 17244, 21780
+# text = shiːkèːnan < su nàː nan |r su nàː nan < rân nan sai ankà zakà ankà cêː musù [ ai àkwai saːnìyas sarkiː dà taɓ ɓacèː //] //
+# text_en = OK, then, one day, they came and told them "Eh, one of the king's cows has got lost."
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	16	discourse	_	AlignBegin=17244|AlignEnd=17418|Gloss=OK
+2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=17418|AlignEnd=17592|Gloss=PUNCT
+3	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17592|AlignEnd=17766|Copula=Yes|Gloss=3Plur|SpaceAfter=No
+4	nàː	nàː	AUX	_	Aspect=Prog	16	mod	_	AlignBegin=17592|AlignEnd=17766|Copula=Yes|Gloss=Prog|wordform=su
+5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	comp:pred	_	AlignBegin=17766|AlignEnd=17940|Gloss=PreRef|PreRef=Yes
+6	|r	|r	PUNCT	_	_	8	punct	_	AlignBegin=17940|AlignEnd=18114|Gloss=PUNCT
+7	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=18114|AlignEnd=18288|Copula=Yes|Gloss=3Plur|SpaceAfter=No
+8	nàː	nàː	AUX	_	Aspect=Prog	4	conj:redup	_	AlignBegin=18114|AlignEnd=18288|Copula=Yes|Gloss=Prog|wordform=su
+9	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	comp:pred	_	AlignBegin=18288|AlignEnd=18462|Gloss=PreRef|PreRef=Yes
+10	<	<	PUNCT	_	_	4	punct	_	AlignBegin=18462|AlignEnd=18636|Gloss=PUNCT
+11	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	16	mod	_	AlignBegin=18636|AlignEnd=18810|Gloss=day.Fem.Def
+12	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	11	det	_	AlignBegin=18810|AlignEnd=18984|Gloss=PreRef|PreRef=Yes
+13	sai	sai	ADV	_	_	16	mod	_	AlignBegin=18984|AlignEnd=19158|Gloss=until
+14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	AlignBegin=19158|AlignEnd=19332|Gloss=4-|SpaceAfter=No|wordform=ankà
+15	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+16	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=19332|AlignEnd=19506|Gloss=arrive
+17	a-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	AlignBegin=19506|AlignEnd=19680|Gloss=4-|SpaceAfter=No|wordform=ankà
+18	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+19	cêː	cêː	VERB	_	_	16	conj:coord	_	AlignBegin=19680|AlignEnd=19854|Gloss=say
+20	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	19	comp:obl	_	AlignBegin=19854|AlignEnd=20028|Gloss=3Plur.Dat
+21	[	[	PUNCT	_	_	23	punct	_	AlignBegin=20028|AlignEnd=20202|Gloss=PUNCT
+22	ai	ai	INTJ	_	_	23	discourse	_	AlignBegin=20202|AlignEnd=20376|Gloss=eh!
+23	àkwai	àkwai	PART	_	PartType=Pred	19	comp:obj	_	AlignBegin=20376|AlignEnd=20550|Gloss=there_is
+24	saːnìya	saːnìyaː	NOUN	_	Gender=Fem	23	subj	_	AlignBegin=20550|AlignEnd=20724|Gloss=cow.Fem..Fem|SpaceAfter=No|wordform=saːnìyas
+25	-s	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Fem|wordform=-C
+26	sarkiː	sarkiː	NOUN	_	Gender=Masc	25	comp:obj	_	AlignBegin=20724|AlignEnd=20898|Gloss=king.Masc
+27	dà	dà	SCONJ	_	_	24	mod@relcl	_	AlignBegin=20898|AlignEnd=21072|Gloss=REL
+28	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	AlignBegin=21072|AlignEnd=21246|Gloss=3Fem-|SpaceAfter=No|wordform=taɓ
+29	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=ɓ=
+30	ɓacèː	ɓat-	VERB	_	_	27	comp:obj	_	AlignBegin=21246|AlignEnd=21420|Gloss=get_lost
+31	//]	//]	PUNCT	_	_	23	punct	_	AlignBegin=21420|AlignEnd=21594|Gloss=PUNCT
+32	//	//	PUNCT	_	_	16	punct	_	AlignBegin=21594|AlignEnd=21780|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_05-05
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 23486, 24215
+# text = shiːkèːnan //
+# text_en = OK.
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	0	root	_	AlignBegin=23486|AlignEnd=23850|Gloss=OK
+2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=23850|AlignEnd=24215|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_06-06
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 24215, 25700
+# text = sáːnìyaː < ita kòː < taː daɗèː dà ɓacèːwaː //
+# text_en = The cow, it had been lost for a long time.
+1	sáːnìyaː	sáːnìyaː	NOUN	_	_	8	dislocated@subj	_	AlignBegin=24215|AlignEnd=24363|Gloss=cow
+2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=24363|AlignEnd=24511|Gloss=PUNCT
+3	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	dislocated@subj	_	AlignBegin=24511|AlignEnd=24659|Gloss=3Fem.Nom
+4	kòː	kùwa	PART	_	PartType=Top	3	discourse@top	_	AlignBegin=24659|AlignEnd=24807|Gloss=as_for
+5	<	<	PUNCT	_	_	3	punct	_	AlignBegin=24807|AlignEnd=24955|Gloss=PUNCT
+6	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=24955|AlignEnd=25103|Gloss=3Fem-|SpaceAfter=No|wordform=taː
+7	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Sing
+8	daɗèː	daɗ-	VERB	_	_	0	root	_	AlignBegin=25103|AlignEnd=25251|Gloss=spend_time
+9	dà	dà	ADP	_	_	8	mod	_	AlignBegin=25251|AlignEnd=25399|Gloss=with
+10	ɓacèːwaː	ɓat-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:obj	_	AlignBegin=25399|AlignEnd=25547|Gloss=get_lost.Vnoun.Fem
+11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=25547|AlignEnd=25700|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_07-07
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 27500, 29740
+# text = ankà zoː sarkin bìyash shìgaː |c ankà cêː [ gàː raːnak =kà //] //
+# text_en = They went to the king of tracking and told him "This is your day."
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=27500|AlignEnd=27672|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=27672|AlignEnd=27844|Gloss=go
+4	sarki	sarkiː	NOUN	_	Gender=Masc	3	comp:obj@G	_	AlignBegin=27844|AlignEnd=28016|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
+6	bìyas	bi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=28016|AlignEnd=28188|Gloss=follow.Vnoun.Fem..Fem|SpaceAfter=No|wordform=bìyash
+7	-s	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Fem|wordform=-C
+8	shìgaː	shìgaː	NOUN	_	Gender=Fem	7	comp:obj	_	AlignBegin=28188|AlignEnd=28360|Gloss=track.Fem
+9	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=28360|AlignEnd=28532|Gloss=PUNCT
+10	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=28532|AlignEnd=28704|Gloss=4-|SpaceAfter=No|wordform=ankà
+11	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+12	cêː	cêː	VERB	_	_	3	conj:coord	_	AlignBegin=28704|AlignEnd=28876|Gloss=say
+13	[	[	PUNCT	_	_	14	punct	_	AlignBegin=28876|AlignEnd=29048|Gloss=PUNCT
+14	gàː	gàː	PART	_	PartType=Pred	12	comp:obj	_	AlignBegin=29048|AlignEnd=29220|Gloss=here_is
+15	raːna	raːnaː	NOUN	_	_	14	subj	_	AlignBegin=29220|AlignEnd=29392|Gloss=day.Fem|Poss=Yes|SpaceAfter=No|wordform=raːnakkà
+16	-k	na	PART	_	Case=Gen|PartType=Case	15	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
+17	-kà	-kà	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	16	comp:obj	_	Gloss=2Masc.Gen
+18	//]	//]	PUNCT	_	_	14	punct	_	AlignBegin=29392|AlignEnd=29564|Gloss=PUNCT
+19	//	//	PUNCT	_	_	3	punct	_	AlignBegin=29564|AlignEnd=29740|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_08-08
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 30160, 31640
+# text = ankà gwadàː mai turkèn saːnìyaː //
+# text_en = They showed him the tethering post of the cow.
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=30160|AlignEnd=30407|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	gwadàː	gwad-	VERB	_	_	0	root	_	AlignBegin=30407|AlignEnd=30654|Gloss=show
+4	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=30654|AlignEnd=30901|Gloss=3Masc.Dat
+5	turkèn	turkèː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	AlignBegin=30901|AlignEnd=31148|Gloss=tethering_post.Masc
+6	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	5	mod	_	AlignBegin=31148|AlignEnd=31395|Gloss=cow.Fem
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=31395|AlignEnd=31640|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_09-09
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 33080, 34188
+# text = taː yi shèːkàruː dà ɓacèːwaː //
+# text_en = She had been lost for years.
+1	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=33080|AlignEnd=33265|Gloss=3Fem-|SpaceAfter=No|wordform=taː
+2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
+3	yi	yi	VERB	_	_	0	root	_	AlignBegin=33265|AlignEnd=33450|Gloss=do
+4	shèːkàruː	shèːkaràː	NOUN	_	Number=Plur	3	comp:pred	_	AlignBegin=33450|AlignEnd=33635|Gloss=year.Plur
+5	dà	dà	ADP	_	_	4	mod	_	AlignBegin=33635|AlignEnd=33820|Gloss=with
+6	ɓacèːwaː	ɓat-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=33820|AlignEnd=34005|Gloss=get_lost.Vnoun.Fem
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=34005|AlignEnd=34188|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_10-10
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 34188, 37047
+# text = yay= yi ta bìyash shìgaː-t-tà |r yay= yi ta bìyash shìgaː-t-tà |r yay= yi ta bìyash shìgaː-t-tà //
+# text_en = He followed the track for a long time.
+1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=34188|AlignEnd=34347|Gloss=3Masc-|SpaceAfter=No|wordform=yay
+2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
+3	yi	yi	VERB	_	_	0	root	_	AlignBegin=34347|AlignEnd=34506|Gloss=do
+4	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	5	mod	_	AlignBegin=34506|AlignEnd=34665|Gloss=Iter
+5	bìyas	bi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=34665|AlignEnd=34824|ExtPos=NOUN|Gloss=follow.Vnoun.Fem..Fem|SpaceAfter=No|wordform=bìyash
+6	-s	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|wordform=-C
+7	shìga	shìgaː	NOUN	_	_	6	comp:obj	_	AlignBegin=34824|AlignEnd=34983|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
+8	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+9	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Fem.Gen
+10	|r	|r	PUNCT	_	_	13	punct	_	AlignBegin=34983|AlignEnd=35142|Gloss=PUNCT
+11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=35142|AlignEnd=35301|Gloss=3Masc-|SpaceAfter=No|wordform=yay
+12	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
+13	yi	yi	VERB	_	_	3	conj:redup	_	AlignBegin=35301|AlignEnd=35460|Gloss=do
+14	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	15	mod	_	AlignBegin=35460|AlignEnd=35619|Gloss=Iter
+15	bìyas	bi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:pred	_	AlignBegin=35619|AlignEnd=35778|ExtPos=NOUN|Gloss=follow.Vnoun.Fem..Fem|SpaceAfter=No|wordform=bìyash
+16	-s	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem|wordform=-C
+17	shìga	shìgaː	NOUN	_	_	16	comp:obj	_	AlignBegin=35778|AlignEnd=35937|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
+18	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	17	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+19	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	18	comp:obj/m	_	Gloss=3Fem.Gen
+20	|r	|r	PUNCT	_	_	23	punct	_	AlignBegin=35937|AlignEnd=36096|Gloss=PUNCT
+21	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	AlignBegin=36096|AlignEnd=36255|Gloss=3Masc-|SpaceAfter=No|wordform=yay
+22	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
+23	yi	yi	VERB	_	_	13	conj:redup	_	AlignBegin=36255|AlignEnd=36414|Gloss=do
+24	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	25	mod	_	AlignBegin=36414|AlignEnd=36573|Gloss=Iter
+25	bìyas	bi	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:pred	_	AlignBegin=36573|AlignEnd=36732|ExtPos=NOUN|Gloss=follow.Vnoun.Fem..Fem|SpaceAfter=No|wordform=bìyash
+26	-s	na	PART	_	Case=Gen|PartType=Case	25	udep/m	_	Gloss=Gen.Fem|wordform=-C
+27	shìga	shìgaː	NOUN	_	_	26	comp:obj	_	AlignBegin=36732|AlignEnd=36891|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
+28	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	27	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+29	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	28	comp:obj/m	_	Gloss=3Fem.Gen
+30	//	//	PUNCT	_	_	3	punct	_	AlignBegin=36891|AlignEnd=37047|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_11-11
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 38960, 41762
+# text = in tash= shìga cikin ruwaː < shinàː= bìye dà shìgaː-t-tà //
+# text_en = If it had gone into water, he followed her track.
+1	in	in	SCONJ	_	_	9	mod	_	AlignBegin=38960|AlignEnd=39194|Gloss=if
+2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=39194|AlignEnd=39428|Gloss=3Fem-|SpaceAfter=No|wordform=tash
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=sh=
+4	shìga	shig-	VERB	_	_	1	comp:obj	_	AlignBegin=39428|AlignEnd=39662|Gloss=enter
+5	cikin	cikin	ADP	_	_	4	comp:obl	_	AlignBegin=39662|AlignEnd=39896|Gloss=in
+6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp:obj	_	AlignBegin=39896|AlignEnd=40130|Gloss=water.Plur
+7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40130|AlignEnd=40364|Gloss=PUNCT
+8	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=40598|AlignEnd=40832|Copula=Yes|Gloss=3Masc|SpaceAfter=No
+9	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=40598|AlignEnd=40832|Copula=Yes|Gloss=Prog|wordform=shi
+10	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	AlignBegin=40832|AlignEnd=41066|Gloss=follow.Part
+11	dà	dà	ADP	_	_	10	comp:obl	_	AlignBegin=41066|AlignEnd=41300|Gloss=with
+12	shìga	shìgaː	NOUN	_	_	11	comp:obj	_	AlignBegin=41300|AlignEnd=41534|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
+13	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	12	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+14	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	13	comp:obj/m	_	Gloss=3Fem.Gen
+15	//	//	PUNCT	_	_	9	punct	_	AlignBegin=41534|AlignEnd=41762|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_12-12
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 41762, 43440
+# text = tà= hìta //= tà= bi duːc'ìː < shinàː= bìye dà shìgaː-t-tà //
+# text_en = If it came out [of the water] and went along some stones, he followed her track.
+1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=41762|AlignEnd=41902|Gloss=3Fem|SpaceAfter=No|wordform=tà
+2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub|SpaceAfter=No
+3	hìta	fit-	VERB	_	_	11	parataxis@mod	_	AlignBegin=41902|AlignEnd=42042|Gloss=get_out
+4	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=42042|AlignEnd=42182|Gloss=PUNCT|SpaceAfter=No
+5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=42182|AlignEnd=42322|Gloss=3Fem|SpaceAfter=No|wordform=tà
+6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub|SpaceAfter=No
+7	bi	bi	VERB	_	_	3	parataxis@conj	_	AlignBegin=42322|AlignEnd=42462|Gloss=follow
+8	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=42462|AlignEnd=42602|Gloss=stone.Masc
+9	<	<	PUNCT	_	_	3	punct	_	AlignBegin=42602|AlignEnd=42742|Gloss=PUNCT
+10	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=42742|AlignEnd=42882|Copula=Yes|Gloss=3Masc|SpaceAfter=No
+11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=42742|AlignEnd=42882|Copula=Yes|Gloss=Prog|wordform=shi
+12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	AlignBegin=42882|AlignEnd=43022|Gloss=follow.Part
+13	dà	dà	ADP	_	_	12	comp:obl	_	AlignBegin=43022|AlignEnd=43162|Gloss=with
+14	shìga	shìgaː	NOUN	_	_	13	comp:obj	_	AlignBegin=43162|AlignEnd=43302|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
+15	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod/m	_	Gloss=Gen.Fem|SpaceAfter=No
+16	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Fem.Gen
+17	//	//	PUNCT	_	_	11	punct	_	AlignBegin=43302|AlignEnd=43440|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_13-13
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 44380, 49669
+# text = hay yak kai gà wani wuriː |c yas' s'ayàː |c ankà cèː [ wurîn ga < dàn nanânga < saːnìyâg ga < ankài bisà dà ita //] //
+# text_en = Then he reached a place where he stopped and said "Here, from this place, the cow, someone has lifted it."
+1	hay	hay	SCONJ	_	_	4	discourse	_	AlignBegin=44380|AlignEnd=44569|Gloss=until
+2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=44569|AlignEnd=44758|Gloss=3Masc-|SpaceAfter=No|wordform=yak
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
+4	kai	kaːy-	VERB	_	_	0	root	_	AlignBegin=44758|AlignEnd=44947|Gloss=reach
+5	gà	gà	ADP	_	_	4	comp:obl	_	AlignBegin=44947|AlignEnd=45136|Gloss=by
+6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	7	det	_	AlignBegin=45136|AlignEnd=45325|Gloss=some.Masc
+7	wuriː	wuriː	NOUN	_	Gender=Masc	5	comp:obj	_	AlignBegin=45325|AlignEnd=45514|Gloss=place.Masc
+8	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=45514|AlignEnd=45703|Gloss=PUNCT
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=45703|AlignEnd=45892|Gloss=3Masc-|SpaceAfter=No|wordform=yas'
+10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s'=
+11	s'ayàː	s'ay-	VERB	_	_	4	conj:coord	_	AlignBegin=45892|AlignEnd=46081|Gloss=stop
+12	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=46081|AlignEnd=46270|Gloss=PUNCT
+13	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	AlignBegin=46270|AlignEnd=46459|Gloss=4-|SpaceAfter=No|wordform=ankà
+14	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+15	cèː	cêː	VERB	_	_	11	conj:coord	_	AlignBegin=46459|AlignEnd=46648|Gloss=say
+16	[	[	PUNCT	_	_	28	punct	_	AlignBegin=46648|AlignEnd=46837|Gloss=PUNCT
+17	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	28	mod	_	AlignBegin=46837|AlignEnd=47026|Gloss=place.Masc.Def
+18	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	17	det	_	AlignBegin=47026|AlignEnd=47215|Gloss=ProxS
+19	<	<	PUNCT	_	_	17	punct	_	AlignBegin=47215|AlignEnd=47404|Gloss=PUNCT
+20	dàn	dàk	ADP	_	_	28	mod	_	AlignBegin=47404|AlignEnd=47593|Gloss=from
+21	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	20	comp:obj	_	AlignBegin=47593|AlignEnd=47782|Gloss=ProxS
+22	<	<	PUNCT	_	_	20	punct	_	AlignBegin=47782|AlignEnd=47971|Gloss=PUNCT
+23	saːnìyâg	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	28	dislocated@comp	_	AlignBegin=47971|AlignEnd=48160|Gloss=cow.Fem.Def
+24	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	23	det	_	AlignBegin=48160|AlignEnd=48349|Gloss=ProxS
+25	<	<	PUNCT	_	_	23	punct	_	AlignBegin=48349|AlignEnd=48538|Gloss=PUNCT
+26	a-	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	AlignBegin=48538|AlignEnd=48727|Gloss=4-|SpaceAfter=No|wordform=ankà
+27-28	nkà=	_	_	_	_	_	_	_	_
+27	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+28	yi	yi	VERB	_	_	15	comp:obj	_	AlignBegin=48538|AlignEnd=48727|Gloss=do
+29	bisà	bisà	ADV	_	_	28	comp:pred	_	AlignBegin=48727|AlignEnd=48916|Gloss=up
+30	dà	dà	ADP	_	_	28	comp:obl	_	AlignBegin=48916|AlignEnd=49105|Gloss=with
+31	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	30	comp:obj	_	AlignBegin=49105|AlignEnd=49294|Gloss=3Fem.Nom
+32	//]	//]	PUNCT	_	_	28	punct	_	AlignBegin=49294|AlignEnd=49483|Gloss=PUNCT
+33	//	//	PUNCT	_	_	4	punct	_	AlignBegin=49483|AlignEnd=49669|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_14-14
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 49669, 51840
+# text = kóːkòːindà ankà yi dà ita < àmmaː dàw wurîn ga < bàtà wucèː ba //
+# text_en = Wherever they have taken it, from here, it has stopped moving.
+1	kóːkòːindà	kóːkòːindà	ADV	_	PronType=Rel	15	mod	_	AlignBegin=49669|AlignEnd=49824|Gloss=wherever
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=49824|AlignEnd=49979|Gloss=4-|SpaceAfter=No|wordform=ankà
+3-4	nkà=	_	_	_	_	_	_	_	_
+3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+4	yi	yi	VERB	_	_	1	mod@relcl	_	AlignBegin=49824|AlignEnd=49979|Gloss=do
+5	dà	dà	ADP	_	_	4	comp:obl	_	AlignBegin=49979|AlignEnd=50134|Gloss=with
+6	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=50134|AlignEnd=50289|Gloss=3Fem.Nom
+7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=50289|AlignEnd=50444|Gloss=PUNCT
+8	àmmaː	àmmaː	CCONJ	_	_	15	cc	_	AlignBegin=50444|AlignEnd=50599|Gloss=but
+9	dàw	dàk	ADP	_	_	15	mod	_	AlignBegin=50599|AlignEnd=50754|Gloss=from
+10	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	AlignBegin=50754|AlignEnd=50909|Gloss=place.Masc.Def
+11	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	10	det	_	AlignBegin=50909|AlignEnd=51064|Gloss=ProxS
+12	<	<	PUNCT	_	_	9	punct	_	AlignBegin=51064|AlignEnd=51219|Gloss=PUNCT
+13	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	15	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
+14	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=51219|AlignEnd=51374|Gloss=3Fem=|SpaceAfter=No|wordform=bàtà
+15	wucèː	wut-	VERB	_	_	0	root	_	AlignBegin=51374|AlignEnd=51529|Gloss=pass_by
+16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	AlignBegin=51529|AlignEnd=51684|Gloss=Neg
+17	//	//	PUNCT	_	_	15	punct	_	AlignBegin=51684|AlignEnd=51840|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_15-15
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 53280, 55640
+# text = sa'ànnan ankà cêː mà sarkin sauraːreː [ tôː kai < gàː raːnak =kà //] //
+# text_en = Then, they told the king of listening "Well, you, this is your day."
+1	sa'ànnan	sa'ànnan	ADV	_	_	4	mod	_	AlignBegin=53280|AlignEnd=53437|Gloss=then
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=53594|AlignEnd=53751|Gloss=4-|SpaceAfter=No|wordform=ankà
+3-4	nkà=	_	_	_	_	_	_	_	_
+3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=53751|AlignEnd=53908|Gloss=say
+5	mà	mà	ADP	_	Case=Dat	4	comp:obl	_	AlignBegin=53908|AlignEnd=54065|Gloss=Dat
+6	sarki	sarkiː	NOUN	_	Gender=Masc	5	comp:obj	_	AlignBegin=54065|AlignEnd=54222|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
+8	sauraːreː	sauraːr-	VERB	_	Gender=Masc	7	comp:obj	_	AlignBegin=54222|AlignEnd=54379|Gloss=listening.Masc
+9	[	[	PUNCT	_	_	13	punct	_	AlignBegin=54379|AlignEnd=54536|Gloss=PUNCT
+10	tôː	tôː	INTJ	_	_	13	discourse	_	AlignBegin=54536|AlignEnd=54693|Gloss=well
+11	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	13	vocative	_	AlignBegin=54693|AlignEnd=54850|Gloss=2Masc.Nom
+12	<	<	PUNCT	_	_	11	punct	_	AlignBegin=54850|AlignEnd=55007|Gloss=PUNCT
+13	gàː	gàː	PART	_	PartType=Pred	4	comp:pred	_	AlignBegin=55007|AlignEnd=55164|Gloss=here_is
+14	raːna	raːnaː	NOUN	_	_	13	subj	_	AlignBegin=55164|AlignEnd=55321|Gloss=day.Fem|Poss=Yes|SpaceAfter=No|wordform=raːnakkà
+15	-k	na	PART	_	Case=Gen|PartType=Case	14	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
+16	-kà	-kà	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	comp:obj	_	Gloss=2Masc.Gen
+17	//]	//]	PUNCT	_	_	13	punct	_	AlignBegin=55321|AlignEnd=55478|Gloss=PUNCT
+18	//	//	PUNCT	_	_	4	punct	_	AlignBegin=55478|AlignEnd=55640|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_16-16
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 56500, 62360
+# text = shiː kòː < yaz= zakà |c yak= kahwà kunyàːtai gà ƙasaː || bàːkin wurîn nan || indà ankà= cêː shìgaː-t-tà taː= s'ayàː //
+# text_en = As for him, he came, put his ear to the ground, near that place where they said that its track had stopped.
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	AlignBegin=56500|AlignEnd=56766|Gloss=3Masc.Nom
+2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=56766|AlignEnd=57032|Gloss=as_for
+3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=57032|AlignEnd=57298|Gloss=PUNCT
+4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=57298|AlignEnd=57564|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
+5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+6	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=57564|AlignEnd=57830|Gloss=arrive
+7	|c	|c	PUNCT	_	_	10	punct	_	AlignBegin=57830|AlignEnd=58096|Gloss=PUNCT
+8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=58096|AlignEnd=58362|Gloss=3Masc-|SpaceAfter=No|wordform=yak
+9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
+10	kahwà	kahw-	VERB	_	_	6	conj:coord	_	AlignBegin=58362|AlignEnd=58628|Gloss=put
+11	kunyàː	kunyàː	NOUN	_	_	10	comp:obj	_	AlignBegin=58628|AlignEnd=58894|GenderAf=Masc|Gloss=ear.Con|Poss=Yes|SpaceAfter=No|wordfrom=kunyàːtai
+12	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+13	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	12	comp:obj/m	_	Gloss=3Masc.Gen
+14	gà	gà	ADP	_	_	10	comp:obl	_	AlignBegin=58894|AlignEnd=59160|Gloss=by
+15	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	AlignBegin=59160|AlignEnd=59426|Gloss=ground.Fem
+16	||	||	PUNCT	_	_	17	punct	_	AlignBegin=59426|AlignEnd=59692|Gloss=PUNCT
+17	bàːkin	bàːkin	ADP	_	_	14	conj:dicto	_	AlignBegin=59692|AlignEnd=59958|Gloss=near
+18	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	AlignBegin=59958|AlignEnd=60224|Gloss=place.Masc.Def
+19	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	18	det	_	AlignBegin=60224|AlignEnd=60490|Gloss=PreRef|PreRef=Yes
+20	||	||	PUNCT	_	_	21	punct	_	AlignBegin=60490|AlignEnd=60756|Gloss=PUNCT
+21	indà	indà	ADV	_	PronType=Rel	17	conj:dicto	_	AlignBegin=60490|AlignEnd=60756|Gloss=where
+22	a-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	AlignBegin=60756|AlignEnd=61022|Gloss=4-|SpaceAfter=No|wordform=ankà
+23	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+24	cêː	cêː	VERB	_	_	21	mod@relcl	_	AlignBegin=61022|AlignEnd=61288|Gloss=say
+25	shìga	shìgaː	NOUN	_	_	30	subj	_	AlignBegin=61288|AlignEnd=61554|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
+26	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+27	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	26	comp:obj/m	_	Gloss=3Fem.Gen
+28	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	AlignBegin=61554|AlignEnd=61820|Gloss=3Fem-|SpaceAfter=No|wordform=taː
+29	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Sing
+30	s'ayàː	s'ay-	VERB	_	_	24	comp:obj	_	AlignBegin=61820|AlignEnd=62086|Gloss=stop
+31	//	//	PUNCT	_	_	6	punct	_	AlignBegin=62086|AlignEnd=62360|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_17-17
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 63620, 65740
+# text = sai yac=cèː yaː=ji a-nàː taːs'à-s saːnìyât tan samàː ta bakwài //
+# text_en = Then he said that he heard that someone is milking the cow in the seventh heaven.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=63620|AlignEnd=63783|Gloss=until
+2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=63783|AlignEnd=63946|Gloss=3Masc-|SpaceAfter=No|wordform=yac
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+4	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=63946|AlignEnd=64109|Gloss=say
+5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=64109|AlignEnd=64272|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
+6	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Sing
+7	ji	ji	VERB	_	_	4	comp:obj	_	AlignBegin=64272|AlignEnd=64435|Gloss=hear
+8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=64435|AlignEnd=64598|Gloss=4|SpaceAfter=No
+9	nàː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	AlignBegin=64435|AlignEnd=64598|Copula=Yes|Gloss=Prog|wordform=anàː
+10	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:pred	_	AlignBegin=64598|AlignEnd=64761|Gloss=milk.Vnoun.Fem|SpaceAfter=No|wordform=taːs'às
+11	-s	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem|wordform=-C
+12	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	11	comp:obj	_	AlignBegin=64761|AlignEnd=64924|Gloss=cow.Fem.Def
+13	tan	nan	DET	_	Gender=Fem|PronType=Dem	12	det	_	AlignBegin=64924|AlignEnd=65087|Gloss=PreRef|PreRef=Yes
+14	samàː	samàː	NOUN	_	Gender=Fem	10	mod	_	AlignBegin=65087|AlignEnd=65250|Gloss=sky.Fem
+15	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod	_	AlignBegin=65250|AlignEnd=65413|Gloss=Gen.Fem
+16	bakwài	bakwài	NUM	_	_	15	comp:obj	_	AlignBegin=65413|AlignEnd=65576|Gloss=seven
+17	//	//	PUNCT	_	_	4	punct	_	AlignBegin=65576|AlignEnd=65740|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_19-19
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 71040, 71874
+# text = ankà kaːwoː shì //
+# text_en = They brought him.
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=71040|AlignEnd=71248|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	kaːwoː	kaːy-	VERB	_	_	0	root	_	AlignBegin=71248|AlignEnd=71456|Gloss=carry
+4	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=71456|AlignEnd=71664|Gloss=3Masc
+5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=71664|AlignEnd=71874|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_20-20
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 71877, 72900
+# text = shiː kòː < ankà cêː mai [ gàː raːnak =kà //] //
+# text_en = Him, they told him "This is your day."
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	discourse	_	AlignBegin=71877|AlignEnd=71970|Gloss=3Masc.Nom
+2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=71970|AlignEnd=72063|Gloss=as_for
+3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=72063|AlignEnd=72156|Gloss=PUNCT
+4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=72156|AlignEnd=72249|Gloss=4-|SpaceAfter=No|wordform=ankà
+5	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+6	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=72249|AlignEnd=72342|Gloss=say
+7	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	6	comp:obl	_	AlignBegin=72342|AlignEnd=72435|Gloss=3Masc.Dat
+8	[	[	PUNCT	_	_	9	punct	_	AlignBegin=72435|AlignEnd=72528|Gloss=PUNCT
+9	gàː	gàː	PART	_	PartType=Pred	6	comp:obj	_	AlignBegin=72528|AlignEnd=72621|Gloss=here_is
+10	raːna	raːnaː	NOUN	_	_	9	subj	_	AlignBegin=72621|AlignEnd=72714|Gloss=day.Fem|Poss=Yes|SpaceAfter=No|wordform=raːnakkà
+11	-k	na	PART	_	Case=Gen|PartType=Case	10	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
+12	-kà	-kà	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	comp:obj	_	Gloss=2Masc.Gen
+13	//]	//]	PUNCT	_	_	9	punct	_	AlignBegin=72714|AlignEnd=72807|Gloss=PUNCT
+14	//	//	PUNCT	_	_	6	punct	_	AlignBegin=72807|AlignEnd=72900|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_21-21
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 74860, 78360
+# text = sai yaɗ ɗoːkoː gwàlmaː =tai |c yay yi kwànce-kwancèn kwaːnaː |c yaƙ ƙaːɗàː ta |c tay yi bisà //
+# text_en = Then he took his hoe, lunged and threw it to the sky.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=74860|AlignEnd=75054|Gloss=until
+2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=75054|AlignEnd=75248|Gloss=3Masc-|SpaceAfter=No|wordform=yaɗ
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=ɗ=
+4	ɗoːkoː	ɗauk-	VERB	_	_	0	root	_	AlignBegin=75248|AlignEnd=75442|Gloss=take
+5	gwàlmaː	gwàlmaː	NOUN	_	_	4	comp:obj	_	AlignBegin=75442|AlignEnd=75636|GenderAf=Masc|Gloss=ho|Poss=Yes|SpaceAfter=No|wordfrom=gwàlmaːtai
+6	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+7	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Masc.Gen
+8	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=75636|AlignEnd=75830|Gloss=PUNCT
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=75830|AlignEnd=76024|Gloss=3Masc-|SpaceAfter=No|wordform=yay
+10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
+11	yi	yi	VERB	_	_	4	conj:coord	_	AlignBegin=76024|AlignEnd=76218|Gloss=do
+12	kwànce-kwancèn	kwànce-kwancèn	ADJ	_	_	13	mod	_	AlignBegin=76218|AlignEnd=76412|Gloss=lie_low
+13	kwaːnaː	kwaːn-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	AlignBegin=76412|AlignEnd=76606|Gloss=spend_night.Vnoun.Masc
+14	|c	|c	PUNCT	_	_	17	punct	_	AlignBegin=76606|AlignEnd=76800|Gloss=PUNCT
+15	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=76800|AlignEnd=76994|Gloss=3Masc-|SpaceAfter=No|wordform=yaƙ
+16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=ƙ=
+17	ƙaːɗàː	ƙaːɗ-	VERB	_	_	11	conj:coord	_	AlignBegin=76994|AlignEnd=77188|Gloss=throw
+18	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	17	comp:obj	_	AlignBegin=77188|AlignEnd=77382|Gloss=3Fem
+19	|c	|c	PUNCT	_	_	22	punct	_	AlignBegin=77382|AlignEnd=77576|Gloss=PUNCT
+20	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	AlignBegin=77576|AlignEnd=77770|Gloss=3Fem-|SpaceAfter=No|wordform=tay
+21	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
+22	yi	yi	VERB	_	_	17	conj:coord	_	AlignBegin=77770|AlignEnd=77964|Gloss=do
+23	bisà	bisà	ADV	_	_	22	comp:pred	_	AlignBegin=77964|AlignEnd=78158|Gloss=up
+24	//	//	PUNCT	_	_	4	punct	_	AlignBegin=78158|AlignEnd=78360|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_22-22
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 79920, 85448
+# text = saidà taz=zoː samàː ta bakwài < ta'=îskè mùtûm shi-nàː taːs'à-s saːnìyât tan //
+# text_en = When it reached the seventh sky, it reached the man who was milking the cow.
+1	saidà	saidà	SCONJ	_	_	11	mod	_	AlignBegin=79920|AlignEnd=80266|Gloss=when
+2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=80612|AlignEnd=80958|Gloss=3Fem-|SpaceAfter=No|wordform=taz
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+4	zoː	zoː	VERB	_	_	1	comp:obj	_	AlignBegin=80958|AlignEnd=81304|Gloss=go
+5	samàː	samàː	NOUN	_	Gender=Fem	4	comp:obj@G	_	AlignBegin=81304|AlignEnd=81650|Gloss=sky.Fem
+6	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod	_	AlignBegin=81650|AlignEnd=81996|Gloss=Gen.Fem
+7	bakwài	bakwài	NUM	_	_	6	comp:obj	_	AlignBegin=81996|AlignEnd=82342|Gloss=seven
+8	<	<	PUNCT	_	_	1	punct	_	AlignBegin=82342|AlignEnd=82688|Gloss=PUNCT
+9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=82688|AlignEnd=83034|Gloss=3Fem-|SpaceAfter=No|wordform=ta'
+10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform='=
+11	îskè	isk-	VERB	_	_	0	root	_	AlignBegin=83034|AlignEnd=83380|Gloss=find
+12	mùtûm	mùtunèː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=83380|AlignEnd=83726|Gloss=human.Masc
+13	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=83726|AlignEnd=84072|Gloss=3Masc|SpaceAfter=No
+14	nàː	nàː	AUX	_	Aspect=Prog	11	parataxis@conj	_	AlignBegin=83726|AlignEnd=84072|Copula=Yes|Gloss=Prog|wordform=shinàː
+15	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=84072|AlignEnd=84418|Gloss=milk.Vnoun.Fem|SpaceAfter=No|wordform=taːs'às
+16	-s	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem|wordform=-C
+17	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	AlignBegin=84418|AlignEnd=84764|Gloss=cow.Fem.Def
+18	tan	nan	DET	_	Gender=Fem|PronType=Dem	17	det	_	AlignBegin=84764|AlignEnd=85110|Gloss=PreRef|PreRef=Yes
+19	//	//	PUNCT	_	_	11	punct	_	AlignBegin=85110|AlignEnd=85448|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_24-24
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 92740, 95220
+# text = sa'ànnan sai ankà cêː mà sarkin sarɓaː [ shiː kòː < gàː raːnaː =tai ] //
+# text_en = Then, they told the king of shooting that as for him, this was his day.
+1	sa'ànnan	sa'ànnan	ADV	_	_	5	mod	_	AlignBegin=92740|AlignEnd=92895|Gloss=then
+2	sai	sai	ADV	_	_	5	mod	_	AlignBegin=93050|AlignEnd=93205|Gloss=until
+3	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=93205|AlignEnd=93360|Gloss=4-|SpaceAfter=No|wordform=ankà
+4	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+5	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=93360|AlignEnd=93515|Gloss=say
+6	mà	mà	ADP	_	Case=Dat	5	comp:obl	_	AlignBegin=93515|AlignEnd=93670|Gloss=Dat
+7	sarki	sarkiː	NOUN	_	Gender=Masc	6	comp:obj	_	AlignBegin=93670|AlignEnd=93825|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
+9	sarɓaː	sarɓ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp:obj	_	AlignBegin=93825|AlignEnd=93980|Gloss=lassoo.Vnoun.Fem
+10	[	[	PUNCT	_	_	14	punct	_	AlignBegin=93980|AlignEnd=94135|Gloss=PUNCT
+11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	14	dislocated	_	AlignBegin=94135|AlignEnd=94290|Gloss=3Masc.Nom
+12	kòː	kùwa	PART	_	PartType=Top	11	discourse@top	_	AlignBegin=94290|AlignEnd=94445|Gloss=as_for
+13	<	<	PUNCT	_	_	11	punct	_	AlignBegin=94445|AlignEnd=94600|Gloss=PUNCT
+14	gàː	gàː	PART	_	PartType=Pred	5	comp:obj	_	AlignBegin=94600|AlignEnd=94755|Gloss=here_is
+15	raːnaː	raːnaː	NOUN	_	_	14	subj	_	AlignBegin=94755|AlignEnd=94910|GenderAf=Masc|Gloss=day.Fem|Poss=Yes|SpaceAfter=No|wordfrom=raːnaːtai
+16	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+17	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	16	comp:obj/m	_	Gloss=3Masc.Gen
+18	]	]	PUNCT	_	_	14	punct	_	AlignBegin=94910|AlignEnd=95065|Gloss=PUNCT
+19	//	//	PUNCT	_	_	5	punct	_	AlignBegin=95065|AlignEnd=95220|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_25-25
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 96580, 99900
+# text = shiː kòː < sarki-n sarɓaː < yas=sâː kòːgôn akaihwaː |c duy < yas=sarɓìkkeː su //
+# text_en = Him, the king of shooting, he put a stone on his fingernail and shot them down.
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	dislocated@subj	_	AlignBegin=96580|AlignEnd=96775|Gloss=3Masc.Nom
+2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=96775|AlignEnd=96970|Gloss=as_for
+3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=96970|AlignEnd=97165|Gloss=PUNCT
+4	sarki	sarkiː	NOUN	_	Gender=Masc	10	dislocated@subj	_	AlignBegin=97165|AlignEnd=97360|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
+5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
+6	sarɓaː	sarɓ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=97360|AlignEnd=97555|Gloss=lassoo.Vnoun.Fem
+7	<	<	PUNCT	_	_	4	punct	_	AlignBegin=97555|AlignEnd=97750|Gloss=PUNCT
+8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=97750|AlignEnd=97945|Gloss=3Masc-|SpaceAfter=No|wordform=yas
+9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s=
+10	sâː	sâː	VERB	_	_	0	root	_	AlignBegin=97945|AlignEnd=98140|Gloss=put
+11	kòːgôn	kòːgoː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj@T	_	AlignBegin=98140|AlignEnd=98335|Gloss=stone.Def
+12	akaihwaː	akaihwaː	NOUN	_	Gender=Fem	10	comp:obj@G	_	AlignBegin=98335|AlignEnd=98530|Gloss=nail.Fem
+13	|c	|c	PUNCT	_	_	18	punct	_	AlignBegin=98530|AlignEnd=98725|Gloss=PUNCT
+14	duy	dukà	DET	_	ExtPos=PRON|PronType=Tot	18	mod	_	AlignBegin=98725|AlignEnd=98920|Gloss=all
+15	<	<	PUNCT	_	_	14	punct	_	AlignBegin=98920|AlignEnd=99115|Gloss=PUNCT
+16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	AlignBegin=99115|AlignEnd=99310|Gloss=3Masc-|SpaceAfter=No|wordform=yas
+17	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s=
+18	sarɓìkkeː	sarɓ-	VERB	_	_	10	conj:coord	_	AlignBegin=99310|AlignEnd=99505|Gloss=knock_down
+19	su	su	PRON	_	Number=Plur|Person=3|PronType=Prs	18	comp:obj	_	AlignBegin=99505|AlignEnd=99700|Gloss=3Plur
+20	//	//	PUNCT	_	_	10	punct	_	AlignBegin=99700|AlignEnd=99900|Gloss=PUNCT
+
+# sent_id = HAUA_BC_NARR_03_GMH_27-27
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
+# sent_timecode = 106120, 106800
+# text = kân ƙùrus //= kân kuːsùː //
+# text_en = The end. [Set formula ending a tale.]
+1	kâ	kâi	NOUN	_	Gender=Masc	0	root	_	AlignBegin=106120|AlignEnd=106233|Compound=Yes|Gloss=head.Masc|SpaceAfter=No|wordform=kân
+2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
+3	ƙùrus	X	ADV	_	_	2	comp:obj	_	AlignBegin=106233|AlignEnd=106346|Gloss=X|Ideo=Yes
+4	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=106346|AlignEnd=106459|Gloss=PUNCT|SpaceAfter=No
+5	kâ	kâi	NOUN	_	Gender=Masc	1	parataxis@conj	_	AlignBegin=106459|AlignEnd=106572|Compound=Yes|Gloss=head.Masc|SpaceAfter=No|wordform=kân
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
+7	kuːsùː	kuːsùː	NOUN	_	Gender=Masc	6	comp:obj	_	AlignBegin=106572|AlignEnd=106685|Gloss=mouse.Masc
+8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=106685|AlignEnd=106800|Gloss=PUNCT
+
