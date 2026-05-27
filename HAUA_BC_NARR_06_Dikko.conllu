@@ -1719,7 +1719,7 @@
 3	yànneː	yaːyaː	NOUN	_	_	2	comp:obj	_	Gloss=older_friend.Plur|Poss=Yes|SpaceAfter=No|wordform=yànneːnai|wordfrom=yànneːnai
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 5	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=3Masc.Gen
-6	,	,	PUNCT	_	_	2	comp:obj	_	Gloss=PUNCT
+6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 8	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Plur=|SpaceAfter=No|wordform=sù
 9	iː	iy-	VERB	_	_	0	root	_	Gloss=overcome
@@ -7735,12 +7735,12 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__376
 # text_en = Only one boy knew him somehow .
 # text_ortho = yaːròː gùdaː nàː ad dà àlaːmàsh shì san shì .
-# text = yaːròː gùdaː nàː ad dà àlaːmà-sshì=san -shì.
+# text = yaːròː gùdaː nàː ad dà àlaːmà-sshi-_̀=san -shì.
 1	yaːròː	yaːròː	NOUN	_	Gender=Masc	0	root	_	Gloss=boy.Masc
 2	gùdaː	gùdaː	NUM	_	_	1	det	_	Gloss=one
 3	nàː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Foc|Relative=Yes
-4	ad	neː	AUX	_	_	1	comp:cleft	_	Copula=Yes|Gloss=Ident.Rel|Relative=Yes
-5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
+4	ad	neː	AUX	_	_	1	comp:cleft	_	Copula=Yes|Gloss=Ident.Rel2|Relative=Variante
+5	dà	dà	ADP	_	_	4	comp:pred	_	Gloss=with
 6	àlaːmà	àlaːmàː	NOUN	_	Gender=Fem	5	comp:obj	_	Gloss=sign.Fem|SpaceAfter=No|wordform=àlaːmàsh
 7	-s	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	6	mod/m	_	Gloss=Gen.Fem|SpaceAfter=No
 8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=shì
@@ -8998,7 +8998,7 @@
 5	yaːròː	yaːròː	NOUN	_	Gender=Masc	7	vocative	_	Gloss=boy.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	i	yi	VERB	_	_	0	root	_	Gloss=do.Imp|Imperative=Yes
-8	ta	ta	ADP	_	_	9	mod	_	Gloss=via
+8	ta	ta	ADP	_	_	7	comp:obl	_	Gloss=via
 9	kânka	karɓ-	PRON	_	Gender=Masc|Person=2|PronType=Prs|Reflex=Yes	8	comp:obj	_	Gloss=yourself
 10	!	!	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -12394,12 +12394,12 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__586b
 # text_en = Gilage-Gilage had three cowherds.
 # text_ortho = makyàːyiː ukkù naː ag gà Gilaːgè-Gilaːgè .
-# text = makyàːyiː ukkù naː ag gà Gilaːgè-Gilaːgè .
+# text = makyàːyiː ukkù naː ag gà Gilaːgè-Gilaːgè.
 1	makyàːyiː	makyàːyiː	NOUN	_	Gender=Masc	0	root	_	Gloss=herdsman.Masc
 2	ukkù	ukkù	NUM	_	_	1	det	_	Gloss=three
 3	naː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Foc
-4	ag	neː	AUX	_	_	1	comp:cleft	_	Copula=Yes|Gloss=Ident.Rel|Relative=Yes
-5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=at
+4	ag	neː	AUX	_	_	1	comp:cleft	_	Copula=Yes|Gloss=Ident.Rel2|Relative=Variante
+5	gà	gà	ADP	_	_	4	comp:pred	_	Gloss=at
 6	Gilaːgè-Gilaːgè	Gilaːgè-Gilaːgè	PROPN	_	_	5	comp:obj	_	Gloss=Gilaːgè-Gilaːgè|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
