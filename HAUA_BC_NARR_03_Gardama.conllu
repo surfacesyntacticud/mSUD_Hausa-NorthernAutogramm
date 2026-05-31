@@ -10,7 +10,7 @@
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=2673|AlignEnd=2964|Gloss=PUNCT
 5	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	6	det	_	AlignBegin=2964|AlignEnd=3255|Gloss=some.Plur
 6	mutàːneː	mùtunèː	NOUN	_	Number=Plur	7	comp:pred	_	AlignBegin=3255|AlignEnd=3546|Gloss=human.Plur|wordform=mutàːne
-7	nàː	neː	AUX	_	_	0	root	_	AlignBegin=3546|AlignEnd=3837|Copula=Yes|Gloss=Ident|wordform=nà:
+7	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=3546|AlignEnd=3837|Gloss=Ident|wordform=nà:
 8	>	>	PUNCT	_	_	10	punct	_	AlignBegin=3837|AlignEnd=4128|Gloss=PUNCT
 9	su	su	DET	_	Number=Plur	10	det	_	AlignBegin=4128|AlignEnd=4419|Gloss=Plur
 10	huɗu	huɗu	NUM	_	_	7	dislocated@mod	_	AlignBegin=4419|AlignEnd=4710|Gloss=four
@@ -42,7 +42,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
 # sent_timecode = 85448, 91160
-# text = dà saːnìyaː |c dà mài taːs'àtta |c dà ɗaː-n-tà dà am màːlìye gàreː tà < dut taj= jiːɗoː dà suː //
+# text = dà saːnìyaː |c dà mài taːs'àtta |c dà ɗa-n-tà dà am màːlìye gàreː tà < dut ta-Ø= jiːɗoː dà suː //
 # text_en = The cow, the man who was milking it, and its calf that was following it, it knocked them down.
 1	dà	dà	CCONJ	_	_	2	cc@preconj	_	AlignBegin=85448|AlignEnd=85720|Gloss=and
 2	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	21	dislocated@comp	_	AlignBegin=85720|AlignEnd=85992|Gloss=cow.Fem
@@ -52,11 +52,11 @@
 6	taːs'àtta	taːs'-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	compound	_	AlignBegin=86808|AlignEnd=87080|CaseAf=Gen|GenderAf=Fem|Gloss=milk.Vnoun.Fe-3FemGen|MSeg=taːs'àt-ta|PersonAf=3|Poss=Yes|wordform=taːs'àt
 7	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=87080|AlignEnd=87352|Gloss=PUNCT
 8	dà	dà	CCONJ	_	_	9	cc	_	AlignBegin=87352|AlignEnd=87624|Gloss=and
-9	ɗa	ɗaː	NOUN	_	_	5	compound	_	AlignBegin=87624|AlignEnd=87896|GenderAf=Fem|Gloss=child.Masc|Poss=Yes|SpaceAfter=No|wordform=ɗantà
+9	ɗa	ɗaː	NOUN	_	_	5	compound	_	AlignBegin=87624|AlignEnd=87896|GenderAf=Fem|Gloss=child.Masc|Poss=Yes|RelAnt=Yes|SpaceAfter=No|wordform=ɗantà
 10	-n	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 11	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Fem.Gen
-12	dà	dà	SCONJ	_	_	9	mod@relcl	_	AlignBegin=87896|AlignEnd=88168|Gloss=REL
-13	am	neː	AUX	_	_	12	comp:obj	_	AlignBegin=88168|AlignEnd=88440|Copula=Yes|Gloss=Ident.Rel|Relative=Yes
+12	dà	dà	SCONJ	_	_	9	mod@relcl	_	AlignBegin=87896|AlignEnd=88168|Gloss=CompRel|Relz=Word
+13	am	neː	AUX	_	Copula=Yes	12	comp:obj	_	AlignBegin=88168|AlignEnd=88440|ClauseType=Rel|Gloss=Ident.Rel|Relative=Yes|RelRole=subj
 14	màːlìye	maːliy-	VERB	_	ExtPos=ADV|VerbForm=Part	13	comp:pred	_	AlignBegin=88440|AlignEnd=88712|Gloss=suckle.Part
 15	gàreː	gàreː	ADP	_	_	14	mod	_	AlignBegin=88712|AlignEnd=88984|Gloss=by
 16	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	15	comp:obj	_	AlignBegin=88984|AlignEnd=89256|Gloss=3Fem
@@ -86,7 +86,7 @@
 9	huɗu	huɗu	NUM	_	_	7	det	_	AlignBegin=102450|AlignEnd=102620|Gloss=four
 10	<	<	PUNCT	_	_	6	punct	_	AlignBegin=102620|AlignEnd=102790|Gloss=PUNCT
 11	wanèː	wanèː	PRON	_	Gender=Masc|PronType=Int	12	comp:pred	_	AlignBegin=102790|AlignEnd=102960|Gloss=which.Masc
-12	naː	neː	AUX	_	_	4	comp:obj	_	AlignBegin=102960|AlignEnd=103130|Copula=Yes|Gloss=Ident
+12	naː	neː	AUX	_	Copula=Yes	4	comp:obj	_	AlignBegin=102960|AlignEnd=103130|Gloss=Ident
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=103130|AlignEnd=103300|Gloss=3Masc-|SpaceAfter=No|wordform=yah
 14	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=h=
 15	hi	fi	VERB	_	_	12	comp:cleft	_	AlignBegin=103300|AlignEnd=103470|Gloss=exceed
@@ -103,14 +103,14 @@
 # text = a- nà ta gardamà-s-su //= a- nàː gardamà-s-su //
 # text_en = People keep comparing them.
 1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	AlignBegin=6220|AlignEnd=6443|Gloss=4|SpaceAfter=No
-2	nà	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=6220|AlignEnd=6443|Copula=Yes|Gloss=Prog|wordform=anàː
+2	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=6220|AlignEnd=6443|Gloss=Prog|wordform=anàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=6443|AlignEnd=6666|Gloss=Iter
 4	gardamà	gardamàː	NOUN	_	_	2	comp:pred	_	AlignBegin=6666|AlignEnd=6889|Gloss=comparing.Fem|SpaceAfter=No|wordform=gardamàssu
 5	-s	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	comp:obj/m	_	Gloss=3Plur.Gen
 7	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=6889|AlignEnd=7112|Gloss=PUNCT|SpaceAfter=No
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=7112|AlignEnd=7335|Gloss=4|SpaceAfter=No
-9	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis	_	AlignBegin=7112|AlignEnd=7335|Copula=Yes|Gloss=Prog|wordform=anàː
+9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis	_	AlignBegin=7112|AlignEnd=7335|Gloss=Prog|wordform=anàː
 10	gardamà	gardamàː	NOUN	_	_	9	comp:pred	_	AlignBegin=7335|AlignEnd=7558|Gloss=comparing.Fem|SpaceAfter=No|wordform=gardamàssu
 11	-s	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 12	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	comp:obj/m	_	Gloss=3Plur.Gen
@@ -153,12 +153,12 @@
 # text_en = OK, then, one day, they came and told them "Eh, one of the king's cows has got lost."
 1	shiːkèːnan	shiːkèːnan	INTJ	_	_	16	discourse	_	AlignBegin=17244|AlignEnd=17418|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=17418|AlignEnd=17592|Gloss=PUNCT
-3	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17592|AlignEnd=17766|Copula=Yes|Gloss=3Plur|SpaceAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog	16	mod	_	AlignBegin=17592|AlignEnd=17766|Copula=Yes|Gloss=Prog|wordform=su
+3	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17592|AlignEnd=17766|Gloss=3Plur|SpaceAfter=No
+4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	16	mod	_	AlignBegin=17592|AlignEnd=17766|Gloss=Prog|wordform=su
 5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	comp:pred	_	AlignBegin=17766|AlignEnd=17940|Gloss=PreRef|PreRef=Yes
 6	|r	|r	PUNCT	_	_	8	punct	_	AlignBegin=17940|AlignEnd=18114|Gloss=PUNCT
-7	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=18114|AlignEnd=18288|Copula=Yes|Gloss=3Plur|SpaceAfter=No
-8	nàː	nàː	AUX	_	Aspect=Prog	4	conj:redup	_	AlignBegin=18114|AlignEnd=18288|Copula=Yes|Gloss=Prog|wordform=su
+7	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=18114|AlignEnd=18288|Gloss=3Plur|SpaceAfter=No
+8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	conj:redup	_	AlignBegin=18114|AlignEnd=18288|Gloss=Prog|wordform=su
 9	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	comp:pred	_	AlignBegin=18288|AlignEnd=18462|Gloss=PreRef|PreRef=Yes
 10	<	<	PUNCT	_	_	4	punct	_	AlignBegin=18462|AlignEnd=18636|Gloss=PUNCT
 11	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	16	mod	_	AlignBegin=18636|AlignEnd=18810|Gloss=day.Fem.Def
@@ -174,13 +174,13 @@
 21	[	[	PUNCT	_	_	23	punct	_	AlignBegin=20028|AlignEnd=20202|Gloss=PUNCT
 22	ai	ai	INTJ	_	_	23	discourse	_	AlignBegin=20202|AlignEnd=20376|Gloss=eh!
 23	àkwai	àkwai	PART	_	PartType=Pred	19	comp:obj	_	AlignBegin=20376|AlignEnd=20550|Gloss=there_is
-24	saːnìya	saːnìyaː	NOUN	_	Gender=Fem	23	subj	_	AlignBegin=20550|AlignEnd=20724|Gloss=cow.Fem..Fem|SpaceAfter=No|wordform=saːnìyas
+24	saːnìya	saːnìyaː	NOUN	_	Gender=Fem	23	subj	_	AlignBegin=20550|AlignEnd=20724|Gloss=cow.Fem..Fem|RelAnt=Yes|SpaceAfter=No|wordform=saːnìyas
 25	-s	na	PART	_	Case=Gen|PartType=Case	24	udep/m	_	Gloss=Gen.Fem|wordform=-C
 26	sarkiː	sarkiː	NOUN	_	Gender=Masc	25	comp:obj	_	AlignBegin=20724|AlignEnd=20898|Gloss=king.Masc
-27	dà	dà	SCONJ	_	_	24	mod@relcl	_	AlignBegin=20898|AlignEnd=21072|Gloss=REL
+27	dà	dà	SCONJ	_	_	24	mod@relcl	_	AlignBegin=20898|AlignEnd=21072|Gloss=CompRel|Relz=Word
 28	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	AlignBegin=21072|AlignEnd=21246|Gloss=3Fem-|SpaceAfter=No|wordform=taɓ
 29	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=ɓ=
-30	ɓacèː	ɓat-	VERB	_	_	27	comp:obj	_	AlignBegin=21246|AlignEnd=21420|Gloss=get_lost
+30	ɓacèː	ɓat-	VERB	_	_	27	comp:obj	_	AlignBegin=21246|AlignEnd=21420|ClauseType=Rel|Gloss=get_lost|RelRole=subj
 31	//]	//]	PUNCT	_	_	23	punct	_	AlignBegin=21420|AlignEnd=21594|Gloss=PUNCT
 32	//	//	PUNCT	_	_	16	punct	_	AlignBegin=21594|AlignEnd=21780|Gloss=PUNCT
 
@@ -315,8 +315,8 @@
 5	cikin	cikin	ADP	_	_	4	comp:obl	_	AlignBegin=39662|AlignEnd=39896|Gloss=in
 6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp:obj	_	AlignBegin=39896|AlignEnd=40130|Gloss=water.Plur
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40130|AlignEnd=40364|Gloss=PUNCT
-8	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=40598|AlignEnd=40832|Copula=Yes|Gloss=3Masc|SpaceAfter=No
-9	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=40598|AlignEnd=40832|Copula=Yes|Gloss=Prog|wordform=shi
+8	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=40598|AlignEnd=40832|Gloss=3Masc|SpaceAfter=No
+9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=40598|AlignEnd=40832|Gloss=Prog|wordform=shi
 10	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	AlignBegin=40832|AlignEnd=41066|Gloss=follow.Part
 11	dà	dà	ADP	_	_	10	comp:obl	_	AlignBegin=41066|AlignEnd=41300|Gloss=with
 12	shìga	shìgaː	NOUN	_	_	11	comp:obj	_	AlignBegin=41300|AlignEnd=41534|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
@@ -339,8 +339,8 @@
 7	bi	bi	VERB	_	_	3	parataxis@conj	_	AlignBegin=42322|AlignEnd=42462|Gloss=follow
 8	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=42462|AlignEnd=42602|Gloss=stone.Masc
 9	<	<	PUNCT	_	_	3	punct	_	AlignBegin=42602|AlignEnd=42742|Gloss=PUNCT
-10	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=42742|AlignEnd=42882|Copula=Yes|Gloss=3Masc|SpaceAfter=No
-11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=42742|AlignEnd=42882|Copula=Yes|Gloss=Prog|wordform=shi
+10	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=42742|AlignEnd=42882|Gloss=3Masc|SpaceAfter=No
+11	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=42742|AlignEnd=42882|Gloss=Prog|wordform=shi
 12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	AlignBegin=42882|AlignEnd=43022|Gloss=follow.Part
 13	dà	dà	ADP	_	_	12	comp:obl	_	AlignBegin=43022|AlignEnd=43162|Gloss=with
 14	shìga	shìgaː	NOUN	_	_	13	comp:obj	_	AlignBegin=43162|AlignEnd=43302|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
@@ -492,7 +492,7 @@
 6	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Sing
 7	ji	ji	VERB	_	_	4	comp:obj	_	AlignBegin=64272|AlignEnd=64435|Gloss=hear
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=64435|AlignEnd=64598|Gloss=4|SpaceAfter=No
-9	nàː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	AlignBegin=64435|AlignEnd=64598|Copula=Yes|Gloss=Prog|wordform=anàː
+9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:obj	_	AlignBegin=64435|AlignEnd=64598|Gloss=Prog|wordform=anàː
 10	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:pred	_	AlignBegin=64598|AlignEnd=64761|Gloss=milk.Vnoun.Fem|SpaceAfter=No|wordform=taːs'às
 11	-s	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem|wordform=-C
 12	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	11	comp:obj	_	AlignBegin=64761|AlignEnd=64924|Gloss=cow.Fem.Def
@@ -585,7 +585,7 @@
 11	îskè	isk-	VERB	_	_	0	root	_	AlignBegin=83034|AlignEnd=83380|Gloss=find
 12	mùtûm	mùtunèː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=83380|AlignEnd=83726|Gloss=human.Masc
 13	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=83726|AlignEnd=84072|Gloss=3Masc|SpaceAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog	11	parataxis@conj	_	AlignBegin=83726|AlignEnd=84072|Copula=Yes|Gloss=Prog|wordform=shinàː
+14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	parataxis@conj	_	AlignBegin=83726|AlignEnd=84072|Gloss=Prog|wordform=shinàː
 15	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=84072|AlignEnd=84418|Gloss=milk.Vnoun.Fem|SpaceAfter=No|wordform=taːs'às
 16	-s	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem|wordform=-C
 17	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	AlignBegin=84418|AlignEnd=84764|Gloss=cow.Fem.Def

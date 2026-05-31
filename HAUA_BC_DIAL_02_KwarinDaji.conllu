@@ -2,12 +2,12 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_02.WAV
 # sent_timecode = 3700, 12120
-# text = tô lokàcin dà à~ àkwai { ƙwàːri-n daːjìː || ƙwàːriː dai } cikin ràːhîn nan < ƙàːƙàː naː mutàːneː su-kè zàmne ?//
+# text = tô lokàcin dà aʔ àkwai { ƙwàːri-n daːjìː || ƙwàːriː dai } cikin ràːhîn nan < ƙàːƙàː naː mutàːneː su-kè zàmne ?//
 # text_en = Well, when there were wild animals, wild animals in that valley, how did people live?
 1	tô	tô	INTJ	_	_	19	discourse	_	AlignBegin=3700|AlignEnd=4066|Gloss=well
-2	lokàcin	lokàciː	NOUN	_	Definite=Def|Gender=Masc	19	mod	_	AlignBegin=4066|AlignEnd=4432|Gloss=time.Def
-3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=4432|AlignEnd=4798|Gloss=REL
-4	à~	àkwai	PART	_	PartType=Pred	3	comp:obj	_	AlignBegin=4798|AlignEnd=5164|Gloss=there_is
+2	lokàcin	lokàciː	NOUN	_	Definite=Def|Gender=Masc	19	mod	_	AlignBegin=4066|AlignEnd=4432|Gloss=time.Def|RelAnt=Yes
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=4432|AlignEnd=4798|Gloss=CompRel|Relz=Word
+4	aʔ	neː	AUX	_	Copula=Yes	3	comp:obj	_	AlignBegin=4798|AlignEnd=5164|ClauseType=Rel|Gloss=be.Pred.Rel2|RelRole=mod
 5	àkwai	àkwai	PART	_	PartType=Pred	4	conj:dicto	_	AlignBegin=5164|AlignEnd=5530|Gloss=there_is
 6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=5530|AlignEnd=5896|Gloss=PUNCT
 7	ƙwàːri	ƙwaːròː	NOUN	_	Number=Plur	5	subj	_	AlignBegin=5896|AlignEnd=6262|Gloss=animal.Plur|SpaceAfter=No|wordform=ƙwàːrin
@@ -22,10 +22,10 @@
 16	nan	nan	DET	_	Deixis=ProxH	15	det	_	AlignBegin=8458|AlignEnd=8824|Gloss=PreRef|PreRef=Yes
 17	<	<	PUNCT	_	_	2	punct	_	AlignBegin=9190|AlignEnd=9556|Gloss=PUNCT
 18	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	19	comp:pred	_	AlignBegin=9556|AlignEnd=9922|Gloss=how
-19	naː	neː	AUX	_	_	0	root	_	AlignBegin=9922|AlignEnd=10288|Copula=Yes|Gloss=Ident
+19	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=9922|AlignEnd=10288|Gloss=Ident
 20	mutàːneː	mùtunèː	NOUN	_	Number=Plur	22	subj	_	AlignBegin=10288|AlignEnd=10654|Gloss=human.Plur
-21	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj/m	_	AlignBegin=10654|AlignEnd=11020|Copula=Yes|Gloss=3Plur|SpaceAfter=No
-22	kè	nàː	AUX	_	Aspect=Prog	19	comp:cleft	_	AlignBegin=10654|AlignEnd=11020|Copula=Yes|Gloss=Prog.Rel2|Relative=Variante
+21	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	22	subj/m	_	AlignBegin=10654|AlignEnd=11020|Gloss=3Plur|SpaceAfter=No
+22	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:cleft	_	AlignBegin=10654|AlignEnd=11020|Gloss=Prog.Rel2|Relative=Variante
 23	zàmne	zamn-	VERB	_	VerbForm=Part|Voice=Stat	22	comp:pred	_	AlignBegin=11386|AlignEnd=11752|Gloss=stay/sit.Stat
 24	?//	?//	PUNCT	_	_	19	punct	_	AlignBegin=11752|AlignEnd=12120|Gloss=PUNCT
 
@@ -65,7 +65,7 @@
 # text = ta- nàː ta kiːyòː ?//
 # text_en = Were they browsing?
 1	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=111445|AlignEnd=111617|Gloss=3Fem|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=111445|AlignEnd=111617|Copula=Yes|Gloss=Prog|wordform=tanàː
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=111445|AlignEnd=111617|Gloss=Prog|wordform=tanàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=111617|AlignEnd=111789|Gloss=Iter
 4	kiːyòː	kiːyòː	NOUN	_	Gender=Masc	2	comp:pred	_	AlignBegin=111789|AlignEnd=111961|Gloss=grazing.Masc
 5	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=111961|AlignEnd=112135|Gloss=PUNCT
@@ -81,7 +81,7 @@
 3	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=133326|AlignEnd=133509|Gloss=Emph
 4	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	5	subj/m	_	AlignBegin=133509|AlignEnd=133692|Gloss=2Plur|SpaceAfter=No
 5-6	kukài	_	_	_	_	_	_	_	_
-5	kà	nàː	AUX	_	Aspect=Prog	2	comp:cleft	_	AlignBegin=133509|AlignEnd=133692|Copula=Yes|Gloss=Prog.Rel|Relative=Yes|wordform=kukà
+5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:cleft	_	AlignBegin=133509|AlignEnd=133692|Gloss=Prog.Rel|Relative=Yes|wordform=kukà
 6	yi	yi	VERB	_	_	5	comp:pred	_	AlignBegin=133509|AlignEnd=133692|Gloss=do
 7	mà	mà	ADP	_	Case=Dat	6	comp:obl	_	AlignBegin=133692|AlignEnd=133875|Gloss=Dat
 8	bisàː	bisàː	NOUN	_	_	7	comp:obj	_	AlignBegin=133875|AlignEnd=134058|Gloss=animal
@@ -94,9 +94,9 @@
 # text = ƙàːƙàː naː ku-kà àːgìzo-n-ta ?//
 # text_en = How did you keep watch on them?
 1	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	2	comp:pred	_	AlignBegin=135140|AlignEnd=135308|Gloss=how
-2	naː	neː	AUX	_	_	0	root	_	AlignBegin=135308|AlignEnd=135476|Copula=Yes|Gloss=Ident
+2	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=135308|AlignEnd=135476|Gloss=Ident
 3	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj/m	_	AlignBegin=135476|AlignEnd=135644|Gloss=2Plur|SpaceAfter=No
-4	kà	nàː	AUX	_	Aspect=Prog	2	comp:cleft	_	AlignBegin=135476|AlignEnd=135644|Copula=Yes|Gloss=Prog.Rel|Relative=Yes|wordform=kukà
+4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp:cleft	_	AlignBegin=135476|AlignEnd=135644|Gloss=Prog.Rel|Relative=Yes|wordform=kukà
 5	àːgìzo	aːgiz-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=135644|AlignEnd=135812|Gloss=watch.Vnoun.Masc|SpaceAfter=No|wordform=àːgìzonta
 6	-n	-n	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-ta	-ta	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	Gloss=3Fem.Gen
@@ -200,7 +200,7 @@
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=254899|AlignEnd=255048|Gloss=PUNCT
 3	su	su	DET	_	Number=Plur	4	det	_	AlignBegin=255048|AlignEnd=255197|Gloss=Plur
 4	Isshìhi	Isshìhi	PROPN	_	_	5	comp:pred	_	AlignBegin=255197|AlignEnd=255346|Gloss=Isshihi
-5	nàː	neː	AUX	_	_	0	root	_	AlignBegin=255346|AlignEnd=255495|Copula=Yes|Gloss=Ident
+5	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=255346|AlignEnd=255495|Gloss=Ident
 6	>+	>+	PUNCT	_	_	9	punct	_	AlignBegin=255495|AlignEnd=255644|Gloss=PUNCT
 7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=255644|AlignEnd=255793|Gloss=1Sing-|SpaceAfter=No|wordform=nis
 8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s=
@@ -226,9 +226,9 @@
 # text_en = He held her down on his own, did he?
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	comp:pred	_	AlignBegin=475515|AlignEnd=475666|Gloss=3Masc.Nom
 2	ɗai	ɗai	NUM	_	_	1	mod	_	AlignBegin=475666|AlignEnd=475817|Gloss=one
-3	nàː	neː	AUX	_	_	0	root	_	AlignBegin=475817|AlignEnd=475968|Copula=Yes|Gloss=Ident
+3	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=475817|AlignEnd=475968|Gloss=Ident
 4	>+	>+	PUNCT	_	_	5	punct	_	AlignBegin=475968|AlignEnd=476119|Gloss=PUNCT
-5	at	neː	AUX	_	_	3	comp:cleft	_	AlignBegin=476119|AlignEnd=476270|Copula=Yes|Gloss=Ident.Rel|Relative=Yes
+5	at	neː	AUX	_	Copula=Yes	3	comp:cleft	_	AlignBegin=476119|AlignEnd=476270|Gloss=Ident.Rel|Relative=Yes
 6	tàushe	taus-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	5	comp:pred	_	AlignBegin=476270|AlignEnd=476421|Gloss=tackle.Part
 7	dà	dà	ADP	_	_	6	comp:obl	_	AlignBegin=476421|AlignEnd=476572|Gloss=with
 8	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=476572|AlignEnd=476723|Gloss=3Fem.Nom
