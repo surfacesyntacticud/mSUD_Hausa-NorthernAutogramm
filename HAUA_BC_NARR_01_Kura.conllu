@@ -160,8 +160,8 @@
 25	ciː	ci	VERB	_	_	22	comp:obj	_	AlignBegin=35627|AlignEnd=35818|Gloss=eat/conquer
 26	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	AlignBegin=35818|AlignEnd=36009|Gloss=3Masc
 27	har	har	ADV	_	_	30	mod	_	AlignBegin=36009|AlignEnd=36200|Gloss=then
-28	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	30	subj/m	_	AlignBegin=36200|AlignEnd=36391|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-29	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+28	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	30	subj/m	_	AlignBegin=36200|AlignEnd=36391|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+29	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 30	kai	kaːy-	VERB	_	_	20	parataxis@conj	_	AlignBegin=36391|AlignEnd=36582|Gloss=carry
 31	gà	gà	ADP	_	_	30	comp:obl	_	AlignBegin=36582|AlignEnd=36773|Gloss=by
 32	bàːki	bàːkiː	NOUN	_	Gender=Masc	31	comp:obj	_	AlignBegin=36773|AlignEnd=36964|Compound=Yes|Gloss=mouth.Masc|SpaceAfter=No|wordform=bàːkin
@@ -638,9 +638,9 @@
 # text = sai sunkài [ ìnaː shi- kè ?// ]
 # text_en = Then they said "Where is he?"
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=115840|AlignEnd=115963|Gloss=until
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=115963|AlignEnd=116086|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=115963|AlignEnd=116086|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3-4	nkà=	_	_	_	_	_	_	_	_
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yi	yi	VERB	_	_	0	root	_	AlignBegin=115963|AlignEnd=116086|Gloss=do
 5	[	[	PUNCT	_	_	6	punct	_	AlignBegin=116086|AlignEnd=116209|Gloss=PUNCT
 6	ìnaː	ìnaː	ADV	_	PronType=Int	4	comp:obj	_	AlignBegin=116209|AlignEnd=116332|Gloss=where
@@ -674,8 +674,8 @@
 # text = sai sunkà= yoː ridididiː > zakkùwaː indà shi- kè //
 # text_en = Then they went running to where he was.
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=117479|AlignEnd=117651|Gloss=until
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=117651|AlignEnd=117823|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=117651|AlignEnd=117823|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yoː	yi	VERB	_	_	0	root	_	AlignBegin=117823|AlignEnd=117995|Gloss=do
 5	ridididiː	ridididiː	ADV	_	_	4	mod	_	AlignBegin=117995|AlignEnd=118167|Gloss=running|Ideo=Yes
 6	>	>	PUNCT	_	_	7	punct	_	AlignBegin=118167|AlignEnd=118339|Gloss=PUNCT
@@ -737,8 +737,8 @@
 # text = koːdà sunkà= kaːwoː indà shi- kè < dus sun= hwaːɗì |c sun= kariːrìyeː //
 # text_en = As soon as they arrived where he was, they all fell down and broke into pieces.
 1	koːdà	koːdà	SCONJ	_	_	12	discourse	_	AlignBegin=126420|AlignEnd=126527|Gloss=just_as
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=126634|AlignEnd=126741|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=126634|AlignEnd=126741|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	kaːwoː	kaːy-	VERB	_	_	1	comp:obj	_	AlignBegin=126741|AlignEnd=126848|Gloss=reach
 5	indà	indà	ADV	_	PronType=Rel	4	comp:obj@L	_	AlignBegin=126848|AlignEnd=126955|Gloss=where
 6	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=127062|AlignEnd=127169|Gloss=3Masc|SpaceAfter=No

@@ -22,8 +22,8 @@
 # sent_timecode = 67980, 70020
 # text = ankà cêː yànzu sai à zoː à biɗoː sarkin jiːhwàː //
 # text_en = They said that now, they needed to get the king of aiming.
-1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=67980|AlignEnd=68165|Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=67980|AlignEnd=68165|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=68165|AlignEnd=68350|Gloss=say
 4	yànzu	yànzu	ADV	_	_	8	mod	_	AlignBegin=68350|AlignEnd=68535|Gloss=now
 5	sai	sai	ADV	_	_	8	mod	_	AlignBegin=68535|AlignEnd=68720|Gloss=then
@@ -76,8 +76,8 @@
 # text = tôː ankà cêː [ cikin mutàːnên ga huɗu < wanèː naː yah hi àbin màːmaːkiː ?//] //
 # text_en = Well they said "Beteween these four people, who is the most amazing?"
 1	tôː	tôː	INTJ	_	_	4	discourse	_	AlignBegin=101260|AlignEnd=101430|Gloss=well
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=101430|AlignEnd=101600|Gloss=4-|SpaceAfter=No|wordform=ankà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=101430|AlignEnd=101600|Gloss=4-|SpaceAfter=No|wordform=ankà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=101600|AlignEnd=101770|Gloss=say
 5	[	[	PUNCT	_	_	12	punct	_	AlignBegin=101770|AlignEnd=101940|Gloss=PUNCT
 6	cikin	cikin	ADP	_	_	12	mod	_	AlignBegin=101940|AlignEnd=102110|Gloss=in
@@ -164,11 +164,11 @@
 11	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	16	mod	_	AlignBegin=18636|AlignEnd=18810|Gloss=day.Fem.Def
 12	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	11	det	_	AlignBegin=18810|AlignEnd=18984|Gloss=PreRef|PreRef=Yes
 13	sai	sai	ADV	_	_	16	mod	_	AlignBegin=18984|AlignEnd=19158|Gloss=until
-14	a-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	AlignBegin=19158|AlignEnd=19332|Gloss=4-|SpaceAfter=No|wordform=ankà
-15	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+14	an-	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	AlignBegin=19158|AlignEnd=19332|Gloss=4-|SpaceAfter=No|wordform=ankà
+15	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 16	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=19332|AlignEnd=19506|Gloss=arrive
-17	a-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	AlignBegin=19506|AlignEnd=19680|Gloss=4-|SpaceAfter=No|wordform=ankà
-18	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+17	an-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	AlignBegin=19506|AlignEnd=19680|Gloss=4-|SpaceAfter=No|wordform=ankà
+18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 19	cêː	cêː	VERB	_	_	16	conj:coord	_	AlignBegin=19680|AlignEnd=19854|Gloss=say
 20	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	19	comp:obl	_	AlignBegin=19854|AlignEnd=20028|Gloss=3Plur.Dat
 21	[	[	PUNCT	_	_	23	punct	_	AlignBegin=20028|AlignEnd=20202|Gloss=PUNCT
@@ -217,8 +217,8 @@
 # sent_timecode = 27500, 29740
 # text = ankà zoː sarkin bìyash shìgaː |c ankà cêː [ gàː raːnak =kà //] //
 # text_en = They went to the king of tracking and told him "This is your day."
-1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=27500|AlignEnd=27672|Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=27500|AlignEnd=27672|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=27672|AlignEnd=27844|Gloss=go
 4	sarki	sarkiː	NOUN	_	Gender=Masc	3	comp:obj@G	_	AlignBegin=27844|AlignEnd=28016|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
@@ -226,8 +226,8 @@
 7	-s	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Fem|wordform=-C
 8	shìgaː	shìgaː	NOUN	_	Gender=Fem	7	comp:obj	_	AlignBegin=28188|AlignEnd=28360|Gloss=track.Fem
 9	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=28360|AlignEnd=28532|Gloss=PUNCT
-10	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=28532|AlignEnd=28704|Gloss=4-|SpaceAfter=No|wordform=ankà
-11	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+10	an-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=28532|AlignEnd=28704|Gloss=4-|SpaceAfter=No|wordform=ankà
+11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 12	cêː	cêː	VERB	_	_	3	conj:coord	_	AlignBegin=28704|AlignEnd=28876|Gloss=say
 13	[	[	PUNCT	_	_	14	punct	_	AlignBegin=28876|AlignEnd=29048|Gloss=PUNCT
 14	gàː	gàː	PART	_	PartType=Pred	12	comp:obj	_	AlignBegin=29048|AlignEnd=29220|Gloss=here_is
@@ -243,8 +243,8 @@
 # sent_timecode = 30160, 31640
 # text = ankà gwadàː mai turkèn saːnìyaː //
 # text_en = They showed him the tethering post of the cow.
-1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=30160|AlignEnd=30407|Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=30160|AlignEnd=30407|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	gwadàː	gwad-	VERB	_	_	0	root	_	AlignBegin=30407|AlignEnd=30654|Gloss=show
 4	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=30654|AlignEnd=30901|Gloss=3Masc.Dat
 5	turkèn	turkèː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	AlignBegin=30901|AlignEnd=31148|Gloss=tethering_post.Masc
@@ -366,8 +366,8 @@
 10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s'=
 11	s'ayàː	s'ay-	VERB	_	_	4	conj:coord	_	AlignBegin=45892|AlignEnd=46081|Gloss=stop
 12	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=46081|AlignEnd=46270|Gloss=PUNCT
-13	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	AlignBegin=46270|AlignEnd=46459|Gloss=4-|SpaceAfter=No|wordform=ankà
-14	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+13	an-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	AlignBegin=46270|AlignEnd=46459|Gloss=4-|SpaceAfter=No|wordform=ankà
+14	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 15	cèː	cêː	VERB	_	_	11	conj:coord	_	AlignBegin=46459|AlignEnd=46648|Gloss=say
 16	[	[	PUNCT	_	_	28	punct	_	AlignBegin=46648|AlignEnd=46837|Gloss=PUNCT
 17	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	28	mod	_	AlignBegin=46837|AlignEnd=47026|Gloss=place.Masc.Def
@@ -379,9 +379,9 @@
 23	saːnìyâg	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	28	dislocated@comp	_	AlignBegin=47971|AlignEnd=48160|Gloss=cow.Fem.Def
 24	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	23	det	_	AlignBegin=48160|AlignEnd=48349|Gloss=ProxS
 25	<	<	PUNCT	_	_	23	punct	_	AlignBegin=48349|AlignEnd=48538|Gloss=PUNCT
-26	a-	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	AlignBegin=48538|AlignEnd=48727|Gloss=4-|SpaceAfter=No|wordform=ankà
+26	an-	a	PRON	_	Person=4|PronType=PrsSubj	28	subj/m	_	AlignBegin=48538|AlignEnd=48727|Gloss=4-|SpaceAfter=No|wordform=ankà
 27-28	nkà=	_	_	_	_	_	_	_	_
-27	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+27	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	28	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 28	yi	yi	VERB	_	_	15	comp:obj	_	AlignBegin=48538|AlignEnd=48727|Gloss=do
 29	bisà	bisà	ADV	_	_	28	comp:pred	_	AlignBegin=48727|AlignEnd=48916|Gloss=up
 30	dà	dà	ADP	_	_	28	comp:obl	_	AlignBegin=48916|AlignEnd=49105|Gloss=with
@@ -396,9 +396,9 @@
 # text = kóːkòːindà ankà yi dà ita < àmmaː dàw wurîn ga < bàtà wucèː ba //
 # text_en = Wherever they have taken it, from here, it has stopped moving.
 1	kóːkòːindà	kóːkòːindà	ADV	_	PronType=Rel	15	mod	_	AlignBegin=49669|AlignEnd=49824|Gloss=wherever
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=49824|AlignEnd=49979|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=49824|AlignEnd=49979|Gloss=4-|SpaceAfter=No|wordform=ankà
 3-4	nkà=	_	_	_	_	_	_	_	_
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	yi	yi	VERB	_	_	1	mod@relcl	_	AlignBegin=49824|AlignEnd=49979|Gloss=do
 5	dà	dà	ADP	_	_	4	comp:obl	_	AlignBegin=49979|AlignEnd=50134|Gloss=with
 6	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=50134|AlignEnd=50289|Gloss=3Fem.Nom
@@ -421,9 +421,9 @@
 # text = sa'ànnan ankà cêː mà sarkin sauraːreː [ tôː kai < gàː raːnak =kà //] //
 # text_en = Then, they told the king of listening "Well, you, this is your day."
 1	sa'ànnan	sa'ànnan	ADV	_	_	4	mod	_	AlignBegin=53280|AlignEnd=53437|Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=53594|AlignEnd=53751|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=53594|AlignEnd=53751|Gloss=4-|SpaceAfter=No|wordform=ankà
 3-4	nkà=	_	_	_	_	_	_	_	_
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=53751|AlignEnd=53908|Gloss=say
 5	mà	mà	ADP	_	Case=Dat	4	comp:obl	_	AlignBegin=53908|AlignEnd=54065|Gloss=Dat
 6	sarki	sarkiː	NOUN	_	Gender=Masc	5	comp:obj	_	AlignBegin=54065|AlignEnd=54222|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin
@@ -467,8 +467,8 @@
 19	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	18	det	_	AlignBegin=60224|AlignEnd=60490|Gloss=PreRef|PreRef=Yes
 20	||	||	PUNCT	_	_	21	punct	_	AlignBegin=60490|AlignEnd=60756|Gloss=PUNCT
 21	indà	indà	ADV	_	PronType=Rel	17	conj:dicto	_	AlignBegin=60490|AlignEnd=60756|Gloss=where
-22	a-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	AlignBegin=60756|AlignEnd=61022|Gloss=4-|SpaceAfter=No|wordform=ankà
-23	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+22	an-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	AlignBegin=60756|AlignEnd=61022|Gloss=4-|SpaceAfter=No|wordform=ankà
+23	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 24	cêː	cêː	VERB	_	_	21	mod@relcl	_	AlignBegin=61022|AlignEnd=61288|Gloss=say
 25	shìga	shìgaː	NOUN	_	_	30	subj	_	AlignBegin=61288|AlignEnd=61554|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
 26	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
@@ -508,8 +508,8 @@
 # sent_timecode = 71040, 71874
 # text = ankà kaːwoː shì //
 # text_en = They brought him.
-1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=71040|AlignEnd=71248|Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=71040|AlignEnd=71248|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	kaːwoː	kaːy-	VERB	_	_	0	root	_	AlignBegin=71248|AlignEnd=71456|Gloss=carry
 4	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=71456|AlignEnd=71664|Gloss=3Masc
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=71664|AlignEnd=71874|Gloss=PUNCT
@@ -523,8 +523,8 @@
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	discourse	_	AlignBegin=71877|AlignEnd=71970|Gloss=3Masc.Nom
 2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=71970|AlignEnd=72063|Gloss=as_for
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=72063|AlignEnd=72156|Gloss=PUNCT
-4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=72156|AlignEnd=72249|Gloss=4-|SpaceAfter=No|wordform=ankà
-5	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+4	an-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=72156|AlignEnd=72249|Gloss=4-|SpaceAfter=No|wordform=ankà
+5	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 6	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=72249|AlignEnd=72342|Gloss=say
 7	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	6	comp:obl	_	AlignBegin=72342|AlignEnd=72435|Gloss=3Masc.Dat
 8	[	[	PUNCT	_	_	9	punct	_	AlignBegin=72435|AlignEnd=72528|Gloss=PUNCT
@@ -600,8 +600,8 @@
 # text_en = Then, they told the king of shooting that as for him, this was his day.
 1	sa'ànnan	sa'ànnan	ADV	_	_	5	mod	_	AlignBegin=92740|AlignEnd=92895|Gloss=then
 2	sai	sai	ADV	_	_	5	mod	_	AlignBegin=93050|AlignEnd=93205|Gloss=until
-3	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=93205|AlignEnd=93360|Gloss=4-|SpaceAfter=No|wordform=ankà
-4	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+3	an-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=93205|AlignEnd=93360|Gloss=4-|SpaceAfter=No|wordform=ankà
+4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 5	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=93360|AlignEnd=93515|Gloss=say
 6	mà	mà	ADP	_	Case=Dat	5	comp:obl	_	AlignBegin=93515|AlignEnd=93670|Gloss=Dat
 7	sarki	sarkiː	NOUN	_	Gender=Masc	6	comp:obj	_	AlignBegin=93670|AlignEnd=93825|Compound=Yes|Gloss=king.Masc|SpaceAfter=No|wordform=sarkin

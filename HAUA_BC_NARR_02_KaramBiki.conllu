@@ -194,8 +194,8 @@
 4	soː	soː	VERB	_	_	1	comp:obj	_	AlignBegin=40468|AlignEnd=40634|Gloss=want
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40634|AlignEnd=40800|Gloss=PUNCT
 6	in	in	SCONJ	_	_	13	mod	_	AlignBegin=40800|AlignEnd=40966|Gloss=if|wordform=im
-7	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=40966|AlignEnd=41132|Gloss=1Plur-|SpaceAfter=No|wordform=munkà
-8	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+7	mun-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=40966|AlignEnd=41132|Gloss=1Plur-|SpaceAfter=No|wordform=munkà
+8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 9	zoː	zoː	VERB	_	_	6	comp:obj	_	AlignBegin=41132|AlignEnd=41298|Gloss=go
 10	<	<	PUNCT	_	_	6	punct	_	AlignBegin=41298|AlignEnd=41464|Gloss=PUNCT
 11	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	13	subj/m	_	AlignBegin=41464|AlignEnd=41630|Gloss=2Masc|SpaceAfter=No|wordform=kà
@@ -843,8 +843,8 @@
 # text = sai sunkà tàːru //
 # text_en = Then they gathered.
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=169381|AlignEnd=169620|Gloss=until
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=169620|AlignEnd=169859|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=169620|AlignEnd=169859|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	tàːru	taːr-	VERB	_	_	0	root	_	AlignBegin=169859|AlignEnd=170098|Gloss=meet
 5	//	//	PUNCT	_	_	4	punct	_	AlignBegin=170098|AlignEnd=170336|Gloss=PUNCT
 
@@ -1370,8 +1370,8 @@
 15	<	<	PUNCT	_	_	4	punct	_	AlignBegin=258448|AlignEnd=258715|Gloss=PUNCT
 16	dûn	dukà	PRON	_	ExtPos=PRON|PronType=Tot	0	root	_	AlignBegin=258715|AlignEnd=258982|Gloss=all
 17	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	16	det	_	AlignBegin=258982|AlignEnd=259249|Gloss=PreRef|PreRef=Yes
-18	a-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	AlignBegin=259249|AlignEnd=259516|Gloss=4-|SpaceAfter=No|wordform=anka
-19	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+18	an-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	AlignBegin=259249|AlignEnd=259516|Gloss=4-|SpaceAfter=No|wordform=anka
+19	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 20	waːc'èː	waːs'-	VERB	_	_	16	comp:cleft	_	AlignBegin=259516|AlignEnd=259783|Gloss=scatter|wordform=waːc’èː
 21	//	//	PUNCT	_	_	16	punct	_	AlignBegin=259783|AlignEnd=260055|Gloss=PUNCT
 
@@ -1397,8 +1397,8 @@
 # text_ortho = sunkà bìɗi kàram ɓiki //
 # text = sunkà bìɗi kàram ɓiki //
 # text_en = They chased Jackal.
-1	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=267520|AlignEnd=267699|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-2	nkà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=267520|AlignEnd=267699|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	bìɗi	biɗ-	VERB	_	_	0	root	_	AlignBegin=267699|AlignEnd=267878|Gloss=look_for
 4	kàre	kàreː	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=267878|AlignEnd=268057|Compound=Yes|Gloss=dog.Masc|SpaceAfter=No|wordform=kàram
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
