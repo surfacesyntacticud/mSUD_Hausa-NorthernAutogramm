@@ -1167,7 +1167,7 @@
 5	kiɗì	kiɗìː	NOUN	_	Gender=Masc	4	conj:appos	_	Compound=Yes|Gloss=music.Masc|SpaceAfter=No|wordform=kiɗìn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	mâyyaː	bàbbaː	ADJ	_	Number=Plur	6	comp:obj	_	Gloss=big.Plur
-8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	comp:pred	_	Gloss=Pron.Masc|RelPos=Yes|Relz=Word
+8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	comp:pred	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 9	baː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Person=4|Polarity=Neg	11	mod/m	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
 10	à=	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=4=|wordform=baːà
 11-12	wâː	_	_	_	_	_	_	_	_
@@ -8340,7 +8340,7 @@
 # text_en = The one who can rests .
 # text_ortho = wandà ya' iyàː yaː huːtàː .
 # text = wandà ya-Ø= iyàː y-aː= huːtàː.
-1	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	subj	_	Gloss=Pron.Masc|RelPos=Yes|Relz=Word
+1	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya'
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform='=
 4	iyàː	iy-	VERB	_	_	7	subj	_	ClauseType=Rel|Gloss=can
@@ -14278,7 +14278,7 @@
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	Gloss=there_is_not
-5	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	subj	_	Gloss=Pron.Masc|RelPos=Yes|Relz=Word
+5	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya'
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform='=
 8	iyà	iy-	VERB	_	_	4	subj	_	Gloss=can
@@ -17410,7 +17410,7 @@
 16	kwarai	kwarai	ADV	_	_	15	comp:obj	_	Gloss=correct
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and
 18	doːkìː	doːkìː	NOUN	_	Gender=Masc	14	conj:coord	_	Gloss=horse.Mac
-19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	comp:obj	_	Gloss=Pron.Masc|RelPos=Yes|Relz=Word
+19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	comp:obj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
 20	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	22	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem=|SpaceAfter=No|wordform=tà
 22	taɓà	taɓ-	VERB	_	_	18	mod@relcl	_	ClauseType=Rel|Gloss=touch
