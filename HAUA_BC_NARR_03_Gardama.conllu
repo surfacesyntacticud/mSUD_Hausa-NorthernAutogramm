@@ -444,7 +444,7 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
 # sent_timecode = 56500, 62360
-# text = shiː kòː < yaz= zakà |c yak= kahwà kunyàːtai gà ƙasaː || bàːkin wurîn nan || indà ankà= cêː shìgaː-t-tà taː= s'ayàː //
+# text = shiː kòː < ya-Ø= zakà |c ya-Ø= kahwà kunyàː-t-ai gà ƙasaː || bàːkin wurîn nan || indà an-kà= cêː shìga-t-tà t-aː= s'ayàː //
 # text_en = As for him, he came, put his ear to the ground, near that place where they said that its track had stopped.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated@subj	_	AlignBegin=56500|AlignEnd=56766|Gloss=3Masc.Nom
 2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=56766|AlignEnd=57032|Gloss=as_for
@@ -463,13 +463,13 @@
 15	ƙasaː	ƙasaː	NOUN	_	Gender=Fem	14	comp:obj	_	AlignBegin=59160|AlignEnd=59426|Gloss=ground.Fem
 16	||	||	PUNCT	_	_	17	punct	_	AlignBegin=59426|AlignEnd=59692|Gloss=PUNCT
 17	bàːkin	bàːkin	ADP	_	_	14	conj:dicto	_	AlignBegin=59692|AlignEnd=59958|Gloss=near
-18	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	AlignBegin=59958|AlignEnd=60224|Gloss=place.Masc.Def
+18	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	AlignBegin=59958|AlignEnd=60224|Gloss=place.Masc.Def|RelAnt=Yes
 19	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	18	det	_	AlignBegin=60224|AlignEnd=60490|Gloss=PreRef|PreRef=Yes
-20	||	||	PUNCT	_	_	21	punct	_	AlignBegin=60490|AlignEnd=60756|Gloss=PUNCT
-21	indà	indà	ADV	_	PronType=Rel	17	conj:dicto	_	AlignBegin=60490|AlignEnd=60756|Gloss=where
+20	||	||	PUNCT	_	_	24	punct	_	AlignBegin=60490|AlignEnd=60756|Gloss=PUNCT
+21	indà	indà	ADV	_	PronType=Rel	30	mod	_	AlignBegin=60490|AlignEnd=60756|Gloss=where.Rel|RelPos=Yes|Relz=Word
 22	an-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	AlignBegin=60756|AlignEnd=61022|Gloss=4-|SpaceAfter=No|wordform=ankà
 23	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-24	cêː	cêː	VERB	_	_	21	mod@relcl	_	AlignBegin=61022|AlignEnd=61288|Gloss=say
+24	cêː	cêː	VERB	_	_	18	mod@relcl	_	AlignBegin=61022|AlignEnd=61288|ClauseType=Rel|Gloss=say
 25	shìga	shìgaː	NOUN	_	_	30	subj	_	AlignBegin=61288|AlignEnd=61554|GenderAf=Fem|Gloss=track.Fem|Poss=Yes|SpaceAfter=No|wordform=shìgattà
 26	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	25	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 27	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	26	comp:obj/m	_	Gloss=3Fem.Gen

@@ -3629,7 +3629,7 @@
 7	maulòn	maulòː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=guitar.Masc.Def
 8	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=CompRel|Relz=Word
 9	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	10	subj/m	_	Gloss=2Plur-
-10	kà	kà	AUX	_	Aspect=Prog|Copula=Yes|Number=Plur	8	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes
+10	kà	kà	AUX	_	Aspect=Prog|Copula=Yes|Number=Plur	8	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=pred
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	Gloss=do.Vnoun.Masc|RelPos=Yes
 12	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	Gloss=Neg
 13	nau	nau	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	Gloss=1Sing.Gen
@@ -4150,8 +4150,8 @@
 9	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	10	subj/m	_	Gloss=1Plur|SpaceAfter=No
 10-11	mukài	_	_	_	_	_	_	_	_
 10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	comp:obj	_	ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=mukà
-11	yi	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	Gloss=do.Vnoun.Masc
-12	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	11	comp:obl	_	Gloss=3Masc.Dat|RelPos=Yes
+11	yi	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=obl
+12	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	11	comp:obl	_	Gloss=3Masc.Dat
 13	ba	ba	PART	_	Polarity=Neg	6	mod	_	Gloss=Neg
 14	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT|SpaceAfter=No
 15	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -5580,7 +5580,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__272
 # text_en = "Those people we saw were praising you. "
 # text_ortho = " waɗànnan mutàːneː dà munkà gàmu dà suː sunàː yàbonkà" .
-# text = " waɗànnan mutàːneː dà mu-nkà= gàmu dà suː su-nàː yàbo-n-kà ".
+# text = " waɗànnan mutàːneː dà mun-kà= gàmu dà suː su-nàː yàbo-n-kà ".
 1	"	"	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 2	waɗànnan	nan	DET	_	Deixis=ProxH|Number=Plur|PronType=Dem	3	det	_	Gloss=ProxH
 3	mutàːneː	mùtûm	NOUN	_	Number=Plur	11	dislocated@subj	_	Gloss=people.Plur|RelAnt=Yes
@@ -5588,8 +5588,8 @@
 5	mun-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Plur-|SpaceAfter=No|wordform=munkà
 6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 7	gàmu	gam-	VERB	_	_	4	comp:obj	_	ClauseType=Rel|Gloss=meet
-8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
-9	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Plur.Nom|RelPos=Yes
+8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with|RelRole=obj
+9	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Plur.Nom
 10	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	11	subj/m	_	Gloss=3Plur|SpaceAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=sunàː
 12	yàbo	yàboː	NOUN	_	_	11	comp:pred	_	GenderAf=Masc|Gloss=praise.Masc|Poss=Yes|SpaceAfter=No|wordform=yàbonkà
@@ -8415,7 +8415,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__412
 # text_en = "What we'll do, let's stop, tune our guitars and play. "
 # text_ortho = "àbin dà zâːmu yîː, sai yànzu mù tsayàː mù tankà maulunàmmu mù kaɗàː ” .
-# text = a-nkà= cêː “ àbin dà zâː-mu= yîː, sai yànzu mu-_̀=tsayàː mu-_̀=tankà maulunàː-m-mu mu-_̀=kaɗàː ”.
+# text = an-kà= cêː “ àbin dà zâː-mu= yîː, sai yànzu mu-_̀=tsayàː mu-_̀=tankà maulunàː-m-mu mu-_̀=kaɗàː ”.
 1	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
@@ -8424,7 +8424,7 @@
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
 7	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	9	mod/m	_	Gloss=Fut-|SpaceAfter=No
 8	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Plur=|wordform=zâːmu
-9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:obj	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelPos=Yes|SpaceAfter=No
+9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:obj	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelRole=obj|SpaceAfter=No
 10	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 11	sai	sai	ADV	_	_	15	mod	_	Gloss=then
 12	yànzu	yànzu	ADV	_	_	15	mod	_	Gloss=now
@@ -11163,16 +11163,16 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__540
 # text_en = Then 'YabBàraːya went to see an old shoemaker .
 # text_ortho = sa'ànnan 'YabBàraːya tat tàhi indà wata tsoːhuwaː XXX kàlmisàː .
-# text = sa'ànnan 'YabBàraːya tat tàhi indà wata tsoːhuwaː XXX kàlmisàː .
+# text = sa'ànnan 'YabBàraːya ta-Ø= tàhi indà wata tsoːhuwaː XXX kàlmisàː.
 1	sa'ànnan	sa'ànnan	ADV	_	_	5	mod	_	Gloss=then
 2	'YabBàraːya	'yabbàraːya	PROPN	_	Number=Plur	5	subj	_	Gloss='YabBàraːya
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tat
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
 5	tàhi	tah-	VERB	_	_	0	root	_	Gloss=go
-6	indà	indà	PRON	_	PronType=Rel	5	comp:obj@G	_	Gloss=where
+6	indà	indà	PRON	_	PronType=Rel	9	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 7	wata	wata	DET	_	Definite=Spec|Gender=Fem	8	det	_	Gloss=some.Fem
 8	tsoːhuwaː	tsoːhoː	NOUN	_	Gender=Fem	9	subj	_	Gloss=old_person.Fem
-9	XXX	XXX	X	_	_	6	mod@relcl	_	Gloss=XXX
+9	XXX	XXX	X	_	_	5	comp:obj@G	_	ClauseType=Rel|Gloss=XXX
 10	kàlmisàː	kàlmisàː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=shoe.Fem|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -11243,7 +11243,7 @@
 61	.	.	PUNCT	_	_	73	punct	_	Gloss=PUNCT
 62	“	“	PUNCT	_	_	73	punct	_	Gloss=PUNCT
 63	yaːròː	yaːròː	NOUN	_	Gender=Masc	73	dislocated@top	_	Gloss=boy.Masc
-64	tum	tun	SCONJ	_	_	73	mod@relcl	_	Gloss=since
+64	tum	tun	SCONJ	_	_	73	mod	_	Gloss=since
 65	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	67	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 66	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	67	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 67	shaː	shaː	VERB	_	_	64	comp:obj	_	Gloss=drink
@@ -14821,13 +14821,13 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__704a
 # text_en = The griot went where DGD's slave was looking after the cows.
 # text_ortho = mài maulòː yat tàhi indà baːwàn Dandà Garbaː Dikkò yat taroː shaːnuː .
-# text = mài maulòː yat tàhi indà baːwàn Dandà Garbaː Dikkò yat taroː shaːnuː .
+# text = mài maulòː ya-Ø= tàhi indà baːwà-n Dandà Garbaː Dikkò ya-Ø= taroː shaːnuː.
 1	mài	mài	PART	_	Number=Sing|PartType=Der	5	subj	_	Gloss=owner_of.Sing
 2	maulòː	maulòː	NOUN	_	Gender=Masc	1	compound	_	Gloss=guitar.Masc
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
 5	tàhi	tah-	VERB	_	_	0	root	_	Gloss=go
-6	indà	indà	PRON	_	PronType=Rel	5	comp:obj@G	_	Gloss=where
+6	indà	indà	PRON	_	PronType=Rel	14	mod	_	Gloss=where.Rel|RelPos=Yes|Relz=Word
 7	baːwà	baːwàː	NOUN	_	Gender=Masc	14	subj	_	Gloss=slave|SpaceAfter=No|wordform=baːwàn
 8	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	mod/m	_	Gloss=Gen.Masc/Plur
 9	Dandà	Dandà	PROPN	_	_	8	comp:obj	_	Gloss=Dandà
@@ -14835,7 +14835,7 @@
 11	Dikkò	Dikkò	PROPN	_	_	10	flat@name	_	Gloss=Dikkò
 12	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 13	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
-14	taroː	tar-	VERB	_	_	6	mod@relcl	_	Gloss=gather.dir
+14	taroː	tar-	VERB	_	_	5	comp:obj@G	_	ClauseType=Rel|Gloss=gather.dir
 15	shaːnuː	sâː	NOUN	_	Number=Plur	14	comp:obj	_	Gloss=cow.Plur|SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -15163,7 +15163,7 @@
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
 7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=niy
 8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
-9	yi	yi	VERB	_	_	6	comp:obj	_	ClauseType=Rel|Gloss=do|RelPos=Yes
+9	yi	yi	VERB	_	_	6	comp:obj	_	ClauseType=Rel|Gloss=do|RelPos=Yes|RelRole=obl
 10	mukù	mukù	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	comp:obl	_	Gloss=2Plur.Dat
 11	?	?	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 12	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT

@@ -1147,14 +1147,14 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_01.WAV
 # sent_timecode = 255400, 260141
 # text_ortho = àkwai lòːkacìn dà akà sâː ka aikìː |c bàkà ƙiyàː ba |c kuma anàː bâː ka kaːshiː //
-# text = àkwai lòːkacìn dà akà= sâː ka aikìː < bàkà= ƙiyàː ba kuma anàː= bâː ka kaːshiː //
+# text = àkwai lòːkacìn dà a-kà sâː ka aikìː < bà-kà=ƙiyàː ba kuma a-nàː bâː ka kaːshiː //
 # text_en = Sometimes they they would force you to work, you could not refuse, and they beat you.
 1	àkwai	àkwai	PART	_	PartType=Pred	12	dislocated@top	_	AlignBegin=255400|AlignEnd=255663|Gloss=there_is
 2	lòːkacìn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	AlignBegin=255663|AlignEnd=255926|Gloss=time.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=255926|AlignEnd=256189|Gloss=CompRel|Relz=Word
 4	a-	a-	PRON	_	Person=4|PronType=Prs	5	subj/m	_	AlignBegin=256189|AlignEnd=256452|Gloss=4|SpaceAfter=No
 5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	AlignBegin=256189|AlignEnd=256452|ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=akà
-6	sâː	sâː	VERB	_	_	5	comp:pred	_	AlignBegin=256452|AlignEnd=256715|Gloss=put
+6	sâː	sâː	VERB	_	_	5	comp:pred	_	AlignBegin=256452|AlignEnd=256715|Gloss=put|RelRole=mod
 7	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	6	comp:obj@R	_	AlignBegin=256715|AlignEnd=256978|Gloss=2Masc
 8	aikìː	aikìː	NOUN	_	Gender=Masc	6	comp:obj@T	_	AlignBegin=256978|AlignEnd=257241|Gloss=work.Masc
 9	<	<	PUNCT	_	_	12	punct	_	AlignBegin=257241|AlignEnd=257504|Gloss=PUNCT
@@ -1484,7 +1484,7 @@
 # text = àkwai indà mu-kè &//
 # text_en = We used to...
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root@scrap	_	AlignBegin=315720|AlignEnd=315962|Gloss=there_is
-2	indà	indà	ADV	_	PronType=Rel	4	mod	_	AlignBegin=315962|AlignEnd=316204|Gloss=where.Rel|RelPos=Yes|Relz=Word
+2	indà	indà	ADV	_	PronType=Rel	4	mod	_	AlignBegin=315962|AlignEnd=316204|Gloss=where.Rel|Relz=Word
 3	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	4	subj/m	_	AlignBegin=316204|AlignEnd=316446|Gloss=1Plur|SpaceAfter=No
 4	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	subj	_	AlignBegin=316204|AlignEnd=316446|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante|wordform=mukà
 5	&//	&//	PUNCT	_	_	1	punct	_	AlignBegin=316446|AlignEnd=316686|Gloss=PUNCT
@@ -2163,7 +2163,7 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc|SpaceAfter=No
 7	-kù	-kù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	comp:obj	_	Gloss=2Plur.Gen
 8	<	<	PUNCT	_	_	1	punct	_	AlignBegin=427786|AlignEnd=428022|Gloss=PUNCT
-9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	comp:obj	_	AlignBegin=428022|AlignEnd=428258|Gloss=which.Masc.Rel|RelPos=Yes|Relz=Word
+9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	dislocated	_	AlignBegin=428022|AlignEnd=428258|Gloss=which.Masc.Rel|Relz=Word
 10	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=428258|AlignEnd=428494|ClauseType=Rel|Gloss=3Plur-|RelRole=mod|SpaceAfter=No|wordform=sunkà
 11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	ClauseType=Rel|Gloss=Perf.Rel.Plur|Relative=Yes|RelRole=mod|wordform=nkà=
 12	hi	fi	VERB	_	_	18	dislocated:obj	_	AlignBegin=428494|AlignEnd=428730|ClauseType=Rel|Gloss=exceed

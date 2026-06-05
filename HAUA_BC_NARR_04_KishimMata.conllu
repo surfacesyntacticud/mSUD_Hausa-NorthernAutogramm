@@ -347,7 +347,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_04_GYM.WAV
 # sent_timecode = 59720, 67809
 # text_ortho = tôː dà tat tàhi ɗeːboː maw ruwaː < indà dut tac cèː [ ìn ɗeːboː nân ?//] < sai tà cêː [ aː'àː < keː < indà jàkkankì sunkà shâː ruwaː |c sunkài his'ariː < zâː ki ɗeːboː nân ?//= ƙàːraː gàba //] //
-# text = tôː dà tat tàhi ɗeːboː maw ruwaː < indàdut tac cèː [ ìn ɗeːboː nân ?//] < sai tà cêː [ aː'àː < keː < indà jàkkan -kì sunkà shâː ruwaː |c sunkài his'ariː < zâːki ki ?//= ƙàːraː gàba //] //
+# text = tôː dà ta-Ø= tàhi ɗeːboː maw ruwaː < indàdut ta-Ø= cèː [ bà-n=ɗeːboː nân ?//] < sai ta-_̀=cêː [ aː'àː < keː < indà jàkka-n-kì sun-kà= shâː ruwaː |c sun-nkà= his'ariː < zâː-ki= ki ?//=ƙàːraː gàba //] //
 # text_en = Well, when she went to fetch water, each time she said "Shall I take it here?", then she said "No! You, you want to take water where your donkeys drank and pissed? Go further!"
 1	tôː	tôː	INTJ	_	_	24	discourse	_	AlignBegin=59720|AlignEnd=59904|Gloss=well
 2	dà	dà	SCONJ	_	_	24	mod	_	AlignBegin=59904|AlignEnd=60088|Gloss=as
@@ -358,10 +358,10 @@
 7	maw	mat	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	6	comp:obl	_	AlignBegin=60640|AlignEnd=60824|Gloss=3Fem.Dat
 8	ruwaː	ruwaː	NOUN	_	Number=Plur	6	comp:obj	_	AlignBegin=60824|AlignEnd=61008|Gloss=water.Plur
 9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=61008|AlignEnd=61192|Gloss=PUNCT
-10	indàdut	indàduk	ADV	_	PronType=Rel	24	mod	_	AlignBegin=61192|AlignEnd=61376|Gloss=wherever
+10	indàdut	indàduk	SCONJ	_	_	24	mod	_	AlignBegin=61192|AlignEnd=61376|Gloss=whenever
 11	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=61560|AlignEnd=61744|Gloss=3Fem-|SpaceAfter=No|wordform=tac
 12	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
-13	cèː	cêː	VERB	_	_	10	mod@relcl	_	AlignBegin=61744|AlignEnd=61928|Gloss=say
+13	cèː	cêː	VERB	_	_	10	comp:obj	_	AlignBegin=61744|AlignEnd=61928|Gloss=say
 14	[	[	PUNCT	_	_	17	punct	_	AlignBegin=61928|AlignEnd=62112|Gloss=PUNCT
 15	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 16	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	17	subj/m	_	AlignBegin=62112|AlignEnd=62296|Gloss=1Sing=|SpaceAfter=No|wordform=ìn
@@ -378,13 +378,13 @@
 27	<	<	PUNCT	_	_	26	punct	_	AlignBegin=63952|AlignEnd=64136|Gloss=PUNCT
 28	keː	keː	PRON	_	Case=Nom|Gender=Fem|Person=2|PronType=Prs	46	vocative	_	AlignBegin=64136|AlignEnd=64320|Gloss=2Fem.Nom
 29	<	<	PUNCT	_	_	28	punct	_	AlignBegin=64320|AlignEnd=64504|Gloss=PUNCT
-30	indà	indà	ADV	_	PronType=Rel	46	dislocated@mod	_	AlignBegin=64504|AlignEnd=64688|Gloss=where
+30	indà	indà	ADV	_	PronType=Rel	36	mod	_	AlignBegin=64504|AlignEnd=64688|Gloss=where.Rel|RelPos=Yes|Relz=Word
 31	jàkka	jàːkiː	NOUN	_	_	36	subj	_	AlignBegin=64688|AlignEnd=64872|GenderAf=Fem|Gloss=donkey.Plur|Poss=Yes|SpaceAfter=No|wordform=jàkkan
 32	-n	na	PART	_	Case=Gen|PartType=Case	31	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 33	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	32	comp:obj/m	_	Gloss=2Fem.Gen
 34	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	36	subj/m	_	AlignBegin=64872|AlignEnd=65056|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 35	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-36	shâː	shâː	VERB	_	_	30	mod@relcl	_	AlignBegin=65056|AlignEnd=65240|Gloss=drink
+36	shâː	shâː	VERB	_	_	46	dislocated@mod	_	AlignBegin=65056|AlignEnd=65240|ClauseType=Rel|Gloss=drink
 37	ruwaː	ruwaː	NOUN	_	Number=Plur	36	comp:obj	_	AlignBegin=65240|AlignEnd=65424|Gloss=water.Plur
 38	|c	|c	PUNCT	_	_	41	punct	_	AlignBegin=65424|AlignEnd=65608|Gloss=PUNCT
 39	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	41	subj/m	_	AlignBegin=65608|AlignEnd=65792|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
@@ -2187,7 +2187,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_04_GYM.WAV
 # sent_timecode = 306320, 311600
 # text_ortho = yac cèː [ indà dun nish shìga ruwaː < indà duk kunkà ga sun yi jaː < kù yankè jan sâː //] //
-# text = yac cèː [ indàdun nish shìga ruwaː < indàduk kunkà ga sun yi jaː < kù yankè jan sâː //] //
+# text = ya-Ø= cèː [ indàdun ni-Ø= shìga ruwaː < indàduk mun-kà= ga su-n= yi jaː < ku-_̀=yankè jan sâː //] //
 # text_en = He said "When I go into the water, when you se that the water becomes red, slaughter the red cow."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=306320|AlignEnd=306550|Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
@@ -2199,10 +2199,10 @@
 8	shìga	shig-	VERB	_	_	5	mod@relcl	_	AlignBegin=307700|AlignEnd=307930|Gloss=enter
 9	ruwaː	ruwaː	NOUN	_	Number=Plur	8	comp:obj@G	_	AlignBegin=307930|AlignEnd=308160|Gloss=water.Plur
 10	<	<	PUNCT	_	_	5	punct	_	AlignBegin=308160|AlignEnd=308390|Gloss=PUNCT
-11	indàduk	indàduk	ADV	_	PronType=Rel	22	mod	_	AlignBegin=308390|AlignEnd=308620|Gloss=wherever
+11	indàduk	indàduk	SCONJ	_	_	22	mod	_	AlignBegin=308390|AlignEnd=308620|Gloss=whenever
 12	mun-	mu	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	14	subj/m	_	AlignBegin=308850|AlignEnd=309080|Gloss=2Plur-|SpaceAfter=No|wordform=kunkà
 13	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-14	ga	gan-	VERB	_	_	11	mod@relcl	_	AlignBegin=309080|AlignEnd=309310|Gloss=see
+14	ga	gan-	VERB	_	_	11	comp:obj	_	AlignBegin=309080|AlignEnd=309310|Gloss=see
 15	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=309310|AlignEnd=309540|Gloss=3Plur-|SpaceAfter=No|wordform=sun
 16	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	17	mod/m	_	Gloss=Perf.Plur
 17	yi	yi	VERB	_	_	14	comp:obj	_	AlignBegin=309540|AlignEnd=309770|Gloss=do

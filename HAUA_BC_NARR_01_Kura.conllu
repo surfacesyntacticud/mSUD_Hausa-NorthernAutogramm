@@ -266,10 +266,10 @@
 # text_ortho = koː ìnaː tag ga yaː yi kwànce-kwànce |c yaː duːna < sai tak kaːwoː maːshìː |c tas soːkàː maːshìː //
 # text = koːìnaː tag ga yaː yi kwànce-kwànce |c yaː duːna < sai tak kaːwoː maːshìː |c tas soːkàː maːshìː //
 # text_en = Wherever she saw him get down and dive, she use the spear and stabbed.
-1	koːìnaː	koːìnaː	ADV	_	PronType=Rel	17	mod	_	AlignBegin=55620|AlignEnd=55778|Gloss=wherever
+1	koːìnaː	koːìnaː	SCONJ	_	PronType=Rel	17	mod	_	AlignBegin=55620|AlignEnd=55778|Gloss=wherever
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=55936|AlignEnd=56094|Gloss=3Fem-|SpaceAfter=No|wordform=tag
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=g=
-4	ga	gan-	VERB	_	_	1	mod@relcl	_	AlignBegin=56094|AlignEnd=56252|Gloss=see
+4	ga	gan-	VERB	_	_	1	comp:obj	_	AlignBegin=56094|AlignEnd=56252|Gloss=see
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=56252|AlignEnd=56410|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 6	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Sing
 7	yi	yi	VERB	_	_	4	comp:obj	_	AlignBegin=56410|AlignEnd=56568|Gloss=do
