@@ -353,8 +353,8 @@
 # text_ortho = Ìlleːlàg Gàwàllai //
 # text = Ìlleːlàg Gàwàllai //
 # text_en = Illela of Galmawa.
-1	Ìlleːlàg	Ìlleːlàː	PROPN	_	Definite=Cons	0	root	_	AlignBegin=83360|AlignEnd=83797|Gloss=Ìlleːlàː
-2	Gàwàllai	Gàwàllai	PROPN	_	_	1	mod	_	AlignBegin=83797|AlignEnd=84234|Gloss=Gàwàllai
+1	Ìlleːlàg	Ìlleːlàː	PROPN	_	_	0	root	_	AlignBegin=83360|AlignEnd=83797|Gloss=Ìlleːlàː
+2	Gàwàllai	Gàwàllai	PROPN	_	_	1	flat@name	_	AlignBegin=83797|AlignEnd=84234|Gloss=Gàwàllai
 3	//	//	PUNCT	_	_	1	punct	_	AlignBegin=84234|AlignEnd=84670|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_020-020
@@ -364,8 +364,8 @@
 # text_ortho = Ìlleːlàg Gàwàllai ?//
 # text = Ìlleːlàg Gàwàllai ?//
 # text_en = Illela of Galmawa?
-1	Ìlleːlàg	Ìlleːlàː	PROPN	_	Definite=Cons	0	root	_	AlignBegin=86280|AlignEnd=86547|Gloss=Ìlleːlàː
-2	Gàwàllai	Gàwàllai	PROPN	_	Number=Plur	1	mod	_	AlignBegin=86547|AlignEnd=86814|Gloss=Gàwàllai
+1	Ìlleːlàg	Ìlleːlàː	PROPN	_	_	0	root	_	AlignBegin=86280|AlignEnd=86547|Gloss=Ìlleːlàː
+2	Gàwàllai	Gàwàllai	PROPN	_	Number=Plur	1	flat@name	_	AlignBegin=86547|AlignEnd=86814|Gloss=Gàwàllai
 3	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=86814|AlignEnd=87080|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_021-021

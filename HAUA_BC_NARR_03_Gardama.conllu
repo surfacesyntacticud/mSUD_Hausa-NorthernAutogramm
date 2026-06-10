@@ -42,32 +42,34 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
 # sent_timecode = 85448, 91160
-# text = dà saːnìyaː |c dà mài taːs'àtta |c dà ɗa-n-tà dà am màːlìye gàreː tà < dut ta-Ø= jiːɗoː dà suː //
+# text = dà saːnìyaː |c dà mài taːs'à -t -ta |c dà ɗa-n-tà dà am màːlìye gàreː tà < dut ta-Ø= jiːɗoː dà suː //
 # text_en = The cow, the man who was milking it, and its calf that was following it, it knocked them down.
 1	dà	dà	CCONJ	_	_	2	cc@preconj	_	AlignBegin=85448|AlignEnd=85720|Gloss=and
-2	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	21	dislocated@comp	_	AlignBegin=85720|AlignEnd=85992|Gloss=cow.Fem
+2	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	23	dislocated@comp	_	AlignBegin=85720|AlignEnd=85992|Gloss=cow.Fem
 3	|c	|c	PUNCT	_	_	2	punct	_	AlignBegin=85992|AlignEnd=86264|Gloss=PUNCT
 4	dà	dà	CCONJ	_	_	5	cc	_	AlignBegin=86264|AlignEnd=86536|Gloss=and
 5	mài	mài	PART	_	Number=Sing|PartType=Der	2	conj:coord	_	AlignBegin=86536|AlignEnd=86808|Gloss=owner_of.Sing|Linker=Yes
-6	taːs'àtta	taːs'-	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	compound	_	AlignBegin=86808|AlignEnd=87080|CaseAf=Gen|GenderAf=Fem|Gloss=milk.Vnoun.Fe-3FemGen|MSeg=taːs'àt-ta|PersonAf=3|Poss=Yes|wordform=taːs'àt
-7	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=87080|AlignEnd=87352|Gloss=PUNCT
-8	dà	dà	CCONJ	_	_	9	cc	_	AlignBegin=87352|AlignEnd=87624|Gloss=and
-9	ɗa	ɗaː	NOUN	_	_	5	compound	_	AlignBegin=87624|AlignEnd=87896|GenderAf=Fem|Gloss=child.Masc|Poss=Yes|RelAnt=Yes|SpaceAfter=No|wordform=ɗantà
-10	-n	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
-11	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Fem.Gen
-12	dà	dà	SCONJ	_	_	9	mod@relcl	_	AlignBegin=87896|AlignEnd=88168|Gloss=CompRel|Relz=Word
-13	am	neː	AUX	_	Copula=Yes	12	comp:obj	_	AlignBegin=88168|AlignEnd=88440|ClauseType=Rel|Gloss=Ident.Rel|Relative=Yes|RelRole=subj
-14	màːlìye	maːliy-	VERB	_	ExtPos=ADV|VerbForm=Part	13	comp:pred	_	AlignBegin=88440|AlignEnd=88712|Gloss=suckle.Part
-15	gàreː	gàreː	ADP	_	_	14	mod	_	AlignBegin=88712|AlignEnd=88984|Gloss=by
-16	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	15	comp:obj	_	AlignBegin=88984|AlignEnd=89256|Gloss=3Fem
-17	<	<	PUNCT	_	_	2	punct	_	AlignBegin=89256|AlignEnd=89528|Gloss=PUNCT
-18	dut	dukà	DET	_	ExtPos=PRON|PronType=Tot	21	mod	_	AlignBegin=89528|AlignEnd=89800|Gloss=all
-19	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	21	subj/m	_	AlignBegin=89800|AlignEnd=90072|Gloss=3Fem-|SpaceAfter=No|wordform=taj
-20	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=j=
-21	jiːɗoː	jiːɗ-	VERB	_	_	0	root	_	AlignBegin=90072|AlignEnd=90344|Gloss=come_down
-22	dà	dà	ADP	_	_	21	comp:obl	_	AlignBegin=90344|AlignEnd=90616|Gloss=with
-23	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	comp:obj	_	AlignBegin=90616|AlignEnd=90888|Gloss=3Plur.Nom
-24	//	//	PUNCT	_	_	21	punct	_	AlignBegin=90888|AlignEnd=91160|Gloss=PUNCT
+6	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	compound	_	AlignBegin=86808|AlignEnd=87080|Gloss=milk.Vnoun.Fem|MSeg=taːs'àtta
+7	-t	-na	VERB	_	Case=Gen|Gender=Fem|PartType=Case	6	udep/m	_	AlignBegin=86808|AlignEnd=87080|Gloss=-Gen.Fem
+8	-ta	ta	VERB	_	Case=Gen|Gender=Fem|Person=3	7	comp:obj	_	AlignBegin=86808|AlignEnd=87080|Gloss=3Fem.Gen|Poss=Yes
+9	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=87080|AlignEnd=87352|Gloss=PUNCT
+10	dà	dà	CCONJ	_	_	11	cc	_	AlignBegin=87352|AlignEnd=87624|Gloss=and
+11	ɗa	ɗaː	NOUN	_	_	8	conj:coord	_	AlignBegin=87624|AlignEnd=87896|GenderAf=Fem|Gloss=child.Masc|Poss=Yes|RelAnt=Yes|SpaceAfter=No|wordform=ɗantà
+12	-n	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+13	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	12	comp:obj/m	_	Gloss=3Fem.Gen
+14	dà	dà	SCONJ	_	_	11	mod@relcl	_	AlignBegin=87896|AlignEnd=88168|Gloss=CompRel|Relz=Word
+15	am	neː	AUX	_	Copula=Yes	14	comp:obj	_	AlignBegin=88168|AlignEnd=88440|ClauseType=Rel|Gloss=Ident.Rel|Relative=Yes|RelRole=subj
+16	màːlìye	maːliy-	VERB	_	ExtPos=ADV|VerbForm=Part	15	comp:pred	_	AlignBegin=88440|AlignEnd=88712|Gloss=suckle.Part
+17	gàreː	gàreː	ADP	_	_	16	mod	_	AlignBegin=88712|AlignEnd=88984|Gloss=by
+18	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	17	comp:obj	_	AlignBegin=88984|AlignEnd=89256|Gloss=3Fem
+19	<	<	PUNCT	_	_	2	punct	_	AlignBegin=89256|AlignEnd=89528|Gloss=PUNCT
+20	dut	dukà	DET	_	ExtPos=PRON|PronType=Tot	23	mod	_	AlignBegin=89528|AlignEnd=89800|Gloss=all
+21	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	23	subj/m	_	AlignBegin=89800|AlignEnd=90072|Gloss=3Fem-|SpaceAfter=No|wordform=taj
+22	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	23	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=j=
+23	jiːɗoː	jiːɗ-	VERB	_	_	0	root	_	AlignBegin=90072|AlignEnd=90344|Gloss=come_down
+24	dà	dà	ADP	_	_	23	comp:obl	_	AlignBegin=90344|AlignEnd=90616|Gloss=with
+25	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	AlignBegin=90616|AlignEnd=90888|Gloss=3Plur.Nom
+26	//	//	PUNCT	_	_	23	punct	_	AlignBegin=90888|AlignEnd=91160|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_03_GMH_26-26
 # speaker_id = SP
@@ -247,9 +249,10 @@
 2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 3	gwadàː	gwad-	VERB	_	_	0	root	_	AlignBegin=30407|AlignEnd=30654|Gloss=show
 4	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=30654|AlignEnd=30901|Gloss=3Masc.Dat
-5	turkèn	turkèː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	AlignBegin=30901|AlignEnd=31148|Gloss=tethering_post.Masc
-6	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	5	mod	_	AlignBegin=31148|AlignEnd=31395|Gloss=cow.Fem
-7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=31395|AlignEnd=31640|Gloss=PUNCT
+5	turkè	turkèː	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=30901|AlignEnd=31148|Gloss=tethering_post|SpaceAfter=No|wordform=turkèn
+6	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	mod/m	_	Gloss=Gen|SpaceAfter=No
+7	saːnìyaː	saːnìyaː	NOUN	_	Gender=Fem	6	comp:obj	_	AlignBegin=31148|AlignEnd=31395|Gloss=cow.Fem
+8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=31395|AlignEnd=31640|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_03_GMH_09-09
 # speaker_id = SP

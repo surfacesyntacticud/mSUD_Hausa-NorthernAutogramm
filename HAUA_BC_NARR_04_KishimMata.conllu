@@ -1540,7 +1540,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_04_GYM.WAV
 # sent_timecode = 226962, 228637
 # text_ortho = [ tac cèː [ ruwan cinàn jàkkaina //] //]
-# text = [ tac=cèː [ ruwa-n cinà-n jàkkaina //] //]
+# text = [ ta-Ø= cèː [ ruwa-n cinà-n jàkkai -n -a //] //]
 # text_en = "She said "My donkeys' legs have touched this water.""
 1	[	[	PUNCT	_	_	4	punct	_	AlignBegin=226962|AlignEnd=227148|Gloss=PUNCT
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=227148|AlignEnd=227334|Gloss=3Fem-|SpaceAfter=No|wordform=tac
@@ -1551,9 +1551,11 @@
 7	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	cinà	cinyàː	NOUN	_	Number=Plur	7	comp:obj	_	AlignBegin=227892|AlignEnd=228078|Gloss=leg.Plur|SpaceAfter=No|wordform=cinàn
 9	-n	na	PART	_	Case=Gen|Number=Plur|PartType=Case	8	mod/m	_	Gloss=Gen.Masc/Plur
-10	jàkkaina	jaːkiː	NOUN	_	Definite=Cons|Number=Plur|Person=1	9	comp:obj	_	AlignBegin=228078|AlignEnd=228264|Gloss=donkey.Plur-1Sing.Poss
-11	//]	//]	PUNCT	_	_	6	comp:obj	_	AlignBegin=228264|AlignEnd=228450|Gloss=PUNCT
-12	//]	//]	PUNCT	_	_	4	punct	_	AlignBegin=228450|AlignEnd=228637|Gloss=PUNCT
+10	jàkkai	jàkkai	NOUN	_	Number=Plur	9	comp:obj	_	AlignBegin=228078|AlignEnd=228264|Gloss=donkey.Plur
+11	-n	-na	PART	_	Case=Gen|Number=Plur|PartType=Case	10	mod/m	_	AlignBegin=228078|AlignEnd=228264|Gloss=-Gen.Plur
+12	-a	ni	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	11	comp:obj	_	AlignBegin=228078|AlignEnd=228264|Gloss=-1Sing.Poss
+13	//]	//]	PUNCT	_	_	6	comp:obj	_	AlignBegin=228264|AlignEnd=228450|Gloss=PUNCT
+14	//]	//]	PUNCT	_	_	4	punct	_	AlignBegin=228450|AlignEnd=228637|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_068-068
 # speaker_id = SP
