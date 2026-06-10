@@ -1070,8 +1070,8 @@
 5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	AlignBegin=242846|AlignEnd=243098|ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=sukà
 6	iːkòː	iːkòː	NOUN	_	Gender=Masc	5	comp:pred	_	AlignBegin=243098|AlignEnd=243350|Gloss=power.Masc
 7	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	0	root	_	AlignBegin=243350|AlignEnd=243602|Gloss=how
+8-10	sukài	_	_	_	_	_	_	_	_
 8	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=243602|AlignEnd=243854|Gloss=3Plur|SpaceAfter=No
-9-10	sukài	_	_	_	_	_	_	_	_
 9	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:cleft	_	AlignBegin=243602|AlignEnd=243854|Gloss=Prog.Rel|Relative=Yes|wordform=sukà
 10	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp:pred	_	AlignBegin=243602|AlignEnd=243854|Gloss=do.Vnoun.Masc
 11	?//	?//	PUNCT	_	_	7	punct	_	AlignBegin=243854|AlignEnd=244108|Gloss=PUNCT
