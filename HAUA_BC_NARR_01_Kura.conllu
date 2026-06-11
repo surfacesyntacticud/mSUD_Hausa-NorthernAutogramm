@@ -50,11 +50,11 @@
 # text_en = He was walking with his stick.
 1	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=18058|AlignEnd=19230|Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=18058|AlignEnd=19230|Gloss=Prog|wordform=shinàː
-3	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=19230|AlignEnd=20402|CaseAf=Gen|GenderAf=Masc|Gloss=go.Vnoun.Fem|PersonAf=3|Poss=Yes|PronTypeAf=Prs|SpaceAfter=No|wordform=tàhiyàːtai
+3	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=19230|AlignEnd=20402|CaseAf=Gen|GenderAf=Masc|Gloss=go.Vnoun.Fem|PersonAf=3|PronTypeAf=Prs|SpaceAfter=No|wordform=tàhiyàːtai
 4	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod/m	_	Gloss=Gen.Fem|SpaceAfter=No
 5	-ai	-ai	PART	_	Case=Gen|Gender=Masc|PartType=Case|Person=3|PronType=Prs	4	comp:obj	_	Gloss=3Masc.Gen
 6	dà	dà	ADP	_	_	3	mod	_	AlignBegin=20402|AlignEnd=21574|Gloss=with
-7	jàlloː	jàlloː	NOUN	_	_	6	comp:obj	_	AlignBegin=21574|AlignEnd=22746|Gloss=walking_stick|Poss=Yes|PronTypeAf=Prs|SpaceAfter=No|wordfrom=jàlloːnai
+7	jàlloː	jàlloː	NOUN	_	_	6	comp:obj	_	AlignBegin=21574|AlignEnd=22746|Gloss=walking_stick|PronTypeAf=Prs|SpaceAfter=No|wordfrom=jàlloːnai
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=22746|AlignEnd=23920|Gloss=PUNCT
@@ -100,7 +100,7 @@
 # text_en = She saw him and followed him.
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=27521|AlignEnd=27801|Gloss=3Fem-|SpaceAfter=No|wordform=tag
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=g=
-3	ganai	ganiː	VERB	_	_	0	root	_	AlignBegin=27801|AlignEnd=28081|CaseAf=Gen|GenderAf=Masc|Gloss=see-3Masc.Acc|MSeg=gan-ai|PersonAf=3|Poss=Yes
+3	ganai	ganiː	VERB	_	_	0	root	_	AlignBegin=27801|AlignEnd=28081|CaseAf=Gen|GenderAf=Masc|Gloss=see-3Masc.Acc|MSeg=gan-ai|PersonAf=3
 4	|c	|c	PUNCT	_	_	8	punct	_	AlignBegin=28081|AlignEnd=28361|Gloss=PUNCT
 5	sai	sai	ADV	_	_	8	mod	_	AlignBegin=28361|AlignEnd=28641|Gloss=until
 6	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=28641|AlignEnd=28921|Gloss=3Fem-|SpaceAfter=No|wordform=tab
@@ -432,7 +432,7 @@
 10	sa’ànnan	sa’ànnan	ADV	_	_	13	mod	_	AlignBegin=79233|AlignEnd=79595|Gloss=then
 11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=79957|AlignEnd=80319|Gloss=3Masc-|SpaceAfter=No|wordform=yat
 12	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
-13	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=80319|AlignEnd=80681|GenderAf=Masc|Gloss=go.Vnoun.Fem|Poss=Yes|SpaceAfter=No|wordfrom=tàhiyàːtai
+13	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=80319|AlignEnd=80681|GenderAf=Masc|Gloss=go.Vnoun.Fem|SpaceAfter=No|wordfrom=tàhiyàːtai
 14	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	13	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 15	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj/m	_	Gloss=3Masc.Gen
 16	//	//	PUNCT	_	_	13	punct	_	AlignBegin=80681|AlignEnd=81038|Gloss=PUNCT
@@ -594,7 +594,7 @@
 16	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	15	comp:obl	_	AlignBegin=106174|AlignEnd=106410|Gloss=3Plur.Dat
 17	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	18	subj/m	_	AlignBegin=106410|AlignEnd=106646|Gloss=1Sing|SpaceAfter=No
 18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	AlignBegin=106410|AlignEnd=106646|Gloss=Prog|wordform=inàː
-19	ɓaːcìː	ɓaːt-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	18	comp:pred	_	AlignBegin=106646|AlignEnd=106882|Gloss=insult.Vnoun.Masc|Poss=Yes|SpaceAfter=No|wordform=ɓaːcìnsu
+19	ɓaːcìː	ɓaːt-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	18	comp:pred	_	AlignBegin=106646|AlignEnd=106882|Gloss=insult.Vnoun.Masc|SpaceAfter=No|wordform=ɓaːcìnsu
 20	-n	-n	PART	_	Case=Gen|PartType=Case	19	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 21	-ta	-su	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Plur
 22	!//]	!//]	PUNCT	_	_	6	punct	_	AlignBegin=106882|AlignEnd=107118|Gloss=PUNCT
@@ -796,7 +796,7 @@
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=132608|AlignEnd=132777|Gloss=until
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=132777|AlignEnd=132946|Gloss=3Masc-|SpaceAfter=No|wordform=yat
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
-4	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=132946|AlignEnd=133115|GenderAf=Masc|Gloss=go.Vnoun.Fem|Poss=Yes|SpaceAfter=No|wordfrom=tàhiyàːtai
+4	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=132946|AlignEnd=133115|GenderAf=Masc|Gloss=go.Vnoun.Fem|SpaceAfter=No|wordfrom=tàhiyàːtai
 5	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
 7	//	//	PUNCT	_	_	4	punct	_	AlignBegin=133115|AlignEnd=133285|Gloss=PUNCT
