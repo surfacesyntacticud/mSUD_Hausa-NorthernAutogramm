@@ -9395,8 +9395,8 @@
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	“	“	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 5	koːmiː	koːmiː	PRON	_	PronType=Rel	15	mod	_	Gloss=anything
+6-8	kunkài=	_	_	_	_	_	_	_	_
 6	kun-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	8	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kunkà
-7-8	nkà=	_	_	_	_	_	_	_	_
 7	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 8	yi	yi	VERB	_	_	5	mod@relcl	_	Gloss=do
 9	min	min	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	comp:obl	_	Gloss=1Sing.Dat
