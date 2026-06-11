@@ -6860,17 +6860,18 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__335
 # text_en = "I've been told they are coming. "
 # text_ortho = "inàː dà nàːbaːrìn sunàː zakkùwaː ."
-# text = " i- nàː dà nàːbaːrìn su- nàː zakkùwaː ".
+# text = " i-nàː dà nàːbaːrì -n su-nàː zakkùwaː ".
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 2	i-	i-	PRON	_	Copula=Yes|Number=Sing|Person=1|PronType=Prs	3	subj/m	_	Gloss=1Sing|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=inàː
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
-5	nàːbaːrìn	nàːbaːrìː	NOUN	_	Definite=Def|Gender=Masc	4	comp:obj	_	Gloss=story.Masc.Def
-6	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	7	subj/m	_	Gloss=3Plur|SpaceAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	mod@relcl	_	Gloss=Prog|wordform=sunàː
-8	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem	7	comp:pred	_	Gloss=arrive.Vnoun.Fem|VerbForm=Vnoun
-9	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
-10	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+5	nàːbaːrì	nàːbaːrìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=story.Masc
+6	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
+7	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Plur|SpaceAfter=No
+8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	Gloss=Prog|wordform=sunàː
+9	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:pred	_	Gloss=arrive.Vnoun.Fem|VerbForm=Vnoun
+10	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
+11	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__336
 # text = " i-nàː dà nàːbaːrì-n su-nàː zakkùwaː, n-aː= bar sallamàd dà zâː-a= yi musù in su-nkà= kwan dà saːhe ".
@@ -9388,13 +9389,13 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__458
 # text_en = Whatever you did to me, it's not you who did it. "
 # text_ortho = "koːmiː kunkài min wànnan bàː yînku nàː ba. "
-# text = yac=cèː “ koːmiː kunkài min wànnan bàː yî-n-ku nàː ba “.
+# text = ya-Ø= cèː “ koːmiː kun-nkà= min wànnan bàː yî-n-ku nàː ba “.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	“	“	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 5	koːmiː	koːmiː	PRON	_	PronType=Rel	15	mod	_	Gloss=anything
-6	mun-	mu	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	8	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kunkà
+6	kun-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	8	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kunkà
 7-8	nkà=	_	_	_	_	_	_	_	_
 7	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 8	yi	yi	VERB	_	_	5	mod@relcl	_	Gloss=do
@@ -11836,7 +11837,7 @@
 14	îskè	isk-	VERB	_	_	0	root	_	Gloss=find
 15	Gìlaːgèː	Gìlaːgèː	PROPN	_	_	14	comp:obj	_	Gloss=Gìlaːgèː
 16	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Plur|SpaceAfter=No
-17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	mod@relcl	_	Gloss=Prog|wordform=sunàː
+17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	parataxis@mod	_	Gloss=Prog|wordform=sunàː
 18	darà	darà	NOUN	_	Gender=Masc	17	comp:pred	_	Gloss=draughts_sp.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	dislocated@subj	_	Gloss=3Plur.Nom
