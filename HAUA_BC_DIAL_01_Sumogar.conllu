@@ -2438,7 +2438,7 @@
 10	//	//	PUNCT	_	_	3	punct	_	AlignBegin=474926|AlignEnd=475120|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_136-136
-# text = bâː yunwàː tah hîrkassheː kà gidaː //
+# text = bâː yunwàː ta-Ø= hîrkassheː kà gidaː //
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_01.WAV
 # sent_timecode = 475540, 476540
@@ -2448,7 +2448,7 @@
 2	yunwàː	yunwàː	NOUN	_	Gender=Fem	1	subj	_	AlignBegin=475683|AlignEnd=475826|Gloss=hunger.Fem
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=475826|AlignEnd=475969|Gloss=3Fem-|SpaceAfter=No|wordform=tah
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=h=
-5	hîrkassheː	fit-	VERB	_	Voice=Cau	2	mod@relcl	_	AlignBegin=475969|AlignEnd=476112|Gloss=come_out.Cau
+5	hîrkassheː	fit-	VERB	_	Voice=Cau	2	mod@relcl	_	AlignBegin=475969|AlignEnd=476112|ClauseType=Rel|Gloss=come_out.Cau|RelRole=subj
 6	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	5	comp:obj@T	_	AlignBegin=476112|AlignEnd=476255|Gloss=2Masc
 7	gidaː	gidaː	NOUN	_	Gender=Masc	5	comp:obj@S	_	AlignBegin=476255|AlignEnd=476398|Gloss=house.Masc
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=476398|AlignEnd=476540|Gloss=PUNCT
