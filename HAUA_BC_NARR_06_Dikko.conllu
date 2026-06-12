@@ -2237,10 +2237,10 @@
 3	sâː	sâː	VERB	_	_	2	comp:pred	_	Gloss=put
 4	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shi
 5	wuriː	wuriː	NOUN	_	Gender=Masc	3	comp:obj@L	_	Gloss=place.Masc
-6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	9	comp:obj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=word
+6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=word
 7	bâ-	bâː-	PART	_	Aspect=Prog|Gender=Masc|PartType=TAM|Polarity=Neg	9	mod/m	_	Gloss=Neg.Prog|SpaceAfter=No|wordform=bâi
 8	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc=
-9	tsòːroː	tsòːroː	NOUN	_	Gender=Masc	5	mod@relcl	_	ClauseType=Rel|Gloss=fear.Masc|SpaceAfter=No
+9	tsòːroː	tsòːroː	NOUN	_	Gender=Masc	6	comp	_	ClauseType=Rel|Gloss=fear.Masc|RelRole=obj|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__112
@@ -17595,11 +17595,11 @@
 29	yâːra	yaːròː	NOUN	_	Number=Plur	25	conj:coord	_	Gloss=youth.Plur|SpaceAfter=No|wordform=yâːran
 30	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	29	udep/m	_	Gloss=Gen.Masc/Plur
 31	gàriː	gàriː	NOUN	_	Gender=Masc	30	comp:obj	_	Gloss=town.Masc
-32	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	36	comp:obj	_	Gloss=who.Plur.Rel|RelPos=Yes|Relz=word
+32	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	29	mod@relcl	_	Gloss=who.Plur.Rel|Relz=word
 33	yaːƙìː	yaːƙìː	NOUN	_	Gender=Masc	36	subj	_	Gloss=army.Masc
 34	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 35	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	36	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
-36	ci	ci	VERB	_	_	29	mod@relcl	_	ClauseType=Rel|Gloss=win|SpaceAfter=No
+36	ci	ci	VERB	_	_	32	comp	_	ClauseType=Rel|Gloss=win|RelRole=obj|SpaceAfter=No
 37	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__838
