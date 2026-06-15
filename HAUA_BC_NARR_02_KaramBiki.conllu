@@ -597,7 +597,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_02_GKB.WAV
 # sent_timecode = 131520, 133080
 # text_ortho = dà yaw wucèː yaz zoːindà kàreː //
-# text = dà yaw wucèː yaz zoː indà kàreː //
+# text = dà ya-Ø= wucèː ya-Ø= zoː indà kàreː //
 # text_en = After he left, he went to Dog's house.
 1	dà	dà	SCONJ	_	_	7	mod	_	AlignBegin=131520|AlignEnd=131743|Gloss=as
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=131743|AlignEnd=131966|Gloss=3Masc-|SpaceAfter=No|wordform=yaw
@@ -606,8 +606,8 @@
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=132189|AlignEnd=132412|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
 7	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=132412|AlignEnd=132635|Gloss=go
-8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=132412|AlignEnd=132635|Gloss=where
-9	kàreː	kàreː	NOUN	_	Gender=Masc	8	mod@relcl	_	AlignBegin=132635|AlignEnd=132858|Gloss=dog.Masc
+8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=132412|AlignEnd=132635|ClauseType=Rel|Gloss=where
+9	kàreː	kàreː	NOUN	_	Gender=Masc	8	mod@relcl	_	AlignBegin=132635|AlignEnd=132858|Gloss=dog.Masc|RelRole=pred
 10	//	//	PUNCT	_	_	7	punct	_	AlignBegin=132858|AlignEnd=133080|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_32

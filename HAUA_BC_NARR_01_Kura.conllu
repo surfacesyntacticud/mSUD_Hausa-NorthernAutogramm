@@ -264,9 +264,9 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_01_KA.WAV
 # sent_timecode = 55620, 58780
 # text_ortho = koː ìnaː tag ga yaː yi kwànce-kwànce |c yaː duːna < sai tak kaːwoː maːshìː |c tas soːkàː maːshìː //
-# text = koːìnaː tag ga yaː yi kwànce-kwànce |c yaː duːna < sai tak kaːwoː maːshìː |c tas soːkàː maːshìː //
+# text = koːìnaː ta-Ø= ga y-aː= yi kwànce-kwànce |c y-aː= duːna < sai ta-Ø= kaːwoː maːshìː |c ta-Ø= soːkàː maːshìː //
 # text_en = Wherever she saw him get down and dive, she use the spear and stabbed.
-1	koːìnaː	koːìnaː	SCONJ	_	PronType=Rel	17	mod	_	AlignBegin=55620|AlignEnd=55778|Gloss=wherever
+1	koːìnaː	koːìnaː	SCONJ	_	_	17	mod	_	AlignBegin=55620|AlignEnd=55778|Gloss=wherever
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=55936|AlignEnd=56094|Gloss=3Fem-|SpaceAfter=No|wordform=tag
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=g=
 4	ga	gan-	VERB	_	_	1	comp:obj	_	AlignBegin=56094|AlignEnd=56252|Gloss=see
@@ -574,7 +574,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_01_KA.WAV
 # sent_timecode = 103106, 107353
 # text_ortho = yac cêː matà [ dìːba !//= tàhi indà giːwàːyên can !//= kì cêː musù inàː ɓaːcìnsu !//] //
-# text = yac cèː matà [ dìːba !//= tàhi indà giːwàːyên can !//= kì cêː musù inàː ɓaːcìnsu !//] //
+# text = ya-Ø= cèː matà [ dìːba !//=tàhi indà giːwàːyên can !//=ki-_̀=cêː musù i-nàː ɓaːcìː-n-ta !//] //
 # text_en = He told her "Look, go near those elephants, tell them that I'm insulting them!"
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=103106|AlignEnd=103342|Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
@@ -584,8 +584,8 @@
 6	dìːba	diːb-	VERB	_	_	3	comp:obj	_	AlignBegin=104050|AlignEnd=104286|Gloss=look.Impr|Imperative=Yes
 7	!//=	!//=	PUNCT	_	_	8	punct	_	AlignBegin=104286|AlignEnd=104522|Gloss=PUNCT|SpaceAfter=No
 8	tàhi	tah-	VERB	_	_	6	parataxis@conj	_	AlignBegin=104522|AlignEnd=104758|Gloss=go.Impr|Imperative=Yes
-9	indà	indà	ADV	_	PronType=Rel	8	comp:obj@G	_	AlignBegin=104758|AlignEnd=104994|Gloss=where
-10	giːwàːyên	giːwaː	NOUN	_	Definite=Def|Number=Plur	9	mod@relcl	_	AlignBegin=104994|AlignEnd=105230|Gloss=elephant.Plur.Def
+9	indà	indà	ADV	_	PronType=Rel	8	comp:obj@G	_	AlignBegin=104758|AlignEnd=104994|ClauseType=Rel|Gloss=where
+10	giːwàːyên	giːwaː	NOUN	_	Definite=Def|Number=Plur	9	mod@relcl	_	AlignBegin=104994|AlignEnd=105230|Gloss=elephant.Plur.Def|RelRole=pred
 11	can	can	DET	_	Deixis=Remt|PronType=Dem	10	det	_	AlignBegin=105230|AlignEnd=105466|Gloss=Remt
 12	!//=	!//=	PUNCT	_	_	15	punct	_	AlignBegin=105466|AlignEnd=105702|Gloss=PUNCT|SpaceAfter=No
 13	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	15	subj/m	_	AlignBegin=105702|AlignEnd=105938|Gloss=2Fem|SpaceAfter=No|wordform=kì
@@ -671,7 +671,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_01_KA.WAV
 # sent_timecode = 117479, 119202
 # text_ortho = sai sunkà yoː ridididiː > zakkùwaː indà shi kè //
-# text = sai sunkà= yoː ridididiː > zakkùwaː indà shi- kè //
+# text = sai sun-kà= yoː ridididiː > zakkùwaː indà shi-kè //
 # text_en = Then they went running to where he was.
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=117479|AlignEnd=117651|Gloss=until
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=117651|AlignEnd=117823|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
@@ -680,9 +680,9 @@
 5	ridididiː	ridididiː	ADV	_	_	4	mod	_	AlignBegin=117995|AlignEnd=118167|Gloss=running|Ideo=Yes
 6	>	>	PUNCT	_	_	7	punct	_	AlignBegin=118167|AlignEnd=118339|Gloss=PUNCT
 7	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=118339|AlignEnd=118511|Gloss=arrive.Vnoun.Fem
-8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=118511|AlignEnd=118683|Gloss=where
+8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=118511|AlignEnd=118683|ClauseType=Rel|Gloss=where
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=118855|AlignEnd=119027|Gloss=3Masc|SpaceAfter=No
-10	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	AlignBegin=118855|AlignEnd=119027|Gloss=Prog.Rel2|Relative=Variante
+10	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	AlignBegin=118855|AlignEnd=119027|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
 11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=119027|AlignEnd=119202|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_33-33
@@ -734,15 +734,15 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_01_KA.WAV
 # sent_timecode = 126420, 128020
 # text_ortho = koː dà sunkà kaːwoː indà shi kè < dus sun hwaːɗi |c sun kariːrìyeː //
-# text = koːdà sunkà= kaːwoː indà shi- kè < dus sun= hwaːɗì |c sun= kariːrìyeː //
+# text = koːdà sun-kà= kaːwoː indà shi-kè < dus su-n= hwaːɗì |c su-n= kariːrìyeː //
 # text_en = As soon as they arrived where he was, they all fell down and broke into pieces.
 1	koːdà	koːdà	SCONJ	_	_	12	discourse	_	AlignBegin=126420|AlignEnd=126527|Gloss=just_as
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=126634|AlignEnd=126741|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
 4	kaːwoː	kaːy-	VERB	_	_	1	comp:obj	_	AlignBegin=126741|AlignEnd=126848|Gloss=reach
-5	indà	indà	ADV	_	PronType=Rel	4	comp:obj@L	_	AlignBegin=126848|AlignEnd=126955|Gloss=where
+5	indà	indà	ADV	_	PronType=Rel	4	comp:obj@L	_	AlignBegin=126848|AlignEnd=126955|ClauseType=Rel|Gloss=where
 6	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=127062|AlignEnd=127169|Gloss=3Masc|SpaceAfter=No
-7	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	mod@relcl	_	AlignBegin=127062|AlignEnd=127169|Gloss=Prog.Rel2|Relative=Variante
+7	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	mod@relcl	_	AlignBegin=127062|AlignEnd=127169|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
 8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=127169|AlignEnd=127276|Gloss=PUNCT
 9	dus	dukà	DET	_	PronType=Tot	12	mod	_	AlignBegin=127276|AlignEnd=127383|Gloss=all
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=127383|AlignEnd=127490|Gloss=3Plur-|SpaceAfter=No|wordform=sun

@@ -1168,11 +1168,11 @@
 5	kiɗì	kiɗìː	NOUN	_	Gender=Masc	4	conj:appos	_	Compound=Yes|Gloss=music.Masc|SpaceAfter=No|wordform=kiɗìn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	mâyyaː	bàbbaː	ADJ	_	Number=Plur	6	comp:obj	_	Gloss=big.Plur
-8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	11	comp:pred	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 9	baː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Person=4|Polarity=Neg	11	mod/m	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
 10	à=	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=4=|wordform=baːà
 11-12	wâː	_	_	_	_	_	_	_	_
-11	yi	yi	VERB	_	_	5	mod@relcl	_	ClauseType=Rel|Gloss=do
+11	yi	yi	VERB	_	_	8	comp	_	ClauseType=Rel|Gloss=do|RelRole=obj
 12	wà	mà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
 13	'yan	ɗan	ADJ	_	Number=Plur	14	mod	_	Gloss=small.Plur
 14	yâːra	yaːròː	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=children|SpaceAfter=No
@@ -6293,10 +6293,10 @@
 9	a-	a-	PART	_	Mood=Pot|PartType=TAM	11	mod/m	_	Gloss=Pot=|SpaceAfter=No
 10	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	11	subj/m	_	Gloss=1Plur=|SpaceAfter=No|wordform=amu
 11	ga	gan-	VERB	_	_	0	root	_	Gloss=see
-12	wàdà	wàdà	ADV	_	PronType=Rel	11	mod	_	Gloss=how
+12	wàdà	wàdà	ADV	_	ExtPos=SCONJ|PronType=Rel	11	comp:obj	_	ClauseType=Rel|Gloss=how|Relz=Word
 13	zâ-	zâː-	PART	_	PartType=TAM|Tense=Fut	15	mod/m	_	Gloss=Fut-|SpaceAfter=No
 14	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=Masc=|wordform=zâi
-15	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	12	mod@relcl	_	Gloss=do.Vnoun.Masc
+15	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	12	mod@relcl	_	Gloss=do.Vnoun.Masc|RelRole=mod
 16	"	"	PUNCT	_	_	11	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -9389,16 +9389,16 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__458
 # text_en = Whatever you did to me, it's not you who did it. "
 # text_ortho = "koːmiː kunkài min wànnan bàː yînku nàː ba. "
-# text = ya-Ø= cèː “ koːmiː kun-nkà= min wànnan bàː yî-n-ku nàː ba “.
+# text = ya-Ø= cèː “ koːmiː kunkài min wànnan bàː yî-n-ku nàː ba “.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	“	“	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-5	koːmiː	koːmiː	PRON	_	PronType=Rel	15	mod	_	Gloss=anything
+5	koːmiː	koːmiː	SCONJ	_	_	15	mod	_	Gloss=anything
 6-8	kunkài	_	_	_	_	_	_	_	_
 6	kun-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	8	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kunkà
-7	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-8	yi	yi	VERB	_	_	5	mod@relcl	_	Gloss=do
+7	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+8	yi	yi	VERB	_	_	5	comp:obj	_	Gloss=do
 9	min	min	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	comp:obl	_	Gloss=1Sing.Dat
 10	wànnan	nan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	15	subj	_	Gloss=ProxH.Masc
 11	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
@@ -14238,10 +14238,10 @@
 31	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	33	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 32	mù=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	33	subj/m	_	Gloss=1Plur=|SpaceAfter=No|wordform=mù
 33	san	san-	VERB	_	_	27	parataxis@conj	_	Gloss=know
-34	wàdà	wàdà	ADV	_	PronType=Rel	33	comp:obj	_	Gloss=how
+34	wàdà	wàdà	ADV	_	PronType=Rel	33	comp:obj	_	ClauseType=Rel|Gloss=how|Relz=Word
 35	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	37	mod/m	_	Gloss=Fut-|SpaceAfter=No
 36	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	37	subj/m	_	Gloss=3Plur=|wordform=zâːsu
-37	kwaːshèːwaː	kwaːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	34	mod@relcl	_	Gloss=get_on.Vnoun.Fem
+37	kwaːshèːwaː	kwaːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	34	mod@relcl	_	Gloss=get_on.Vnoun.Fem|RelRole=mod
 38	ba	ba	PART	_	Polarity=Neg	33	mod	_	Gloss=Neg
 39	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
 40	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -18033,12 +18033,12 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__857
 # text_en = Well, as they told him that, he knew that the king's daughter had seen his wound.
 # text_ortho = tôː wàdà ankà cêː mai hakànan, yaː san ɗìyas sarkiː taː nìgìra dà makamiːnai .
-# text = tôː wàdà ankà cêː mai hakànan, yaː san ɗìyas sarkiː taː nìgìra dà makamiːnai .
+# text = tôː wàdà an-kà= cêː mai hakànan, y-aː= san ɗìya-s sarkiː t-aː= nìgìra dà makamiː-n-ai .
 1	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well
-2	wàdà	wàdà	ADV	_	PronType=Rel	11	mod	_	Gloss=how
+2	wàdà	wàdà	ADV	_	ExtPos=SCONJ|PronType=Rel	11	mod	_	ClauseType=Rel|Gloss=how|Relz=Word
 3	an-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-5	cêː	cêː	VERB	_	_	2	mod@relcl	_	Gloss=say
+5	cêː	cêː	VERB	_	_	2	mod@relcl	_	Gloss=say|RelRole=mod
 6	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	5	comp:obl	_	Gloss=3Masc.Dat
 7	hakànan	hakànan	ADV	_	_	5	mod	_	Gloss=like_that|SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT

@@ -396,26 +396,27 @@
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_03_GMH.WAV
 # sent_timecode = 49669, 51840
-# text = kóːkòːindà ankà yi dà ita < àmmaː dàw wurîn ga < bàtà wucèː ba //
+# text = kóːkòː indà an-nkà= dà ita < àmmaː dàw wurîn ga < bà-tà=wucèː ba //
 # text_en = Wherever they have taken it, from here, it has stopped moving.
-1	kóːkòːindà	kóːkòːindà	ADV	_	PronType=Rel	15	mod	_	AlignBegin=49669|AlignEnd=49824|Gloss=wherever
-2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=49824|AlignEnd=49979|Gloss=4-|SpaceAfter=No|wordform=ankà
-3-4	nkà=	_	_	_	_	_	_	_	_
-3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-4	yi	yi	VERB	_	_	1	mod@relcl	_	AlignBegin=49824|AlignEnd=49979|Gloss=do
-5	dà	dà	ADP	_	_	4	comp:obl	_	AlignBegin=49979|AlignEnd=50134|Gloss=with
-6	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=50134|AlignEnd=50289|Gloss=3Fem.Nom
-7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=50289|AlignEnd=50444|Gloss=PUNCT
-8	àmmaː	àmmaː	CCONJ	_	_	15	cc	_	AlignBegin=50444|AlignEnd=50599|Gloss=but
-9	dàw	dàk	ADP	_	_	15	mod	_	AlignBegin=50599|AlignEnd=50754|Gloss=from
-10	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	9	comp:obj	_	AlignBegin=50754|AlignEnd=50909|Gloss=place.Masc.Def
-11	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	10	det	_	AlignBegin=50909|AlignEnd=51064|Gloss=ProxS
-12	<	<	PUNCT	_	_	9	punct	_	AlignBegin=51064|AlignEnd=51219|Gloss=PUNCT
-13	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	15	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
-14	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=51219|AlignEnd=51374|Gloss=3Fem=|SpaceAfter=No|wordform=bàtà
-15	wucèː	wut-	VERB	_	_	0	root	_	AlignBegin=51374|AlignEnd=51529|Gloss=pass_by
-16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	AlignBegin=51529|AlignEnd=51684|Gloss=Neg
-17	//	//	PUNCT	_	_	15	punct	_	AlignBegin=51684|AlignEnd=51840|Gloss=PUNCT
+1	kóːkòː	kóːkòː	ADV	_	_	2	mod	_	AlignBegin=49669|AlignEnd=49824|Gloss=how
+2	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	16	mod	_	AlignBegin=49669|AlignEnd=49824|ClauseType=Rel|Gloss=where.Rel
+3	an-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=49824|AlignEnd=49979|Gloss=4-|SpaceAfter=No|wordform=ankà
+4-5	nkà=	_	_	_	_	_	_	_	_
+4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
+5	yi	yi	VERB	_	_	2	mod@relcl	_	AlignBegin=49824|AlignEnd=49979|Gloss=do|RelRole=G
+6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=49979|AlignEnd=50134|Gloss=with
+7	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=50134|AlignEnd=50289|Gloss=3Fem.Nom
+8	<	<	PUNCT	_	_	2	punct	_	AlignBegin=50289|AlignEnd=50444|Gloss=PUNCT
+9	àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	AlignBegin=50444|AlignEnd=50599|Gloss=but
+10	dàw	dàk	ADP	_	_	16	mod	_	AlignBegin=50599|AlignEnd=50754|Gloss=from
+11	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	AlignBegin=50754|AlignEnd=50909|Gloss=place.Masc.Def
+12	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	11	det	_	AlignBegin=50909|AlignEnd=51064|Gloss=ProxS
+13	<	<	PUNCT	_	_	10	punct	_	AlignBegin=51064|AlignEnd=51219|Gloss=PUNCT
+14	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	16	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
+15	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=51219|AlignEnd=51374|Gloss=3Fem=|SpaceAfter=No|wordform=bàtà
+16	wucèː	wut-	VERB	_	_	0	root	_	AlignBegin=51374|AlignEnd=51529|Gloss=pass_by
+17	ba	ba	PART	_	PartType=Neg|Polarity=Neg	16	mod	_	AlignBegin=51529|AlignEnd=51684|Gloss=Neg
+18	//	//	PUNCT	_	_	16	punct	_	AlignBegin=51684|AlignEnd=51840|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_03_GMH_15-15
 # speaker_id = SP
@@ -467,16 +468,16 @@
 16	bàːkin	bàːkin	ADP	_	_	14	conj:appos	_	AlignBegin=59692|AlignEnd=59958|Gloss=near
 17	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	16	comp:obj	_	AlignBegin=59958|AlignEnd=60224|Gloss=place.Masc.Def|RelAnt=Yes
 18	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	17	det	_	AlignBegin=60224|AlignEnd=60490|Gloss=PreRef|PreRef=Yes
-19	indà	indà	ADV	_	PronType=Rel	28	mod	_	AlignBegin=60490|AlignEnd=60756|Gloss=where.Rel|RelPos=Yes|Relz=Word
+19	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	17	mod@relcl	_	AlignBegin=60490|AlignEnd=60756|Gloss=where.Rel|Relz=Word
 20	an-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	AlignBegin=60756|AlignEnd=61022|Gloss=4-|SpaceAfter=No|wordform=ankà
 21	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-22	cêː	cêː	VERB	_	_	17	mod@relcl	_	AlignBegin=61022|AlignEnd=61288|ClauseType=Rel|Gloss=say
+22	cêː	cêː	VERB	_	_	19	comp:obj	_	AlignBegin=61022|AlignEnd=61288|ClauseType=Rel|Gloss=say
 23	shìga	shìgaː	NOUN	_	_	28	subj	_	AlignBegin=61288|AlignEnd=61554|GenderAf=Fem|Gloss=track.Fem|SpaceAfter=No|wordform=shìgattà
 24	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 25	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	24	comp:obj/m	_	Gloss=3Fem.Gen
 26	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	28	subj/m	_	AlignBegin=61554|AlignEnd=61820|Gloss=3Fem-|SpaceAfter=No|wordform=taː
 27	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	28	mod/m	_	Gloss=Perf.Sing
-28	s'ayàː	s'ay-	VERB	_	_	22	comp:obj	_	AlignBegin=61820|AlignEnd=62086|Gloss=stop
+28	s'ayàː	s'ay-	VERB	_	_	22	comp:obj	_	AlignBegin=61820|AlignEnd=62086|Gloss=stop|RelRole=L
 29	//	//	PUNCT	_	_	6	punct	_	AlignBegin=62086|AlignEnd=62360|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_03_GMH_17-17
