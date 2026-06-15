@@ -10581,19 +10581,19 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__513-4
 # text_en = He said that he thought whenever a man's heart failed him, even if his trousers are tied really tight, his belt must get a little loose because of all the wriggling he does as if he is defecating, if a man breaks down. "
 # text_ortho = yac cèː shinàː tàmmahà indà duk namijì yak kaːc'èː, koː wàndoːnai shinàː ɗàːme gau gau gau, gam gam gam shikè, sai taːzàraːtai taː ɗan sakìː kàɗan dan duz zardàɓeːwàː shikài kàmas shì yi zaːwòː, namijì in yak kaːc'èː ba ?
-# text = yac= cèː shi- nàː tàmmahà indà duk namijì yak= kaːc'èː, koː wàndoːnai shi- nàː ɗàːme gau gau gau, gam gam gam shi-kè, sai taːzàraː-t-ai taː= ɗan sakìː kàɗan dan duz zardàɓeːwàː shi- shikài kàmas shì= yi zaːwòː, namijì in yak= kaːc'èː ba ?
+# text = ya-Ø= cèː shi-nàː tàmmahà indà duk namijì ya-Ø= kaːc'èː, koː wàndoːnai shi-nàː ɗàːme gau gau gau, gam gam gam shi-kè, sai taːzàraː-t-ai t-aː= ɗan sakìː kàɗan dan duz zardàɓeːwàː shi-shikài kàmas shi-_̀=yi zaːwòː, namijì in ya-Ø= kaːc'èː ba ?
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Masc|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	Gloss=Prog|wordform=shinàː
 6	tàmmahà	tàmmahà	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=thought.Fem
-7	indà	indà	PRON	_	PronType=Rel	36	mod	_	Gloss=where
-8	duk	dukà	DET	_	PronType=Tot	7	det	_	Gloss=all
+7	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	36	mod	_	ClauseType=Rel|Gloss=when.Rel|Relz=Word
+8	duk	dukà	ADV	_	PronType=Tot	7	mod	_	Gloss=all
 9	namijì	namijì	NOUN	_	Gender=Masc	12	subj	_	Gloss=man
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yak
 11	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
-12	kaːc'èː	kaːts-	VERB	_	_	7	mod@relcl	_	Gloss=snap|SpaceAfter=No
+12	kaːc'èː	kaːts-	VERB	_	_	7	mod@relcl	_	Gloss=snap|RelRole=L|SpaceAfter=No
 13	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 14	koː	koː	SCONJ	_	_	36	mod	_	Gloss=even_if
 15	wàndoːnai	wàndoː	PRON	_	Gender=Masc|PronType=Prs	17	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=trousers.Masc -3MascGen|MSeg=wàndoːn-ai|PersonAf=3
@@ -10617,7 +10617,7 @@
 33	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	36	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
 34	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	36	mod/m	_	Gloss=Perf.Sing
 35	ɗan	ɗan	ADV	_	_	36	mod	_	Gloss=little
-36	sakìː	sak-	VERB	_	_	6	comp:obj	_	Gloss=get_loose
+36	sakìː	sak-	VERB	_	_	6	comp:obj	_	Gloss=get_loose|RelRole=obj
 37	kàɗan	kàɗan	ADV	_	_	36	mod	_	Gloss=little
 38	dan	don	ADP	_	_	36	mod	_	Gloss=because_of
 39	duz	dukà	DET	_	PronType=Tot	40	det	_	Gloss=all
@@ -17426,11 +17426,11 @@
 16	kwarai	kwarai	ADV	_	_	15	comp:obj	_	Gloss=correct
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and
 18	doːkìː	doːkìː	NOUN	_	Gender=Masc	14	conj:coord	_	Gloss=horse.Mac
-19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	23	comp:obj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+19	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	18	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
 20	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	22	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 21	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem=|SpaceAfter=No|wordform=tà
-22	taɓà	taɓ-	VERB	_	_	18	mod@relcl	_	ClauseType=Rel|Gloss=touch
-23	ganiː	gan-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=see.Vnoun.Masc
+22	taɓà	taɓ-	VERB	_	_	19	comp:obj	_	ClauseType=Rel|Gloss=touch
+23	ganiː	gan-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:obj	_	Gloss=see.Vnoun.Masc|RelRole=obj
 24	ba	ba	PART	_	Polarity=Neg	22	mod	_	Gloss=Neg|SpaceAfter=No
 25	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -17912,10 +17912,10 @@
 18	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	20	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=naː
 19	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 20	ga	gan-	VERB	_	_	9	comp:obj@T	_	Gloss=see
-21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	24	subj	_	Gloss=Pron.Masc.Rel|RelPos=Yes|Relz=Word
+21	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	20	comp:obj	_	ClauseType=Rel|Gloss=Pron.Masc.Rel|Relz=Word
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya
 23	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform==
-24	àːgìjeː	aːgiz-	VERB	_	_	20	comp:obj	_	ClauseType=Rel|Gloss=protect
+24	àːgìjeː	aːgiz-	VERB	_	_	21	mod@relcl	_	Gloss=protect|RelRole=subj
 25	-mù	-mù	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	24	comp:obj/m	_	Gloss=-1Plur.Acc
 26	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
 27	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
