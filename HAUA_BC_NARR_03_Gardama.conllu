@@ -335,11 +335,11 @@
 # text_en = If it came out [of the water] and went along some stones, he followed her track.
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=41762|AlignEnd=41902|Gloss=3Fem|SpaceAfter=No|wordform=tà
 2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub|SpaceAfter=No
-3	hìta	fit-	VERB	_	_	11	parataxis@mod	_	AlignBegin=41902|AlignEnd=42042|Gloss=get_out
+3	hìta	fit-	VERB	_	_	11	parataxis:mod	_	AlignBegin=41902|AlignEnd=42042|Gloss=get_out
 4	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=42042|AlignEnd=42182|Gloss=PUNCT|SpaceAfter=No
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=42182|AlignEnd=42322|Gloss=3Fem|SpaceAfter=No|wordform=tà
 6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub|SpaceAfter=No
-7	bi	bi	VERB	_	_	3	parataxis@conj	_	AlignBegin=42322|AlignEnd=42462|Gloss=follow
+7	bi	bi	VERB	_	_	3	parataxis:conj	_	AlignBegin=42322|AlignEnd=42462|Gloss=follow
 8	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=42462|AlignEnd=42602|Gloss=stone.Masc
 9	<	<	PUNCT	_	_	3	punct	_	AlignBegin=42602|AlignEnd=42742|Gloss=PUNCT
 10	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=42742|AlignEnd=42882|Gloss=3Masc|SpaceAfter=No
@@ -587,7 +587,7 @@
 11	îskè	isk-	VERB	_	_	0	root	_	AlignBegin=83034|AlignEnd=83380|Gloss=find
 12	mùtûm	mùtunèː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=83380|AlignEnd=83726|Gloss=human.Masc
 13	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=83726|AlignEnd=84072|Gloss=3Masc|SpaceAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	parataxis@conj	_	AlignBegin=83726|AlignEnd=84072|Gloss=Prog|wordform=shinàː
+14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	parataxis:conj	_	AlignBegin=83726|AlignEnd=84072|Gloss=Prog|wordform=shinàː
 15	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=84072|AlignEnd=84418|Gloss=milk.Vnoun.Fem|SpaceAfter=No|wordform=taːs'às
 16	-s	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem|wordform=-C
 17	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	16	comp:obj	_	AlignBegin=84418|AlignEnd=84764|Gloss=cow.Fem.Def
@@ -657,7 +657,7 @@
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
 3	ƙùrus	X	ADV	_	_	2	comp:obj	_	AlignBegin=106233|AlignEnd=106346|Gloss=X|Ideo=Yes
 4	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=106346|AlignEnd=106459|Gloss=PUNCT|SpaceAfter=No
-5	kâ	kâi	NOUN	_	Gender=Masc	1	parataxis@conj	_	AlignBegin=106459|AlignEnd=106572|Compound=Yes|Gloss=head.Masc|SpaceAfter=No|wordform=kân
+5	kâ	kâi	NOUN	_	Gender=Masc	1	parataxis:conj	_	AlignBegin=106459|AlignEnd=106572|Compound=Yes|Gloss=head.Masc|SpaceAfter=No|wordform=kân
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	kuːsùː	kuːsùː	NOUN	_	Gender=Masc	6	comp:obj	_	AlignBegin=106572|AlignEnd=106685|Gloss=mouse.Masc
 8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=106685|AlignEnd=106800|Gloss=PUNCT

@@ -492,7 +492,7 @@
 # text = tôː hm̂ː //
 # text_en = Well er...
 1	tôː	tôː	INTJ	_	_	0	root	_	AlignBegin=103596|AlignEnd=103959|Gloss=well
-2	hm̂ː	hm̂ː	INTJ	_	_	1	parataxis@conj	_	AlignBegin=103959|AlignEnd=104322|Gloss=er
+2	hm̂ː	hm̂ː	INTJ	_	_	1	parataxis:conj	_	AlignBegin=103959|AlignEnd=104322|Gloss=er
 3	//	//	PUNCT	_	_	1	punct	_	AlignBegin=104322|AlignEnd=104685|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_26
@@ -650,7 +650,7 @@
 11	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	13	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 12	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	13	subj/m	_	AlignBegin=139292|AlignEnd=139516|Gloss=1Sing=|SpaceAfter=No|wordform=ìn
 13	ji	ji	VERB	_	_	14	parataxis@discourse	_	AlignBegin=139516|AlignEnd=139740|Gloss=hear
-14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	8	parataxis@conj	_	AlignBegin=139740|AlignEnd=139964|Gloss=there_is.Neg
+14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	8	parataxis:conj	_	AlignBegin=139740|AlignEnd=139964|Gloss=there_is.Neg
 15	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	14	subj	_	AlignBegin=139964|AlignEnd=140188|Gloss=leopard.Fem
 16	?//]	?//]	PUNCT	_	_	8	punct	_	AlignBegin=140188|AlignEnd=140412|Gloss=PUNCT
 17	//	//	PUNCT	_	_	4	punct	_	AlignBegin=140412|AlignEnd=140640|Gloss=PUNCT
@@ -906,7 +906,7 @@
 14	//=	//=	PUNCT	_	_	17	punct	_	AlignBegin=186257|AlignEnd=186622|Gloss=PUNCT|SpaceAfter=No
 15	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	17	subj/m	_	AlignBegin=186622|AlignEnd=186987|Gloss=2Masc|SpaceAfter=No|wordform=kaː
 16	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Sing=
-17	zakà	zak-	VERB	_	_	13	parataxis@conj	_	AlignBegin=186987|AlignEnd=187352|Gloss=arrive
+17	zakà	zak-	VERB	_	_	13	parataxis:conj	_	AlignBegin=186987|AlignEnd=187352|Gloss=arrive
 18	?//]	?//]	PUNCT	_	_	13	punct	_	AlignBegin=187352|AlignEnd=187717|Gloss=PUNCT
 19	//	//	PUNCT	_	_	7	punct	_	AlignBegin=187717|AlignEnd=188087|Gloss=PUNCT
 
@@ -989,7 +989,7 @@
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=195682|AlignEnd=195894|Gloss=PUNCT
 5	wùceː	wut-	VERB	_	_	3	comp:obj	_	AlignBegin=195894|AlignEnd=196106|Gloss=move.Impr|Imperative=Yes
 6	!//=	!//=	PUNCT	_	_	7	punct	_	AlignBegin=196106|AlignEnd=196318|Gloss=PUNCT|SpaceAfter=No
-7	gàː	gàː	PART	_	PartType=Pred	5	parataxis@conj	_	AlignBegin=196318|AlignEnd=196530|Gloss=here_is
+7	gàː	gàː	PART	_	PartType=Pred	5	parataxis:conj	_	AlignBegin=196318|AlignEnd=196530|Gloss=here_is
 8	naːmàː	naːmàː	NOUN	_	Gender=Masc	7	subj	_	AlignBegin=196530|AlignEnd=196742|Gloss=meat.Masc
 9	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	7	comp:pred	_	AlignBegin=196742|AlignEnd=196954|Gloss=ProxS
 10	//]	//]	PUNCT	_	_	5	punct	_	AlignBegin=196954|AlignEnd=197166|Gloss=PUNCT
@@ -1146,13 +1146,13 @@
 # text_en = Get in, here is Cat, eat him!
 1	shìga	shig-	VERB	_	_	0	root	_	AlignBegin=216753|AlignEnd=217152|Gloss=enter.Impr|Imperative=Yes
 2	!//=	!//=	PUNCT	_	_	3	punct	_	AlignBegin=217152|AlignEnd=217551|Gloss=PUNCT|SpaceAfter=No
-3	gàː	gàː	PART	_	PartType=Pred	1	parataxis@conj	_	AlignBegin=217551|AlignEnd=217950|Gloss=here_is
+3	gàː	gàː	PART	_	PartType=Pred	1	parataxis:conj	_	AlignBegin=217551|AlignEnd=217950|Gloss=here_is
 4	mùzuruː	mùzuruː	NOUN	_	Gender=Masc	3	subj	_	AlignBegin=217950|AlignEnd=218349|Gloss=cat.Masc
 5	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	3	comp:pred	_	AlignBegin=218349|AlignEnd=218748|Gloss=ProxS
 6	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=218748|AlignEnd=219147|Gloss=PUNCT|SpaceAfter=No
 7	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	AlignBegin=219147|AlignEnd=219546|Gloss=2Masc|SpaceAfter=No|wordform=kà
 8	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	9	mod/m	_	Gloss=Sub|SpaceAfter=No
-9	ci	ci	VERB	_	_	3	parataxis@conj	_	AlignBegin=219546|AlignEnd=219945|Gloss=eat
+9	ci	ci	VERB	_	_	3	parataxis:conj	_	AlignBegin=219546|AlignEnd=219945|Gloss=eat
 10	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=219945|AlignEnd=220348|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_64
@@ -1167,7 +1167,7 @@
 3	cân	can	ADV	_	Deixis=Remt|PronType=Dem	2	comp:pred	_	AlignBegin=221797|AlignEnd=222123|Gloss=Rmt
 4	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=222123|AlignEnd=222449|Gloss=PUNCT
 5	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=222449|AlignEnd=222775|Gloss=3Masc|SpaceAfter=No
-6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis@conj	_	AlignBegin=222449|AlignEnd=222775|Gloss=Prog|wordform=shinàː
+6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis:conj	_	AlignBegin=222449|AlignEnd=222775|Gloss=Prog|wordform=shinàː
 7	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=222775|AlignEnd=223101|Gloss=eat.Vnoun.Masc|SpaceAfter=No|wordform=cîn
 8	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
 9	mùzuːruː	mùzuːruː	NOUN	_	Gender=Masc	8	comp:obj	_	AlignBegin=223101|AlignEnd=223427|Gloss=cat.Masc
@@ -1223,7 +1223,7 @@
 # text_en = Get in, Dog is there.
 1	shìga	shig-	VERB	_	_	0	root	_	AlignBegin=230245|AlignEnd=230462|Gloss=enter.Impr|Imperative=Yes
 2	!//=	!//=	PUNCT	_	_	3	punct	_	AlignBegin=230462|AlignEnd=230679|Gloss=PUNCT|SpaceAfter=No
-3	gàː	gàː	PART	_	PartType=Pred	1	parataxis@conj	_	AlignBegin=230679|AlignEnd=230896|Gloss=here_is
+3	gàː	gàː	PART	_	PartType=Pred	1	parataxis:conj	_	AlignBegin=230679|AlignEnd=230896|Gloss=here_is
 4	kàreː	kàreː	NOUN	_	Gender=Masc	3	subj	_	AlignBegin=230896|AlignEnd=231113|Gloss=dog.Masc
 5	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	3	comp:pred	_	AlignBegin=231113|AlignEnd=231330|Gloss=ProxS
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=231330|AlignEnd=231548|Gloss=PUNCT
@@ -1299,7 +1299,7 @@
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=243368|AlignEnd=243612|Gloss=PUNCT
 5	shìga	shig-	VERB	_	_	3	comp:obj	_	AlignBegin=243612|AlignEnd=243856|Gloss=enter.Impr|Imperative=Yes
 6	!//=	!//=	PUNCT	_	_	7	punct	_	AlignBegin=243856|AlignEnd=244100|Gloss=PUNCT|SpaceAfter=No
-7	gàː	gàː	PART	_	PartType=Pred	5	parataxis@conj	_	AlignBegin=244100|AlignEnd=244344|Gloss=here_is
+7	gàː	gàː	PART	_	PartType=Pred	5	parataxis:conj	_	AlignBegin=244100|AlignEnd=244344|Gloss=here_is
 8	kuːraː	kuːraː	NOUN	_	Gender=Fem	7	subj	_	AlignBegin=244344|AlignEnd=244588|Gloss=hyena.Fem
 9	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	7	comp:pred	_	AlignBegin=244588|AlignEnd=244832|Gloss=ProxS
 10	//]	//]	PUNCT	_	_	5	punct	_	AlignBegin=244832|AlignEnd=245076|Gloss=PUNCT
