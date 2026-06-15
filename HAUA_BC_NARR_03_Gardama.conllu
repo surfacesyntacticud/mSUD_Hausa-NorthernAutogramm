@@ -112,7 +112,7 @@
 6	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	comp:obj/m	_	Gloss=3Plur.Gen
 7	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=6889|AlignEnd=7112|Gloss=PUNCT|SpaceAfter=No
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=7112|AlignEnd=7335|Gloss=4|SpaceAfter=No
-9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis	_	AlignBegin=7112|AlignEnd=7335|Gloss=Prog|wordform=anàː
+9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis:conj	_	AlignBegin=7112|AlignEnd=7335|Gloss=Prog|wordform=anàː
 10	gardamà	gardamàː	NOUN	_	_	9	comp:pred	_	AlignBegin=7335|AlignEnd=7558|Gloss=comparing.Fem|SpaceAfter=No|wordform=gardamàssu
 11	-s	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem|SpaceAfter=No
 12	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	comp:obj/m	_	Gloss=3Plur.Gen

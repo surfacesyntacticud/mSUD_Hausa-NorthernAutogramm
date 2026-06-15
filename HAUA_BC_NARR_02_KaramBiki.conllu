@@ -298,7 +298,7 @@
 # text_en = You see, let's fill what remains.
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=50920|AlignEnd=51145|Gloss=2Masc|SpaceAfter=No|wordform=kaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing=
-3	ga	gan-	VERB	_	_	8	parataxis@discourse	_	AlignBegin=51145|AlignEnd=51370|Gloss=see
+3	ga	gan-	VERB	_	_	8	parataxis:discourse	_	AlignBegin=51145|AlignEnd=51370|Gloss=see
 4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=51370|AlignEnd=51595|Gloss=PUNCT
 5	sai	sai	ADV	_	_	8	mod	_	AlignBegin=51595|AlignEnd=51820|Gloss=then
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	AlignBegin=51820|AlignEnd=52045|Gloss=4|SpaceAfter=No|wordform=à
@@ -575,7 +575,7 @@
 4	[	[	PUNCT	_	_	8	punct	_	AlignBegin=126576|AlignEnd=126864|Gloss=PUNCT
 5	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 6	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=126864|AlignEnd=127152|Gloss=1Sing=|SpaceAfter=No|wordform=ìn
-7	ji	ji	VERB	_	_	8	parataxis@discourse	_	AlignBegin=127152|AlignEnd=127440|Gloss=hear
+7	ji	ji	VERB	_	_	8	parataxis:discourse	_	AlignBegin=127152|AlignEnd=127440|Gloss=hear
 8	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	AlignBegin=127440|AlignEnd=127728|Gloss=there_is.Neg
 9	kàreː	kàreː	NOUN	_	Gender=Masc	8	subj	_	AlignBegin=127728|AlignEnd=128016|Gloss=dog.Masc
 10	?//]	?//]	PUNCT	_	_	8	punct	_	AlignBegin=128016|AlignEnd=128304|Gloss=PUNCT
@@ -649,7 +649,7 @@
 10	//=	//=	PUNCT	_	_	14	punct	_	AlignBegin=139068|AlignEnd=139292|Gloss=PUNCT|SpaceAfter=No
 11	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	13	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 12	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	13	subj/m	_	AlignBegin=139292|AlignEnd=139516|Gloss=1Sing=|SpaceAfter=No|wordform=ìn
-13	ji	ji	VERB	_	_	14	parataxis@discourse	_	AlignBegin=139516|AlignEnd=139740|Gloss=hear
+13	ji	ji	VERB	_	_	14	parataxis:discourse	_	AlignBegin=139516|AlignEnd=139740|Gloss=hear
 14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	8	parataxis:conj	_	AlignBegin=139740|AlignEnd=139964|Gloss=there_is.Neg
 15	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	14	subj	_	AlignBegin=139964|AlignEnd=140188|Gloss=leopard.Fem
 16	?//]	?//]	PUNCT	_	_	8	punct	_	AlignBegin=140188|AlignEnd=140412|Gloss=PUNCT
@@ -735,7 +735,7 @@
 5	[	[	PUNCT	_	_	9	punct	_	AlignBegin=149314|AlignEnd=149504|Gloss=PUNCT
 6	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 7	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=149504|AlignEnd=149694|Gloss=1Sing=|SpaceAfter=No|wordform=ìn
-8	ji	ji	VERB	_	_	9	parataxis@discourse	_	AlignBegin=149694|AlignEnd=149884|Gloss=hear
+8	ji	ji	VERB	_	_	9	parataxis:discourse	_	AlignBegin=149694|AlignEnd=149884|Gloss=hear
 9	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	comp:obj	_	AlignBegin=149884|AlignEnd=150074|Gloss=there_is.Neg
 10	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	9	subj	_	AlignBegin=150074|AlignEnd=150264|Gloss=leopard.Fem
 11	?//]	?//]	PUNCT	_	_	9	punct	_	AlignBegin=150264|AlignEnd=150454|Gloss=PUNCT
@@ -790,7 +790,7 @@
 5	[	[	PUNCT	_	_	9	punct	_	AlignBegin=157312|AlignEnd=157518|Gloss=PUNCT
 6	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 7	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=157518|AlignEnd=157724|Gloss=1Sing=|SpaceAfter=No|wordform=ìn
-8	ji	ji	VERB	_	_	9	parataxis@discourse	_	AlignBegin=157724|AlignEnd=157930|Gloss=hear
+8	ji	ji	VERB	_	_	9	parataxis:discourse	_	AlignBegin=157724|AlignEnd=157930|Gloss=hear
 9	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	comp:obj	_	AlignBegin=157930|AlignEnd=158136|Gloss=there_is.Neg
 10	zaːkìː	zaːkìː	NOUN	_	Gender=Masc	9	subj	_	AlignBegin=158136|AlignEnd=158342|Gloss=lion.Masc
 11	?//]	?//]	PUNCT	_	_	9	punct	_	AlignBegin=158342|AlignEnd=158548|Gloss=PUNCT

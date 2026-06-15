@@ -2621,7 +2621,7 @@
 8	geːmèː	geːmèː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=362979|AlignEnd=363246|Gloss=beard.Masc
 9	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=363246|AlignEnd=363513|Gloss=PUNCT
 10	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=363513|AlignEnd=363780|Gloss=3Masc|SpaceAfter=No
-11	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis	_	AlignBegin=363513|AlignEnd=363780|Gloss=Prog|wordform=shinàː
+11	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis:conj	_	AlignBegin=363513|AlignEnd=363780|Gloss=Prog|wordform=shinàː
 12-13	tai	_	_	_	_	_	_	_	_
 12	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	13	mod	_	AlignBegin=363780|AlignEnd=364047|Gloss=Iter
 13	yi	yi	VERB	_	_	11	comp:pred	_	AlignBegin=363780|AlignEnd=364047|Gloss=do
