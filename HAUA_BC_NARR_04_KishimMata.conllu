@@ -768,8 +768,8 @@
 8	wuri	wuriː	NOUN	_	Gender=Masc	7	comp:obj@G	_	AlignBegin=117460|AlignEnd=117660|Compound=Yes|Gloss=place.Masc|SpaceAfter=No|wordform=wurin
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Fem
 10	wargiː	wargiː	NOUN	_	Gender=Masc	9	comp:obj	_	AlignBegin=117660|AlignEnd=117860|Gloss=playing.Masc
-11	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	8	mod@relcl	_	AlignBegin=117860|AlignEnd=118060|Gloss=where.Rel|Relz=Word
-12	yâːra	yaːròː	NOUN	_	Number=Plur	11	mod@relcl	_	AlignBegin=118060|AlignEnd=118260|ClauseType=Rel|Gloss=child.Plur|RelRole=pred|wordform=yâːraː
+11	indà	indà	ADV	_	PronType=Rel	8	conj:appos	_	AlignBegin=117860|AlignEnd=118060|ClauseType=Rel|Gloss=where.Rel|Relz=Word
+12	yâːra	yaːròː	NOUN	_	Number=Plur	11	mod@relcl	_	AlignBegin=118060|AlignEnd=118260|Gloss=child.Plur|RelRole=pred|wordform=yâːraː
 13	|c	|c	PUNCT	_	_	17	punct	_	AlignBegin=118260|AlignEnd=118460|Gloss=PUNCT
 14	sai	sai	ADV	_	_	17	mod	_	AlignBegin=118460|AlignEnd=118660|Gloss=then
 15	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=118660|AlignEnd=118860|Gloss=3Masc|SpaceAfter=No|wordform=shì

@@ -397,7 +397,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_01.WAV
 # sent_timecode = 91200, 102380
 # text_ortho = bàː kaː san < sa'àn nan < dà Ìlleːlàː nan |c dà Gidan tudùː |c dà Galmaːwaː wandà ab Bàgawailèː < du' < Ìlleːlàː >+ ankà àihwai //
-# text = bàː kaː= san < sa'ànnan < dà Ìlleːlàː nan |c dà Gidan Tudùː |c dà Galmaːwaː wandà ab Bàgawailèː < du' < Ìlleːlàː >+ ankà= àihwai //
+# text = bàː k-aː= san < sa'ànnan < dà Ìlleːlàː nan |c dà Gidan Tudùː |c dà Galmaːwaː wandà ab Bàgawailèː < du' < Ìlleːlàː >+ an-kà= àihwai //
 # text_en = Don't you know that at that time, Illela, Gidan Tudu and Galmawa, those who are "Bagawaile", all, they were born in Illela.
 1	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=91200|AlignEnd=91599|Gloss=Neg
 2	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=91599|AlignEnd=91998|Gloss=2Masc|SpaceAfter=No|wordform=kaː
@@ -416,8 +416,8 @@
 15	|c	|c	PUNCT	_	_	17	punct	_	AlignBegin=96786|AlignEnd=97185|Gloss=PUNCT
 16	dà	dà	CCONJ	_	_	17	cc	_	AlignBegin=97185|AlignEnd=97584|Gloss=and
 17	Galmaːwaː	Galmaːwaː	PROPN	_	_	13	mod	_	AlignBegin=97584|AlignEnd=97983|Gloss=Galmaːwaː
-18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	24	dislocated	_	AlignBegin=97983|AlignEnd=98382|Gloss=which.Masc
-19	ab	neː	AUX	_	Copula=Yes	18	mod@relcl	_	AlignBegin=98382|AlignEnd=98781|Gloss=Ident.Rel|Relative=Yes
+18	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	9	conj:appos	_	AlignBegin=97983|AlignEnd=98382|ClauseType=Rel|Gloss=which.Masc|Relz=Word
+19	ab	neː	AUX	_	Copula=Yes	18	mod@relcl	_	AlignBegin=98382|AlignEnd=98781|Gloss=Ident.Rel|Relative=Yes|RelRole=subj
 20	Bàgawailèː	Bàgawailèː	PROPN	_	Gender=Masc	19	comp:pred	_	AlignBegin=98781|AlignEnd=99180|Gloss=Bagawaile.Masc
 21	<	<	PUNCT	_	_	18	punct	_	AlignBegin=99180|AlignEnd=99579|Gloss=PUNCT
 22	du'	dukà	DET	_	ExtPos=PRON|PronType=Tot	24	dislocated	_	AlignBegin=99579|AlignEnd=99978|Gloss=all
@@ -1330,7 +1330,7 @@
 1	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=286560|AlignEnd=286968|Gloss=1Sing|SpaceAfter=No|wordform=naː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 3	ga	gan-	VERB	_	_	0	root	_	AlignBegin=286968|AlignEnd=287376|Gloss=see
-4	sà'addà	sà'addà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=287376|AlignEnd=287784|Gloss=when.Rel|Relz=word
+4	sà'addà	sà'addà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=287376|AlignEnd=287784|ClauseType=Rel|Gloss=when.Rel|Relz=Word
 5	kuma	kuma	PART	_	PartType=Top	4	discourse@top	_	AlignBegin=288192|AlignEnd=288600|Gloss=also
 6	dà	dà	ADP	_	_	11	dislocated	_	AlignBegin=289008|AlignEnd=289416|Gloss=with
 7	àbi	àbiː	NOUN	_	_	6	comp:pred	_	AlignBegin=289416|AlignEnd=289824|GenderAf=Masc|Gloss=thing.Masc|SpaceAfter=No|wordform=àbin
@@ -1486,7 +1486,7 @@
 # text = àkwai indà mu-kè &//
 # text_en = We used to...
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root@scrap	_	AlignBegin=315720|AlignEnd=315962|Gloss=there_is
-2	indà	indà	ADV	_	PronType=Rel	1	subj	_	AlignBegin=315962|AlignEnd=316204|Gloss=where.Rel|Relz=Word
+2	indà	indà	ADV	_	PronType=Rel	1	subj	_	AlignBegin=315962|AlignEnd=316204|ClauseType=Rel|Gloss=where.Rel|Relz=Word
 3	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	4	subj/m	_	AlignBegin=316204|AlignEnd=316446|Gloss=1Plur|SpaceAfter=No
 4	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	mod@relcl	_	AlignBegin=316204|AlignEnd=316446|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred|Relz=Affix|wordform=mukà
 5	&//	&//	PUNCT	_	_	1	punct	_	AlignBegin=316446|AlignEnd=316686|Gloss=PUNCT

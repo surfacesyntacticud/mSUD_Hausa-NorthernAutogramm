@@ -1259,10 +1259,10 @@
 # text_ortho = indà duk akà kiràn mazaː, à ƙyaːlèː maːtaː .
 # text = indà duk akà kiràn mazaː, à ƙyaːlèː maːtaː .
 # text_en = Wherever they are calling men, they ignore women .
-1	indà	indà	PRON	_	PronType=Rel	11	mod	_	Gloss=where
+1	indà	indà	PRON	_	PronType=Rel	11	mod	_	ClauseType=Rel|Gloss=where|Relz=Word
 2	duk	dukà	DET	_	PronType=Tot	1	det	_	Gloss=all
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	Gloss=4|SpaceAfter=No
-4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes|wordform=akà
+4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=akà
 5	kirà	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	Gloss=call.Vnoun.Masc|SpaceAfter=No|wordform=kiràn
 6	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	mazaː	namijìː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=man.Plur|SpaceAfter=No
@@ -1633,16 +1633,16 @@
 
 # sent_id = HAUA_BC_NARR_06_Dikko__78
 # text_ortho = Dandà Garbaː Dikkò indà duy yat tàhi itàːceː tàːre dà yâːra baːshì itàːceː .
-# text = Dandà Garbaː Dikkò indà duy yat tàhi itàːceː tàːre dà yâːra baːshì itàːceː.
+# text = Dandà Garbaː Dikkò indà duy ya-Ø= tàhi itàːceː tàːre dà yâːra baː- shì= itàːceː.
 # text_en = DGD, whenever he went to collect wood with the other children, he did not pick any .
 1	Dandà	danon	PROPN	_	_	15	dislocated@subj	_	Gloss=Dandà
 2	Garbaː	Garbaː	PROPN	_	_	1	flat@name	_	Gloss=Garbaː
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
-4	indà	indà	PRON	_	PronType=Rel	15	mod	_	Gloss=where
+4	indà	indà	PRON	_	PronType=Rel	15	mod	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 5	duy	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
-8	tàhi	tah-	VERB	_	_	4	mod@relcl	_	Gloss=leave
+8	tàhi	tah-	VERB	_	_	4	mod@relcl	_	Gloss=leave|RelRole=G
 9	itàːceː	itàːceː	NOUN	_	Number=Plur	8	comp:obj@G	_	Gloss=wood.Plur
 10	tàːre	tàːre	ADV	_	_	11	mod	_	Gloss=together
 11	dà	dà	SCONJ	_	_	8	mod	_	Gloss=that
@@ -4290,17 +4290,17 @@
 16	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__210
-# text = "  indà duk tsuntsûn nan yaz zakà shinàː kuːkân nan, tôː kà ɗòːki kiɗìn nan "
+# text = " indà duk tsuntsûn nan ya-Ø= zakà shi-nàː kuːkân nan, tôː ka-_̀=ɗòːki kiɗìn nan "
 # text_en = "Whenever that bird comes singing that song, take that song. "
 # text_ortho = " indà duk tsuntsûn nan yaz zakà shinàː kuːkân nan, tôː kà ɗòːki kiɗìn nan "
 1	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-2	indà	indà	PRON	_	PronType=Rel	17	mod	_	Gloss=where
+2	indà	indà	PRON	_	PronType=Rel	17	mod	_	ClauseType=Rel|Gloss=where|Relz=Word
 3	duk	dukà	DET	_	PronType=Tot	2	det	_	Gloss=all
 4	tsuntsûn	tsuntsû	NOUN	_	Definite=Def|Gender=Masc	8	subj	_	Gloss=bird.Masc.Def
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=PreRef|PreRef=Yes
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
-8	zakà	zak-	VERB	_	_	2	mod@relcl	_	Gloss=arrive
+8	zakà	zak-	VERB	_	_	2	mod@relcl	_	Gloss=arrive|RelRole=mod
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	parataxis:mod	_	Gloss=Prog|wordform=shinàː
 11	kuːkân	kuːkaː	NOUN	_	Definite=Def|Gender=Masc	10	comp:pred	_	Gloss=cry.Masc.Def
@@ -4867,7 +4867,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__237
 # text_en = When he sat down in front of GD, you know what he did .
 # text_ortho = tun dà zamaːnai gàba gà Garbaː Dikkò kaː ji wàdà shikài .
-# text = tun dà zamaː-n-ai gàba gà Garbaː Dikkò kaː= ji wàdà shi- shikài .
+# text = tun dà zamaː-n-ai gàba gà Garbaː Dikkò k-aː= ji wàdà shi-shikài .
 1	tun	tun	ADP	_	_	12	mod	_	Gloss=since
 2	dà	dà	ADP	_	_	1	comp:obj	_	Gloss=with
 3	zamaː	zamnàː	NOUN	_	_	2	comp:obj	_	Gloss=sit_down.Vnoun|SpaceAfter=No|wordform=zamaːnai|wordfrom=zamaːnai
@@ -4880,11 +4880,11 @@
 10	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	12	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kaː
 11	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Sing=
 12	ji	ji	VERB	_	_	0	root	_	Gloss=hear
-13	wàdà	wàdà	PRON	_	PronType=Rel	12	comp:obj	_	Gloss=the_way_that
+13	wàdà	wàdà	PRON	_	PronType=Rel	12	comp:obj	_	ClauseType=Rel|Gloss=the_way_that|Relz=Word
 14	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpaceAfter=No
 15-16	shikài	_	_	_	_	_	_	_	_
 15	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes|wordform=shikà
-16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:pred	_	Gloss=do.Vnoun.Masc
+16	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp:pred	_	Gloss=do.Vnoun.Masc|RelRole=mod
 17	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__238
@@ -5451,15 +5451,15 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__264
 # text_en = He said "Those I have sent off? "
 # text_ortho = yac cèː " waɗàndà nir rakkàː ? " .
-# text = yac cèː " waɗàndà nir rakkàː ? " .
+# text = ya-Ø= cèː " waɗàndà ni-Ø= rakkàː ? ".
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	3	comp:obj	_	Gloss=who.Plur
+5	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	3	comp:obj	_	ClauseType=Rel|Gloss=who.Plur|Relz=Word
 6	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nir
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=r=
-8	rakkàː	rakk-	VERB	_	_	5	mod@relcl	_	Gloss=escort
+8	rakkàː	rakk-	VERB	_	_	5	mod@relcl	_	Gloss=escort|RelRole=obj
 9	?	?	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 10	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -6658,15 +6658,15 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__325
 # text_en = "Those I've just escorted? "
 # text_ortho = " waɗànda nir rakkàː yànzu ? "
-# text = yac cèː " waɗànda nir rakkàː yànzu ? "
+# text = ya-Ø= cèː " waɗànda ni-Ø= rakkàː yànzu ? "
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	waɗànda	wandà	PRON	_	Number=Plur|PronType=Rel	3	comp:obj	_	Gloss=the_one_who.Plur
+5	waɗànda	wandà	PRON	_	Number=Plur|PronType=Rel	3	comp:obj	_	ClauseType=Rel|Gloss=the_one_who.Plur|Relz=Word
 6	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nir
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=r
-8	rakkàː	rakk-	VERB	_	_	5	mod@relcl	_	Gloss=escort
+8	rakkàː	rakk-	VERB	_	_	5	mod@relcl	_	Gloss=escort|RelRole=obj
 9	yànzu	yànzu	ADV	_	_	8	mod	_	Gloss=now
 10	?	?	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 11	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -8232,11 +8232,11 @@
 2	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kaː
 3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing=
 4	ga	gan-	VERB	_	_	0	root	_	Gloss=see
-5	indà	indà	PRON	_	PronType=Rel	4	comp:obj	_	Gloss=where
+5	indà	indà	PRON	_	PronType=Rel	4	comp:obj	_	ClauseType=Rel|Gloss=where|Relz=Word
 6	mazaː	namijìː	NOUN	_	Number=Plur	9	subj	_	Gloss=man.Plur
 7	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-9	bi	bi	VERB	_	_	5	mod@relcl	_	Gloss=follow
+9	bi	bi	VERB	_	_	5	mod@relcl	_	Gloss=follow|RelRole=mod
 10	?	?	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 11	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -8263,12 +8263,12 @@
 3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=kanàː
 4	gani	gan-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:pred	_	Gloss=see.Vnoun|SpaceAfter=No|wordform=ganin
 5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
-6	indà	indà	PRON	_	PronType=Rel	5	comp:obj	_	Gloss=where
+6	indà	indà	PRON	_	PronType=Rel	5	comp:obj	_	ClauseType=Rel|Gloss=where|Relz=Word
 7	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	8	det	_	Gloss=some.Masc
 8	harìː	harìː	NOUN	_	Gender=Masc	11	subj	_	Gloss=raiding.Masc
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=b=
-11	bi	bi	VERB	_	_	6	mod@relcl	_	Gloss=follow
+11	bi	bi	VERB	_	_	6	mod@relcl	_	Gloss=follow|RelRole=mod
 12	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -9343,7 +9343,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__455
 # text_en = He gathered all the raiders, and took them to the griots' .
 # text_ortho = duka yat taroː yaːƙìː yak kaːwoː indà màːsu maulòː .
-# text = dukà yat taroː yaːƙìː yak kaːwoː indà màːsu maulòː.
+# text = dukà ya-Ø= taroː yaːƙìː ya-Ø= kaːwoː indà màːsu maulòː.
 1	dukà	dukà	PRON	_	PronType=Tot	4	dislocated@comp	_	Gloss=all
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
@@ -9352,8 +9352,8 @@
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yak
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
 8	kaːwoː	kaːy-	VERB	_	_	4	parataxis:conj	_	Gloss=bring.Dir
-9	indà	indà	PRON	_	PronType=Rel	8	comp:obj@G	_	Gloss=where
-10	màːsu	mài	PART	_	Number=Plur|PartType=Der	9	mod@relcl	_	Gloss=owner_of.Plur
+9	indà	indà	PRON	_	PronType=Rel	8	comp:obj@G	_	ClauseType=Rel|Gloss=where|Relz=Word
+10	màːsu	mài	PART	_	Number=Plur|PartType=Der	9	mod@relcl	_	Gloss=owner_of.Plur|RelRole=pred
 11	maulòː	maulòː	NOUN	_	Gender=Masc	10	compound	_	Gloss=guitar.Masc|SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -9604,15 +9604,15 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__470
 # text_en = People did not know where he had gone except for his wife 'Yabbaraya .
 # text_ortho = mutàːneː bàsù san indà yaz zoː ba im bàː 'YabBàraːya ba màːtaːtai .
-# text = mutàːneː bàsù san indà yaz zoː ba im bàː 'YabBàraːya ba màːtaːtai .
+# text = mutàːneː bà-sù=san indà ya-Ø= zoː ba im bàː 'YabBàraːya ba màːtaː-t-ai .
 1	mutàːneː	mùtûm	NOUN	_	Number=Plur	4	subj	_	Gloss=people.Plur
 2	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 3	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur=|SpaceAfter=No|wordform=sù
 4	san	san-	VERB	_	_	0	root	_	Gloss=know
-5	indà	indà	PRON	_	PronType=Rel	4	comp:obj	_	Gloss=where
+5	indà	indà	PRON	_	PronType=Rel	4	comp:obj	_	ClauseType=Rel|Gloss=where|Relz=Word
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
-8	zoː	zoː	VERB	_	_	5	mod@relcl	_	Gloss=go
+8	zoː	zoː	VERB	_	_	5	mod@relcl	_	Gloss=go|RelRole=G
 9	ba	ba	PART	_	Polarity=Neg	4	mod	_	Gloss=Neg
 10	im	in	SCONJ	_	_	4	mod	_	Gloss=if
 11	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	12	mod	_	Gloss=Neg
@@ -9688,7 +9688,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__474
 # text_en = Then DGD went to see scholars .
 # text_ortho = lokàcîn nan Dandà Garbaː Dikkò yat tàhi indà maːlummàː .
-# text = lokàcîn nan Dandà Garbaː Dikkò yat tàhi indà maːlummàː .
+# text = lokàcîn nan Dandà Garbaː Dikkò ya-Ø= tàhi indà maːlummàː.
 1	lokàcîn	lokàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 2	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	1	det	_	Gloss=PreRef|PreRef=Yes
 3	Dandà	Dandà	PROPN	_	_	8	subj	_	Gloss=Dandà
@@ -9697,8 +9697,8 @@
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
 8	tàhi	tah-	VERB	_	_	0	root	_	Gloss=go
-9	indà	indà	PRON	_	PronType=Rel	8	comp:obj@G	_	Gloss=where
-10	maːlummàː	maːlàmiː	NOUN	_	Number=Plur	9	mod@relcl	_	Gloss=scholar.Plur|SpaceAfter=No
+9	indà	indà	PRON	_	PronType=Rel	8	comp:obj@G	_	ClauseType=Rel|Gloss=where|Relz=Word
+10	maːlummàː	maːlàmiː	NOUN	_	Number=Plur	9	mod@relcl	_	Gloss=scholar.Plur|RelRole=pred|SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__475
@@ -12510,7 +12510,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__591
 # text_en = Well then DGD went to where his slave was.
 # text_ortho = tôː loːkàcîn nan Dandà Garbaː Dikkò yat tàhi indà baːwàːnai .
-# text = tôː loːkàcîn nan Dandà Garbaː Dikkò yat tàhi indà baːwàːnai .
+# text = tôː loːkàcîn nan Dandà Garbaː Dikkò ya-Ø= tàhi indà baːwàː-n-ai .
 1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
@@ -12520,8 +12520,8 @@
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
 9	tàhi	tah-	VERB	_	_	0	root	_	Gloss=go
-10	indà	indà	PRON	_	PronType=Rel	9	comp:obj@G	_	Gloss=where
-11	baːwàː	baːwàː	NOUN	_	_	10	mod@relcl	_	Gloss=slave|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
+10	indà	indà	PRON	_	PronType=Rel	9	comp:obj@G	_	ClauseType=Rel|Gloss=where|Relz=Word
+11	baːwàː	baːwàː	NOUN	_	_	10	mod@relcl	_	Gloss=slave|RelRole=pred|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 13	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	12	comp:obj/m	_	Gloss=3Masc.Gen
 14	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -15045,15 +15045,15 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__714
 # text_en = She went where the shoemakers made her shoes.
 # text_ortho = tak kai indà makàlmìsaː sunkà yi matà kàlmisàː .
-# text = tak kai indà makàlmìsaː sunkà yi matà kàlmisàː .
+# text = ta-Ø= kai indà makàlmìsaː sun-kà= yi matà kàlmisàː.
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tak
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
 3	kai	kaːy-	VERB	_	_	0	root	_	Gloss=take
-4	indà	indà	PRON	_	PronType=Rel	3	comp:obj@G	_	Gloss=where
+4	indà	indà	PRON	_	PronType=Rel	3	comp:obj@G	_	ClauseType=Rel|Gloss=where|Relz=Word
 5	makàlmìsaː	makàlmìsaː	NOUN	_	Gender=Fem	8	subj	_	Gloss=shoemaker.Fem
 6	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 7	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
-8	yi	yi	VERB	_	_	4	mod@relcl	_	Gloss=do
+8	yi	yi	VERB	_	_	4	mod@relcl	_	Gloss=do|RelRole=mod
 9	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	8	comp:obl	_	Gloss=3Fem.Dat
 10	kàlmisàː	kàlmisàː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=shoe.Fem|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -15699,15 +15699,15 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__746
 # text_en = DGD, wherever he went, he lodged in the king's house.
 # text_ortho = Dandà Garbaː Dikkò indà duk yat tàhi sai shì sàbka gidan sarkiː .
-# text = Dandà Garbaː Dikkò indà duk yat tàhi sai shì sàbka gidan sarkiː .
+# text = Dandà Garbaː Dikkò indà duk ya-Ø= tàhi sai shi-_̀=sàbka gida-n sarkiː.
 1	Dandà	Dandà	PROPN	_	_	12	mod	_	Gloss=Dandà
 2	Garbaː	Garbaː	PROPN	_	_	1	flat@name	_	Gloss=Garbaː
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
-4	indà	indà	PRON	_	PronType=Rel	12	mod	_	Gloss=where
+4	indà	indà	PRON	_	PronType=Rel	12	mod	_	ClauseType=Rel|Gloss=where|Relz=Word
 5	duk	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
-8	tàhi	tah-	VERB	_	_	4	mod@relcl	_	Gloss=go
+8	tàhi	tah-	VERB	_	_	4	mod@relcl	_	Gloss=go|RelRole=mod
 9	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 10	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=shì
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub|SpaceAfter=No
@@ -16288,7 +16288,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__775
 # text_en = "If you want to catch your donkey, you know where to go to catch your donkey."
 # text_ortho = " in kas soː kaːmùn jaːkinkà, kaː san indà kakài kà kaːmoː jaːkinkà " .
-# text = " in kas soː kaːmùn jaːkinkà, kaː san indà kakài kà kaːmoː jaːkinkà " .
+# text = " in ka-Ø= soː kaːmù-n jaːki-n-kà , k-aː= san indà ka-kakài ka-_̀=kaːmoː jaːki-n-kà ".
 1	"	"	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 2	in	in	SCONJ	_	_	14	mod	_	Gloss=if
 3	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kas
@@ -16303,10 +16303,10 @@
 12	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	14	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kaː
 13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing=
 14	san	san-	VERB	_	_	0	root	_	Gloss=know
-15	indà	indà	PRON	_	PronType=Rel	14	comp:obj	_	Gloss=where
+15	indà	indà	PRON	_	PronType=Rel	14	comp:obj	_	ClauseType=Rel|Gloss=where|Relz=Word
 16	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	17	subj/m	_	Gloss=2Masc|SpaceAfter=No
 17-18	kakài	_	_	_	_	_	_	_	_
-17	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes|wordform=kakà
+17	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	mod@relcl	_	Gloss=Prog.Rel|Relative=Yes|RelRole=mod|wordform=kakà
 18	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:pred	_	Gloss=do.Vnoun.Masc
 19	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	21	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kà
 20	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	21	mod/m	_	Gloss=Sub|SpaceAfter=No
@@ -16348,7 +16348,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__778
 # text_en = After they had given him donkeys to look after, he left and went to meet his slave because they had not stopped in the same place.
 # text_ortho = dà ankà baː shì kiːyòn jàkkai sa'ànnan yat taːshì yat tàhi indà baːwòːnai dan bàː wajjeː gùdaː sunkà jìːɗa ba .
-# text = dà ankà baː shì kiːyòn jàkkai sa'ànnan yat taːshì yat tàhi indà baːwòːnai dan bàː wajjeː gùdaː sunkà jìːɗa ba .
+# text = dà an-kà= baː -shì kiːyò-n jàkkai sa'ànnan ya-Ø= taːshì ya-Ø= tàhi indà baːwòː-n-ai dan bàː wajjeː gùdaː sun-kà= jìːɗa ba.
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=that
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
@@ -16364,8 +16364,8 @@
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 14	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
 15	tàhi	tah-	VERB	_	_	12	parataxis:conj	_	Gloss=go
-16	indà	indà	PRON	_	PronType=Rel	15	comp:obj@G	_	Gloss=where
-17	baːwòː	baːwàː	NOUN	_	_	16	mod@relcl	_	Gloss=slave.|SpaceAfter=No|wordform=baːwòːnai|wordfrom=baːwòːnai
+16	indà	indà	PRON	_	PronType=Rel	15	comp:obj@G	_	ClauseType=Rel|Gloss=where|Relz=Word
+17	baːwòː	baːwàː	NOUN	_	_	16	mod@relcl	_	Gloss=slave.Masc|RelRole=pred|SpaceAfter=No|wordform=baːwòːnai|wordfrom=baːwòːnai
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 19	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	18	comp:obj/m	_	Gloss=3Masc.Gen
 20	dan	don	ADP	_	_	15	mod	_	Gloss=because
@@ -17041,17 +17041,17 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__809
 # text_en = "Donkey-driver, see the situation!"
 # text_ortho = " makyàːyin jàkkai, sàni indà kay yi!"
-# text = " makyàːyin jàkkai, sàni indà kay yi!"
+# text = " makyàːyi-njàkkai, sàni indà ka-Ø= yi !"
 1	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 2	makyàːyi	makyàːyiː	NOUN	_	Gender=Masc	6	vocative	_	Gloss=herdsman|SpaceAfter=No|wordform=makyàːyin
 3	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	2	mod/m	_	Gloss=Gen|SpaceAfter=No
 4	jàkkai	jàːkiː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=donkey.Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	sàni	san-	VERB	_	_	0	root	_	Gloss=know.Imp|Imperative=Yes
-7	indà	indà	PRON	_	PronType=Rel	6	comp:obj	_	Gloss=where
+7	indà	indà	PRON	_	PronType=Rel	6	comp:obj	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
 8	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	10	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kay
 9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
-10	yi	yi	VERB	_	_	7	mod@relcl	_	Gloss=do
+10	yi	yi	VERB	_	_	7	mod@relcl	_	Gloss=do|RelRole=G
 11	!	!	PUNCT	_	_	6	punct	_	Gloss=PUNCT|SpaceAfter=No
 12	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -17172,7 +17172,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__817
 # text_en = He released the donkeyx, and went round to that town, over there where his slave was.
 # text_ortho = yas sàki jàkkai, yak keːwàyaː zuwàː gàrîn nan, can indà baːwàːnai .
-# text = yas sàki jàkkai, yak keːwàyaː zuwàː gàrîn nan, can indà baːwàːnai .
+# text = ya-Ø= sàki jàkkai, ya-Ø= keːwàyaː zuwàː gàrîn nan, can indà baːwàː-n-ai .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yas
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s=
 3	sàki	sak-	VERB	_	_	0	root	_	Gloss=release
@@ -17186,8 +17186,8 @@
 11	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	10	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	can	can	ADV	_	Deixis=Remt|PronType=Dem	10	conj:appos	_	Gloss=Remt
-14	indà	indà	PRON	_	PronType=Rel	13	conj:appos	_	Gloss=where
-15	baːwàː	baːwàː	NOUN	_	_	14	mod@relcl	_	Gloss=slave.|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
+14	indà	indà	PRON	_	PronType=Rel	13	mod@appos	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
+15	baːwàː	baːwàː	NOUN	_	_	14	mod@relcl	_	Gloss=slave.|RelRole=pred|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 17	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	16	comp:obj/m	_	Gloss=3Masc.Gen
 18	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -17487,12 +17487,12 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__833
 # text_en = And all those who did not submit, he finished them off.
 # text_ortho = kuma waɗàndà bàsù bi ba, yag gamàː dà suː .
-# text = kuma waɗàndà bàsù bi ba, yag gamàː dà suː .
+# text = kuma waɗàndà bà-sù=bi ba, ya-Ø= gamàː dà suː.
 1	kuma	kuma	PART	_	PartType=Disc	10	discourse	_	Gloss=too
-2	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	10	subj	_	Gloss=who.Plur
+2	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	10	subj	_	ClauseType=Rel|Gloss=who.Plur|Relz=Word
 3	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 4	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur=|SpaceAfter=No|wordform=sù
-5	bi	bi	VERB	_	_	2	mod@relcl	_	Gloss=obey
+5	bi	bi	VERB	_	_	2	mod@relcl	_	Gloss=obey|RelRole=subj
 6	ba	ba	PART	_	Polarity=Neg	5	mod	_	Gloss=Neg|SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yag
@@ -17759,7 +17759,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__844
 # text_en = He had left his horse over there with his slave.
 # text_ortho = yaː baroː doːkìːnai can indà baːwàːnai .
-# text = yaː baroː doːkìːnai can indà baːwàːnai .
+# text = y-aː= baroː doːkìː-n-ai can indà baːwàː-n-ai .
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
 3	baroː	bar-	VERB	_	_	0	root	_	Gloss=leave.Dir
@@ -17767,8 +17767,8 @@
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 6	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:obj/m	_	Gloss=3Masc.Gen
 7	can	can	ADV	_	Deixis=Remt|PronType=Dem	3	mod	_	Gloss=Remt
-8	indà	indà	PRON	_	PronType=Rel	7	mod	_	Gloss=where
-9	baːwàː	baːwàː	NOUN	_	_	8	mod@relcl	_	Gloss=slave|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
+8	indà	indà	PRON	_	PronType=Rel	7	mod@appos	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
+9	baːwàː	baːwàː	NOUN	_	_	8	mod@relcl	_	Gloss=slave|RelRole=pred|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 11	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -18060,7 +18060,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__858
 # text_en = He did not go to the king's house, but he went to his slave's place.
 # text_ortho = bài yoː gidan sarkiː ba sai yay yi indà baːwàːnai .
-# text = bài yoː gidan sarkiː ba sai yay yi indà baːwàːnai .
+# text = bà-ì=yoː gida-n sarkiː ba sai ya-Ø= yi indà baːwàː-n-ai .
 1	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 2	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 3	yoː	yi	VERB	_	_	0	root	_	Gloss=do
@@ -18072,8 +18072,8 @@
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
 11	yi	yi	VERB	_	_	3	parataxis:conj	_	Gloss=do
-12	indà	indà	PRON	_	PronType=Rel	11	comp:pred	_	Gloss=where
-13	baːwàː	baːwàː	NOUN	_	_	12	mod@relcl	_	Gloss=slave|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
+12	indà	indà	PRON	_	PronType=Rel	11	comp:obj@G	_	ClauseType=Rel|Gloss=where.Rel|Relz=Word
+13	baːwàː	baːwàː	NOUN	_	_	12	mod@relcl	_	Gloss=slave|RelRole=pred|SpaceAfter=No|wordform=baːwàːnai|wordfrom=baːwàːnai
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 15	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	14	comp:obj/m	_	Gloss=3Masc.Gen
 16	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
