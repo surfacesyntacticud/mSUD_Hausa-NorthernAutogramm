@@ -25,7 +25,7 @@
 19	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=9922|AlignEnd=10288|Gloss=Ident
 20	mutàːneː	mùtunèː	NOUN	_	Number=Plur	22	subj	_	AlignBegin=10288|AlignEnd=10654|Gloss=human.Plur
 21	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	22	subj/m	_	AlignBegin=10654|AlignEnd=11020|Gloss=3Plur|SpaceAfter=No
-22	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:cleft	_	AlignBegin=10654|AlignEnd=11020|Gloss=Prog.Rel2|Relative=Variante
+22	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	comp:cleft	_	AlignBegin=10654|AlignEnd=11020|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante
 23	zàmne	zamn-	VERB	_	VerbForm=Part|Voice=Stat	22	comp:pred	_	AlignBegin=11386|AlignEnd=11752|Gloss=stay/sit.Stat
 24	?//	?//	PUNCT	_	_	19	punct	_	AlignBegin=11752|AlignEnd=12120|Gloss=PUNCT
 
@@ -81,7 +81,7 @@
 3	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=133326|AlignEnd=133509|Gloss=Emph
 4	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	5	subj/m	_	AlignBegin=133509|AlignEnd=133692|Gloss=2Plur|SpaceAfter=No
 5-6	kukài	_	_	_	_	_	_	_	_
-5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp:cleft	_	AlignBegin=133509|AlignEnd=133692|Gloss=Prog.Rel|wordform=kukà
+5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp:cleft	_	AlignBegin=133509|AlignEnd=133692|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kukà
 6	yi	yi	VERB	_	_	5	comp:pred	_	AlignBegin=133509|AlignEnd=133692|Gloss=do
 7	mà	mà	ADP	_	Case=Dat	6	comp:obl	_	AlignBegin=133692|AlignEnd=133875|Gloss=Dat
 8	bisàː	bisàː	NOUN	_	_	7	comp:obj	_	AlignBegin=133875|AlignEnd=134058|Gloss=animal
@@ -96,7 +96,7 @@
 1	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	2	comp:pred	_	AlignBegin=135140|AlignEnd=135308|Gloss=how
 2	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=135308|AlignEnd=135476|Gloss=Ident
 3	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj/m	_	AlignBegin=135476|AlignEnd=135644|Gloss=2Plur|SpaceAfter=No
-4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp:cleft	_	AlignBegin=135476|AlignEnd=135644|Gloss=Prog.Rel|wordform=kukà
+4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp:cleft	_	AlignBegin=135476|AlignEnd=135644|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kukà
 5	àːgìzo	aːgiz-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=135644|AlignEnd=135812|Gloss=watch.Vnoun.Masc|SpaceAfter=No|wordform=àːgìzonta
 6	-n	-n	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-ta	-ta	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	Gloss=3Fem.Gen
@@ -204,7 +204,7 @@
 6	>+	>+	PUNCT	_	_	9	punct	_	AlignBegin=255495|AlignEnd=255644|Gloss=PUNCT
 7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=255644|AlignEnd=255793|Gloss=1Sing-|SpaceAfter=No|wordform=nis
 8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
-9	sanìː	sanìː	VERB	_	_	5	comp:cleft	_	AlignBegin=255793|AlignEnd=255942|Gloss=know
+9	sanìː	sanìː	VERB	_	_	5	comp:cleft	_	AlignBegin=255793|AlignEnd=255942|ClauseType=Cleft|Gloss=know
 10	wurìn	wurìː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	AlignBegin=255942|AlignEnd=256091|Gloss=place.Masc.Def
 11	nan	nan	DET	_	Deixis=ProxH	10	det	_	AlignBegin=256091|AlignEnd=256240|Gloss=PreRef|PreRef=Yes
 12	//	//	PUNCT	_	_	5	punct	_	AlignBegin=256240|AlignEnd=256385|Gloss=PUNCT
@@ -228,7 +228,7 @@
 2	ɗai	ɗai	NUM	_	_	1	mod	_	AlignBegin=475666|AlignEnd=475817|Gloss=one
 3	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=475817|AlignEnd=475968|Gloss=Ident
 4	>+	>+	PUNCT	_	_	5	punct	_	AlignBegin=475968|AlignEnd=476119|Gloss=PUNCT
-5	at	neː	AUX	_	Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=476119|AlignEnd=476270|Gloss=Ident.Rel
+5	at	neː	AUX	_	Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=476119|AlignEnd=476270|ClauseType=Cleft|Gloss=Ident.Rel
 6	tàushe	taus-	VERB	_	ExtPos=ADV|VerbForm=Part|Voice=Stat	5	comp:pred	_	AlignBegin=476270|AlignEnd=476421|Gloss=tackle.Part
 7	dà	dà	ADP	_	_	6	comp:obl	_	AlignBegin=476421|AlignEnd=476572|Gloss=with
 8	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=476572|AlignEnd=476723|Gloss=3Fem.Nom

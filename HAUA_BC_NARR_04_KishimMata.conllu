@@ -191,13 +191,13 @@
 # text_en = They went on and on travelling like that till they finished the whole of the world.
 1	hakànan	hakànan	ADV	_	_	0	root	_	AlignBegin=33319|AlignEnd=33500|Gloss=thus
 2	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=33681|AlignEnd=33862|Gloss=3Plur|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=33681|AlignEnd=33862|Gloss=Prog.Rel|wordform=sukà
+3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=33681|AlignEnd=33862|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
 4	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	5	mod	_	AlignBegin=33862|AlignEnd=34043|Gloss=Iter
 5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp@aux	_	AlignBegin=34043|AlignEnd=34224|Gloss=go.Vnoun.Fem
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=34224|AlignEnd=34405|Gloss=PUNCT|SpaceAfter=No
 7	hakànan	hakànan	ADV	_	_	1	conj:redup	_	AlignBegin=34405|AlignEnd=34586|Gloss=thus
 8	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=34767|AlignEnd=34948|Gloss=3Plur|SpaceAfter=No
-9	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:cleft	_	AlignBegin=34767|AlignEnd=34948|Gloss=Prog.Rel|wordform=sukà
+9	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:cleft	_	AlignBegin=34767|AlignEnd=34948|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
 10	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	11	mod	_	AlignBegin=34948|AlignEnd=35129|Gloss=Iter
 11	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp@aux	_	AlignBegin=35129|AlignEnd=35310|Gloss=go.Vnoun.Fem
 12	duh	dukà	ADV	_	ExtPos=PRON|PronType=Tot	11	mod	_	AlignBegin=35491|AlignEnd=35672|Gloss=all
@@ -265,7 +265,7 @@
 7	>+	>+	PUNCT	_	_	10	punct	_	AlignBegin=43674|AlignEnd=43828|Gloss=PUNCT
 8	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=43828|AlignEnd=43982|Gloss=3Fem-|SpaceAfter=No|wordform=tas
 9	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
-10	saːmoː	saːm-	VERB	_	_	5	comp:cleft	_	AlignBegin=43982|AlignEnd=44136|Gloss=receive
+10	saːmoː	saːm-	VERB	_	_	5	comp:cleft	_	AlignBegin=43982|AlignEnd=44136|ClauseType=Cleft|Gloss=receive
 11	//	//	PUNCT	_	_	5	punct	_	AlignBegin=44136|AlignEnd=44290|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_013-013
@@ -806,7 +806,7 @@
 4	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=123000|AlignEnd=123155|Gloss=PUNCT
 5	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=123155|AlignEnd=123310|Gloss=3Masc|SpaceAfter=No
 6-7	shikài	_	_	_	_	_	_	_	_
-6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=123155|AlignEnd=123310|Gloss=Prog.Rel|wordform=shikà
+6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=123155|AlignEnd=123310|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=123155|AlignEnd=123310|Gloss=do.Vnoun.Masc
 8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=123310|AlignEnd=123465|Gloss=PUNCT|SpaceAfter=No
 9	kullun	kullun	ADV	_	_	10	mod	_	AlignBegin=123465|AlignEnd=123620|Gloss=always
@@ -814,7 +814,7 @@
 11	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=123930|AlignEnd=124085|Gloss=PUNCT
 12	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=124085|AlignEnd=124240|Gloss=3Masc|SpaceAfter=No
 13-14	shikài	_	_	_	_	_	_	_	_
-13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	10	comp:cleft	_	AlignBegin=124085|AlignEnd=124240|Gloss=Prog.Rel|wordform=shikà
+13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	10	comp:cleft	_	AlignBegin=124085|AlignEnd=124240|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	AlignBegin=124085|AlignEnd=124240|Gloss=do.Vnoun.Masc
 15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=124240|AlignEnd=124399|Gloss=PUNCT
 
@@ -859,7 +859,7 @@
 32	Allàː	Allàː	PROPN	_	_	35	subj	_	AlignBegin=130150|AlignEnd=130363|Gloss=God
 33	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	AlignBegin=130363|AlignEnd=130576|Gloss=3Masc-|SpaceAfter=No|wordform=yay
 34	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	35	mod/m	_	Gloss=Perf.Rel.Sing|wordform=y=
-35	yoː	yi	VERB	_	_	30	comp:cleft	_	AlignBegin=130576|AlignEnd=130789|Gloss=do
+35	yoː	yi	VERB	_	_	30	comp:cleft	_	AlignBegin=130576|AlignEnd=130789|ClauseType=Cleft|Gloss=do
 36	nì	ni	PRON	_	Number=Sing|Person=1|PronType=Prs	35	comp:obj	_	AlignBegin=130789|AlignEnd=131002|Gloss=1Sing
 37	cikin	cikin	ADP	_	_	35	comp:obl	_	AlignBegin=131002|AlignEnd=131215|Gloss=in
 38	duːniyàg	duːniyàː	NOUN	_	Definite=Def|Gender=Fem	37	comp:obj	_	AlignBegin=131215|AlignEnd=131428|Gloss=world.Fem.Def
@@ -900,7 +900,7 @@
 3	ɗai	ɗai	ADV	_	_	2	mod	_	AlignBegin=134378|AlignEnd=134598|Gloss=only
 4	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	6	subj/m	_	AlignBegin=134598|AlignEnd=134818|Gloss=2Fem-|SpaceAfter=No|wordform=ki'
 5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|wordform='=
-6	aihwàː	aihw-	VERB	_	_	2	comp:cleft	_	AlignBegin=134818|AlignEnd=135038|Gloss=give_birth
+6	aihwàː	aihw-	VERB	_	_	2	comp:cleft	_	AlignBegin=134818|AlignEnd=135038|ClauseType=Cleft|Gloss=give_birth
 7	?//]	?//]	PUNCT	_	_	2	punct	_	AlignBegin=135038|AlignEnd=135257|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_038-038
@@ -966,7 +966,7 @@
 3	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=141385|AlignEnd=141735|Gloss=PUNCT
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=141735|AlignEnd=142085|Gloss=3Masc-|SpaceAfter=No|wordform=yac
 5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
-6	ciː	ci	VERB	_	_	1	comp:cleft	_	AlignBegin=142085|AlignEnd=142435|Gloss=eat/conquer
+6	ciː	ci	VERB	_	_	1	comp:cleft	_	AlignBegin=142085|AlignEnd=142435|ClauseType=Cleft|Gloss=eat/conquer
 7	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=142435|AlignEnd=142785|Gloss=3Fem
 8	dàw	dàk	ADP	_	_	6	mod	_	AlignBegin=142785|AlignEnd=143135|Gloss=from
 9	wuri	wuriː	NOUN	_	Gender=Masc	8	comp:obj	_	AlignBegin=143135|AlignEnd=143485|Compound=Yes|Gloss=place.Masc|SpaceAfter=No|wordform=wurin
@@ -1308,14 +1308,14 @@
 2	>+	>+	PUNCT	_	_	4	punct	_	AlignBegin=187256|AlignEnd=187334|Gloss=PUNCT
 3	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=187334|AlignEnd=187412|Gloss=3Masc|SpaceAfter=No
 4-5	shikài	_	_	_	_	_	_	_	_
-4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=187334|AlignEnd=187412|Gloss=Prog.Rel|wordform=shikà
+4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=187334|AlignEnd=187412|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 5	yîː	yi	VERB	_	Gender=Masc	4	comp:pred	_	AlignBegin=187334|AlignEnd=187412|Gloss=do.Vnoun.Masc
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=187412|AlignEnd=187490|Gloss=PUNCT|SpaceAfter=No
 7	hakànan	hakànan	ADV	_	_	1	conj:redup	_	AlignBegin=187490|AlignEnd=187568|Gloss=thus
 8	>+	>+	PUNCT	_	_	10	punct	_	AlignBegin=187646|AlignEnd=187724|Gloss=PUNCT
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=187724|AlignEnd=187802|Gloss=3Masc|SpaceAfter=No
 10-11	shikài	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:cleft	_	AlignBegin=187724|AlignEnd=187802|Gloss=Prog.Rel|wordform=shikà
+10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:cleft	_	AlignBegin=187724|AlignEnd=187802|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 11	yîː	yi	VERB	_	Gender=Masc	10	comp:pred	_	AlignBegin=187724|AlignEnd=187802|Gloss=do.Vnoun.Masc
 12	//	//	PUNCT	_	_	1	punct	_	AlignBegin=187802|AlignEnd=187883|Gloss=PUNCT
 
@@ -1743,7 +1743,7 @@
 8	miː	miː	PRON	_	PronType=Int	6	comp:obj	_	AlignBegin=247944|AlignEnd=248130|Gloss=what
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=247944|AlignEnd=248130|Gloss=3Masc-|SpaceAfter=No|wordform=yas
 10	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
-11	sàːmeː	saːm-	VERB	_	_	8	comp:cleft	_	AlignBegin=248130|AlignEnd=248316|Gloss=get
+11	sàːmeː	saːm-	VERB	_	_	8	comp:cleft	_	AlignBegin=248130|AlignEnd=248316|ClauseType=Int|Gloss=get
 12	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	11	comp:obj	_	AlignBegin=248316|AlignEnd=248502|Gloss=2Masc
 13	>	>	PUNCT	_	_	14	punct	_	AlignBegin=248502|AlignEnd=248688|Gloss=PUNCT
 14	Muːsà	Muːsà	PROPN	_	_	8	vocative	_	AlignBegin=248688|AlignEnd=248874|Gloss=Musa
@@ -1868,7 +1868,7 @@
 11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=262680|AlignEnd=262832|Gloss=3Masc-|SpaceAfter=No|wordform=yas
 12	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
 13-14	sàːmai	_	_	_	_	_	_	_	_
-13	sàːmeː	saːm-	VERB	_	_	10	comp:cleft	_	AlignBegin=262832|AlignEnd=262984|Gloss=get
+13	sàːmeː	saːm-	VERB	_	_	10	comp:cleft	_	AlignBegin=262832|AlignEnd=262984|ClauseType=Int|Gloss=get
 14	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	comp:obj	_	AlignBegin=262832|AlignEnd=262984|Gloss=3Masc
 15	|c	|c	PUNCT	_	_	16	punct	_	AlignBegin=262984|AlignEnd=263136|Gloss=PUNCT
 16-17	mis	_	_	_	_	_	_	_	_
@@ -1876,7 +1876,7 @@
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	AlignBegin=263136|AlignEnd=263288|Gloss=3Masc-|SpaceAfter=No|wordform=yas
 18	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
 19-20	sàːmai	_	_	_	_	_	_	_	_
-19	sàːmeː	saːm-	VERB	_	_	16	comp:cleft	_	AlignBegin=263288|AlignEnd=263440|Gloss=get
+19	sàːmeː	saːm-	VERB	_	_	16	comp:cleft	_	AlignBegin=263288|AlignEnd=263440|ClauseType=Int|Gloss=get
 20	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	19	comp:obj	_	AlignBegin=263288|AlignEnd=263440|Gloss=3Masc
 21	//	//	PUNCT	_	_	5	punct	_	AlignBegin=263440|AlignEnd=263592|Gloss=PUNCT
 

@@ -91,7 +91,7 @@
 12	naː	neː	AUX	_	Copula=Yes	4	comp:obj	_	AlignBegin=102960|AlignEnd=103130|Gloss=Ident
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=103130|AlignEnd=103300|Gloss=3Masc-|SpaceAfter=No|wordform=yah
 14	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|wordform=h=
-15	hi	fi	VERB	_	_	12	comp:cleft	_	AlignBegin=103300|AlignEnd=103470|Gloss=exceed
+15	hi	fi	VERB	_	_	12	comp:cleft	_	AlignBegin=103300|AlignEnd=103470|ClauseType=Cleft|Gloss=exceed
 16	àbi	àbiː	NOUN	_	Gender=Masc	15	mod	_	AlignBegin=103470|AlignEnd=103640|Compound=Yes|Gloss=thing.Masc|SpaceAfter=No|wordform=àbin
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Masc/Plur
 18	màːmaːkiː	màːmaːkiː	NOUN	_	_	17	comp:obj	_	AlignBegin=103640|AlignEnd=103810|Gloss=wondering
