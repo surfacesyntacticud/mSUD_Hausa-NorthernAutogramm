@@ -1342,7 +1342,7 @@
 11	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	AlignBegin=252381|AlignEnd=252676|Gloss=thing.Masc.Def|RelAnt=Yes
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	AlignBegin=252676|AlignEnd=252971|Gloss=CompRel|Relz=Word
 13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=252971|AlignEnd=253266|Gloss=3Fem-|SpaceAfter=No|wordform=tak
-14	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|wordform=k=
+14	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=k=
 15	kai	kaːy-	VERB	_	_	12	comp:obj	_	AlignBegin=253266|AlignEnd=253561|ClauseType=Rel|Gloss=reach|RelRole=obj
 16	//	//	PUNCT	_	_	10	punct	_	AlignBegin=253561|AlignEnd=253853|Gloss=PUNCT
 

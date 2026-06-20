@@ -58,7 +58,7 @@
 1	wàdà	wàdà	ADV	_	ExtPos=SCONJ|PronType=Rel	9	dislocated@top	_	AlignBegin=11360|AlignEnd=11591|ClauseType=Rel|Gloss=how|Relz=Word
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=11591|AlignEnd=11822|Gloss=4-|SpaceAfter=No|wordform=ankà
 3-4	nkà=	_	_	_	_	_	_	_	_
-3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 4	yi	yi	VERB	_	_	1	mod@relcl	_	AlignBegin=11591|AlignEnd=11822|Gloss=do|RelRole=pred
 5	dâː	dâː	ADV	_	_	4	mod	_	AlignBegin=11822|AlignEnd=12053|Gloss=formerly
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=12053|AlignEnd=12284|Gloss=PUNCT
@@ -295,7 +295,7 @@
 10	duk	dukà	ADV	_	_	9	mod	_	AlignBegin=73657|AlignEnd=73908|Gloss=all
 11	an-	a	PRON	_	Person=4|PronType=PrsSubj	13	subj/m	_	AlignBegin=74159|AlignEnd=74410|Gloss=4-|SpaceAfter=No|wordform=ankà
 12-13	nkà=	_	_	_	_	_	_	_	_
-12	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+12	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	13	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 13	yi	yi	VERB	_	_	9	mod@relcl	_	AlignBegin=74159|AlignEnd=74410|Gloss=do|RelRole=mod
 14	noːmaː	noːmaː	NOUN	_	Gender=Masc	13	comp:pred	_	AlignBegin=74410|AlignEnd=74661|Gloss=farming.Masc
 15	<	<	PUNCT	_	_	9	punct	_	AlignBegin=74661|AlignEnd=74912|Gloss=PUNCT
@@ -1279,7 +1279,7 @@
 1	rad	raːnaː	NOUN	_	Definite=Def|Gender=Fem	11	mod	_	AlignBegin=278565|AlignEnd=278783|Gloss=day.Fem.Def|RelAnt=Yes
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	AlignBegin=278783|AlignEnd=279001|Gloss=CompRel|Relz=Word
 3	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=279001|AlignEnd=279219|Gloss=2Masc-|SpaceAfter=No|wordform=kac
-4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
+4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=c=
 5	cikà	cik-	VERB	_	_	2	comp:obj	_	AlignBegin=279219|AlignEnd=279437|ClauseType=Rel|Gloss=complete|RelRole=mod
 6	kwaːnaː	kwaːnaː	NOUN	_	Gender=Fem	5	comp:obj	_	AlignBegin=279437|AlignEnd=279655|Gloss=night.Fem
 7	tàlàːtin	tàlàːtin	NUM	_	_	6	det	_	AlignBegin=279655|AlignEnd=279873|Gloss=thirty
@@ -1909,7 +1909,7 @@
 2	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	14	dislocated@comp	_	AlignBegin=391437|AlignEnd=391814|Gloss=thing.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=391814|AlignEnd=392191|Gloss=CompRel|Relz=Word
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=392191|AlignEnd=392568|Gloss=3Masc-|SpaceAfter=No|wordform=yas
-5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
+5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=s=
 6	sâː	sâː	VERB	_	_	3	comp:obj	_	AlignBegin=392568|AlignEnd=392945|ClauseType=Rel|Gloss=put|RelRole=subj
 7	baː-	bâː-	PART	_	Aspect=Prog|Number=Plur|PartType=TAM|Person=1|Polarity=Neg	9	mod/m	_	AlignBegin=392945|AlignEnd=393322|Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
 8	mù=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=392945|AlignEnd=393322|Gloss=1Plur=|wordform=baːmù
@@ -2449,7 +2449,7 @@
 1	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=475540|AlignEnd=475683|Gloss=there_is.Neg
 2	yunwàː	yunwàː	NOUN	_	Gender=Fem	1	subj	_	AlignBegin=475683|AlignEnd=475826|Gloss=hunger.Fem
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=475826|AlignEnd=475969|Gloss=3Fem-|SpaceAfter=No|wordform=tah
-4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|wordform=h=
+4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=h=
 5	hîrkassheː	fit-	VERB	_	Voice=Cau	2	mod@relcl	_	AlignBegin=475969|AlignEnd=476112|ClauseType=Rel|Gloss=come_out.Cau|RelRole=subj
 6	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	5	comp:obj@T	_	AlignBegin=476112|AlignEnd=476255|Gloss=2Masc
 7	gidaː	gidaː	NOUN	_	Gender=Masc	5	comp:obj@S	_	AlignBegin=476255|AlignEnd=476398|Gloss=house.Masc

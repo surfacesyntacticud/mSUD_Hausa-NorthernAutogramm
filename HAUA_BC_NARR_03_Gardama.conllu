@@ -181,7 +181,7 @@
 26	sarkiː	sarkiː	NOUN	_	Gender=Masc	25	comp:obj	_	AlignBegin=20724|AlignEnd=20898|Gloss=king.Masc
 27	dà	dà	SCONJ	_	_	24	mod@relcl	_	AlignBegin=20898|AlignEnd=21072|Gloss=CompRel|Relz=Word
 28	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	AlignBegin=21072|AlignEnd=21246|Gloss=3Fem-|SpaceAfter=No|wordform=taɓ
-29	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing|wordform=ɓ=
+29	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=ɓ=
 30	ɓacèː	ɓat-	VERB	_	_	27	comp:obj	_	AlignBegin=21246|AlignEnd=21420|ClauseType=Rel|Gloss=get_lost|RelRole=subj
 31	//]	//]	PUNCT	_	_	23	punct	_	AlignBegin=21420|AlignEnd=21594|Gloss=PUNCT
 32	//	//	PUNCT	_	_	16	punct	_	AlignBegin=21594|AlignEnd=21780|Gloss=PUNCT
@@ -402,7 +402,7 @@
 2	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	16	mod	_	AlignBegin=49669|AlignEnd=49824|ClauseType=Rel|Gloss=where.Rel
 3	an-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=49824|AlignEnd=49979|Gloss=4-|SpaceAfter=No|wordform=ankà
 4-5	nkà=	_	_	_	_	_	_	_	_
-4	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+4	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 5	yi	yi	VERB	_	_	2	mod@relcl	_	AlignBegin=49824|AlignEnd=49979|Gloss=do|RelRole=G
 6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=49979|AlignEnd=50134|Gloss=with
 7	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=50134|AlignEnd=50289|Gloss=3Fem.Nom
@@ -470,7 +470,7 @@
 18	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	17	det	_	AlignBegin=60224|AlignEnd=60490|Gloss=PreRef|PreRef=Yes
 19	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	17	mod@relcl	_	AlignBegin=60490|AlignEnd=60756|Gloss=where.Rel|Relz=Word
 20	an-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	AlignBegin=60756|AlignEnd=61022|Gloss=4-|SpaceAfter=No|wordform=ankà
-21	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+21	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	22	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
 22	cêː	cêː	VERB	_	_	19	comp:obj	_	AlignBegin=61022|AlignEnd=61288|ClauseType=Rel|Gloss=say
 23	shìga	shìgaː	NOUN	_	_	28	subj	_	AlignBegin=61288|AlignEnd=61554|GenderAf=Fem|Gloss=track.Fem|SpaceAfter=No|wordform=shìgattà
 24	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	23	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
