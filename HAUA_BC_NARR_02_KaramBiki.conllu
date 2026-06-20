@@ -26,7 +26,7 @@
 # text_en = As soon as you arrive, you will fall asleep.
 1	in	in	SCONJ	_	_	6	mod	_	AlignBegin=10800|AlignEnd=10976|Gloss=if
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=10976|AlignEnd=11152|Gloss=2Masc-|SpaceAfter=No|wordform=kaz
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 4	zoː	zoː	VERB	_	_	1	comp:obj	_	AlignBegin=11152|AlignEnd=11328|Gloss=go
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=11328|AlignEnd=11504|Gloss=PUNCT
 6	zaːhi	zaːhiː	NOUN	_	Gender=Masc	0	root	_	AlignBegin=11504|AlignEnd=11680|Compound=Yes|Gloss=heat.Masc|SpaceAfter=No|wordform=zaːhin
@@ -34,7 +34,7 @@
 8	kwaːnaː	kwaːna-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:obj	_	AlignBegin=11680|AlignEnd=11856|Gloss=lie_down.Vnoun.Masc
 9	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	10	subj/m	_	AlignBegin=12032|AlignEnd=12208|Gloss=2Masc|SpaceAfter=No
 10-11	ka	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:cleft	_	AlignBegin=12032|AlignEnd=12208|Gloss=Prog.Rel|Relative=Yes|wordform=kakà
+10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	comp:cleft	_	AlignBegin=12032|AlignEnd=12208|Gloss=Prog.Rel|wordform=kakà
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	AlignBegin=12032|AlignEnd=12208|Gloss=do.Vnoun.Masc
 12	//	//	PUNCT	_	_	6	punct	_	AlignBegin=12208|AlignEnd=12380|Gloss=PUNCT
 
@@ -52,7 +52,7 @@
 5	<	<	PUNCT	_	_	3	punct	_	AlignBegin=13095|AlignEnd=13265|Gloss=PUNCT
 6	in	in	SCONJ	_	_	13	mod	_	AlignBegin=13265|AlignEnd=13435|Gloss=if
 7	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	AlignBegin=13435|AlignEnd=13605|Gloss=2Masc-|SpaceAfter=No|wordform=kaz
-8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 9	zoː	zoː	VERB	_	_	6	comp:obj	_	AlignBegin=13605|AlignEnd=13775|Gloss=go
 10	<	<	PUNCT	_	_	6	punct	_	AlignBegin=13775|AlignEnd=13945|Gloss=PUNCT
 11	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	13	subj/m	_	AlignBegin=13945|AlignEnd=14115|Gloss=2Masc|SpaceAfter=No|wordform=kà
@@ -94,7 +94,7 @@
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=24953|AlignEnd=25142|Gloss=PUNCT
 4	in	in	SCONJ	_	_	0	root	_	AlignBegin=25142|AlignEnd=25331|Gloss=if
 5	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=25331|AlignEnd=25520|Gloss=1Sing-|SpaceAfter=No|wordform=nim
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=m=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=m=
 7	mânceː	mant-	VERB	_	_	4	comp:obj	_	AlignBegin=25520|AlignEnd=25709|Gloss=forget
 8	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=25709|AlignEnd=25895|Gloss=PUNCT
 
@@ -120,7 +120,7 @@
 1	kuma	kuma	CCONJ	_	_	16	discourse	_	AlignBegin=29070|AlignEnd=29209|Gloss=also
 2	in	in	SCONJ	_	_	16	mod	_	AlignBegin=29209|AlignEnd=29348|Gloss=if
 3	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=29348|AlignEnd=29487|Gloss=2Masc-|SpaceAfter=No|wordform=kam
-4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=m=
+4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|wordform=m=
 5	mânceː	mant-	VERB	_	_	2	comp:obj	_	AlignBegin=29487|AlignEnd=29626|Gloss=forget
 6	<	<	PUNCT	_	_	2	punct	_	AlignBegin=29626|AlignEnd=29765|Gloss=PUNCT
 7	àkwai	àkwai	PART	_	PartType=Pred	16	mod	_	AlignBegin=29904|AlignEnd=30043|Gloss=there_is
@@ -151,13 +151,13 @@
 7	yànzu	yànzu	ADV	_	_	21	mod	_	AlignBegin=35750|AlignEnd=35953|Gloss=now
 8	in	in	SCONJ	_	_	21	mod	_	AlignBegin=35953|AlignEnd=36156|Gloss=if
 9	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	11	subj/m	_	AlignBegin=36156|AlignEnd=36359|Gloss=2Masc-|SpaceAfter=No|wordform=kay
-10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=y=
+10	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|wordform=y=
 11	yiː	yi	VERB	_	_	8	comp:obj	_	AlignBegin=36359|AlignEnd=36562|Gloss=do
 12	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	comp:pred	_	AlignBegin=36562|AlignEnd=36765|Gloss=3Fem
 13	<	<	PUNCT	_	_	8	punct	_	AlignBegin=36765|AlignEnd=36968|Gloss=PUNCT
 14	in	in	SCONJ	_	_	21	mod	_	AlignBegin=36968|AlignEnd=37171|Gloss=if
 15	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=37171|AlignEnd=37374|Gloss=3Masc-|SpaceAfter=No|wordform=yas
-16	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s=
+16	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	17	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
 17	soː	soː	VERB	_	_	14	comp:obj	_	AlignBegin=37374|AlignEnd=37577|Gloss=want
 18	<	<	PUNCT	_	_	14	punct	_	AlignBegin=37577|AlignEnd=37780|Gloss=PUNCT
 19	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	21	subj/m	_	AlignBegin=37780|AlignEnd=37983|Gloss=2Masc|SpaceAfter=No|wordform=kaː
@@ -190,12 +190,12 @@
 # text_en = If he wants, when we go, you will tell me more, and I will come (back) and add more to yours.
 1	in	in	SCONJ	_	_	13	mod	_	AlignBegin=40136|AlignEnd=40302|Gloss=if
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=40302|AlignEnd=40468|Gloss=3Masc-|SpaceAfter=No|wordform=yas
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=s=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
 4	soː	soː	VERB	_	_	1	comp:obj	_	AlignBegin=40468|AlignEnd=40634|Gloss=want
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40634|AlignEnd=40800|Gloss=PUNCT
 6	in	in	SCONJ	_	_	13	mod	_	AlignBegin=40800|AlignEnd=40966|Gloss=if|wordform=im
 7	mun-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=40966|AlignEnd=41132|Gloss=1Plur-|SpaceAfter=No|wordform=munkà
-8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
+8	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 9	zoː	zoː	VERB	_	_	6	comp:obj	_	AlignBegin=41132|AlignEnd=41298|Gloss=go
 10	<	<	PUNCT	_	_	6	punct	_	AlignBegin=41298|AlignEnd=41464|Gloss=PUNCT
 11	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	13	subj/m	_	AlignBegin=41464|AlignEnd=41630|Gloss=2Masc|SpaceAfter=No|wordform=kà
@@ -253,11 +253,11 @@
 # text_en = When I go, and you remember, I will come (back) and add more.
 1	ìdan	ìdan	SCONJ	_	_	13	mod	_	AlignBegin=46018|AlignEnd=46200|Gloss=if
 2	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=46200|AlignEnd=46382|Gloss=1Sing-|SpaceAfter=No|wordform=niz
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 4	zoː	zoː	VERB	_	_	1	comp:obj	_	AlignBegin=46382|AlignEnd=46564|Gloss=go
 5	|c	|c	PUNCT	_	_	8	punct	_	AlignBegin=46564|AlignEnd=46746|Gloss=PUNCT
 6	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	8	subj/m	_	AlignBegin=46746|AlignEnd=46928|Gloss=2Masc-|SpaceAfter=No|wordform=kat
-7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
+7	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|wordform=t=
 8	tunoː	tun-	VERB	_	_	4	conj:coord	_	AlignBegin=46928|AlignEnd=47110|Gloss=remember
 9	<	<	PUNCT	_	_	1	punct	_	AlignBegin=47110|AlignEnd=47292|Gloss=PUNCT
 10	sai	sai	ADV	_	_	13	mod	_	AlignBegin=47292|AlignEnd=47474|Gloss=then
@@ -277,7 +277,7 @@
 # text = kat tunoː < sai ìn zakà ìn ƙaːràː //
 # text_en = If you remember, I will come back and add more.
 1	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=48720|AlignEnd=48883|Gloss=2Masc-|SpaceAfter=No|wordform=kat
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=t=
 3	tunoː	tun-	VERB	_	_	8	mod	_	AlignBegin=48883|AlignEnd=49046|Gloss=remember
 4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=49046|AlignEnd=49209|Gloss=PUNCT
 5	sai	sai	ADV	_	_	8	mod	_	AlignBegin=49209|AlignEnd=49372|Gloss=then
@@ -307,7 +307,7 @@
 9	dà	dà	ADP	_	_	8	comp:obl	_	AlignBegin=52270|AlignEnd=52495|Gloss=with
 10	saurad	sauraː	NOUN	_	Definite=Def|Gender=Fem	9	comp:obj	_	AlignBegin=52495|AlignEnd=52720|Gloss=remains.Fem.Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	AlignBegin=52720|AlignEnd=52945|Gloss=CompRel|Relz=Word
-12	ad	neː	AUX	_	Copula=Yes	11	comp:obj	_	AlignBegin=52945|AlignEnd=53170|ClauseType=Rel|Gloss=Ident.Rel|Relative=Yes|RelRole=subj
+12	ad	neː	AUX	_	Copula=Yes|Mood=Rel	11	comp:obj	_	AlignBegin=52945|AlignEnd=53170|ClauseType=Rel|Gloss=Ident.Rel|RelRole=subj|Relz=Affix
 13	dà	dà	ADP	_	_	12	comp:pred	_	AlignBegin=53170|AlignEnd=53395|Gloss=with
 14	sauraː	sauraː	NOUN	_	Gender=Fem	13	comp:obj	_	AlignBegin=53395|AlignEnd=53620|Gloss=remains.Fem
 15	//	//	PUNCT	_	_	8	punct	_	AlignBegin=53620|AlignEnd=53848|Gloss=PUNCT
@@ -327,7 +327,7 @@
 6	dà	dà	ADP	_	_	0	root	_	AlignBegin=57163|AlignEnd=57369|Gloss=with
 7	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=57369|AlignEnd=57575|Gloss=3Fem.Nom
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=57575|AlignEnd=57781|Gloss=4|SpaceAfter=No
-9	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:cleft	_	AlignBegin=57575|AlignEnd=57781|Gloss=Prog.Rel|Relative=Yes|wordform=akà
+9	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	comp:cleft	_	AlignBegin=57575|AlignEnd=57781|Gloss=Prog.Rel|wordform=akà
 10	cikoː	cik-	VERB	_	_	9	comp:pred	_	AlignBegin=57781|AlignEnd=57987|Gloss=complete
 11	abìn	àbiː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	AlignBegin=57987|AlignEnd=58193|Gloss=thing.Masc.Def
 12	||	||	PUNCT	_	_	13	punct	_	AlignBegin=58193|AlignEnd=58399|Gloss=PUNCT
@@ -359,7 +359,7 @@
 3	dà	dà	ADP	_	_	0	root	_	AlignBegin=62748|AlignEnd=62904|Gloss=with
 4	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=62904|AlignEnd=63060|Gloss=3Fem.Nom
 5	a-	a-	PRON	_	Person=4|PronType=Prs	6	subj/m	_	AlignBegin=63060|AlignEnd=63216|Gloss=4|SpaceAfter=No
-6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:cleft	_	AlignBegin=63060|AlignEnd=63216|Gloss=Prog.Rel|Relative=Yes|wordform=akà
+6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=63060|AlignEnd=63216|Gloss=Prog.Rel|wordform=akà
 7	koːyàː	koːy-	VERB	_	_	6	comp:pred	_	AlignBegin=63216|AlignEnd=63372|Gloss=teach
 8	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	comp:obl	_	AlignBegin=63372|AlignEnd=63528|Gloss=3Plur.Ben
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=63528|AlignEnd=63684|Gloss=PUNCT
@@ -372,7 +372,7 @@
 # text = a- kà koːyàː musù Hausa dà irì-n làːbàːrûn nan //
 # text_en = They teach them Hausa with this type of tales.
 1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	AlignBegin=63684|AlignEnd=63840|Gloss=4|SpaceAfter=No
-2	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=63684|AlignEnd=63840|Gloss=Prog.Rel|Relative=Yes|wordform=akà
+2	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	0	root	_	AlignBegin=63684|AlignEnd=63840|Gloss=Prog.Rel|wordform=akà
 3	koːyàː	koːy-	VERB	_	_	2	comp:pred	_	AlignBegin=63840|AlignEnd=63996|Gloss=teach
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=63996|AlignEnd=64152|Gloss=3Plur.Dat
 5	Hausa	Hausa	PROPN	_	_	3	comp:obj	_	AlignBegin=64152|AlignEnd=64308|Gloss=Hausa
@@ -396,7 +396,7 @@
 4	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=66003|AlignEnd=66183|Gloss=Ident
 5	>+	>+	PUNCT	_	_	7	punct	_	AlignBegin=66183|AlignEnd=66363|Gloss=PUNCT
 6	a-	a-	PRON	_	Person=4|PronType=Prs	7	subj/m	_	AlignBegin=66363|AlignEnd=66543|Gloss=4|SpaceAfter=No
-7	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	comp:cleft	_	AlignBegin=66363|AlignEnd=66543|Gloss=Prog.Rel|Relative=Yes|wordform=akà
+7	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	4	comp:cleft	_	AlignBegin=66363|AlignEnd=66543|Gloss=Prog.Rel|wordform=akà
 8	koːyàː	koːy-	VERB	_	_	7	comp:pred	_	AlignBegin=66543|AlignEnd=66723|Gloss=teach
 9	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	comp:obl	_	AlignBegin=66903|AlignEnd=67083|Gloss=3Plur.Dat
 10	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	comp:obj@T	_	AlignBegin=67083|AlignEnd=67263|Gloss=3Fem.Nom
@@ -506,7 +506,7 @@
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
 3	ɓiki	ɓiki	NOUN	_	Gender=Masc	2	comp:obj	_	AlignBegin=108828|AlignEnd=109195|Gloss=shit.Masc
 4	nàː	neː	AUX	_	Copula=Yes	1	discourse@foc	_	AlignBegin=109195|AlignEnd=109562|Gloss=Ident
-5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=109562|AlignEnd=109929|Gloss=Prog.Rel|Relative=Yes
+5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	0	root	_	AlignBegin=109562|AlignEnd=109929|Gloss=Prog.Rel
 6	yi	yi	VERB	_	_	5	comp:pred	_	AlignBegin=109929|AlignEnd=110296|ClauseType=Rel|Gloss=do|RelRole=mod
 7	mà	mà	ADP	_	Case=Dat	6	comp:obl	_	AlignBegin=110296|AlignEnd=110663|Gloss=Dat
 8	sàràkkuwaː	sìrikiː	NOUN	_	_	7	comp:obj	_	AlignBegin=110663|AlignEnd=111030|GenderAf=Masc|Gloss=in-la|SpaceAfter=No|wordfrom=sàràkkuwaːtai
@@ -523,11 +523,11 @@
 # text = yaz zoː || yah hwaɗì || shinàː hwaɗìː &//
 # text_en = He came... he said... he said...
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=115032|AlignEnd=115379|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 3	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=115379|AlignEnd=115726|Gloss=go
 4	||	||	PUNCT	_	_	7	punct	_	AlignBegin=115726|AlignEnd=116073|Gloss=PUNCT
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=116073|AlignEnd=116420|Gloss=3Masc-|SpaceAfter=No|wordform=yah
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=h=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=h=
 7	hwaɗì	hwaɗ-	VERB	_	_	3	conj:dicto	_	AlignBegin=116420|AlignEnd=116767|Gloss=tell
 8	||	||	PUNCT	_	_	10	punct	_	AlignBegin=116767|AlignEnd=117114|Gloss=PUNCT
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=117114|AlignEnd=117461|Gloss=3Masc|SpaceAfter=No
@@ -543,16 +543,16 @@
 # text = yaz zoː |c ya' îskèː mùzuːruː |c yac cêː mai [ inàː gàyyaː //] //
 # text_en = He went to see Cat and told him "I'm doing a communal farming."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=119032|AlignEnd=119418|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 3	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=119418|AlignEnd=119804|Gloss=go
 4	|c	|c	PUNCT	_	_	7	punct	_	AlignBegin=119804|AlignEnd=120190|Gloss=PUNCT
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=120190|AlignEnd=120576|Gloss=3Masc-|SpaceAfter=No|wordform=ya'
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform='=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform='=
 7	îskèː	isk-	VERB	_	_	3	conj:coord	_	AlignBegin=120576|AlignEnd=120962|Gloss=find
 8	mùzuːruː	mùzuːruː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=120962|AlignEnd=121348|Gloss=cat.Masc
 9	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=121348|AlignEnd=121734|Gloss=PUNCT
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=121734|AlignEnd=122120|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-11	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+11	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 12	cêː	cêː	VERB	_	_	7	conj:coord	_	AlignBegin=122120|AlignEnd=122506|Gloss=say
 13	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	12	comp:obl	_	AlignBegin=122506|AlignEnd=122892|Gloss=3Masc.Dat
 14	[	[	PUNCT	_	_	16	punct	_	AlignBegin=122892|AlignEnd=123278|Gloss=PUNCT
@@ -570,7 +570,7 @@
 # text = yac cèː [ ìn ji baːbù kàreː ?//] //
 # text_en = He told him "I hope Dog won't be there?"
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=126000|AlignEnd=126288|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=126288|AlignEnd=126576|Gloss=say
 4	[	[	PUNCT	_	_	8	punct	_	AlignBegin=126576|AlignEnd=126864|Gloss=PUNCT
 5	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
@@ -601,10 +601,10 @@
 # text_en = After he left, he went to Dog's house.
 1	dà	dà	SCONJ	_	_	7	mod	_	AlignBegin=131520|AlignEnd=131743|Gloss=as
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=131743|AlignEnd=131966|Gloss=3Masc-|SpaceAfter=No|wordform=yaw
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=w=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=w=
 4	wucèː	wut-	VERB	_	_	1	comp:obj	_	AlignBegin=131966|AlignEnd=132189|Gloss=pass_by
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=132189|AlignEnd=132412|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 7	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=132412|AlignEnd=132635|Gloss=go
 8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=132412|AlignEnd=132635|ClauseType=Rel|Gloss=where
 9	kàreː	kàreː	NOUN	_	Gender=Masc	8	mod@relcl	_	AlignBegin=132635|AlignEnd=132858|Gloss=dog.Masc|RelRole=pred
@@ -618,7 +618,7 @@
 # text = yac cêː mà kàreː [ kàreː inàː gàyyaː //] ]
 # text_en = He told Dog "Dog, I'm doing a communal farming."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=133905|AlignEnd=134146|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=134146|AlignEnd=134387|Gloss=say
 4	mà	mà	ADP	_	Case=Dat	3	comp:obl	_	AlignBegin=134387|AlignEnd=134628|Gloss=Dat
 5	kàreː	kàreː	NOUN	_	Gender=Masc	4	comp:obj	_	AlignBegin=134628|AlignEnd=134869|Gloss=dog.Masc
@@ -639,7 +639,7 @@
 # text_en = Dog told him "You're doing a communal farming. Tell me, there won't be Leopard ?"
 1	kàreː	kàreː	NOUN	_	Gender=Masc	4	subj	_	AlignBegin=137500|AlignEnd=137724|Gloss=dog.Masc
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=137724|AlignEnd=137948|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=137948|AlignEnd=138172|Gloss=say
 5	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=138172|AlignEnd=138396|Gloss=3Masc.Dat
 6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=138396|AlignEnd=138620|Gloss=PUNCT
@@ -663,7 +663,7 @@
 # text = yac cèː [ baːbù dàːmisàː //] //
 # text_en = He said, there won't be Leopard.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=141744|AlignEnd=141906|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=141906|AlignEnd=142068|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=142068|AlignEnd=142230|Gloss=PUNCT
 5	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	AlignBegin=142230|AlignEnd=142392|Gloss=there_is.Neg
@@ -679,7 +679,7 @@
 # text = yac cèː [ baːbù kuːraː //] //
 # text_en = He said, there won't be Hyena.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=143480|AlignEnd=143665|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=143665|AlignEnd=143850|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=143850|AlignEnd=144035|Gloss=PUNCT
 5	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	AlignBegin=144035|AlignEnd=144220|Gloss=there_is.Neg
@@ -695,7 +695,7 @@
 # text = yac cèː [ baːbù kuːraː //] //
 # text_en = He said, there won't be Hyena.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=145943|AlignEnd=146065|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=146065|AlignEnd=146187|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=146187|AlignEnd=146309|Gloss=PUNCT
 5	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	AlignBegin=146309|AlignEnd=146431|Gloss=there_is.Neg
@@ -711,11 +711,11 @@
 # text = yaz zoː |c yah hwaɗàː mà kuːraː //
 # text_en = He went and told Hyena.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=147026|AlignEnd=147241|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 3	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=147241|AlignEnd=147456|Gloss=go
 4	|c	|c	PUNCT	_	_	7	punct	_	AlignBegin=147456|AlignEnd=147671|Gloss=PUNCT
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=147671|AlignEnd=147886|Gloss=3Masc-|SpaceAfter=No|wordform=yah
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=h=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=h=
 7	hwaɗàː	hwaɗ-	VERB	_	_	3	conj:coord	_	AlignBegin=147886|AlignEnd=148101|Gloss=tell
 8	mà	mà	ADP	_	Case=Dat	7	comp:obl	_	AlignBegin=148101|AlignEnd=148316|Gloss=Dat
 9	kuːraː	kuːraː	NOUN	_	Gender=Fem	8	comp:obj	_	AlignBegin=148316|AlignEnd=148531|Gloss=hyena.Fem
@@ -730,7 +730,7 @@
 # text_en = Hyena said "Tell me, there won't be Leopard ?"
 1	kuːraː	kuːraː	NOUN	_	Gender=Fem	4	subj	_	AlignBegin=148744|AlignEnd=148934|Gloss=hyena.Fem
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=148934|AlignEnd=149124|Gloss=3Fem-|SpaceAfter=No|wordform=tac
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 4	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=149124|AlignEnd=149314|Gloss=say
 5	[	[	PUNCT	_	_	9	punct	_	AlignBegin=149314|AlignEnd=149504|Gloss=PUNCT
 6	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
@@ -750,7 +750,7 @@
 # text_en = Then he said "He won't be there."
 1	sa’ànnan	sa’ànnan	ADV	_	_	4	mod	_	AlignBegin=152140|AlignEnd=152398|Gloss=then
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=152656|AlignEnd=152914|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 4	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=152914|AlignEnd=153172|Gloss=say
 5	[	[	PUNCT	_	_	6	punct	_	AlignBegin=153172|AlignEnd=153430|Gloss=PUNCT
 6	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	comp:obj	_	AlignBegin=153430|AlignEnd=153688|Gloss=there_is.Neg
@@ -766,11 +766,11 @@
 # text = yaz zoː |c yah hwaɗàː mà dàːmisàː //
 # text_en = He went and told Leopard.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=154840|AlignEnd=155046|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 3	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=155046|AlignEnd=155252|Gloss=go
 4	|c	|c	PUNCT	_	_	7	punct	_	AlignBegin=155458|AlignEnd=155664|Gloss=PUNCT
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=155664|AlignEnd=155870|Gloss=3Masc-|SpaceAfter=No|wordform=yah
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=h=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=h=
 7	hwaɗàː	hwaɗ-	VERB	_	_	3	conj:coord	_	AlignBegin=155870|AlignEnd=156076|Gloss=tell
 8	mà	mà	ADP	_	Case=Dat	7	comp:obl	_	AlignBegin=156076|AlignEnd=156282|Gloss=Dat
 9	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	8	comp:obj	_	AlignBegin=156282|AlignEnd=156488|Gloss=leopard.Fem
@@ -785,7 +785,7 @@
 # text_en = Leopard said "Tell me, there won't be Lion ?"
 1	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	4	subj	_	AlignBegin=156694|AlignEnd=156900|Gloss=leopard.Fem
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=156900|AlignEnd=157106|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 4	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=157106|AlignEnd=157312|Gloss=say
 5	[	[	PUNCT	_	_	9	punct	_	AlignBegin=157312|AlignEnd=157518|Gloss=PUNCT
 6	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
@@ -804,7 +804,7 @@
 # text = yac cèː [ baːbù shi //] //
 # text_en = He said "He won't be there."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=159782|AlignEnd=159906|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=159906|AlignEnd=160030|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=160030|AlignEnd=160154|Gloss=PUNCT
 5	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	AlignBegin=160154|AlignEnd=160278|Gloss=there_is.Neg
@@ -844,7 +844,7 @@
 # text_en = Then they gathered.
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=169381|AlignEnd=169620|Gloss=until
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=169620|AlignEnd=169859|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
+3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	tàːru	taːr-	VERB	_	_	0	root	_	AlignBegin=169859|AlignEnd=170098|Gloss=meet
 5	//	//	PUNCT	_	_	4	punct	_	AlignBegin=170098|AlignEnd=170336|Gloss=PUNCT
 
@@ -872,7 +872,7 @@
 3	wàːtôː	wàːtôː	INTJ	_	_	7	discourse	_	AlignBegin=176826|AlignEnd=177349|Gloss=that_is
 4	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	7	mod	_	AlignBegin=177349|AlignEnd=177872|Gloss=cock.Masc
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=177872|AlignEnd=178395|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 7	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=178395|AlignEnd=178918|Gloss=arrive
 8	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=178918|AlignEnd=179441|Gloss=PUNCT
 9	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=179441|AlignEnd=179964|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -895,7 +895,7 @@
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen.Masc/Plur
 4	ɓiki	ɓiki	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=183337|AlignEnd=183702|Gloss=shit.Masc
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=183702|AlignEnd=184067|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 7	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=184067|AlignEnd=184432|Gloss=say
 8	mà	mà	ADP	_	Case=Dat	7	comp:obl	_	AlignBegin=184432|AlignEnd=184797|Gloss=Dat
 9	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	8	comp:obj	_	AlignBegin=184797|AlignEnd=185162|Gloss=cock.Masc
@@ -918,7 +918,7 @@
 # text = yac cèː [ eː //] //
 # text_en = He said "Yes."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=188087|AlignEnd=188196|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=188196|AlignEnd=188305|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=188305|AlignEnd=188414|Gloss=PUNCT
 5	eː	eː	INTJ	_	_	3	comp:obj	_	AlignBegin=188414|AlignEnd=188523|Gloss=yes
@@ -933,7 +933,7 @@
 # text = yac cèː [ wùceː !//] //
 # text_en = He said "Get in!"
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=189820|AlignEnd=189940|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=189940|AlignEnd=190060|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=190060|AlignEnd=190180|Gloss=PUNCT
 5	wùceː	wut-	VERB	_	_	3	comp:obj	_	AlignBegin=190180|AlignEnd=190300|Gloss=move.Impr|Imperative=Yes
@@ -963,11 +963,11 @@
 1	dà	dà	SCONJ	_	_	9	mod	_	AlignBegin=194025|AlignEnd=194128|Gloss=as
 2	mùzuːruː	mùzuːruː	NOUN	_	Gender=Masc	5	subj	_	AlignBegin=194128|AlignEnd=194231|Gloss=cat.Masc
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=194231|AlignEnd=194334|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 5	zakà	zak-	VERB	_	_	1	comp:obj	_	AlignBegin=194334|AlignEnd=194437|Gloss=arrive
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=194437|AlignEnd=194540|Gloss=PUNCT
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=194540|AlignEnd=194643|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 9	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=194643|AlignEnd=194746|Gloss=say
 10	[	[	PUNCT	_	_	13	punct	_	AlignBegin=194746|AlignEnd=194849|Gloss=PUNCT
 11	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	13	subj/m	_	AlignBegin=194849|AlignEnd=194952|Gloss=2Masc|SpaceAfter=No|wordform=kaː
@@ -984,7 +984,7 @@
 # text = yac cèː [ wùceː !//= gàː naːmàː nân //] //
 # text_en = He said "Get in, here is some meat."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=195258|AlignEnd=195470|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=195470|AlignEnd=195682|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=195682|AlignEnd=195894|Gloss=PUNCT
 5	wùceː	wut-	VERB	_	_	3	comp:obj	_	AlignBegin=195894|AlignEnd=196106|Gloss=move.Impr|Imperative=Yes
@@ -1013,7 +1013,7 @@
 # text = yac cânyè mùzuruː //
 # text_en = He ate Cat up.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=200060|AlignEnd=200325|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cânyè	ci	VERB	_	_	0	root	_	AlignBegin=200325|AlignEnd=200590|Gloss=eat
 4	mùzuruː	mùzuruː	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=200590|AlignEnd=200855|Gloss=cat.Masc
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=200855|AlignEnd=201120|Gloss=PUNCT
@@ -1026,7 +1026,7 @@
 # text = yac cânyè zàkaràː //
 # text_en = He ate Cock up.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=202163|AlignEnd=202551|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cânyè	ci	VERB	_	_	0	root	_	AlignBegin=202551|AlignEnd=202939|Gloss=eat
 4	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=202939|AlignEnd=203327|Gloss=cock.Masc
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=203327|AlignEnd=203714|Gloss=PUNCT
@@ -1039,7 +1039,7 @@
 # text = yac cânyè zàkaràː //
 # text_en = He ate Cock up.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=203630|AlignEnd=203921|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cânyè	ci	VERB	_	_	0	root	_	AlignBegin=203921|AlignEnd=204212|Gloss=eat
 4	zàkaràː	zàkaràː	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=204212|AlignEnd=204503|Gloss=cock.Masc
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=204503|AlignEnd=204795|Gloss=PUNCT
@@ -1073,14 +1073,14 @@
 # text_en = WWhen Dog arrived, Jackal said "Welcome!"
 1	kàreː	kàreː	NOUN	_	Gender=Masc	4	subj	_	AlignBegin=210800|AlignEnd=211015|Gloss=dog.Masc
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=211015|AlignEnd=211230|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 4	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=211230|AlignEnd=211445|Gloss=arrive
 5	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=211445|AlignEnd=211660|Gloss=PUNCT
 6	kàre	kàreː	NOUN	_	Gender=Masc	11	subj	_	AlignBegin=211660|AlignEnd=211875|Compound=Yes|Gloss=dog.Masc|SpaceAfter=No|wordform=kàram
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	ɓiki	ɓiki	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=211875|AlignEnd=212090|Gloss=shit.Masc
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=212090|AlignEnd=212305|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+10	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 11	cèː	cêː	VERB	_	_	4	conj:coord	_	AlignBegin=212305|AlignEnd=212520|Gloss=say
 12	[	[	PUNCT	_	_	13	punct	_	AlignBegin=212520|AlignEnd=212735|Gloss=PUNCT
 13	sànnu	sànnu	INTJ	_	_	11	comp:obj	_	AlignBegin=212735|AlignEnd=212950|Gloss=hello
@@ -1097,7 +1097,7 @@
 # text = yac cèː [ sànnu kàɗai !//] //
 # text_en = He said "Thanks!"
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=213813|AlignEnd=213900|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=213900|AlignEnd=213987|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=213987|AlignEnd=214074|Gloss=PUNCT
 5	sànnu	sànnu	INTJ	_	_	3	comp:obj	_	AlignBegin=214074|AlignEnd=214161|Gloss=hello
@@ -1128,7 +1128,7 @@
 # text = yac cèː [ sun zakà //] //
 # text_en = He said "They have arrived."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=215044|AlignEnd=215152|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=215152|AlignEnd=215260|Gloss=say
 4	[	[	PUNCT	_	_	7	punct	_	AlignBegin=215260|AlignEnd=215368|Gloss=PUNCT
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=215368|AlignEnd=215476|Gloss=3Plur-|SpaceAfter=No|wordform=sun
@@ -1201,7 +1201,7 @@
 # text = yac cèː [ ƴan gàyyaː kòː sun zakà //] //
 # text_en = He said "The participants have arrived."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=227312|AlignEnd=227455|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=227455|AlignEnd=227598|Gloss=say
 4	[	[	PUNCT	_	_	11	punct	_	AlignBegin=227598|AlignEnd=227741|Gloss=PUNCT
 5	ƴa	ɗaː	NOUN	_	Number=Plur	11	dislocated@subj	_	AlignBegin=227741|AlignEnd=227884|Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform=ƴan
@@ -1236,12 +1236,12 @@
 # text = tab bi kàreː |c tat taushèː //
 # text_en = She chased Dog and tackled him.
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=234780|AlignEnd=234977|Gloss=3Fem-|SpaceAfter=No|wordform=tab
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=b=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=b=
 3	bi	bi	VERB	_	_	0	root	_	AlignBegin=234977|AlignEnd=235174|Gloss=follow
 4	kàreː	kàreː	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=235174|AlignEnd=235371|Gloss=dog.Masc
 5	|c	|c	PUNCT	_	_	8	punct	_	AlignBegin=235371|AlignEnd=235568|Gloss=PUNCT
 6	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=235568|AlignEnd=235765|Gloss=3Fem-|SpaceAfter=No|wordform=tat
-7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=t=
+7	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|wordform=t=
 8	taushèː	taus-	VERB	_	_	3	conj:coord	_	AlignBegin=235765|AlignEnd=235962|Gloss=tackle
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=235962|AlignEnd=236160|Gloss=PUNCT
 
@@ -1270,11 +1270,11 @@
 # text_en = When Leopard arrived, he said "Have the participants arrived?"
 1	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	4	subj	_	AlignBegin=241138|AlignEnd=241272|Gloss=leopard.Fem
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=241272|AlignEnd=241406|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=z=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 4	zakà	zak-	VERB	_	_	0	root	_	AlignBegin=241406|AlignEnd=241540|Gloss=arrive
 5	|c	|c	PUNCT	_	_	8	punct	_	AlignBegin=241540|AlignEnd=241674|Gloss=PUNCT
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=241674|AlignEnd=241808|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+7	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 8	cèː	cêː	VERB	_	_	4	conj:coord	_	AlignBegin=241808|AlignEnd=241942|Gloss=say
 9	[	[	PUNCT	_	_	15	punct	_	AlignBegin=241942|AlignEnd=242076|Gloss=PUNCT
 10	ƴa	ɗaː	NOUN	_	Number=Plur	15	subj	_	AlignBegin=242076|AlignEnd=242210|Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform=ƴan
@@ -1294,7 +1294,7 @@
 # text = yac cèː [ shìga !//= gàː kuːraː nân //] //
 # text_en = He said "Get in, here is Dog."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=242880|AlignEnd=243124|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=243124|AlignEnd=243368|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=243368|AlignEnd=243612|Gloss=PUNCT
 5	shìga	shig-	VERB	_	_	3	comp:obj	_	AlignBegin=243612|AlignEnd=243856|Gloss=enter.Impr|Imperative=Yes
@@ -1313,7 +1313,7 @@
 # text = yak kashè kuːraː < sa’ànnan gàː zaːkìː //
 # text_en = After he killed Dog, here came Lion.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=247080|AlignEnd=247253|Gloss=3Masc-|SpaceAfter=No|wordform=yak
-2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
+2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=k=
 3	kashè	kas-	VERB	_	_	7	mod	_	AlignBegin=247253|AlignEnd=247426|Gloss=kill
 4	kuːraː	kuːraː	NOUN	_	Gender=Fem	3	comp:obj	_	AlignBegin=247426|AlignEnd=247599|Gloss=hyena.Fem
 5	<	<	PUNCT	_	_	3	punct	_	AlignBegin=247599|AlignEnd=247772|Gloss=PUNCT
@@ -1337,12 +1337,12 @@
 6	zaːkìː	zaːkìː	NOUN	_	Gender=Masc	4	conj:coord	_	AlignBegin=251201|AlignEnd=251496|Gloss=lion.Masc
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=251496|AlignEnd=251791|Gloss=PUNCT
 8	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=251791|AlignEnd=252086|Gloss=3Fem-|SpaceAfter=No|wordform=tak
-9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
+9	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|wordform=k=
 10	kai	kaːy-	VERB	_	_	0	root	_	AlignBegin=252086|AlignEnd=252381|Gloss=reach
 11	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	AlignBegin=252381|AlignEnd=252676|Gloss=thing.Masc.Def|RelAnt=Yes
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	AlignBegin=252676|AlignEnd=252971|Gloss=CompRel|Relz=Word
 13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=252971|AlignEnd=253266|Gloss=3Fem-|SpaceAfter=No|wordform=tak
-14	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=k=
+14	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|wordform=k=
 15	kai	kaːy-	VERB	_	_	12	comp:obj	_	AlignBegin=253266|AlignEnd=253561|ClauseType=Rel|Gloss=reach|RelRole=obj
 16	//	//	PUNCT	_	_	10	punct	_	AlignBegin=253561|AlignEnd=253853|Gloss=PUNCT
 
@@ -1371,7 +1371,7 @@
 16	dûn	dukà	PRON	_	ExtPos=PRON|PronType=Tot	0	root	_	AlignBegin=258715|AlignEnd=258982|Gloss=all
 17	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	16	det	_	AlignBegin=258982|AlignEnd=259249|Gloss=PreRef|PreRef=Yes
 18	an-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	AlignBegin=259249|AlignEnd=259516|Gloss=4-|SpaceAfter=No|wordform=anka
-19	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
+19	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 20	waːc'èː	waːs'-	VERB	_	_	16	comp:cleft	_	AlignBegin=259516|AlignEnd=259783|Gloss=scatter|wordform=waːc’èː
 21	//	//	PUNCT	_	_	16	punct	_	AlignBegin=259783|AlignEnd=260055|Gloss=PUNCT
 
@@ -1398,7 +1398,7 @@
 # text = sunkà bìɗi kàram ɓiki //
 # text_en = They chased Jackal.
 1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=267520|AlignEnd=267699|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes|wordform=nkà=
+2	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	bìɗi	biɗ-	VERB	_	_	0	root	_	AlignBegin=267699|AlignEnd=267878|Gloss=look_for
 4	kàre	kàreː	NOUN	_	Gender=Masc	3	comp:obj	_	AlignBegin=267878|AlignEnd=268057|Compound=Yes|Gloss=dog.Masc|SpaceAfter=No|wordform=kàram
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
@@ -1416,7 +1416,7 @@
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
 3	ɓiki	ɓiki	NOUN	_	Gender=Masc	2	comp:obj	_	AlignBegin=268556|AlignEnd=268697|Gloss=shit.Masc
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=268697|AlignEnd=268838|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-5	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=c=
+5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 6	c’eːrèː	c’eːr-	VERB	_	_	0	root	_	AlignBegin=268838|AlignEnd=268979|Gloss=escape
 7	//	//	PUNCT	_	_	6	punct	_	AlignBegin=268979|AlignEnd=269120|Gloss=PUNCT
 
