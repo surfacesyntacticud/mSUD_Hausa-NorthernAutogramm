@@ -7,7 +7,7 @@
 # text_en = Well, it's Hyena...
 1	wàːtôː	wàːtôː	INTJ	_	_	2	discourse	_	AlignBegin=2320|AlignEnd=3340|Gloss=that_is
 2	dà	dà	ADP	_	_	0	root	_	AlignBegin=3340|AlignEnd=4360|Gloss=with
-3	kuːraː	kuːraː	NOUN	_	Gender=Fem	2	comp:obj	_	AlignBegin=4360|AlignEnd=5380|Gloss=hyena.Fem
+3	kuːraː	kuːraː	NOUN	_	Gender=Fem	2	comp	_	AlignBegin=4360|AlignEnd=5380|Gloss=hyena.Fem
 4	//	//	PUNCT	_	_	2	punct	_	AlignBegin=5380|AlignEnd=6400|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_02-02
@@ -38,7 +38,7 @@
 2	shi	shi	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	1	subj	_	AlignBegin=17482|AlignEnd=17626|Gloss=3Masc
 3	wuri	wuriː	NOUN	_	Gender=Masc	1	comp:pred	_	AlignBegin=17626|AlignEnd=17770|Compound=Yes|Gloss=place.Masc|SpaceAfter=No|wordform=wurin
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
-5	baràː	baràː	NOUN	_	Gender=Masc	4	comp:obj	_	AlignBegin=17770|AlignEnd=17914|Gloss=begging.Masc
+5	baràː	baràː	NOUN	_	Gender=Masc	4	comp	_	AlignBegin=17770|AlignEnd=17914|Gloss=begging.Masc
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=17914|AlignEnd=18058|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_04-04
@@ -52,9 +52,9 @@
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=18058|AlignEnd=19230|Gloss=Prog|wordform=shinàː
 3	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=19230|AlignEnd=20402|CaseAf=Gen|GenderAf=Masc|Gloss=go.Vnoun.Fem|PersonAf=3|PronTypeAf=Prs|SpaceAfter=No|wordform=tàhiyàːtai
 4	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod/m	_	Gloss=Gen.Fem|SpaceAfter=No
-5	-ai	-ai	PART	_	Case=Gen|Gender=Masc|PartType=Case|Person=3|PronType=Prs	4	comp:obj	_	Gloss=3Masc.Gen
+5	-ai	-ai	PART	_	Case=Gen|Gender=Masc|PartType=Case|Person=3|PronType=Prs	4	comp	_	Gloss=3Masc.Gen
 6	dà	dà	ADP	_	_	3	mod	_	AlignBegin=20402|AlignEnd=21574|Gloss=with
-7	jàlloː	jàlloː	NOUN	_	_	6	comp:obj	_	AlignBegin=21574|AlignEnd=22746|Gloss=walking_stick|PronTypeAf=Prs|SpaceAfter=No|wordfrom=jàlloːnai
+7	jàlloː	jàlloː	NOUN	_	_	6	comp	_	AlignBegin=21574|AlignEnd=22746|Gloss=walking_stick|PronTypeAf=Prs|SpaceAfter=No|wordfrom=jàlloːnai
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=22746|AlignEnd=23920|Gloss=PUNCT
@@ -122,7 +122,7 @@
 4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=32017|AlignEnd=32203|Gloss=3Fem|SpaceAfter=No|wordform=tà
 6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub|SpaceAfter=No
-7	ciː	ci	VERB	_	_	4	comp:obj	_	AlignBegin=32203|AlignEnd=32389|Gloss=eat/conquer
+7	ciː	ci	VERB	_	_	4	comp	_	AlignBegin=32203|AlignEnd=32389|Gloss=eat/conquer
 8	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=32389|AlignEnd=32575|Gloss=3Masc
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=32575|AlignEnd=32762|Gloss=PUNCT
 
@@ -139,7 +139,7 @@
 4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=33144|AlignEnd=33335|Gloss=3Fem|SpaceAfter=No|wordform=tà
 6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub|SpaceAfter=No
-7	ciː	ci	VERB	_	_	4	comp:obj	_	AlignBegin=33335|AlignEnd=33526|Gloss=eat/conquer
+7	ciː	ci	VERB	_	_	4	comp	_	AlignBegin=33335|AlignEnd=33526|Gloss=eat/conquer
 8	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=33526|AlignEnd=33717|Gloss=3Masc
 9	|r	|r	PUNCT	_	_	11	punct	_	AlignBegin=33717|AlignEnd=33908|Gloss=PUNCT
 10	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=33908|AlignEnd=34099|Gloss=3Fem|SpaceAfter=No
@@ -148,7 +148,7 @@
 13	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur
 14	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=34290|AlignEnd=34481|Gloss=3Fem|SpaceAfter=No|wordform=tà
 15	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	16	mod/m	_	Gloss=Sub|SpaceAfter=No
-16	ciː	ci	VERB	_	_	13	comp:obj	_	AlignBegin=34481|AlignEnd=34672|Gloss=eat/conquer
+16	ciː	ci	VERB	_	_	13	comp	_	AlignBegin=34481|AlignEnd=34672|Gloss=eat/conquer
 17	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	comp:obj	_	AlignBegin=34672|AlignEnd=34863|Gloss=3Masc
 18	|r	|r	PUNCT	_	_	20	punct	_	AlignBegin=34863|AlignEnd=35054|Gloss=PUNCT
 19	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	AlignBegin=35054|AlignEnd=35245|Gloss=3Fem|SpaceAfter=No
@@ -157,16 +157,16 @@
 22	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	AlignBegin=35436|AlignEnd=35627|Gloss=3Fem|SpaceAfter=No|wordform=tà
 24	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	25	mod/m	_	Gloss=Sub|SpaceAfter=No
-25	ciː	ci	VERB	_	_	22	comp:obj	_	AlignBegin=35627|AlignEnd=35818|Gloss=eat/conquer
+25	ciː	ci	VERB	_	_	22	comp	_	AlignBegin=35627|AlignEnd=35818|Gloss=eat/conquer
 26	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	AlignBegin=35818|AlignEnd=36009|Gloss=3Masc
 27	har	har	ADV	_	_	30	mod	_	AlignBegin=36009|AlignEnd=36200|Gloss=then
 28	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	30	subj/m	_	AlignBegin=36200|AlignEnd=36391|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 29	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 30	kai	kaːy-	VERB	_	_	20	parataxis:conj	_	AlignBegin=36391|AlignEnd=36582|Gloss=carry
 31	gà	gà	ADP	_	_	30	comp:obl	_	AlignBegin=36582|AlignEnd=36773|Gloss=by
-32	bàːki	bàːkiː	NOUN	_	Gender=Masc	31	comp:obj	_	AlignBegin=36773|AlignEnd=36964|Compound=Yes|Gloss=mouth.Masc|SpaceAfter=No|wordform=bàːkin
+32	bàːki	bàːkiː	NOUN	_	Gender=Masc	31	comp	_	AlignBegin=36773|AlignEnd=36964|Compound=Yes|Gloss=mouth.Masc|SpaceAfter=No|wordform=bàːkin
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	udep/m	_	Gloss=Gen.Fem
-34	tabkìː	tabkìː	NOUN	_	Gender=Masc	33	comp:obj	_	AlignBegin=36964|AlignEnd=37155|Gloss=river.Masc
+34	tabkìː	tabkìː	NOUN	_	Gender=Masc	33	comp	_	AlignBegin=36964|AlignEnd=37155|Gloss=river.Masc
 35	//	//	PUNCT	_	_	2	punct	_	AlignBegin=37155|AlignEnd=37336|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_10-10
@@ -187,7 +187,7 @@
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=39650|AlignEnd=39939|Gloss=3Fem|SpaceAfter=No|wordform=tà
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub|SpaceAfter=No
-12	ciː	ci	VERB	_	_	9	comp:obj	_	AlignBegin=39939|AlignEnd=40228|Gloss=eat/conquer
+12	ciː	ci	VERB	_	_	9	comp	_	AlignBegin=39939|AlignEnd=40228|Gloss=eat/conquer
 13	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	AlignBegin=40228|AlignEnd=40517|Gloss=3Masc
 14	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40517|AlignEnd=40806|Gloss=PUNCT
 15	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=40806|AlignEnd=41095|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
@@ -195,7 +195,7 @@
 17	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=41095|AlignEnd=41384|Gloss=go
 18	bàːki	bàːkiː	NOUN	_	Gender=Masc	17	comp:obj@G	_	AlignBegin=41384|AlignEnd=41673|Compound=Yes|Gloss=mouth.Masc|SpaceAfter=No|wordform=bàːkin
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Fem
-20	tabkìː	tabkìː	NOUN	_	Gender=Masc	19	comp:obj	_	AlignBegin=41673|AlignEnd=41962|Gloss=river.Masc
+20	tabkìː	tabkìː	NOUN	_	Gender=Masc	19	comp	_	AlignBegin=41673|AlignEnd=41962|Gloss=river.Masc
 21	|c	|c	PUNCT	_	_	25	punct	_	AlignBegin=41962|AlignEnd=42251|Gloss=PUNCT
 22	sai	sai	ADV	_	ExtPos=ADV	25	mod	_	AlignBegin=42251|AlignEnd=42540|Gloss=then
 23	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	AlignBegin=42540|AlignEnd=42829|Gloss=3Masc-|SpaceAfter=No|wordform=yak
@@ -363,8 +363,8 @@
 9	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Sing
 10	taːsoː	taːs-	VERB	_	_	0	root	_	AlignBegin=70446|AlignEnd=70708|Gloss=stand
 11	dàc	dàk	ADP	_	_	10	comp:obl	_	AlignBegin=70708|AlignEnd=70970|Gloss=from
-12	cikin	cikin	ADP	_	_	11	comp:obj	_	AlignBegin=70970|AlignEnd=71232|Gloss=in
-13	ruwaː	ruwaː	NOUN	_	Number=Plur	12	comp:obj	_	AlignBegin=71232|AlignEnd=71494|Gloss=water.Plur
+12	cikin	cikin	ADP	_	_	11	comp	_	AlignBegin=70970|AlignEnd=71232|Gloss=in
+13	ruwaː	ruwaː	NOUN	_	Number=Plur	12	comp	_	AlignBegin=71232|AlignEnd=71494|Gloss=water.Plur
 14	//	//	PUNCT	_	_	10	punct	_	AlignBegin=71494|AlignEnd=71762|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_18-18
@@ -469,25 +469,25 @@
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=87259|AlignEnd=87377|Gloss=Prog|wordform=ta
 3	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	2	comp:pred	_	AlignBegin=87377|AlignEnd=87495|Gloss=follow.Part
 4	dà	dà	ADP	_	_	3	comp:obl	_	AlignBegin=87495|AlignEnd=87613|Gloss=with
-5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	comp:obj	_	AlignBegin=87613|AlignEnd=87731|Gloss=3Masc.Nom
+5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	comp	_	AlignBegin=87613|AlignEnd=87731|Gloss=3Masc.Nom
 6	|r	|r	PUNCT	_	_	8	punct	_	AlignBegin=87731|AlignEnd=87849|Gloss=PUNCT
 7	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=87849|AlignEnd=87967|Gloss=3Fem|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:redup	_	AlignBegin=87849|AlignEnd=87967|Gloss=Prog|wordform=ta
 9	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:pred	_	AlignBegin=87967|AlignEnd=88085|Gloss=follow.Part
 10	dà	dà	ADP	_	_	9	comp:obl	_	AlignBegin=88085|AlignEnd=88203|Gloss=with
-11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=88203|AlignEnd=88321|Gloss=3Masc.Nom
+11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp	_	AlignBegin=88203|AlignEnd=88321|Gloss=3Masc.Nom
 12	|r	|r	PUNCT	_	_	14	punct	_	AlignBegin=88321|AlignEnd=88439|Gloss=PUNCT
 13	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=88439|AlignEnd=88557|Gloss=3Fem|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	conj:redup	_	AlignBegin=88439|AlignEnd=88557|Gloss=Prog|wordform=ta
 15	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	14	comp:pred	_	AlignBegin=88557|AlignEnd=88675|Gloss=follow.Part
 16	dà	dà	ADP	_	_	15	comp:obl	_	AlignBegin=88675|AlignEnd=88793|Gloss=with
-17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	comp:obj	_	AlignBegin=88793|AlignEnd=88911|Gloss=3Masc.Nom
+17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	comp	_	AlignBegin=88793|AlignEnd=88911|Gloss=3Masc.Nom
 18	|r	|r	PUNCT	_	_	20	punct	_	AlignBegin=88911|AlignEnd=89029|Gloss=PUNCT
 19	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	AlignBegin=89029|AlignEnd=89147|Gloss=3Fem|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	conj:redup	_	AlignBegin=89029|AlignEnd=89147|Gloss=Prog|wordform=ta
 21	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	20	comp:pred	_	AlignBegin=89147|AlignEnd=89265|Gloss=follow.Part
 22	dà	dà	ADP	_	_	21	comp:obl	_	AlignBegin=89265|AlignEnd=89383|Gloss=with
-23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	22	comp:obj	_	AlignBegin=89383|AlignEnd=89501|Gloss=3Masc.Nom
+23	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	22	comp	_	AlignBegin=89383|AlignEnd=89501|Gloss=3Masc.Nom
 24	//	//	PUNCT	_	_	2	punct	_	AlignBegin=89501|AlignEnd=89620|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_24-24
@@ -501,7 +501,7 @@
 2	shi-	shi-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=90877|AlignEnd=91248|Gloss=3Masc|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	mod	_	AlignBegin=90877|AlignEnd=91248|Gloss=Prog|wordform=shi
 4	cikin	cikin	ADP	_	_	3	comp:pred	_	AlignBegin=91248|AlignEnd=91619|Gloss=in
-5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=91619|AlignEnd=91990|Gloss=go.Vnoun.Fem
+5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp	_	AlignBegin=91619|AlignEnd=91990|Gloss=go.Vnoun.Fem
 6	sai	sai	ADV	_	_	9	mod	_	AlignBegin=91990|AlignEnd=92361|Gloss=until
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=92361|AlignEnd=92732|Gloss=3Masc-|SpaceAfter=No|wordform=yac
 8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
@@ -526,7 +526,7 @@
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=94806|AlignEnd=95028|Gloss=3Fem|SpaceAfter=No|wordform=tà
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub|SpaceAfter=No
-12	ciː	ci	VERB	_	_	9	comp:obj	_	AlignBegin=95028|AlignEnd=95250|Gloss=eat/conquer
+12	ciː	ci	VERB	_	_	9	comp	_	AlignBegin=95028|AlignEnd=95250|Gloss=eat/conquer
 13	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	mod	_	AlignBegin=95250|AlignEnd=95472|Gloss=3Masc
 14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=95472|AlignEnd=95691|Gloss=PUNCT
 
@@ -566,7 +566,7 @@
 4	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:pred	_	AlignBegin=100682|AlignEnd=100962|Gloss=stop.Part
 5	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	dislocated@subj	_	AlignBegin=100962|AlignEnd=101242|Gloss=3Plur.Nom
 6	dà	dà	ADP	_	_	5	mod	_	AlignBegin=101242|AlignEnd=101522|Gloss=with
-7	yawàː	yawàː	NOUN	_	Gender=Masc	6	comp:obj	_	AlignBegin=101522|AlignEnd=101802|Gloss=quantity.Masc
+7	yawàː	yawàː	NOUN	_	Gender=Masc	6	comp	_	AlignBegin=101522|AlignEnd=101802|Gloss=quantity.Masc
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=101802|AlignEnd=102080|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_28-28
@@ -596,7 +596,7 @@
 18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	AlignBegin=106410|AlignEnd=106646|Gloss=Prog|wordform=inàː
 19	ɓaːcìː	ɓaːt-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	18	comp:pred	_	AlignBegin=106646|AlignEnd=106882|Gloss=insult.Vnoun.Masc|SpaceAfter=No|wordform=ɓaːcìnsu
 20	-n	-n	PART	_	Case=Gen|PartType=Case	19	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-21	-ta	-su	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	comp:obj	_	Gloss=3Plur
+21	-ta	-su	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	comp	_	Gloss=3Plur
 22	!//]	!//]	PUNCT	_	_	6	punct	_	AlignBegin=106882|AlignEnd=107118|Gloss=PUNCT
 23	//	//	PUNCT	_	_	3	punct	_	AlignBegin=107118|AlignEnd=107353|Gloss=PUNCT
 
@@ -619,14 +619,14 @@
 10	gàː	gàː	PART	_	PartType=Pred	6	comp:obj	_	AlignBegin=111354|AlignEnd=111630|Gloss=here_is
 11	ɗa	ɗaː	NOUN	_	Gender=Masc	10	subj	_	AlignBegin=111630|AlignEnd=111906|Compound=Yes|Gloss=child.Masc|SpaceAfter=No|wordform=ɗan
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
-13	àlmaːjìriː	àlmaːjìriː	NOUN	_	Gender=Masc	12	comp:obj	_	AlignBegin=111906|AlignEnd=112182|Gloss=student.Masc
+13	àlmaːjìriː	àlmaːjìriː	NOUN	_	Gender=Masc	12	comp	_	AlignBegin=111906|AlignEnd=112182|Gloss=student.Masc
 14	cân	can	ADV	_	Deixis=Remt|PronType=Dem	10	comp:pred	_	AlignBegin=112182|AlignEnd=112458|Gloss=Rmt
 15	//=	//=	PUNCT	_	_	17	punct	_	AlignBegin=112458|AlignEnd=112734|Gloss=PUNCT|SpaceAfter=No
 16	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	17	subj/m	_	AlignBegin=112734|AlignEnd=113010|Gloss=3Masc|SpaceAfter=No
 17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	parataxis:conj	_	AlignBegin=112734|AlignEnd=113010|Gloss=Prog|wordform=shinàː
 18	ɓaːcì	ɓaːt-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:pred	_	AlignBegin=113010|AlignEnd=113286|Gloss=insult.Vnoun.Masc|SpaceAfter=No|wordform=ɓaːcìnku
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-20	-ku	-ku	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	comp:obj	_	Gloss=2Plur.Gen
+20	-ku	-ku	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	comp	_	Gloss=2Plur.Gen
 21	//]	//]	PUNCT	_	_	10	punct	_	AlignBegin=113286|AlignEnd=113562|Gloss=PUNCT
 22	//	//	PUNCT	_	_	3	punct	_	AlignBegin=113562|AlignEnd=113834|Gloss=PUNCT
 
@@ -829,7 +829,7 @@
 9	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	10	mod	_	AlignBegin=136130|AlignEnd=136264|Gloss=Iter
 10	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:pred	_	AlignBegin=136398|AlignEnd=136532|Gloss=eat.Vnoun.Masc|SpaceAfter=No|wordform=cîn
 11	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	10	udep/m	_	Gloss=Gen.Masc/Plur
-12	naːmàː	naːmàː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=136532|AlignEnd=136666|Gloss=meat.Masc
+12	naːmàː	naːmàː	NOUN	_	Gender=Masc	11	comp	_	AlignBegin=136532|AlignEnd=136666|Gloss=meat.Masc
 13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=136666|AlignEnd=136800|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_40-40
@@ -848,7 +848,7 @@
 7	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	8	mod	_	AlignBegin=139817|AlignEnd=139956|Gloss=Iter
 8	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=139956|AlignEnd=140095|Gloss=eat.Vnoun.Masc|SpaceAfter=No|wordform=cîn
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
-10	naːmàː	naːmàː	NOUN	_	Gender=Masc	9	comp:obj	_	AlignBegin=140095|AlignEnd=140234|Gloss=meat.Masc
+10	naːmàː	naːmàː	NOUN	_	Gender=Masc	9	comp	_	AlignBegin=140095|AlignEnd=140234|Gloss=meat.Masc
 11	//=	//=	PUNCT	_	_	13	punct	_	AlignBegin=140234|AlignEnd=140373|Gloss=PUNCT|SpaceAfter=No
 12	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=140373|AlignEnd=140512|Gloss=3Fem|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	parataxis:conj	_	AlignBegin=140373|AlignEnd=140512|Gloss=Prog|wordform=ta
@@ -858,7 +858,7 @@
 17	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	18	mod	_	AlignBegin=140790|AlignEnd=140929|Gloss=Iter
 18	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:pred	_	AlignBegin=140929|AlignEnd=141068|Compound=Yes|Gloss=eat.Vnoun.Masc|SpaceAfter=No|wordform=cîn
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
-20	naːmàː	naːmàː	NOUN	_	_	19	comp:obj	_	AlignBegin=141068|AlignEnd=141207|Gloss=meat
+20	naːmàː	naːmàː	NOUN	_	_	19	comp	_	AlignBegin=141068|AlignEnd=141207|Gloss=meat
 21	//	//	PUNCT	_	_	3	punct	_	AlignBegin=141207|AlignEnd=141341|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_41-41
