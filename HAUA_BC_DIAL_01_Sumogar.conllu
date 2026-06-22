@@ -340,7 +340,7 @@
 1	Ìlleːlàː	Ìlleːlàː	PROPN	_	_	3	dislocated@top	_	AlignBegin=81560|AlignEnd=81716|Gloss=Illela
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=81716|AlignEnd=81872|Gloss=PUNCT
 3	ìnaː	ìnaː	ADV	_	PronType=Int	0	root	_	AlignBegin=81872|AlignEnd=82028|Gloss=where
-4	nàː	neː	AUX	_	Copula=Yes	3	discourse@foc	_	AlignBegin=82028|AlignEnd=82184|Gloss=Ident
+4	nàː	neː	PART	_	Gender=Masc|PartType=Foc	3	discourse@foc	_	AlignBegin=82028|AlignEnd=82184|Gloss=Emph.Masc/Plur
 5	>+	>+	PUNCT	_	_	8	punct	_	AlignBegin=82184|AlignEnd=82340|Gloss=PUNCT
 6	Ìlleːlàː	Ìlleːlàː	PROPN	_	_	8	subj	_	AlignBegin=82340|AlignEnd=82496|Gloss=Illela
 7	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=82652|AlignEnd=82808|Gloss=3Fem|SpaceAfter=No

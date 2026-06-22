@@ -505,7 +505,7 @@
 1	kàre	kàreː	NOUN	_	Gender=Masc	5	subj	_	AlignBegin=108461|AlignEnd=108828|Compound=Yes|Gloss=dog.Masc|SpaceAfter=No|wordform=kàram
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur
 3	ɓiki	ɓiki	NOUN	_	Gender=Masc	2	comp	_	AlignBegin=108828|AlignEnd=109195|Gloss=shit.Masc
-4	nàː	neː	AUX	_	Copula=Yes	1	discourse@foc	_	AlignBegin=109195|AlignEnd=109562|Gloss=Ident
+4	nàː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	AlignBegin=109195|AlignEnd=109562|Gloss=Emph.Masc/Plur
 5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	0	root	_	AlignBegin=109562|AlignEnd=109929|Gloss=Prog.Rel
 6	yi	yi	VERB	_	_	5	comp:pred	_	AlignBegin=109929|AlignEnd=110296|ClauseType=Rel|Gloss=do|RelRole=mod
 7	mà	mà	ADP	_	Case=Dat	6	comp:obl	_	AlignBegin=110296|AlignEnd=110663|Gloss=Dat

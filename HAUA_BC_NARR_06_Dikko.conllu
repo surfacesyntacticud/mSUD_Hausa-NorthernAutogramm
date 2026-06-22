@@ -9595,7 +9595,7 @@
 3	dai	dai	PART	_	PartType=Top	2	comp	_	Gloss=anyway
 4	dàh	dàgà	ADP	_	_	1	mod	_	Gloss=from
 5	harìː	harìː	NOUN	_	Gender=Masc	4	comp	_	Gloss=slave_raiding.Masc
-6	naː	neː	AUX	_	Copula=Yes	1	discourse@foc	_	Gloss=Ident
+6	naː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	Gloss=Emph.Masc/Plur
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 9	zoː	zoː	VERB	_	_	1	comp:cleft	_	ClauseType=Cleft|Gloss=go|SpaceAfter=No
