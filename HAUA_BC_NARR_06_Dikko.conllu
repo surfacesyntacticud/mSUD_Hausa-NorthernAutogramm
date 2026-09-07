@@ -3356,7 +3356,7 @@
 10	màːsu	mài	PART	_	Number=Plur|PartType=Der	12	subj	_	Gloss=owner_of.Plur
 11	maulòː	maulòː	NOUN	_	Gender=Masc	10	compound	_	Gloss=guitar.Masc
 12	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	comp	_	ClauseType=Rel|Gloss=Prog.Rel|SpaceAfter=No
-13	yi	yi	VERB	_	_	12	comp:pred	_	Gloss=do|RelRole=pred
+13	yi	yi	VERB	_	_	12	comp:pred	_	Gloss=do|RelPos=Yes
 14	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	13	comp:obl	_	Gloss=3Masc.Dat|SpaceAfter=No
 15	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 16	na	na	PART	_	Case=Gen|PartType=Case	0	root	_	Gloss=Gen
@@ -3377,7 +3377,7 @@
 5	màːsu	mài	PART	_	Number=Plur|PartType=Der	7	subj	_	Gloss=owner_of.Plur
 6	maulòː	maulòː	NOUN	_	Gender=Masc	5	compound	_	Gloss=guitar.Masc
 7	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	comp	_	ClauseType=Rel|Gloss=Prog.Rel|SpaceAfter=No
-8	yi	yi	VERB	_	_	7	comp:pred	_	Gloss=do|RelRole=pred
+8	yi	yi	VERB	_	_	7	comp:pred	_	Gloss=do|RelPos=Yes
 9	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	8	comp:obl	_	Gloss=3Masc.Dat
 10	dan	don	SCONJ	_	_	14	comp:pred	_	Gloss=because
 11	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Masc|SpaceAfter=No
@@ -15176,7 +15176,7 @@
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
 7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=niy
 8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=y=
-9	yi	yi	VERB	_	_	6	comp	_	ClauseType=Rel|Gloss=do|RelPos=Yes|RelRole=obl
+9	yi	yi	VERB	_	_	6	comp	_	ClauseType=Rel|Gloss=do|RelRole=pred
 10	mukù	mukù	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	comp:obl	_	Gloss=2Plur.Dat
 11	?	?	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 12	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -15906,7 +15906,7 @@
 5	wàː	wàː	PRON	_	Gender=Masc|PronType=Int	0	root	_	Gloss=who.Masc
 6-7	ya-	_	_	_	_	_	_	_	_
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Masc-
-7	g=	kà=	PART	_	Aspect=Prog|Copula=Yes|Mood=Rel|PartType=TAM	8	mod/m	_	Gloss=Prog.Rel.Sing|wordform=yag
+7	g=	kà=	PART	_	Aspect=Perf|Copula=Yes|Mood=Rel|PartType=TAM	8	mod/m	_	Gloss=Prog.Rel.Sing|wordform=yag
 8	ga	gan-	VERB	_	_	5	comp:cleft	_	ClauseType=Int|Gloss=see
 9	makyàːyi	makyàːyiː	NOUN	_	Gender=Masc	8	comp:obj	_	Compound=Yes|Gloss=herdsman.Masc|SpaceAfter=No|wordform=makyàːyin
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
