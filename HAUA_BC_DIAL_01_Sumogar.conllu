@@ -497,8 +497,8 @@
 20	Tudùː	Tudùː	PROPN	_	_	19	flat@name	_	AlignBegin=137954|AlignEnd=138276|Gloss=Tudu
 21	<	<	PUNCT	_	_	12	punct	_	AlignBegin=138276|AlignEnd=138598|Gloss=PUNCT
 22	sôn	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	0	root@scrap	_	AlignBegin=138598|AlignEnd=138920|Gloss=want.Vnoun.Masc
+23-25	sukài	_	_	_	_	_	_	_	_
 23	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	24	subj/m	_	AlignBegin=138920|AlignEnd=139242|Gloss=3Plur|SpaceAfter=No
-24-25	sukài	_	_	_	_	_	_	_	_
 24	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	22	comp:cleft	_	AlignBegin=138920|AlignEnd=139242|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
 25	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp:pred	_	AlignBegin=138920|AlignEnd=139242|Gloss=do.Vnoun.Masc
 26	&//	&//	PUNCT	_	_	22	punct	_	AlignBegin=139564|AlignEnd=139896|Gloss=PUNCT
