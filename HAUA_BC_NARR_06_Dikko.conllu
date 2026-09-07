@@ -5648,7 +5648,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__274b
 # text_en = "They were thankful although I did not give them anyting? "
 # text_ortho = " sunàː ta gòːdiyaː, koː bàn kòː baː sù koːmiː ba ? "
-# text = " sunàː ta gòːdiyaː, koː bàn kòː baː sù koːmiː ba ? "
+# text = " su-nàː ta gòːdiyaː, koː bà-n=kòː baː -sù koːmiː ba ? "
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 2	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Plur|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=sunàː
@@ -5658,7 +5658,7 @@
 7	koː	koː	SCONJ	_	_	3	mod	_	Gloss=although
 8	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	11	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 9	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=bàn
-10	kòː	kùwa	PART	_	PartType=Top	9	discourse@top	_	Gloss=even
+10	kòː	kùwa	ADV	_	_	11	mod	_	Gloss=even
 11	baː	baː	VERB	_	_	7	comp:obj	_	Gloss=give
 12	-sù	-yà	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	comp:obj@R/m	_	Gloss=-3Plur.Acc|wordform=sù
 13	koːmiː	koːmiː	PRON	_	PronType=Ind	11	comp:obj@T	_	Gloss=anything
