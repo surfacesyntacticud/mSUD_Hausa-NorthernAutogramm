@@ -257,7 +257,7 @@
 3	in	in	SCONJ	_	_	16	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
 4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	6	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur-|SpaceAfter=No|wordform=kun
 5	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Plur
-6	yi	yi	VERB	_	_	3	comp:obj	_	AlignBegin=682908|AlignEnd=683155|Gloss=do
+6	yi	yi	VERB	_	_	3	comp	_	AlignBegin=682908|AlignEnd=683155|Gloss=do
 7	hwaɗàː	hwaɗàː	NOUN	_	Gender=Masc	6	comp:pred	_	AlignBegin=683155|AlignEnd=683402|Gloss=fight.Masc
 8	dà	dà	ADP	_	_	6	comp:obl	_	AlignBegin=683402|AlignEnd=683649|Gloss=with
 9	takubbàː	takòːbiː	NOUN	_	Number=Plur	8	comp	_	AlignBegin=683649|AlignEnd=683896|Gloss=sword

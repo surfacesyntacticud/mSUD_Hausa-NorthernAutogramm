@@ -314,7 +314,7 @@
 1	in	in	SCONJ	_	_	9	mod	_	AlignBegin=38960|AlignEnd=39194|Gloss=if
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=39194|AlignEnd=39428|Gloss=3Fem-|SpaceAfter=No|wordform=tash
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=sh=
-4	shìga	shig-	VERB	_	_	1	comp:obj	_	AlignBegin=39428|AlignEnd=39662|Gloss=enter
+4	shìga	shig-	VERB	_	_	1	comp	_	AlignBegin=39428|AlignEnd=39662|Gloss=enter
 5	cikin	cikin	ADP	_	_	4	comp:obl	_	AlignBegin=39662|AlignEnd=39896|Gloss=in
 6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp	_	AlignBegin=39896|AlignEnd=40130|Gloss=water.Plur
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40130|AlignEnd=40364|Gloss=PUNCT
@@ -577,7 +577,7 @@
 1	saidà	saidà	SCONJ	_	_	11	mod	_	AlignBegin=79920|AlignEnd=80266|Gloss=when
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=80612|AlignEnd=80958|Gloss=3Fem-|SpaceAfter=No|wordform=taz
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
-4	zoː	zoː	VERB	_	_	1	comp:obj	_	AlignBegin=80958|AlignEnd=81304|Gloss=go
+4	zoː	zoː	VERB	_	_	1	comp	_	AlignBegin=80958|AlignEnd=81304|Gloss=go
 5	samàː	samàː	NOUN	_	Gender=Fem	4	comp:obj@G	_	AlignBegin=81304|AlignEnd=81650|Gloss=sky.Fem
 6	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	5	mod	_	AlignBegin=81650|AlignEnd=81996|Gloss=Gen.Fem
 7	bakwài	bakwài	NUM	_	_	6	comp	_	AlignBegin=81996|AlignEnd=82342|Gloss=seven
