@@ -496,7 +496,7 @@
 19	Baːyun	Baːyun	PROPN	_	_	18	comp:pred	_	AlignBegin=137632|AlignEnd=137954|Gloss=Bayun
 20	Tudùː	Tudùː	PROPN	_	_	19	flat@name	_	AlignBegin=137954|AlignEnd=138276|Gloss=Tudu
 21	<	<	PUNCT	_	_	12	punct	_	AlignBegin=138276|AlignEnd=138598|Gloss=PUNCT
-22	sôn	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	0	root@scrap	_	AlignBegin=138598|AlignEnd=138920|Gloss=want.Vnoun.Masc
+22	sôn	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	0	root	_	AlignBegin=138598|AlignEnd=138920|Gloss=want.Vnoun.Masc|Scrap=Yes
 23-25	sukài	_	_	_	_	_	_	_	_
 23	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	24	subj/m	_	AlignBegin=138920|AlignEnd=139242|Gloss=3Plur|SpaceAfter=No
 24	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	22	comp:cleft	_	AlignBegin=138920|AlignEnd=139242|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
@@ -1458,7 +1458,7 @@
 # text = ḿːm̂ː mùtun dà &//
 # text_en = Ah, people who...
 1	ḿːm̂ː	ḿːm̂ː	INTJ	_	_	2	discourse	_	AlignBegin=313020|AlignEnd=313234|Gloss=er
-2	mùtun	mùtunèː	NOUN	_	Definite=Def|Gender=Masc	0	root@scrap	_	AlignBegin=313448|AlignEnd=313662|Gloss=human.Def|RelAnt=Yes
+2	mùtun	mùtunèː	NOUN	_	Definite=Def|Gender=Masc	0	root	_	AlignBegin=313448|AlignEnd=313662|Gloss=human.Def|RelAnt=Yes|Scrap=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=313662|AlignEnd=313876|Gloss=COMP.Rel
 4	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=313876|AlignEnd=314090|Gloss=PUNCT
 
@@ -1469,7 +1469,7 @@
 # text_ortho = in kac ci ka tohoː &//
 # text = in kac ci kat tohoː &//
 # text_en = If you managed to leave...
-1	in	in	SCONJ	_	_	0	root@scrap	_	AlignBegin=314090|AlignEnd=314283|Gloss=if
+1	in	in	SCONJ	_	_	0	root	_	AlignBegin=314090|AlignEnd=314283|Gloss=if|Scrap=Yes
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=314283|AlignEnd=314476|Gloss=2Masc-|SpaceAfter=No|wordform=kac
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 4	ci	ci	VERB	_	_	1	comp:obj	_	AlignBegin=314476|AlignEnd=314669|Gloss=eat
@@ -1485,7 +1485,7 @@
 # text_ortho = àkwai indà mukà &//
 # text = àkwai indà mu-kè &//
 # text_en = We used to...
-1	àkwai	àkwai	PART	_	PartType=Pred	0	root@scrap	_	AlignBegin=315720|AlignEnd=315962|Gloss=there_is
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	AlignBegin=315720|AlignEnd=315962|Gloss=there_is|Scrap=Yes
 2	indà	indà	ADV	_	PronType=Rel	1	subj	_	AlignBegin=315962|AlignEnd=316204|ClauseType=Rel|Gloss=where.Rel|Relz=Word
 3	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	4	subj/m	_	AlignBegin=316204|AlignEnd=316446|Gloss=1Plur|SpaceAfter=No
 4	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	mod@relcl	_	AlignBegin=316204|AlignEnd=316446|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred|Relz=Affix|wordform=mukà
@@ -1674,12 +1674,12 @@
 # text = inàː zakkùwaː inàː kaːwoːwàː X &//
 # text_en = I came bringing X.
 1	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=345760|AlignEnd=346027|Gloss=1Sing|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root@scrap	_	AlignBegin=345760|AlignEnd=346027|Gloss=Prog|wordform=inàː
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=345760|AlignEnd=346027|Gloss=Prog|Scrap=Yes|wordform=inàː
 3	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=346027|AlignEnd=346294|Gloss=arrive.Vnoun.Fem
 4	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	5	subj/m	_	AlignBegin=346294|AlignEnd=346561|Gloss=1Sing|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:coord	_	AlignBegin=346294|AlignEnd=346561|Gloss=Prog|wordform=inàː
 6	kaːwoːwàː	kaːy-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:pred	_	AlignBegin=346561|AlignEnd=346828|Gloss=carry.Vnoun.Fem
-7	X	X	X	_	_	5	unk@scrap	_	AlignBegin=346828|AlignEnd=347095|Gloss=X
+7	X	X	X	_	_	5	unk	_	AlignBegin=346828|AlignEnd=347095|Gloss=X|Scrap=Yes
 8	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=347095|AlignEnd=347360|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_092-092
@@ -1806,7 +1806,7 @@
 4	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=363169|AlignEnd=363612|Gloss=1Sing|SpaceAfter=No|wordform=naː
 5	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Sing=|wordform=aː
 6	kaːwoː	kaːy-	VERB	_	_	0	root	_	AlignBegin=363612|AlignEnd=364055|Gloss=carry
-7	X	X	X	_	_	6	unk@scrap	_	AlignBegin=364055|AlignEnd=364498|Gloss=X
+7	X	X	X	_	_	6	unk	_	AlignBegin=364055|AlignEnd=364498|Gloss=X|Scrap=Yes
 8	&//	&//	PUNCT	_	_	6	punct	_	AlignBegin=364498|AlignEnd=364940|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_100-101
@@ -1816,7 +1816,7 @@
 # text_ortho = XX yànzu ai cikin daːɗiː ku kè //
 # text = X yànzu ai cikin daːɗiː ku- kè //
 # text_en = XX [passage not transcribed]. Nowadays, you are happy!
-1	X	X	X	_	_	4	unk@scrap	_	AlignBegin=367332|AlignEnd=376500|Gloss=X
+1	X	X	X	_	_	4	unk	_	AlignBegin=367332|AlignEnd=376500|Gloss=X|Scrap=Yes
 2	yànzu	yànzu	ADV	_	_	4	mod	_	AlignBegin=377240|AlignEnd=377366|Gloss=now
 3	ai	ai	INTJ	_	_	2	discourse	_	AlignBegin=377366|AlignEnd=377492|Gloss=eh!
 4	cikin	cikin	ADP	_	_	0	root	_	AlignBegin=377492|AlignEnd=377618|Gloss=in

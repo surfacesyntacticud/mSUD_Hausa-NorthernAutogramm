@@ -1433,7 +1433,7 @@
 # text_ortho = XX rân nan dà yaz zakà bàːkin ruwaː |c sai yas' s'ayàː //
 # text = X rân nan dà yaz zakà bàːkin ruwaː < sai yas' s'ayàː //
 # text_en = XX [Narrator's mistake] The day it arrived by the river bank, he stopped.
-1	X	X	X	_	_	15	unk@scrap	_	AlignBegin=203440|AlignEnd=206980|Gloss=X
+1	X	X	X	_	_	15	unk	_	AlignBegin=203440|AlignEnd=206980|Gloss=X|Scrap=Yes
 2	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	15	mod	_	AlignBegin=207340|AlignEnd=207675|Gloss=day.Fem.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	AlignBegin=207675|AlignEnd=208010|Gloss=PreRef|PreRef=Yes
 4	dà	dà	SCONJ	_	_	15	mod	_	AlignBegin=208010|AlignEnd=208345|Gloss=as
