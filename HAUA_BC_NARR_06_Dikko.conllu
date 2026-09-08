@@ -2764,11 +2764,11 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__138
 # text_en = Then he left them there near the front yard, he entered the compound, and told... and told Dikko"Mother, ... " .
 # text_ortho = sa'ànnan yab bar sù nan tsàye gà bàːkin garkaː yash shìga cikin gidaː yac cèː mà, yac cèː mà Dikkò" innà, …" .
-# text = sa'ànnan yab bar sù nan tsàye gà bàːkin garkaː yash shìga cikin gidaː yac cèː mà, yac cèː mà Dikkò" innà, … " .
+# text = sa'ànnan ya-Ø= bar -sù nan tsàye gà bàːkin garkaː ya-Ø= shìga cikin gidaː ya-Ø= cèː mà, ya-Ø= cèː mà Dikkò " innà, &// ".
 1	sa'ànnan	sa'ànnan	ADV	_	_	4	mod	_	Gloss=then
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yab
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=b=
-4	bar	bar-	VERB	_	_	0	root@scrap	_	Gloss=leave
+4	bar	bar-	VERB	_	_	0	root	_	Gloss=leave|Scrap=Yes
 5	-sù	-sù	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=-3Plur.Acc|wordform=sù
 6	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	mod	_	Gloss=PreRef|PreRef=Yes
 7	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Part	4	comp:pred	_	Gloss=stop.Part
@@ -2793,7 +2793,7 @@
 26	"	"	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	innà	innà	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=mother.Fem|SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
-29	…	…	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+29	&//	&//	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 30	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT|SpaceAfter=No
 31	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -4161,15 +4161,15 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__203
 # text_en = Well then, DGD.. .
 # text_ortho = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò.. .
-# text = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò ...
+# text = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò &//
 1	tôː	tôː	INTJ	_	_	5	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	5	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
-5	Dandà	Dandà	PROPN	_	_	0	root@scrap	_	Gloss=Dandà
+5	Dandà	Dandà	PROPN	_	_	0	root	_	Gloss=Dandà|Scrap=Yes
 6	Garbaː	Garbaː	PROPN	_	_	5	flat@name	_	Gloss=Garbaː
 7	Dikkò	Dikkò	PROPN	_	_	6	flat@name	_	Gloss=Dikkò
-8	...	...	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+8	&//	&//	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__204
 # text_en = Ehe... it's then that the old man told the boy"Well, sit down here. "
@@ -5851,12 +5851,12 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__284
 # text_en = When they had come back.. .
 # text_ortho = dà sunkà koːmoː .. .
-# text = dà sunkà koːmoː .. .
-1	dà	dà	SCONJ	_	_	0	root@scrap	_	Gloss=that
+# text = dà sun-kà= koːmoː &//
+1	dà	dà	SCONJ	_	_	0	root	_	Gloss=that|Scrap=Yes
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	koːmoː	koːm-	VERB	_	_	1	comp:obj	_	Gloss=go_back.Dir
-5	...	...	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+5	&//	&//	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__285
 # text_en = The griots went back, DGD said "I heard what you said to these friends of yours. "
@@ -10563,20 +10563,20 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__512
 # text_en = DGD said because what caused.. .
 # text_ortho = Dandà Garbaː Dikkò yac cèː dan àbin dà yas sàː .. .
-# text = Dandà Garbaː Dikkò yac cèː dan àbin dà yas sàː .. .
+# text = Dandà Garbaː Dikkò ya-Ø= cèː dan àbin dà ya-Ø= sàː &//
 1	Dandà	danon	PROPN	_	_	6	subj	_	Gloss=Dandà
 2	Garbaː	Garbaː	PROPN	_	_	1	flat@name	_	Gloss=Garbaː
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
-6	cèː	cêː	VERB	_	_	0	root@scrap	_	Gloss=say
+6	cèː	cêː	VERB	_	_	0	root	_	Gloss=say|Scrap=Yes
 7	dan	don	SCONJ	_	_	6	comp:obj	_	Gloss=because
 8	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=thing.Masc..Def|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	Gloss=CompRel|Relz=Word
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yas
 11	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=s=
 12	sàː	sâː	VERB	_	_	9	comp	_	ClauseType=Rel|Gloss=put|RelRole=subj
-13	...	...	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+13	&//	&//	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__513-4
 # text_en = He said that he thought whenever a man's heart failed him, even if his trousers are tied really tight, his belt must get a little loose because of all the wriggling he does as if he is defecating, if a man breaks down. "

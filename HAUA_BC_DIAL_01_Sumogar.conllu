@@ -453,8 +453,8 @@
 # text_ortho = XX nan Galmaːwaː < àbin dà an nan < duy yawanciː Baːgayaːwaː nàː //
 # text = X nan Galmaːwaː < àbin dà an nan < duy yawanciː Baːgayaːwaː nàː //
 # text_en = [List of various villages. Not transcribed.] there, in Galmawa, what is over there, most of them are Bagai people.
-1	X	X	X	_	_	13	unk@scrap	_	AlignBegin=106671|AlignEnd=125068|Gloss=X|wordform=XX
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	mod	_	AlignBegin=125500|AlignEnd=125801|Gloss=PreRef|PreRef=Yes
+1	X	X	X	_	_	13	unk	_	AlignBegin=106671|AlignEnd=125068|Gloss=X|Scrap=Yes
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	mod	_	AlignBegin=125500|AlignEnd=125801|Gloss=Dist
 3	Galmaːwaː	Galmaːwaː	PROPN	_	_	2	conj:appos	_	AlignBegin=125801|AlignEnd=126102|Gloss=Galmaːwaː
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=126102|AlignEnd=126403|Gloss=PUNCT
 5	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	13	dislocated	_	AlignBegin=126403|AlignEnd=126704|Gloss=thing.Masc.Def|RelAnt=Yes
