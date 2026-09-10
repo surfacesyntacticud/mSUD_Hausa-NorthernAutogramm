@@ -4880,7 +4880,7 @@
 10	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	12	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kaː
 11	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Sing=
 12	ji	ji	VERB	_	_	0	root	_	Gloss=hear
-13	wàdà	wàdà	PRON	_	PronType=Rel	12	comp:obj	_	ClauseType=Rel|Gloss=the_way_that|Relz=Word
+13	wàdà	wàdà	ADV	_	PronType=Rel	12	comp:obj	_	ClauseType=Rel|Gloss=the_way_that|Relz=Word
 14	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Masc|SpaceAfter=No
 15-16	shikài	_	_	_	_	_	_	_	_
 15	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	13	mod@relcl	_	Gloss=Prog.Rel|Relz=Affix|wordform=shikà
