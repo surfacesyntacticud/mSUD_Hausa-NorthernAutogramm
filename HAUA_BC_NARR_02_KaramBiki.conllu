@@ -606,8 +606,8 @@
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=132189|AlignEnd=132412|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
 6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=z=
 7	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=132412|AlignEnd=132635|Gloss=go
-8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=132412|AlignEnd=132635|ClauseType=Rel|Gloss=where
-9	kàreː	kàreː	NOUN	_	Gender=Masc	8	mod@relcl	_	AlignBegin=132635|AlignEnd=132858|Gloss=dog.Masc|RelRole=pred
+8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=132412|AlignEnd=132635|Gloss=where|RelAnt=Yes
+9	kàreː	kàreː	NOUN	_	Gender=Masc	8	mod@relcl	_	AlignBegin=132635|AlignEnd=132858|ClauseType=Rel|Gloss=dog.Masc|RelRole=pred
 10	//	//	PUNCT	_	_	7	punct	_	AlignBegin=132858|AlignEnd=133080|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_32

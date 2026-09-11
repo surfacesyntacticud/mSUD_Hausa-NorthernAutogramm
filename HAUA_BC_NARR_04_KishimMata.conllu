@@ -358,11 +358,11 @@
 7	maw	mat	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	6	comp:obl	_	AlignBegin=60640|AlignEnd=60824|Gloss=3Fem.Dat
 8	ruwaː	ruwaː	NOUN	_	Number=Plur	6	comp:obj	_	AlignBegin=60824|AlignEnd=61008|Gloss=water.Plur
 9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=61008|AlignEnd=61192|Gloss=PUNCT
-10	indà	indà	ADV	_	_	25	mod	_	AlignBegin=61192|AlignEnd=61376|ClauseType=Rel|Gloss=when.Rel|Relz=Word
+10	indà	indà	ADV	_	_	25	mod	_	AlignBegin=61192|AlignEnd=61376|Gloss=when.Rel|RelAnt=Yes|Relz=Word
 11	dut	dukà	ADV	_	_	10	mod	_	AlignBegin=61192|AlignEnd=61376|Gloss=all
 12	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=61560|AlignEnd=61744|Gloss=3Fem-|SpaceAfter=No|wordform=tac
 13	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=c=
-14	cèː	cêː	VERB	_	_	10	mod@relcl	_	AlignBegin=61744|AlignEnd=61928|Gloss=say
+14	cèː	cêː	VERB	_	_	10	mod@relcl	_	AlignBegin=61744|AlignEnd=61928|ClauseType=Rel|Gloss=say
 15	[	[	PUNCT	_	_	18	punct	_	AlignBegin=61928|AlignEnd=62112|Gloss=PUNCT
 16	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
 17	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	18	subj/m	_	AlignBegin=62112|AlignEnd=62296|Gloss=1Sing=|SpaceAfter=No|wordform=ìn
@@ -379,13 +379,13 @@
 28	<	<	PUNCT	_	_	27	punct	_	AlignBegin=63952|AlignEnd=64136|Gloss=PUNCT
 29	keː	keː	PRON	_	Case=Nom|Gender=Fem|Person=2|PronType=Prs	47	vocative	_	AlignBegin=64136|AlignEnd=64320|Gloss=2Fem.Nom
 30	<	<	PUNCT	_	_	29	punct	_	AlignBegin=64320|AlignEnd=64504|Gloss=PUNCT
-31	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	47	mod	_	AlignBegin=64504|AlignEnd=64688|ClauseType=Rel|Gloss=where.Rel|Relz=Word
+31	indà	indà	ADV	_	PronType=Rel	47	mod	_	AlignBegin=64504|AlignEnd=64688|Gloss=where.Rel|RelAnt=Yes|Relz=Word
 32	jàkka	jàːkiː	NOUN	_	_	37	subj	_	AlignBegin=64688|AlignEnd=64872|GenderAf=Fem|Gloss=donkey.Plur|SpaceAfter=No|wordform=jàkkan
 33	-n	na	PART	_	Case=Gen|PartType=Case	32	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 34	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	33	comp:obj/m	_	Gloss=2Fem.Gen
 35	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	37	subj/m	_	AlignBegin=64872|AlignEnd=65056|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 36	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	37	mod/m	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
-37	shâː	shâː	VERB	_	_	31	mod@relcl	_	AlignBegin=65056|AlignEnd=65240|Gloss=drink|RelRole=mod
+37	shâː	shâː	VERB	_	_	31	mod@relcl	_	AlignBegin=65056|AlignEnd=65240|ClauseType=Rel|Gloss=drink|RelRole=mod
 38	ruwaː	ruwaː	NOUN	_	Number=Plur	37	comp:obj	_	AlignBegin=65240|AlignEnd=65424|Gloss=water.Plur
 39	|c	|c	PUNCT	_	_	42	punct	_	AlignBegin=65424|AlignEnd=65608|Gloss=PUNCT
 40	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	42	subj/m	_	AlignBegin=65608|AlignEnd=65792|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
@@ -768,8 +768,8 @@
 8	wuri	wuriː	NOUN	_	Gender=Masc	7	comp:obj@G	_	AlignBegin=117460|AlignEnd=117660|Compound=Yes|Gloss=place.Masc|SpaceAfter=No|wordform=wurin
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Fem
 10	wargiː	wargiː	NOUN	_	Gender=Masc	9	comp	_	AlignBegin=117660|AlignEnd=117860|Gloss=playing.Masc
-11	indà	indà	ADV	_	PronType=Rel	8	conj:appos	_	AlignBegin=117860|AlignEnd=118060|ClauseType=Rel|Gloss=where.Rel|Relz=Word
-12	yâːra	yaːròː	NOUN	_	Number=Plur	11	mod@relcl	_	AlignBegin=118060|AlignEnd=118260|Gloss=child.Plur|RelRole=pred|wordform=yâːraː
+11	indà	indà	ADV	_	PronType=Rel	8	conj:appos	_	AlignBegin=117860|AlignEnd=118060|Gloss=where.Rel|RelAnt=Yes|Relz=Word
+12	yâːra	yaːròː	NOUN	_	Number=Plur	11	mod@relcl	_	AlignBegin=118060|AlignEnd=118260|ClauseType=Rel|Gloss=child.Plur|RelRole=pred|wordform=yâːraː
 13	|c	|c	PUNCT	_	_	17	punct	_	AlignBegin=118260|AlignEnd=118460|Gloss=PUNCT
 14	sai	sai	ADV	_	_	17	mod	_	AlignBegin=118460|AlignEnd=118660|Gloss=then
 15	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=118660|AlignEnd=118860|Gloss=3Masc|SpaceAfter=No|wordform=shì
@@ -1126,14 +1126,14 @@
 16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub|SpaceAfter=No
 17	gwadàː	gwad-	VERB	_	_	3	comp:obj	_	AlignBegin=165852|AlignEnd=166038|Gloss=show
 18	min	min	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	comp:obl	_	AlignBegin=166038|AlignEnd=166224|Gloss=1Sing.Dat
-19	indà	indà	ADV	_	PronType=Rel	17	comp:obj	_	AlignBegin=166224|AlignEnd=166410|ClauseType=Rel|Gloss=where|Relz=Word
+19	indà	indà	ADV	_	PronType=Rel	17	comp:obj	_	AlignBegin=166224|AlignEnd=166410|Gloss=where|RelAnt=Yes|Relz=Word
 20	kùsheːwa	kùsheːwaː	NOUN	_	Gender=Fem	26	dislocated@subj	_	AlignBegin=166410|AlignEnd=166596|Gloss=grave.Fem..Fem|SpaceAfter=No|wordform=kùsheːway
 21	-y	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen.Fem|wordform=-C
 22	yâː	yâː	NOUN	_	_	21	comp	_	AlignBegin=166596|AlignEnd=166782|Gloss=elder_sister.Fem|SpaceAfter=No
 23	-t	na	PART	_	Case=Gen|PartType=Case	22	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 24	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	23	comp:obj/m	_	Gloss=1Sing.Gen
 25	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	26	subj/m	_	AlignBegin=166968|AlignEnd=167154|Gloss=3Fem|SpaceAfter=No
-26	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	mod@relcl	_	AlignBegin=166968|AlignEnd=167154|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
+26	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	19	mod@relcl	_	AlignBegin=166968|AlignEnd=167154|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
 27	//]	//]	PUNCT	_	_	17	punct	_	AlignBegin=167154|AlignEnd=167340|Gloss=PUNCT
 28	//	//	PUNCT	_	_	3	punct	_	AlignBegin=167340|AlignEnd=167531|Gloss=PUNCT
 
@@ -1286,7 +1286,7 @@
 14	ga	gan-	VERB	_	_	10	conj:coord	_	AlignBegin=184880|AlignEnd=185066|Gloss=see
 15	bàːki	bàːkiː	NOUN	_	Gender=Masc	14	comp:obj	_	AlignBegin=185066|AlignEnd=185252|Compound=Yes|Gloss=vicinity.Masc|SpaceAfter=No|wordform=bàːkin
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Masc/Plur
-17	indà	indà	ADV	_	PronType=Rel	16	comp	_	AlignBegin=185252|AlignEnd=185438|ClauseType=Rel|Gloss=where|Relz=Word
+17	indà	indà	ADV	_	PronType=Rel	16	comp	_	AlignBegin=185252|AlignEnd=185438|Gloss=where|RelAnt=Yes|Relz=Word
 18	yaːɗa	yaːɗaː	NOUN	_	Gender=Masc	25	subj	_	AlignBegin=185438|AlignEnd=185624|Compound=Yes|Gloss=creeping.Masc|SpaceAfter=No|wordform=yaːɗan
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
 20	dumèn	dumèː	NOUN	_	Definite=Def|Gender=Masc	19	comp	_	AlignBegin=185624|AlignEnd=185810|Gloss=pumpkin.Masc.Def
@@ -1294,7 +1294,7 @@
 22	naːshì	naːshì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	20	mod@poss	_	AlignBegin=185996|AlignEnd=186182|Gloss=3Masc.Gen
 23	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	25	subj/m	_	AlignBegin=186182|AlignEnd=186368|Gloss=3Masc-|SpaceAfter=No|wordform=yas'
 24	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	25	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=s'=
-25	s'ayàː	s'ay-	VERB	_	_	17	mod@relcl	_	AlignBegin=186368|AlignEnd=186554|Gloss=stop|RelRole=mod
+25	s'ayàː	s'ay-	VERB	_	_	17	mod@relcl	_	AlignBegin=186368|AlignEnd=186554|ClauseType=Rel|Gloss=stop|RelRole=mod
 26	//	//	PUNCT	_	_	5	punct	_	AlignBegin=186554|AlignEnd=186740|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_056-056
@@ -1940,12 +1940,12 @@
 4	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=269602|AlignEnd=269753|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 5	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Sing
 6	ga	gan-	VERB	_	_	3	comp:obj	_	AlignBegin=269753|AlignEnd=269904|Gloss=see
-7	indà	indà	ADV	_	PronType=Rel	6	comp:obj	_	AlignBegin=269904|AlignEnd=270055|ClauseType=Rel|Gloss=where
+7	indà	indà	ADV	_	PronType=Rel	6	comp:obj	_	AlignBegin=269904|AlignEnd=270055|Gloss=where|RelAnt=Yes
 8	yâː	yâː	NOUN	_	_	12	subj	_	AlignBegin=270055|AlignEnd=270206|GenderAf=Masc|Gloss=elder_siste|SpaceAfter=No|wordfrom=yâːtai
 9	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
 10	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Masc.Gen
 11	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	12	subj/m	_	AlignBegin=270357|AlignEnd=270508|Gloss=3Fem|SpaceAfter=No
-12	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	mod@relcl	_	AlignBegin=270357|AlignEnd=270508|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
+12	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	mod@relcl	_	AlignBegin=270357|AlignEnd=270508|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
 13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=270508|AlignEnd=270660|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_085-085
@@ -2196,11 +2196,11 @@
 2	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	0	root	_	AlignBegin=306550|AlignEnd=306780|Gloss=say
 4	[	[	PUNCT	_	_	24	punct	_	AlignBegin=306780|AlignEnd=307010|Gloss=PUNCT
-5	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	24	mod	_	AlignBegin=307010|AlignEnd=307240|ClauseType=Rel|Gloss=where.Rel
+5	indà	indà	ADV	_	PronType=Rel	24	mod	_	AlignBegin=307010|AlignEnd=307240|Gloss=where.Rel|RelAnt=Yes
 6	dun	dukà	ADV	_	_	5	mod	_	AlignBegin=307010|AlignEnd=307240|Gloss=all
 7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=307470|AlignEnd=307700|Gloss=1Sing-|SpaceAfter=No|wordform=nish
 8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=sh=
-9	shìga	shig-	VERB	_	_	5	mod@relcl	_	AlignBegin=307700|AlignEnd=307930|Gloss=enter|RelRole=mod
+9	shìga	shig-	VERB	_	_	5	mod@relcl	_	AlignBegin=307700|AlignEnd=307930|ClauseType=Rel|Gloss=enter|RelRole=mod
 10	ruwaː	ruwaː	NOUN	_	Number=Plur	9	comp:obj@G	_	AlignBegin=307930|AlignEnd=308160|Gloss=water.Plur
 11	<	<	PUNCT	_	_	5	punct	_	AlignBegin=308160|AlignEnd=308390|Gloss=PUNCT
 12	indà	indà	ADV	_	_	24	mod	_	AlignBegin=308390|AlignEnd=308620|Gloss=whenever

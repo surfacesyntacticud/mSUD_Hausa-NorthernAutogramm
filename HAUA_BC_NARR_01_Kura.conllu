@@ -584,8 +584,8 @@
 6	dìːba	diːb-	VERB	_	_	3	comp:obj	_	AlignBegin=104050|AlignEnd=104286|Gloss=look.Impr|Imperative=Yes
 7	!//=	!//=	PUNCT	_	_	8	punct	_	AlignBegin=104286|AlignEnd=104522|Gloss=PUNCT|SpaceAfter=No
 8	tàhi	tah-	VERB	_	_	6	parataxis:conj	_	AlignBegin=104522|AlignEnd=104758|Gloss=go.Impr|Imperative=Yes
-9	indà	indà	ADV	_	PronType=Rel	8	comp:obj@G	_	AlignBegin=104758|AlignEnd=104994|ClauseType=Rel|Gloss=where
-10	giːwàːyên	giːwaː	NOUN	_	Definite=Def|Number=Plur	9	mod@relcl	_	AlignBegin=104994|AlignEnd=105230|Gloss=elephant.Plur.Def|RelRole=pred
+9	indà	indà	ADV	_	PronType=Rel	8	comp:obj@G	_	AlignBegin=104758|AlignEnd=104994|Gloss=where|RelAnt=Yes
+10	giːwàːyên	giːwaː	NOUN	_	Definite=Def|Number=Plur	9	mod@relcl	_	AlignBegin=104994|AlignEnd=105230|ClauseType=Rel|Gloss=elephant.Plur.Def|RelRole=pred
 11	can	can	DET	_	Deixis=Remt|PronType=Dem	10	det	_	AlignBegin=105230|AlignEnd=105466|Gloss=Remt
 12	!//=	!//=	PUNCT	_	_	15	punct	_	AlignBegin=105466|AlignEnd=105702|Gloss=PUNCT|SpaceAfter=No
 13	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	15	subj/m	_	AlignBegin=105702|AlignEnd=105938|Gloss=2Fem|SpaceAfter=No|wordform=kì
@@ -680,9 +680,9 @@
 5	ridididiː	ridididiː	ADV	_	_	4	mod	_	AlignBegin=117995|AlignEnd=118167|Gloss=running|Ideo=Yes
 6	>	>	PUNCT	_	_	7	punct	_	AlignBegin=118167|AlignEnd=118339|Gloss=PUNCT
 7	zakkùwaː	zak-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=118339|AlignEnd=118511|Gloss=arrive.Vnoun.Fem
-8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=118511|AlignEnd=118683|ClauseType=Rel|Gloss=where
+8	indà	indà	ADV	_	PronType=Rel	7	comp:obj@G	_	AlignBegin=118511|AlignEnd=118683|Gloss=where|RelAnt=Yes
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=118855|AlignEnd=119027|Gloss=3Masc|SpaceAfter=No
-10	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	AlignBegin=118855|AlignEnd=119027|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
+10	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	mod@relcl	_	AlignBegin=118855|AlignEnd=119027|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
 11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=119027|AlignEnd=119202|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_O1_KA_33-33
@@ -740,9 +740,9 @@
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=126634|AlignEnd=126741|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	kaːwoː	kaːy-	VERB	_	_	1	comp	_	AlignBegin=126741|AlignEnd=126848|Gloss=reach
-5	indà	indà	ADV	_	PronType=Rel	4	comp:obj@L	_	AlignBegin=126848|AlignEnd=126955|ClauseType=Rel|Gloss=where
+5	indà	indà	ADV	_	PronType=Rel	4	comp:obj@L	_	AlignBegin=126848|AlignEnd=126955|Gloss=where|RelAnt=Yes
 6	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=127062|AlignEnd=127169|Gloss=3Masc|SpaceAfter=No
-7	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	mod@relcl	_	AlignBegin=127062|AlignEnd=127169|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
+7	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	mod@relcl	_	AlignBegin=127062|AlignEnd=127169|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante|RelRole=pred
 8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=127169|AlignEnd=127276|Gloss=PUNCT
 9	dus	dukà	DET	_	PronType=Tot	12	mod	_	AlignBegin=127276|AlignEnd=127383|Gloss=all
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=127383|AlignEnd=127490|Gloss=3Plur-|SpaceAfter=No|wordform=sun
