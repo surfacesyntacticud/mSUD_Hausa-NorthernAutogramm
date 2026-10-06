@@ -119,16 +119,16 @@
 # text_en = But you never confronted her?
 1	tôː	tôː	INTJ	_	_	5	discourse	_	AlignBegin=183180|AlignEnd=183352|Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	AlignBegin=183352|AlignEnd=183524|Gloss=but
-3	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
-4	kù=	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=2Plur=|SpaceAfter=No|wordform=bàkù
-5	taɓà	taɓ-	VERB	_	_	0	root	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
+3	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
+4	kù=	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=2Plur=|SpaceAfter=No|wordform=bàkù
+5	taɓà	taɓ-	VERB	_	_	3	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
 6	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
 8	àkaràs	àkaràs	NOUN	_	_	7	comp	_	AlignBegin=184040|AlignEnd=184212|Gloss=confrontation
 9	dà	dà	ADP	_	_	6	comp:obl	_	AlignBegin=184212|AlignEnd=184384|Gloss=with
 10	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	9	comp	_	AlignBegin=184384|AlignEnd=184556|Gloss=3Fem.Nom
 11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=184556|AlignEnd=184728|Gloss=Neg
-12	?//	?//	PUNCT	_	_	5	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
+12	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_9
 # speaker_id = SP1
@@ -136,16 +136,16 @@
 # sent_timecode = 185660, 186980
 # text = bàkù taɓà yîn àkaràs dà ita ba ?//
 # text_en = You never confronted her?
-1	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
-2	kù=	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=2Plur=|SpaceAfter=No|wordform=bàkù
-3	taɓà	taɓ-	VERB	_	_	0	root	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
+1	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
+2	kù=	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	1	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=2Plur=|SpaceAfter=No|wordform=bàkù
+3	taɓà	taɓ-	VERB	_	_	1	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
 4	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîn
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
 6	àkaràs	àkaràs	NOUN	_	_	5	comp	_	AlignBegin=184040|AlignEnd=184212|Gloss=confrontation
 7	dà	dà	ADP	_	_	4	comp:obl	_	AlignBegin=184212|AlignEnd=184384|Gloss=with
 8	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	7	comp	_	AlignBegin=184384|AlignEnd=184556|Gloss=3Fem.Nom
 9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=184556|AlignEnd=184728|Gloss=Neg
-10	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
+10	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_10
 # speaker_id = SP1
@@ -163,10 +163,10 @@
 # text = kâi naː mânceː //
 # text_en = Well, I don't remember.
 1	kâi	kâi	INTJ	_	_	4	discourse	_	AlignBegin=246435|AlignEnd=246703|Gloss=my!
-2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=246703|AlignEnd=246971|Gloss=1Sing|SpaceAfter=No|wordform=naː
-3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing=|wordform=aː
-4	mânceː	mânceː	VERB	_	_	0	root	_	AlignBegin=246971|AlignEnd=247239|Gloss=forget
-5	//	//	PUNCT	_	_	4	punct	_	AlignBegin=247239|AlignEnd=247508|Gloss=PUNCT
+2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=246703|AlignEnd=246971|Gloss=1Sing|SpaceAfter=No|wordform=naː
+3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
+4	mânceː	mânceː	VERB	_	_	3	comp:aux	_	AlignBegin=246971|AlignEnd=247239|Gloss=forget
+5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=247239|AlignEnd=247508|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_12
 # speaker_id = SP1
@@ -183,12 +183,12 @@
 # sent_timecode = 253425, 254025
 # text = bàn san wànnan ba //
 # text_en = I don't know about that.
-1	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf-|SpaceAfter=No
-2	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=253425|AlignEnd=253545|Gloss=1Sing=|SpaceAfter=No|wordform=bàn
-3	san	sanìː	VERB	_	_	0	root	_	AlignBegin=253545|AlignEnd=253665|Gloss=know
+1	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
+2	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=253425|AlignEnd=253545|Gloss=1Sing=|SpaceAfter=No|wordform=bàn
+3	san	sanìː	VERB	_	_	1	comp:aux	_	AlignBegin=253545|AlignEnd=253665|Gloss=know
 4	wànnan	nan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	comp:obj	_	AlignBegin=253665|AlignEnd=253785|Gloss=ProxH.Masc
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=253785|AlignEnd=253905|Gloss=Neg
-6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=253905|AlignEnd=254025|Gloss=PUNCT
+6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=253905|AlignEnd=254025|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_14
 # speaker_id = SP1
@@ -201,10 +201,10 @@
 3	su	su	DET	_	Number=Plur	4	det	_	AlignBegin=255048|AlignEnd=255197|Gloss=Plur
 4	Isshìhi	Isshìhi	PROPN	_	_	5	comp:pred	_	AlignBegin=255197|AlignEnd=255346|Gloss=Isshihi
 5	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=255346|AlignEnd=255495|Gloss=Ident
-6	>+	>+	PUNCT	_	_	9	punct	_	AlignBegin=255495|AlignEnd=255644|Gloss=PUNCT
-7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=255644|AlignEnd=255793|Gloss=1Sing-|SpaceAfter=No|wordform=nis
-8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|wordform=s=
-9	sanìː	sanìː	VERB	_	_	5	comp:cleft	_	AlignBegin=255793|AlignEnd=255942|ClauseType=Cleft|Gloss=know
+6	>+	>+	PUNCT	_	_	8	punct	_	AlignBegin=255495|AlignEnd=255644|Gloss=PUNCT
+7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=255644|AlignEnd=255793|Gloss=1Sing-|SpaceAfter=No|wordform=nis
+8	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	5	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=s=
+9	sanìː	sanìː	VERB	_	_	8	comp:aux	_	AlignBegin=255793|AlignEnd=255942|ClauseType=Cleft|Gloss=know
 10	wurìn	wurìː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	AlignBegin=255942|AlignEnd=256091|Gloss=place.Masc.Def
 11	nan	nan	DET	_	Deixis=ProxH	10	det	_	AlignBegin=256091|AlignEnd=256240|Gloss=PreRef|PreRef=Yes
 12	//	//	PUNCT	_	_	5	punct	_	AlignBegin=256240|AlignEnd=256385|Gloss=PUNCT
@@ -254,10 +254,10 @@
 # text_en = But if you fought with swords at that time, nothing happened, you would just go away?
 1	tôː	tôː	INTJ	_	_	16	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
-3	in	in	SCONJ	_	_	16	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
-4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	6	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur-|SpaceAfter=No|wordform=kun
-5	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Plur
-6	yi	yi	VERB	_	_	3	comp	_	AlignBegin=682908|AlignEnd=683155|Gloss=do
+3	in	in	SCONJ	_	_	14	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
+4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur-|SpaceAfter=No|wordform=kun
+5	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp	_	Gloss=Perf.Plur
+6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=682908|AlignEnd=683155|Gloss=do
 7	hwaɗàː	hwaɗàː	NOUN	_	Gender=Masc	6	comp:pred	_	AlignBegin=683155|AlignEnd=683402|Gloss=fight.Masc
 8	dà	dà	ADP	_	_	6	comp:obl	_	AlignBegin=683402|AlignEnd=683649|Gloss=with
 9	takubbàː	takòːbiː	NOUN	_	Number=Plur	8	comp	_	AlignBegin=683649|AlignEnd=683896|Gloss=sword
@@ -265,17 +265,17 @@
 11	lòːkacìn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	AlignBegin=684143|AlignEnd=684390|Gloss=time.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH	11	det	_	AlignBegin=684390|AlignEnd=684637|Gloss=PreRef|PreRef=Yes
 13	<	<	PUNCT	_	_	3	punct	_	AlignBegin=684637|AlignEnd=684884|Gloss=PUNCT
-14	baː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Person=4|Polarity=Neg	16	mod/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
-15	à=	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=4=|wordform=baː'à
-16	koːmiː	koːmi	PRON	_	PronType=Ind	0	root	_	AlignBegin=685131|AlignEnd=685378|Gloss=anything
+14	baː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Person=4|Polarity=Neg	0	root	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
+15	à=	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=4=|wordform=baː'à
+16	koːmiː	koːmi	PRON	_	PronType=Ind	14	comp:aux	_	AlignBegin=685131|AlignEnd=685378|Gloss=anything
 17	dà	dà	CCONJ	_	_	18	cc	_	AlignBegin=685378|AlignEnd=685625|Gloss=and
 18	koːmiː	koːmi	PRON	_	PronType=Ind	16	conj:coord	_	AlignBegin=685625|AlignEnd=685872|Gloss=anything
-19	|c	|c	PUNCT	_	_	23	punct	_	AlignBegin=685872|AlignEnd=686119|Gloss=PUNCT
-20	sai	sai	ADV	_	_	23	mod	_	AlignBegin=686119|AlignEnd=686366|Gloss=then
-21	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	AlignBegin=686366|AlignEnd=686613|Gloss=4|SpaceAfter=No|wordform=à
-22	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	23	mod/m	_	Gloss=Sub|SpaceAfter=No
-23	waːc'èː	waːs'-	VERB	_	_	16	conj:coord	_	AlignBegin=686613|AlignEnd=686860|Gloss=scatter
-24	?//	?//	PUNCT	_	_	16	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
+19	|c	|c	PUNCT	_	_	22	punct	_	AlignBegin=685872|AlignEnd=686119|Gloss=PUNCT
+20	sai	sai	ADV	_	_	22	mod	_	AlignBegin=686119|AlignEnd=686366|Gloss=then
+21	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	AlignBegin=686366|AlignEnd=686613|Gloss=4|SpaceAfter=No|wordform=à
+22	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	16	conj:coord	_	Gloss=Sub|SpaceAfter=No
+23	waːc'èː	waːs'-	VERB	_	_	22	comp:aux	_	AlignBegin=686613|AlignEnd=686860|Gloss=scatter
+24	?//	?//	PUNCT	_	_	14	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_19
 # speaker_id = SP1
