@@ -117,8 +117,8 @@
 # sent_timecode = 183180, 184900
 # text = tôː àmmaː bàkù taɓà yîn àkaràs dà ita ba ?//
 # text_en = But you never confronted her?
-1	tôː	tôː	INTJ	_	_	5	discourse	_	AlignBegin=183180|AlignEnd=183352|Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	AlignBegin=183352|AlignEnd=183524|Gloss=but
+1	tôː	tôː	INTJ	_	_	3	discourse	_	AlignBegin=183180|AlignEnd=183352|Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	AlignBegin=183352|AlignEnd=183524|Gloss=but
 3	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
 4	kù=	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=2Plur=|SpaceAfter=No|wordform=bàkù
 5	taɓà	taɓ-	VERB	_	_	3	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
@@ -162,7 +162,7 @@
 # sent_timecode = 246435, 247508
 # text = kâi naː mânceː //
 # text_en = Well, I don't remember.
-1	kâi	kâi	INTJ	_	_	4	discourse	_	AlignBegin=246435|AlignEnd=246703|Gloss=my!
+1	kâi	kâi	INTJ	_	_	3	discourse	_	AlignBegin=246435|AlignEnd=246703|Gloss=my!
 2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=246703|AlignEnd=246971|Gloss=1Sing|SpaceAfter=No|wordform=naː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
 4	mânceː	mânceː	VERB	_	_	3	comp:aux	_	AlignBegin=246971|AlignEnd=247239|Gloss=forget
@@ -252,8 +252,8 @@
 # sent_timecode = 681920, 687100
 # text = tôː àmmaː in kun=yi hwaɗàː dà takubbàː gà lòːkacìn nan < baːà koːmiː dà koːmiː |c sai à=waːc'èː ?//
 # text_en = But if you fought with swords at that time, nothing happened, you would just go away?
-1	tôː	tôː	INTJ	_	_	16	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
+1	tôː	tôː	INTJ	_	_	14	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	14	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
 3	in	in	SCONJ	_	_	14	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
 4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur-|SpaceAfter=No|wordform=kun
 5	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp	_	Gloss=Perf.Plur

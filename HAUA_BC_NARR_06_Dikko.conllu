@@ -114,7 +114,7 @@
 # text_ortho = sabàddà Garbà dà ita bà sù sàːmu aihùwaː ba tun rad dà Allàː yay yi zamansù .
 # text = sabàddà Garbà dà ita bà-sù=sàːmu aihùwaː ba tun rad dà Allàː ya-Ø= yi zama-n-sù .
 # text_en = Because Garba and her, they had no child since God gave them life .
-1	sabàddà	sabàddà	SCONJ	_	_	7	discourse	_	Gloss=because
+1	sabàddà	sabàddà	SCONJ	_	_	5	discourse	_	Gloss=because
 2	Garbà	Garbà	PROPN	_	_	1	comp	_	Gloss=Garbà
 3	dà	dà	CCONJ	_	_	4	cc	_	Gloss=and
 4	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	2	conj:coord	_	Gloss=3Fem.Nom
@@ -231,7 +231,7 @@
 # text_ortho = tôː anàː nan wata shèːkaràː sai Garbà yat tàhi yaːƙìː .
 # text = tôː a- nàː nan wata shèːkaràː sai Garbà yat= tàhi yaːƙìː.
 # text_en = Well, then one year, Garba went on a raid .
-1	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
 2	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	11	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
@@ -277,7 +277,7 @@
 # text_ortho = tôː loːkàcîn nan Garbà hanjiːnai sunkà hitoː, yats tsayàː yam maidà hanjiːnai, yas sàː rawàniː yaɗ ɗarmèː cikìːnai sai yash shìga yaːƙìː har yâu .
 # text = tôː loːkàcîn nan Garbà hanjiːnai sunkà hitoː, yats tsayàː yam maidà hanjiːnai, yas sàː rawàniː yaɗ ɗarmèː cikìːnai sai yash shìga yaːƙìː har yâu .
 # text_en = Well then Garba's intestine was coming out, he stopped, put back his intestine, used his turban to tie his stomach and resumed the battle up till now .
-1	tôː	tôː	INTJ	_	_	14	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	13	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Garbà	Garbà	PROPN	_	_	10	dislocated@top	_	Gloss=Garbà
@@ -485,7 +485,7 @@
 4	kwan	kwaːn-	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=sleep
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	Dikkò	Dikkò	PROPN	_	_	5	comp	_	Gloss=Dikkò
-7	shiːkèːnan	shiːkèːnan	INTJ	_	_	18	discourse	_	Gloss=OK
+7	shiːkèːnan	shiːkèːnan	INTJ	_	_	17	discourse	_	Gloss=OK
 8	dà	dà	SCONJ	_	_	17	mod	_	Gloss=as
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaj
 10	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	8	comp	_	Gloss=Perf.Rel.Sing|wordform=j=
@@ -599,7 +599,7 @@
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	dislocated@subj	_	Gloss=3Masc.Nom
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=too
 3	Allàː	Allàː	PROPN	_	_	1	conj:appos	_	Gloss=Allàː
-4	dà	dà	CCONJ	_	_	15	discourse	_	Gloss=and
+4	dà	dà	CCONJ	_	_	14	discourse	_	Gloss=and
 5	iːkòː	iːkòː	NOUN	_	_	4	comp:obj	_	Gloss=power.|SpaceAfter=No|wordform=iːkòːnai|wordfrom=iːkòːnai
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Masc.Gen
@@ -635,7 +635,7 @@
 # text = Allàː dà iːkòːnai, dàn nan Dikkò tat taːshì dà cikìː .
 # text_en = By Allah's power, from there, Dikko became pregnant .
 1	Allàː	Allàː	PROPN	_	_	2	subj	_	Gloss=Allàː
-2	dà	dà	CCONJ	_	_	12	discourse	_	Gloss=and
+2	dà	dà	CCONJ	_	_	11	discourse	_	Gloss=and
 3	iːkòː	iːkòː	NOUN	_	_	2	comp:obj	_	Gloss=power.|SpaceAfter=No|wordform=iːkòːnai|wordfrom=iːkòːnai
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 5	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=3Masc.Gen
@@ -799,7 +799,7 @@
 # text_ortho = tôː loːkàcîn nan nàː Dikkò sai ta' àihi ɗantà namijì .
 # text = tôː loːkàcîn nan nàː Dikkò sai ta' àihi ɗantà namijì.
 # text_en = Well, then Dikko gave birth to a boy .
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Emph
@@ -825,7 +825,7 @@
 5	àihi	aif-	VERB	_	_	4	comp:aux	_	Gloss=give_birth_to
 6	ɗaː	ɗaː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=son.Masc
 7	namijì	namijì	ADJ	_	Gender=Masc	6	mod	_	Gloss=male
-8	shiːkèːnan	shiːkèːnan	INTJ	_	_	12	discourse	_	Gloss=OK
+8	shiːkèːnan	shiːkèːnan	INTJ	_	_	11	discourse	_	Gloss=OK
 9	màːlàmmai	maːlàmiː	NOUN	_	Number=Plur|Person=3	11	subj	_	Gloss=scholar.Plur
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sun
 11	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur
@@ -1277,7 +1277,7 @@
 # text_ortho = tôː loːkàcîn nan, shiː Dandà Garbaː Dikkò tun shinàː ɗan yaːròː ɗan jàːriːrìː, in uwaːtai Dikkò ta' ajèː shi, in tag ga shinàː yawàn mòːc'iː, taː san kyaːshèː yac ciːjèː shi, àmman baːshì kuːkaː .
 # text = tôː loːkàcîn nan, shiː Dandà Garbaː Dikkò tun shi- nàː ɗan yaːròː ɗan jàːriːrìː, in uwaː-t-ai Dikkò ta'= ajèː -shi, in tag= ga shi- nàː yawàn -n mòːc'iː, taː= san kyaːshèː yac= ciːjèː -shi, àmman baːshì= kuːkaː.
 # text_en = Well at that time, Garba Dikko, ever since he was a little baby, if his mother put him down, if she saw he was moving a lot, she knew that ants were biting him, but he was not crying .
-1	tôː	tôː	INTJ	_	_	39	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	38	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	38	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -1372,7 +1372,7 @@
 # text_ortho = àmman Dandà Garbaː Dikkò baːshì kuːkaː in dan hakànan .
 # text = àmman Dandà Garbaː Dikkò baːshì kuːkaː in dan hakànan .
 # text_en = But DGD was not crying because of that .
-1	àmman	àmma	CCONJ	_	_	7	discourse	_	Gloss=but
+1	àmman	àmma	CCONJ	_	_	5	discourse	_	Gloss=but
 2	Dandà	Dandà	PROPN	_	_	5	subj	_	Gloss=Dandà
 3	Garbaː	Garbaː	PROPN	_	_	2	flat@name	_	Gloss=Garbaː
 4	Dikkò	Dikkò	PROPN	_	_	3	flat@name	_	Gloss=Dikkò
@@ -1395,7 +1395,7 @@
 # text_ortho = Dikkò sai tà ga ɗan ɗantà shinàː moːc'ìː tà ɓaɓɓàkaː shi tà ga kyaːshèː tà kashèː, àmman Dandà Garbaː Dikkò baːshì kuːkaː ba dan ciːzòn kyaːshèː .
 # text = Dikkò sai tà ga ɗan ɗantà shinàː moːc'ìː tà ɓaɓɓàkaː shi tà ga kyaːshèː tà kashèː, àmman Dandà Garbaː Dikkò baːshì kuːkaː ba dan ciːzòn kyaːshèː .
 # text_en = Dikko, she saw her son moving, she turned him over, she saw ants and killed them, but DGD was not crying because of ant bites .
-1	Dikkò	Dikkò	PROPN	_	_	5	discourse	_	Gloss=Dikkò
+1	Dikkò	Dikkò	PROPN	_	_	4	discourse	_	Gloss=Dikkò
 2	sai	sai	ADV	_	_	4	mod	_	Gloss=then
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=tà
 4	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No
@@ -1437,7 +1437,7 @@
 # text_ortho = tôː anàː nan, anàː nan, yaːròː yag girma ya' iyà tàhiyàː .
 # text = tôː a- nàː nan, a- nàː nan, yaːròː yag= girma ya'= iyà tàhiyàː.
 # text_en = Well, after a while, the boy grew up and was able to walk .
-1	tôː	tôː	INTJ	_	_	13	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	12	discourse	_	Gloss=well
 2	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	13	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
@@ -1686,7 +1686,7 @@
 # text_ortho = Dandà Garbaː Dikkò wàːriːnai bàsù iː mai ba kaːshiː .
 # text = Dandà Garbaː Dikkò wàːriːnai bàsù iː mai ba kaːshiː .
 # text_en = DGD, his mates were not as strong as him when fighting .
-1	Dandà	Dandà	PROPN	_	_	9	discourse	_	Gloss=Dandà
+1	Dandà	Dandà	PROPN	_	_	7	discourse	_	Gloss=Dandà
 2	Garbaː	Garbaː	PROPN	_	_	1	flat@name	_	Gloss=Garbaː
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
 4	wàːriː	wàːriː	NOUN	_	_	7	subj	_	Gloss=like.Plur|SpaceAfter=No|wordform=wàːriːnai|wordfrom=wàːriːnai
@@ -2341,7 +2341,7 @@
 # text_en = Well then DGD, [epithet] all his age-mates, each of them is looking for a wife .
 # text_ortho = tôː loːkàːcîn nan Dandà Garbaː Dikkò, Garbà Ɗiɗìː, Garbà Tatìː, Garbà hàlle-hàllan hàukaː, Garbà hàlle-hàllan mutuwàː, dukà àbùkkainai wàːriːnai, dukà àbùkkainai wàːriːnai, dukà koːwaː yab bìɗi màːtaː .
 # text = tôː loːkàːcîn nan Dandà Garbaː Dikkò, Garbà Ɗiɗìː, Garbà Tatìː, Garbà hàlle-hàllan hàukaː, Garbà hàlle-hàllan mutuwàː, dukà àbùkkai-n-ai wàːriː-n-ai . dukà àbùkkai-n-ai wàːriː-n-ai , dukà koːwaː ya-Ø= bìɗi màːtaː.
-1	tôː	tôː	INTJ	_	_	42	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	41	discourse	_	Gloss=well
 2	loːkàːcîn	loːkàːciː	NOUN	_	Definite=Def|Gender=Masc	41	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	42	dislocated@top	_	Gloss=Dandà
@@ -2980,7 +2980,7 @@
 # text_en = He said "I have ploughed my father's field, haven't I? "
 # text_ortho = yac cèː " naː noːmèː kàrkarats tsoːhoːnaː koː ? " .
 # text = tôː yac cèː " naː noːmèː kàrkarats tsoːhoːnaː koː ? " .
-1	tôː	tôː	INTJ	_	_	4	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	3	discourse	_	Gloss=well
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 4	cèː	cêː	VERB	_	_	3	comp:aux	_	Gloss=say
@@ -2993,7 +2993,7 @@
 11	tsoːhoː	tsoːhoː	NOUN	_	_	10	comp	_	Gloss=old_man.Masc|wordform=tsoːhoːnaː
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Masc/Plur
 13	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	12	comp:obj/m	_	Gloss=1Sing.Gen
-14	koː	koː	CCONJ	_	_	8	discourse	_	Gloss=or
+14	koː	koː	CCONJ	_	_	7	discourse	_	Gloss=or
 15	?	?	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 16	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -3015,7 +3015,7 @@
 # text_en = Then he told her"Dikko, now I am ready to marry, but before you tell me to marry, when has it ever been that a man doesn't go and take other people's property to get married? "
 # text_ortho = sa'ànnan yac cèː matà " Dikkò kâm, yànzu naː ìsa armeː àmman hwaːrìn kì cêː ìn yi armeː, yaushèː naː namijì bài tàhi yaƙ ƙwaːtoː duːkìyaː ba ta wasu zâi zuwàː shì yi armeː ? "
 # text = tôː sa'ànnan yac cèː matà " Dikkò kâm, yànzu naː ìsa armeː àmman hwaːrìn kì cêː ìn yi armeː, yaushèː naː namijì bài tàhi yaƙ ƙwaːtoː duːkìyaː ba ta wasu zâi zuwàː shì yi armeː ? "
-1	tôː	tôː	INTJ	_	_	5	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	4	discourse	_	Gloss=well
 2	sa'ànnan	sa'ànnan	ADV	_	_	4	mod	_	Gloss=then
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
@@ -4034,7 +4034,7 @@
 # text = tôː loːkàcîn nan tsoːhoː yac cèː mai " yaːròː, yaː kà ! "
 # text_en = Well, then the old man told him "Young man, come here! "
 # text_ortho = tôː loːkàcîn nan tsoːhoː yac cèː mai " yaːròː, yaː kà ! "
-1	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	6	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	tsoːhoː	tsoːhoː	NOUN	_	Gender=Masc	6	subj	_	Gloss=old_man.Masc
@@ -4175,7 +4175,7 @@
 # text_en = Ehe... it's then that the old man told the boy"Well, sit down here. "
 # text_ortho = eːheː loːkàcîn nan nàː tsoːhôn nan yac cèː mà yaːròː " tôː i zàmne nân" .
 # text = eːheː loːkàcîn nan nàː tsoːhôn nan yac= cèː mà yaːròː " tôː i zàmne nân ".
-1	eːheː	eːheː	INTJ	_	_	9	discourse	_	Gloss=er
+1	eːheː	eːheː	INTJ	_	_	8	discourse	_	Gloss=er
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -4306,7 +4306,7 @@
 11	kuːkân	kuːkaː	NOUN	_	Definite=Def|Gender=Masc	10	comp:pred	_	Gloss=cry.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	11	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-14	tôː	tôː	INTJ	_	_	17	discourse	_	Gloss=well
+14	tôː	tôː	INTJ	_	_	16	discourse	_	Gloss=well
 15	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	16	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kà
 16	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No
 17	ɗòːki	ɗauk-	VERB	_	_	16	comp:aux	_	Gloss=take
@@ -4425,7 +4425,7 @@
 # text_en = Well, then he went to the town .
 # text_ortho = tôː sa'ànnan yay yoː gàriː .
 # text = tôː sa'ànnan yay yoː gàriː .
-1	tôː	tôː	INTJ	_	_	5	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	4	discourse	_	Gloss=well
 2	sa'ànnan	sa'ànnan	ADV	_	_	4	mod	_	Gloss=then
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=y=
@@ -4437,7 +4437,7 @@
 # text_en = Well at that time, all the griots had gathered, because the griots were forty-one .
 # text_ortho = tôː loːkàcîn nan dukà màːsu maulòː sun gamèː dan wajjan màːsu maulòː tàlàːtin dà ɗai nàː .
 # text = tôː loːkàcîn nan dukà màːsu maulòː sun gamèː dan wajjan màːsu maulòː tàlàːtin dà ɗai nàː.
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	dukà	dukà	DET	_	PronType=Tot	5	det	_	Gloss=all
@@ -4562,7 +4562,7 @@
 # text_en = Well the, he said "Well, griots, come here one by ones and play, come here one by one and play. "
 # text_ortho = tôː loːkàːcîn nan nàː yac cèː "tôː màːsu maulòː, à tohoː dà gùdaː gùdaː, à yi, à tohoː dà gùdaː gùdaː, à yi" .
 # text = tôː loːkàːcîn nan nàː yac cèː "tôː màːsu maulòː, à tohoː dà gùdaː gùdaː, à yi, à tohoː dà gùdaː gùdaː, à yi " .
-1	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	6	discourse	_	Gloss=well
 2	loːkàːcîn	loːkàːciː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -4570,7 +4570,7 @@
 6	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 7	cèː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say
 8	“	“	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-9	tôː	tôː	INTJ	_	_	15	discourse	_	Gloss=well
+9	tôː	tôː	INTJ	_	_	14	discourse	_	Gloss=well
 10	màːsu	mài	PART	_	Number=Plur|PartType=Der	15	vocative	_	Gloss=owner_of.Plur
 11	maulòː	maulòː	NOUN	_	Gender=Masc	10	compound	_	Gloss=guitar.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -4804,7 +4804,7 @@
 2	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	13	discourse	_	Gloss=well
+5	tôː	tôː	INTJ	_	_	12	discourse	_	Gloss=well
 6	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	13	vocative	_	Gloss=2Masc.Nom
 7	kòː	kùwa	PART	_	PartType=Top	6	discourse@top	_	Gloss=as_for
 8	ɗan	ɗan	ADJ	_	Gender=Masc	9	mod	_	Gloss=small.Masc
@@ -4841,7 +4841,7 @@
 # text_en = Well the young boy, he took his guitar, approached, sat down in front of DGD .
 # text_ortho = tôː shiː kòː ɗan yaːròː sai yaɗ ɗoːkoː maulòː yaz zakà yaz zamnàː gàba gà Dandà Garbaː Dikkò .
 # text = tôː shiː kòː ɗan yaːròː sai yaɗ ɗoːkoː maulòː yaz zakà yaz zamnàː gàba gà Dandà Garbaː Dikkò .
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Masc.Nom
 3	kòː	kùwa	PART	_	PartType=Top	2	discourse@top	_	Gloss=as_for
 4	ɗan	ɗan	ADJ	_	Gender=Masc	5	mod	_	Gloss=small.Masc
@@ -4988,7 +4988,7 @@
 # text_en = Well then, DGD [epithet] told the griots to get up .
 # text_ortho = tôː loːkàːcîn nan Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː yac cèː màːsu maulòː sù taːsoː .
 # text = tôː loːkàːcîn nan Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː yac cèː màːsu maulòː sù taːsoː .
-1	tôː	tôː	INTJ	_	_	13	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	12	discourse	_	Gloss=well
 2	loːkàːcîn	loːkàːciː	NOUN	_	Definite=Def|Gender=Masc	12	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	12	mod	_	Gloss=Dandà
@@ -5058,7 +5058,7 @@
 10	cèː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say
 11	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	comp:obl	_	Gloss=3Plur.Dat
 12	"	"	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-13	tôː	tôː	INTJ	_	_	16	discourse	_	Gloss=well
+13	tôː	tôː	INTJ	_	_	15	discourse	_	Gloss=well
 14	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	15	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
 15	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	10	comp:obj	_	Gloss=Perf.Plur
 16	ga	gan-	VERB	_	_	15	comp:aux	_	Gloss=see
@@ -5118,7 +5118,7 @@
 # text_en = Well the, DGD said "Well, he is your leader. "
 # text_ortho = tôː, loːkàcîn nan Dandà Garbaː Dikkò yac cèː " tôː shiː as sarkinkù" .
 # text = tôː, loːkàcîn nan Dandà Garbaː Dikkò yac cèː " tôː shiː as sarkin -kù ".
-1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well|SpaceAfter=No
+1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=time.Masc.Def
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes
@@ -5202,7 +5202,7 @@
 # text_en = Well then, everyone learnt with that boy, everyone learnt Garba Dikko's song .
 # text_ortho = tôː, loːkàːcîn nan, koːwaː ya' iyàː gà yaːròn nan, koːwaː ya' iyà kiɗìn Garbaː Dikkò .
 # text = tôː, loːkàːcîn nan, koːwaː ya' iyàː gà yaːròn nan, koːwaː ya' iyà kiɗìn Garbaː Dikkò .
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well|SpaceAfter=No
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	loːkàːcîn	loːkàːciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
@@ -5357,7 +5357,7 @@
 # text_en = Well, after a while, one day, DGD [epithet] had sent some [musicians] off, when two griots arrived .
 # text_ortho = tôː anàː nan, wata raːnaː Dandà Garbaː Dikkò, Garbà Ɗiɗìː, Garbà Tatìː, Garbà hàlle-hàllan hàukaː, yaː ràkki wasu, màːsu maulòː suː buy sun tàhi .
 # text = tôː a- nàː nan, wata raːnaː Dandà Garbaː Dikkò, Garbà Ɗiɗìː, Garbà Tatìː, Garbà hàlle-hàllan hàukaː, yaː= ràkki wasu, màːsu maulòː suː buy sun= tàhi.
-1	tôː	tôː	INTJ	_	_	24	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	23	discourse	_	Gloss=well
 2	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	24	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
@@ -5527,7 +5527,7 @@
 # text_ortho = " koː kun gàmu dà suː ? "
 # text = " koː kun gàmu dà suː ? "
 1	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-2	koː	koː	CCONJ	_	_	5	discourse	_	Gloss=or
+2	koː	koː	CCONJ	_	_	4	discourse	_	Gloss=or
 3	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	4	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
 4	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur
 5	gàmu	gam-	VERB	_	_	4	comp:aux	_	Gloss=meet
@@ -5908,7 +5908,7 @@
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur
 11	gyaːraː	gyaːràː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp	_	Gloss=repair.Vnoun.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-13	kuma	kuma	CCONJ	_	_	17	discourse	_	Gloss=also|SpaceAfter=No
+13	kuma	kuma	CCONJ	_	_	15	discourse	_	Gloss=also|SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 15	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	7	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
 16	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	15	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=bàn
@@ -6506,7 +6506,7 @@
 # text_en = Well then DGD [epithet] escorted them .
 # text_ortho = tôː loːkàcîn nan Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː, Dandà Garbaː Dikkò yaː ràkkeː sù .
 # text = tôː loːkàcîn nan Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː, Dandà Garbaː Dikkò yaː ràkkeː sù .
-1	tôː	tôː	INTJ	_	_	17	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	16	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	16	subj	_	Gloss=Dandà
@@ -6693,7 +6693,7 @@
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
+5	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 6	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	7	subj/m	_	Gloss=2Fem|SpaceAfter=No|wordform=kì
 7	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	3	comp:obj@T	_	Gloss=Sub|SpaceAfter=No
 8	tàhi	tah-	VERB	_	_	7	comp:aux	_	Gloss=go
@@ -6786,7 +6786,7 @@
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
+5	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 6	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	7	subj/m	_	Gloss=2Fem|SpaceAfter=No|wordform=kì
 7	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	3	comp:obj@T	_	Gloss=Sub|SpaceAfter=No
 8	tàhi	tah-	VERB	_	_	7	comp:aux	_	Gloss=go
@@ -7184,7 +7184,7 @@
 # text_en = Well then they caught their ram, they killed it and prepared their meat .
 # text_ortho = tôː loːkàcîn nan sunkà kaːmèː ràːgonsù, sunkà yankèː, sunkà yi naːmàː .
 # text = tôː loːkàcîn nan sunkà kaːmèː ràːgon-sù , sunkà yankèː, sunkà yi naːmàː.
-1	tôː	tôː	INTJ	_	_	6	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	5	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	5	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
@@ -7326,7 +7326,7 @@
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well|SpaceAfter=No
+5	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	jiyàː	ji	ADV	_	_	10	mod	_	Gloss=yesterday
 8	dai	dai	PART	_	PartType=Top	7	discourse@top	_	Gloss=anyway
@@ -7427,7 +7427,7 @@
 # text_en = Well then, after they had saddled their horses she went back .
 # text_ortho = tôː loːkàcîn nan koːdà sunkài sirìddaː tak koːmoː .
 # text = tôː loːkàcîn nan koːdà sunkài sirìddaː tak koːmoː .
-1	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	koːdà	koːdà	SCONJ	_	_	10	mod	_	Gloss=as_soon_as
@@ -7504,7 +7504,7 @@
 # text_en = And he had put a rope near him .
 # text_ortho = kuma yaː ajèː yaggiyàː kusa gàrai .
 # text = kuma yaː ajèː yaggiyàː kusa gàrai .
-1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=too
+1	kuma	kuma	PART	_	PartType=Disc	3	discourse	_	Gloss=too
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	ajèː	az-	VERB	_	_	3	comp:aux	_	Gloss=put
@@ -7664,7 +7664,7 @@
 # text_en = Well, it's then that 'Yabbaraya took the rope and tied him up .
 # text_ortho = tôː loːkàcîn nan nàː 'YabBàraːya taɗ ɗòːki yaggiyàː taɗ ɗarmèː shi .
 # text = tôː loːkàcîn nan nàː 'YabBàraːya taɗ ɗòːki yaggiyàː taɗ ɗarmèː shi .
-1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -7999,7 +7999,7 @@
 10	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	7	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=c=
 11	cèː	cêː	VERB	_	_	10	comp:aux	_	Gloss=say
 12	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-13	gaskiyaː	gaskiyaː	INTJ	_	_	18	discourse	_	Gloss=truly
+13	gaskiyaː	gaskiyaː	INTJ	_	_	17	discourse	_	Gloss=truly
 14	Garbaː	Garbaː	PROPN	_	_	17	subj	_	Gloss=Garbaː
 15	Dikkò	Dikkò	PROPN	_	_	14	flat@name	_	Gloss=Dikkò
 16	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -8357,7 +8357,7 @@
 # text_en = Well, then they moved away. "
 # text_ortho = tôː loːkàcîn nan nàː sunkà zaːgèː .
 # text = tôː loːkàcîn nan nàː sunkà zaːgèː .
-1	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	6	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -8508,7 +8508,7 @@
 20	cèː	cêː	VERB	_	_	19	comp:aux	_	Gloss=say
 21	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	20	comp:obl	_	Gloss=3Plur.Dat
 22	“	“	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-23	tôː	tôː	INTJ	_	_	35	discourse	_	Gloss=well
+23	tôː	tôː	INTJ	_	_	34	discourse	_	Gloss=well
 24	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	35	dislocated@top	_	Gloss=thing.Masc.Def|RelAnt=Yes
 25	dà	dà	SCONJ	_	_	24	mod@relcl	_	Gloss=CompRel|Relz=Word
 26	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	27	subj/m	_	Gloss=1Sing-
@@ -8636,7 +8636,7 @@
 # text_ortho = "dan Allàː kù aràː min doːkìnku gùdaː .”
 # text = “ dan Allàː kù aràː min doːkìn -ku gùdaː .”
 1	“	“	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-2	dan	don	ADP	_	_	6	discourse	_	Gloss=because
+2	dan	don	ADP	_	_	5	discourse	_	Gloss=because
 3	Allàː	Allàː	PROPN	_	_	5	subj	_	Gloss=Allàː
 4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=2Plur|SpaceAfter=No|wordform=kù
 5	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No
@@ -8893,7 +8893,7 @@
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 13	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	12	comp:obj/m	_	Gloss=2Masc.Gen
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-15	kuma	kuma	CCONJ	_	_	18	discourse	_	Gloss=also
+15	kuma	kuma	CCONJ	_	_	17	discourse	_	Gloss=also
 16	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 17	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	9	conj:coord	_	Gloss=Perf.Sing
 18	c'eːrèː	tseːr-	VERB	_	_	17	comp:aux	_	Gloss=escape
@@ -9038,7 +9038,7 @@
 # text_en = Well then DGD, Dikko reached the head of the raid .
 # text_ortho = tôː loːkàcîn nan Dandà Garbaː Dikkò, Dikkò yat tàrbi gàban yaːƙìː .
 # text = tôː loːkàcîn nan Dandà Garbaː Dikkò, Dikkò ya-Ø= tàrbi gàba-nyaːƙìː.
-1	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	10	dislocated@subj	_	Gloss=Dandà
@@ -9309,7 +9309,7 @@
 # text_en = Well, then, DGD [epithet], when a man said that he surrendered, he told him"Go back with the cows. "
 # text_ortho = tôː loːkàːcîn nan nàː Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː im mùtun yac cèː mai yaː tuːba shì cêː mai "kòːmaː wajjan shaːnuː .” .
 # text = tôː loːkàːcîn nan nàː Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː im mùtun yac cèː mai yaː tuːba shì cêː mai "kòːmaː wajjan shaːnuː .” .
-1	tôː	tôː	INTJ	_	_	23	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	22	discourse	_	Gloss=well
 2	loːkàːcîn	loːkàːciː	NOUN	_	Definite=Def|Gender=Masc	22	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -9457,7 +9457,7 @@
 # text_ortho = "kuma naː san baːtà zuwàː koː'ìnaː . "
 # text = " kuma naː san baːtà zuwàː koː'ìnaː . "
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-2	kuma	kuma	PART	_	PartType=Disc	5	discourse	_	Gloss=too
+2	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=too
 3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=naː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
 5	san	san-	VERB	_	_	4	comp:aux	_	Gloss=know
@@ -9841,7 +9841,7 @@
 6	wàncân	cân	DET	_	Deixis=Med|Gender=Masc|PronType=Dem	7	det	_	Gloss=Med.Masc
 7	ɓaːrèː	ɓaːrèː	NOUN	_	Gender=Masc	1	comp:pred	_	Gloss=river_bank.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-9	sabàddà	sabàddà	SCONJ	_	_	15	discourse	_	Gloss=because
+9	sabàddà	sabàddà	SCONJ	_	_	14	discourse	_	Gloss=because
 10	ɗa	ɗaː	NOUN	_	Gender=Masc	14	subj	_	Compound=Yes|Gloss=son.Masc|SpaceAfter=No|wordform=ɗan
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem
 12	Hilàːniː	Hilàːniː	PROPN	_	_	11	comp	_	Gloss=Hilàːniː
@@ -9926,7 +9926,7 @@
 # text_en = Well at that time, DGD [epithet] see how high the river was!
 # text_ortho = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː Garbà hàlle-hàllan hàukaː, gàː gulbiː yaː gilma!
 # text = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː Garbà hàlle-hàllan hàukaː, gàː gulbiː yaː gilma.
-1	tôː	tôː	INTJ	_	_	20	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	19	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	19	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Emph
@@ -9978,7 +9978,7 @@
 11	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	10	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=ìm
 12	mutù	mut-	VERB	_	_	10	comp:aux	_	Gloss=die
 13	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	14	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=ìn
-14	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	12	discourse	_	Gloss=Sub|SpaceAfter=No
+14	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	10	discourse	_	Gloss=Sub|SpaceAfter=No
 15	ji	ji	VERB	_	_	14	comp:aux	_	Gloss=hear
 16	Dandà	Dandà	PROPN	_	_	15	comp:obj	_	Gloss=Dandà
 17	Garbaː	Garbaː	PROPN	_	_	16	flat@name	_	Gloss=Garbaː
@@ -10134,7 +10134,7 @@
 # text_en = Well then DGD [epithet], when he came out of the water, he galloped his horse .
 # text_ortho = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː dà yah hìta dàc cikin ruwaː yas sukàːyà doːkìː .
 # text = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː dà ya-Ø= hìta dàc cikin ruwaː ya-Ø= sukàːyà doːkìː.
-1	tôː	tôː	INTJ	_	_	21	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	20	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	20	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -10335,7 +10335,7 @@
 # text_en = Well then, DGD parted the water again with his horse .
 # text_ortho = tôː loːkàcîn nan Dandà Garbaː Dikkò kuma yah hwasoː tsakar ruwaː dà doːkìː .
 # text = tôː loːkàcîn nan Dandà Garbaː Dikkò kuma yah hwasoː tsakar ruwaː dà doːkìː .
-1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	9	dislocated@subj	_	Gloss=Dandà
@@ -10388,7 +10388,7 @@
 # text_en = Well, when DGD came out of the water he touched his trousers and felt that the belt had got loose .
 # text_ortho = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò dà yah hìta dàc cikin ruwaː yat tàɓi wàndoːnai yaj ji taːzàraw wàndoːnai taː sakìː .
 # text = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò dà yah hìta dàc cikin ruwaː yat tàɓi wàndoːnai yaj ji taːzàraw wàndoːnai taː sakìː .
-1	tôː	tôː	INTJ	_	_	17	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	16	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -10425,7 +10425,7 @@
 # text_en = Well then he stopped, caught his chin and started pondering .
 # text_ortho = tôː nan nàː yay yi tsàye yak kaːmèː bàːkiː, yay yi lìːsahiː .
 # text = tôː nan nàː yay yi tsàye yak kaːmèː bàːkiː, yay yi lìːsahiː .
-1	tôː	tôː	INTJ	_	_	6	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	5	discourse	_	Gloss=well
 2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	5	mod	_	Gloss=PreRef|PreRef=Yes
 3	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
@@ -10467,10 +10467,10 @@
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	“	“	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	16	discourse	_	Gloss=well
-6	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	discourse	_	Gloss=1Sing.Nom
+5	tôː	tôː	INTJ	_	_	15	discourse	_	Gloss=well
+6	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	discourse	_	Gloss=1Sing.Nom
 7	dai	dai	PART	_	PartType=Top	6	discourse@top	_	Gloss=anyway
-8	gaskiyaː	gaskiyaː	INTJ	_	_	16	discourse	_	Gloss=truly
+8	gaskiyaː	gaskiyaː	INTJ	_	_	15	discourse	_	Gloss=truly
 9	taːzàra	taːzàraː	NOUN	_	Gender=Fem	15	subj	_	Gloss=rope.Fem..Fem|SpaceAfter=No|wordform=taːzàraw
 10	-w	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Fem|wordform=-C
 11	wàndoː	wàndoː	NOUN	_	_	10	comp	_	Gloss=trousers.Masc|wordform=wàndoːnaː
@@ -10487,8 +10487,8 @@
 # text_ortho = "kuma àmman nân cikin zuccìyaːtaː bàn ji naː yi tsòːroː ba. "
 # text = “ kuma àmman nân cikin zuccìyaːt -aː bàn ji naː yi tsòːroː ba “.
 1	“	“	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-2	kuma	kuma	PART	_	PartType=Disc	11	discourse	_	Gloss=too
-3	àmman	àmma	CCONJ	_	_	11	discourse	_	Gloss=but
+2	kuma	kuma	PART	_	PartType=Disc	9	discourse	_	Gloss=too
+3	àmman	àmma	CCONJ	_	_	9	discourse	_	Gloss=but
 4	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	9	mod	_	Gloss=ProxS
 5	cikin	cikin	ADP	_	_	9	mod	_	Gloss=in
 6	zuccìyaː	zuccìyaː	NOUN	_	_	5	comp	_	Gloss=heart.Fem|SpaceAfter=No|wordform=zuccìyaːtaː
@@ -10510,7 +10510,7 @@
 # text_ortho = "àmman naː ji taːzàraw wàndoːnaː taː sakìː . "
 # text = " àmman naː ji taːzàraw wàndoːnaː taː sakìː . "
 1	“	“	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-2	àmman	àmma	CCONJ	_	_	5	discourse	_	Gloss=but
+2	àmman	àmma	CCONJ	_	_	4	discourse	_	Gloss=but
 3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=naː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=|wordform=aː
 5	ji	ji	VERB	_	_	4	comp:aux	_	Gloss=hear
@@ -10637,14 +10637,14 @@
 52	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	53	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yak
 53	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	51	comp	_	Gloss=Perf.Rel.Sing|wordform=k=
 54	kaːc'èː	kaːts-	VERB	_	_	53	comp:aux	_	Gloss=snap
-55	ba	ba	PART	_	Polarity=Neg	36	discourse	_	Gloss=Neg
+55	ba	ba	PART	_	Polarity=Neg	34	discourse	_	Gloss=Neg
 56	?	?	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__515
 # text_en = Well then DGD left .
 # text_ortho = tôː loːkàːcîn nan Dandà Garbaː Dikkò yat tohoː .
 # text = tôː loːkàːcîn nan Dandà Garbaː Dikkò yat tohoː .
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàːcîn	loːkàːciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	8	subj	_	Gloss=Dandà
@@ -10857,7 +10857,7 @@
 # text_en = And he did not turn his head to look .
 # text_ortho = kuma bài waiwàyaː ba .
 # text = kuma bài waiwàyaː ba .
-1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=too
+1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	Gloss=too
 2	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
 3	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 4	waiwàyaː	wayway-	VERB	_	_	2	comp:aux	_	Gloss=turn_head_to_look
@@ -10908,7 +10908,7 @@
 # text_en = And he did not lift his head to look .
 # text_ortho = kuma bài tassà kâi yà diːbàː ba .
 # text = kuma bài tassà kâi yà diːbàː ba .
-1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=too
+1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	Gloss=too
 2	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
 3	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 4	tassà	taːs-	VERB	_	Voice=Cau	2	comp:aux	_	Gloss=get_up.Caus
@@ -11004,7 +11004,7 @@
 6	waiwàyaː	wayway-	VERB	_	_	4	comp:aux	_	Gloss=look_back
 7	ba	ba	PART	_	Polarity=Neg	6	mod	_	Gloss=Neg|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-9	aː	aː	INTJ	_	_	12	discourse	_	Gloss=ah
+9	aː	aː	INTJ	_	_	10	discourse	_	Gloss=ah
 10	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	6	parataxis:conj	_	Gloss=Neg.Perf-|SpaceAfter=No
 11	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc=|SpaceAfter=No|wordform=bài
 12	waiwàyaː	wayway-	VERB	_	_	10	comp:aux	_	Gloss=look_back
@@ -11379,7 +11379,7 @@
 # text_en = Well then, 'YabBàraːya stayed one week with her head bare and no shoes, nothing .
 # text_ortho = tôː loːkàcîn nan 'YabBàraːya sai dà tay yi bakwài gùdaː dà kâi bànye baːbù kàlmisàː, baːbù wani àbo .
 # text = tôː loːkàcîn nan 'YabBàraːya sai dà tay yi bakwài gùdaː dà kâi bànye baːbù kàlmisàː, baːbù wani àbo.
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	'YabBàraːya	'yabbàraːya	PROPN	_	_	8	dislocated@subj	_	Gloss='YabBàraːya
@@ -11556,7 +11556,7 @@
 # text_ortho = "wai yaːròː in kash shaː kaː yi tsòːroː, im bàkà shaː ba, à yankèː ka. "
 # text = " wai yaːròː in kash shaː kaː yi tsòːroː, im bàkà shaː ba, à yankèː ka. "
 1	“	“	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-2	wai	wai	PART	_	Evident=Nfh|PartType=Evident	10	discourse	_	Gloss=reportedly
+2	wai	wai	PART	_	Evident=Nfh|PartType=Evident	9	discourse	_	Gloss=reportedly
 3	yaːròː	yaːròː	NOUN	_	Gender=Masc	10	vocative	_	Gloss=boy.Masc
 4	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 5	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	6	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kash
@@ -11651,7 +11651,7 @@
 # text_en = Well then, DGD, sleep did not catch his eyes.
 # text_ortho = tôː loːkàcîn nan Dandà Garbaː Dikkò kwaːnaː bài kammà idòːnai ba .
 # text = tôː loːkàcîn nan Dandà Garbaː Dikkò kwaːnaː bài kammà idòːnai ba .
-1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	10	dislocated@top	_	Gloss=Dandà
@@ -11692,7 +11692,7 @@
 # text_en = On that very day, DGD woke up his slave dans told him to saddle his horse too.
 # text_ortho = tundà daràn nan, Dandà Garbaː Dikkò yat tassà baːwàːnai yac cèː shiː mà doːkìːnai sirdìː .
 # text = tundà daràn nan, Dandà Garbaː Dikkò yat tassà baːwàːnai yac cèː shiː mà doːkìːnai sirdìː.
-1	tundà	tundà	ADP	_	_	10	discourse	_	Gloss=since
+1	tundà	tundà	ADP	_	_	9	discourse	_	Gloss=since
 2	daràn	darèː	NOUN	_	Definite=Def|Gender=Masc	1	comp	_	Gloss=night.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -11769,7 +11769,7 @@
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 18	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	17	comp:obj/m	_	Gloss=3Masc.Gen
 19	“	“	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-20	tôː	tôː	INTJ	_	_	23	discourse	_	Gloss=well
+20	tôː	tôː	INTJ	_	_	22	discourse	_	Gloss=well
 21	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	22	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kà
 22	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	14	comp:obj	_	Gloss=Sub|SpaceAfter=No
 23	tsayàː	tsay-	VERB	_	_	22	comp:aux	_	Gloss=stay
@@ -11821,7 +11821,7 @@
 # text_en = Well, then DGD found Gilage playing dara [draughts] with his elder sister.
 # text_ortho = tôː loːkàcîn nan Dandà Garbaː Dikkò, Dandà Garbaː Dikkò sai ya îskè Gìlaːgèː sunàː darà, suː dà yâːtai .
 # text = tôː loːkàcîn nan Dandà Garbaː Dikkò, Dandà Garbaː Dikkò sai ya îskè Gìlaːgèː sunàː darà, suː dà yâːtai .
-1	tôː	tôː	INTJ	_	_	14	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	13	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	13	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	13	subj	_	Gloss=Dandà
@@ -12114,7 +12114,7 @@
 # text_en = Well then Gilage himself put down a nut.
 # text_ortho = tôː loːkàcîn nan shiː kòː Gilaːgèː ya' azà ƙòːdagòː .
 # text = tôː loːkàcîn nan shiː kòː Gilaːgèː ya' azà ƙòːdagòː .
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	Gloss=3Masc.Nom
@@ -12237,7 +12237,7 @@
 5	azà	az-	VERB	_	_	4	comp:aux	_	Gloss=put
 6	ƙòːdagòː	ƙòːdagòː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=palm_nuts.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-8	kuma	kuma	PART	_	PartType=Disc	11	discourse	_	Gloss=too
+8	kuma	kuma	PART	_	PartType=Disc	10	discourse	_	Gloss=too
 9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=shì
 10	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	Gloss=say
@@ -12255,7 +12255,7 @@
 23	nì=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	24	subj/m	_	Gloss=1Sing=|wordform=baːnì
 24	baːsà	baː	VERB	_	Voice=Cau	18	parataxis:conj	_	Gloss=give.Cau
 25	kyàutaː	kyàutaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=gift.Fem
-26	kuma	kuma	PART	_	PartType=Disc	30	discourse	_	Gloss=too
+26	kuma	kuma	PART	_	PartType=Disc	28	discourse	_	Gloss=too
 27	mùtun	mùtun	NOUN	_	Gender=Masc	28	subj	_	Gloss=man.Masc
 28	bâ-	bâː-	AUX	_	Aspect=Prog|Copula=No|Polarity=Neg	24	parataxis:conj	_	Gloss=Neg.Prog|SpaceAfter=No|wordform=bâi
 29	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=3Masc=
@@ -12511,7 +12511,7 @@
 # text_en = Well then DGD went to where his slave was.
 # text_ortho = tôː loːkàcîn nan Dandà Garbaː Dikkò yat tàhi indà baːwàːnai .
 # text = tôː loːkàcîn nan Dandà Garbaː Dikkò ya-Ø= tàhi indà baːwàː-n-ai .
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	8	subj	_	Gloss=Dandà
@@ -13170,7 +13170,7 @@
 # text_en = Well it's then that Gilage approached DGD and told him "Man, greetings."
 # text_ortho = tôː loːkàcîn nan nàː dà Gilaːgè yay yi kusa gà Dandà Garbaː Dikkò, yac cèː mai " namijì, sàlaːmù àleːkùm " .
 # text = tôː loːkàcîn nan nàː dà Gilaːgè ya-Ø= yi kusa gà Dandà Garbaː Dikkò, ya-Ø= cèː mai " namijì, sàlaːmù àleːkùm ".
-1	tôː	tôː	PART	_	Gender=Masc	18	discourse	_	Gloss=well
+1	tôː	tôː	PART	_	Gender=Masc	17	discourse	_	Gloss=well
 2	loːkàcîn	loːkàcîn	NOUN	_	Definite=Def|Gender=Masc	17	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -13464,7 +13464,7 @@
 # text_en = He bowed his head and kept delousing himself.
 # text_ortho = yas saːkèː kai, yay yi ta kashìn ƙeːyàːtai .
 # text = yas saːkèː kai, yay yi ta kashìn ƙeːyàːtai .
-1	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	6	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	6	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	Gilaːgè	Gilaːgè	PROPN	_	_	6	subj	_	Gloss=Gilaːgè
@@ -13610,7 +13610,7 @@
 6	cèː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say
 7	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	6	comp:obl	_	Gloss=3Masc.Dat
 8	"	"	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-9	dan	don	ADP	_	_	21	discourse	_	Gloss=because
+9	dan	don	ADP	_	_	20	discourse	_	Gloss=because
 10	Allàː	Allàː	PROPN	_	_	9	comp	_	Gloss=Allàː
 11	im	in	SCONJ	_	_	20	mod	_	Gloss=if
 12	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	Gloss=Neg
@@ -13648,7 +13648,7 @@
 # text_ortho = " dan Allàː dai, kà taːshì kà koːmàː gidankà " .
 # text = " dan Allàː dai, kà taːshì kà koːmàː gidankà " .
 1	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-2	dan	don	ADP	_	_	8	discourse	_	Gloss=because
+2	dan	don	ADP	_	_	7	discourse	_	Gloss=because
 3	Allàː	Allàː	PROPN	_	_	2	comp	_	Gloss=Allàː
 4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyway|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -13811,7 +13811,7 @@
 5	sâː	sâː	VERB	_	_	4	comp:aux	_	Gloss=put
 6	-ni	-ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	comp:obj@R/m	_	Gloss=-1Sing.Acc|wordform=ni
 7	dàːriyaː	dàːriyaː	NOUN	_	Gender=Fem	5	comp:obj@T	_	Gloss=laughter.Fem
-8	dan	don	ADP	_	_	5	discourse	_	Gloss=because
+8	dan	don	ADP	_	_	4	discourse	_	Gloss=because
 9	Allàː	Allàː	PROPN	_	_	8	comp	_	Gloss=Allàː
 10	dai	dai	PART	_	PartType=Top	8	discourse@top	_	Gloss=anyway
 11	Gilaːgè	Gilaːgè	PROPN	_	_	5	vocative	_	Gloss=Gilaːgè
@@ -13823,7 +13823,7 @@
 # text_ortho = " dan Allàː Gilaːgè kà bar làllaƙàːtaː dàk kà sâː ni dàːriyàː " .
 # text = " dan Allàː Gilaːgè kà bar làllaƙàːtaː dàk kà sâː ni dàːriyàː " .
 1	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-2	dan	don	ADP	_	_	7	discourse	_	Gloss=because
+2	dan	don	ADP	_	_	6	discourse	_	Gloss=because
 3	Allàː	Allàː	PROPN	_	_	2	comp	_	Gloss=Allàː
 4	Gilaːgè	Gilaːgè	PROPN	_	_	7	vocative	_	Gloss=Gilaːgè
 5	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	6	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kà
@@ -14206,7 +14206,7 @@
 # text_ortho = " tundà wani mùtun yaː zakà yaː tàri shaːnun Gilaːgè, yaː tàri shaːnun mài gidaː, mài gidaː yaː tàhi kwàràːreːnai bàmù san wàdà zâːsu kwaːshèːwaː ba " .
 # text = " tundà wani mùtun y-aː= zakà y-aː= tàri shaːnu-n Gilaːgè, y-aː= tàri shaːnu-n mài gidaː, mài gidaː y-aː= tàhi kwàràːreː-n-ai bà-mù=san wàdà zâː-su= kwaːshèːwaː ba ".
 1	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-2	tundà	tundà	SCONJ	_	_	7	discourse	_	Gloss=since
+2	tundà	tundà	SCONJ	_	_	6	discourse	_	Gloss=since
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc
 4	mùtun	mùtun	NOUN	_	Gender=Masc	6	subj	_	Gloss=man.Masc
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -14795,7 +14795,7 @@
 # text_en = Well then the griot said "Where are the cows?"
 # text_ortho = tôː loːkàcîn nan nàː mài maulòː yac cèː " ìnaː sukè, shaːnuː ? " .
 # text = tôː loːkàcîn nan nàː mài maulòː yac= cèː " ìnaː su-kè, shaːnuː ? ".
-1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	8	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -15075,7 +15075,7 @@
 # text_en = Well then DGD spent the night thinking deeply.
 # text_ortho = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò yak kwaːna lìːsahiː gà râinai .
 # text = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò yak kwaːna lìːsahiː gà râinai.
-1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -15118,7 +15118,7 @@
 # text_en = Well then DGD called scholars, he gathered them and said well.
 # text_ortho = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò yak kìrai màːlàmmai, yat tarsuwàː yac cèː tôː .
 # text = tôː loːkàcîn nan nàː Dandà Garbaː Dikkò yak kìrai màːlàmmai, yat tarsuwàː yac cèː tôː .
-1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -16333,7 +16333,7 @@
 # text_en = Finally, they gave him donkeys to look after.
 # text_ortho = shiːkèːnan, sai ankà baː shì kiːyòn jàkkai .
 # text = shiːkèːnan, sai ankà baː shì kiːyòn jàkkai .
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	6	discourse	_	Gloss=OK|SpaceAfter=No
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	Gloss=OK|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 3	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 4	an-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
@@ -16403,7 +16403,7 @@
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
+5	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 6	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	7	subj/m	_	Gloss=2Masc|SpaceAfter=No|wordform=kà
 7	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	3	comp:obj@T	_	Gloss=Sub|SpaceAfter=No
 8	tàhi	tah-	VERB	_	_	7	comp:aux	_	Gloss=go
@@ -16495,7 +16495,7 @@
 # text_en = Well, in the morning, he goes near the village, they release the donkeys, he gathers them and goes where he looks after them.
 # text_ortho = shiːkèːnan in sàːhiyaː tay yi, shì koːmàː bàːkin daːjìː, à sàki jàkkai shì taràː shì tàhi zuwàː kiːyòː .
 # text = shiːkèːnan in sàːhiyaː tay yi, shì koːmàː bàːkin daːjìː, à sàki jàkkai shì taràː shì tàhi zuwàː kiːyòː .
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	10	discourse	_	Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	9	discourse	_	Gloss=OK
 2	in	in	SCONJ	_	_	9	mod	_	Gloss=if
 3	sàːhiyaː	sàːhiyaː	NOUN	_	Gender=Fem	5	subj	_	Gloss=morning
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tay
@@ -16588,7 +16588,7 @@
 # text_en = Indeed, she saw that her father had gone mad.
 # text_ortho = àsheː taː ga ùbantà yaː ram matà .
 # text = àsheː taː ga ùbantà yaː ram matà .
-1	àsheː	àsheː	INTJ	_	_	4	discourse	_	Gloss=indeed
+1	àsheː	àsheː	INTJ	_	_	3	discourse	_	Gloss=indeed
 2	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	ga	gan-	VERB	_	_	3	comp:aux	_	Gloss=see
@@ -17075,7 +17075,7 @@
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	tôː	tôː	INTJ	_	_	3	discourse	_	Gloss=well
+5	tôː	tôː	INTJ	_	_	2	discourse	_	Gloss=well
 6	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
 7	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -17345,7 +17345,7 @@
 # text_en = Well then he used his sword to chop off the head of the raiders' chief.
 # text_ortho = tôː loːkàcîn nan nàː sai yas sàː naːshì takòːbiː yaɗ ɗeːbèː mà uway yaːƙìː kâi .
 # text = tôː loːkàcîn nan nàː sai yas sàː naːshì takòːbiː yaɗ ɗeːbèː mà uway yaːƙìː kâi .
-1	tôː	tôː	INTJ	_	_	8	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	7	mod	_	Gloss=time.Masc.Def
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=PreRef|PreRef=Yes
 4	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	Gloss=Foc
@@ -17438,7 +17438,7 @@
 # text_en = And she did not see his face as he was wearing a turban.
 # text_ortho = kuma baː'à ganin huskàːtai sabàddà naɗìn dà yay yoː .
 # text = kuma baː-à= gani-n huskàː-t-ai sabàddà naɗìn dà ya-Ø= yoː.
-1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=too
+1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	Gloss=too
 2	baː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Person=4|Polarity=Neg	0	root	_	Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
 3	à=	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4=|wordform=baː'à
 4	gani	gan-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	Gloss=see.Vnoun.Masc|SpaceAfter=No|wordform=ganin
@@ -17488,7 +17488,7 @@
 # text_en = And all those who did not submit, he finished them off.
 # text_ortho = kuma waɗàndà bàsù bi ba, yag gamàː dà suː .
 # text = kuma waɗàndà bà-sù=bi ba, ya-Ø= gamàː dà suː.
-1	kuma	kuma	PART	_	PartType=Disc	10	discourse	_	Gloss=too
+1	kuma	kuma	PART	_	PartType=Disc	9	discourse	_	Gloss=too
 2	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	9	subj	_	Gloss=who.Plur|RelAnt=Yes|Relz=Word
 3	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	2	mod@relcl	_	Gloss=Neg.Perf-|SpaceAfter=No
 4	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur=|SpaceAfter=No|wordform=sù
@@ -17801,7 +17801,7 @@
 # text_en = After a while, the king's daughter went to his place to bring him food.
 # text_ortho = tôː anàː nan sai rân nan ɗìyas sarkiː taː tàhi wurin kai mai àbincìː .
 # text = tôː a-nàː nan sai rân nan ɗìya -s sarkiː t-aː= tàhi wuri-nkai mai àbincìː.
-1	tôː	tôː	INTJ	_	_	13	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	12	discourse	_	Gloss=well
 2	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	13	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
@@ -17825,7 +17825,7 @@
 # text_en = Indeed, DGD did not see her and she took him by surprise.
 # text_ortho = àsheː Dandà Garbaː Dikkò bài cìnkài ta ba sai dà tat tirmisam mai .
 # text = àsheː Dandà Garbaː Dikkò bài cìnkài ta ba sai dà tat tirmisam mai.
-1	àsheː	àsheː	INTJ	_	_	7	discourse	_	Gloss=indeed
+1	àsheː	àsheː	INTJ	_	_	5	discourse	_	Gloss=indeed
 2	Dandà	Dandà	PROPN	_	_	5	mod	_	Gloss=Dandà
 3	Garbaː	Garbaː	PROPN	_	_	2	flat@name	_	Gloss=Garbaː
 4	Dikkò	Dikkò	PROPN	_	_	3	flat@name	_	Gloss=Dikkò
@@ -18034,7 +18034,7 @@
 # text_en = Well, as they told him that, he knew that the king's daughter had seen his wound.
 # text_ortho = tôː wàdà ankà cêː mai hakànan, yaː san ɗìyas sarkiː taː nìgìra dà makamiːnai .
 # text = tôː wàdà an-kà= cêː mai hakànan, y-aː= san ɗìya-s sarkiː t-aː= nìgìra dà makamiː-n-ai .
-1	tôː	tôː	INTJ	_	_	11	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
 2	wàdà	wàdà	ADV	_	PronType=Rel	10	mod	_	Gloss=how|RelAnt=Yes|Relz=Word
 3	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
 4	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	2	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
@@ -18249,7 +18249,7 @@
 # text_ortho = " kuma yànzu kun san koːwaː nikè " .
 # text = " kuma yànzu ku-n= san koːwaː ni- kè ".
 1	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-2	kuma	kuma	PART	_	PartType=Disc	6	discourse	_	Gloss=too
+2	kuma	kuma	PART	_	PartType=Disc	5	discourse	_	Gloss=too
 3	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
 4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
 5	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur

@@ -666,7 +666,7 @@
 4	cikin	cikin	ADP	_	_	8	mod	_	AlignBegin=176220|AlignEnd=176495|Gloss=in
 5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	4	comp	_	AlignBegin=176495|AlignEnd=176770|Gloss=world.Fem
 6	<	<	PUNCT	_	_	4	punct	_	AlignBegin=176770|AlignEnd=177045|Gloss=PUNCT
-7	Allàː	Allàː	PROPN	_	_	10	discourse	_	AlignBegin=177045|AlignEnd=177320|Gloss=God
+7	Allàː	Allàː	PROPN	_	_	8	discourse	_	AlignBegin=177045|AlignEnd=177320|Gloss=God
 8	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
 9	ì=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=177320|AlignEnd=177595|Gloss=3Masc=|SpaceAfter=No|wordform=bài
 10	yoː	yi	VERB	_	_	8	comp:aux	_	AlignBegin=177595|AlignEnd=177870|Gloss=do
@@ -884,7 +884,7 @@
 # text_ortho = wàːtôː < zàːrùmmân nan dà sukà aihùwaː < cikinsù < sai ya ga cikin su zàːrùmmai an sàːmu zàːrùmmai wa'ànda has sunàː nèːman sù hi ƙarhiːnai //
 # text = wàːtôː < zàːrùmmân nan dà su-kà aihùwaː < cikin-sù < sai ya-Ø= ga cikin su zàːrùmmai a-n= sàːmu zàːrùmmai wa'ànda has su-nàː nèːma-n su-_̀=hi ƙarhiː-n-ai //
 # text_en = Well, good warriors that they produced, among them, he saw that among those warriors, there were warriors who were going to be stronger than him.
-1	wàːtôː	wàːtôː	INTJ	_	_	16	discourse	_	AlignBegin=205660|AlignEnd=205967|Gloss=that_is
+1	wàːtôː	wàːtôː	INTJ	_	_	15	discourse	_	AlignBegin=205660|AlignEnd=205967|Gloss=that_is
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=205967|AlignEnd=206274|Gloss=PUNCT
 3	zàːrùmmân	zaːrùmiː	NOUN	_	Definite=Def|Number=Plur	15	mod	_	AlignBegin=206274|AlignEnd=206581|Gloss=brave.Plur.Def|RelAnt=Yes
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	AlignBegin=206581|AlignEnd=206888|Gloss=PreRef|PreRef=Yes
@@ -976,7 +976,7 @@
 # text_ortho = tôː kaː san loːkàcin dà Tuːraːwaː sun shigoː ?//
 # text = tôː k-aː= san loːkàcin dà Tuːraːwaː su-n= shigoː ?//
 # text_en = Well, do you know when the Europeans arrived?
-1	tôː	tôː	INTJ	_	_	4	discourse	_	AlignBegin=230680|AlignEnd=230864|Gloss=well
+1	tôː	tôː	INTJ	_	_	3	discourse	_	AlignBegin=230680|AlignEnd=230864|Gloss=well
 2	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=230864|AlignEnd=231048|Gloss=2Masc|SpaceAfter=No|wordform=kaː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=
 4	san	san-	VERB	_	_	3	comp:aux	_	AlignBegin=231048|AlignEnd=231232|Gloss=know
@@ -1035,8 +1035,8 @@
 # text_ortho = tôː àmman kaː san loːkàcin dà Tuːraːwaː kà iːkòː ?//
 # text = tôː àmman kaː= san loːkàcin dà Tuːraːwaː kà= iːkòː ?//
 # text_en = But did you see when the Europeans were governing?
-1	tôː	tôː	INTJ	_	_	5	discourse	_	AlignBegin=238892|AlignEnd=239101|Gloss=well
-2	àmman	àmman	CCONJ	_	_	5	discourse	_	AlignBegin=239101|AlignEnd=239310|Gloss=but
+1	tôː	tôː	INTJ	_	_	4	discourse	_	AlignBegin=238892|AlignEnd=239101|Gloss=well
+2	àmman	àmman	CCONJ	_	_	4	discourse	_	AlignBegin=239101|AlignEnd=239310|Gloss=but
 3	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=239310|AlignEnd=239519|Gloss=2Masc|SpaceAfter=No|wordform=kaː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing=
 5	san	san-	VERB	_	_	4	comp:aux	_	AlignBegin=239519|AlignEnd=239728|Gloss=know
@@ -1299,7 +1299,7 @@
 # text_ortho = kuma à kam mà wasu //
 # text = kuma à kam mà wasu //
 # text_en = And they caught somebody else.
-1	kuma	kuma	CCONJ	_	_	4	discourse	_	AlignBegin=281272|AlignEnd=281491|Gloss=also
+1	kuma	kuma	CCONJ	_	_	3	discourse	_	AlignBegin=281272|AlignEnd=281491|Gloss=also
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=281491|AlignEnd=281710|Gloss=4|SpaceAfter=No|wordform=à
 3	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No
 4	kam	kaːm-	VERB	_	_	3	comp:aux	_	AlignBegin=281710|AlignEnd=281929|Gloss=catch
@@ -1498,7 +1498,7 @@
 # text_ortho = mùtun < sai kaː tohoː dà taːkìn tàːkàːminkà biyu //
 # text = mùtun < sai kaː tohoː dà taːkìn tàːkàlmin -kà biyu //
 # text_en = Well, you had to take two pairs of shoes.
-1	mùtun	mùtunèː	NOUN	_	Gender=Masc	6	discourse	_	AlignBegin=316686|AlignEnd=316879|Gloss=human.Masc
+1	mùtun	mùtunèː	NOUN	_	Gender=Masc	5	discourse	_	AlignBegin=316686|AlignEnd=316879|Gloss=human.Masc
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=316879|AlignEnd=317072|Gloss=PUNCT
 3	sai	sai	ADV	_	_	5	mod	_	AlignBegin=317072|AlignEnd=317265|Gloss=then
 4	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=317265|AlignEnd=317458|Gloss=2Masc|SpaceAfter=No|wordform=kaː
@@ -1878,7 +1878,7 @@
 # text_ortho = tôː in kun zoː bàkù taɓà gàmuwaː dà wasu kuːràːyeː wasu ƙwàːrin daːjìː hakà ba ?//
 # text = tôː in kun=zoː bàkù=taɓà gàmuwaː dà wasu kuːràːyeː wasu ƙwàːri-n daːjìː hakà ba ?//
 # text_en = Well, whe you travelled, did you ever meet hyenas or other wild animals like that?
-1	tôː	tôː	INTJ	_	_	8	discourse	_	AlignBegin=385820|AlignEnd=386071|Gloss=well
+1	tôː	tôː	INTJ	_	_	6	discourse	_	AlignBegin=385820|AlignEnd=386071|Gloss=well
 2	in	in	SCONJ	_	_	6	mod	_	AlignBegin=386071|AlignEnd=386322|Gloss=if
 3	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=386322|AlignEnd=386573|Gloss=2Plur-|SpaceAfter=No|wordform=kun
 4	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	2	comp	_	Gloss=Perf.Plur
@@ -2064,7 +2064,7 @@
 # text_ortho = kuma bàkà taɓà gàmuwaː dà ƴan hwashìː ba ?//
 # text = kuma bàkà taɓà gàmuwaː dà ƴan hwashìː ba ?//
 # text_en = And you never met highwaymen?
-1	kuma	kuma	CCONJ	_	_	4	discourse	_	AlignBegin=418260|AlignEnd=418472|Gloss=also
+1	kuma	kuma	CCONJ	_	_	2	discourse	_	AlignBegin=418260|AlignEnd=418472|Gloss=also
 2	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
 3	kà=	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=418472|AlignEnd=418684|Gloss=2Masc=|SpaceAfter=No|wordform=bàkà
 4	taɓà	taɓ-	VERB	_	_	2	comp:aux	_	AlignBegin=418684|AlignEnd=418896|Gloss=experience
@@ -2128,7 +2128,7 @@
 4	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=424624|AlignEnd=424812|Gloss=do.Vnoun.Masc
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=424812|AlignEnd=425000|Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	AlignBegin=425000|AlignEnd=425188|Gloss=then
-7	ai	ai	INTJ	_	_	10	discourse	_	AlignBegin=425188|AlignEnd=425376|Gloss=eh!
+7	ai	ai	INTJ	_	_	9	discourse	_	AlignBegin=425188|AlignEnd=425376|Gloss=eh!
 8	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	AlignBegin=425376|AlignEnd=425564|Gloss=2Masc|SpaceAfter=No|wordform=kà
 9	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No
 10	yi	yi	VERB	_	_	9	comp:aux	_	AlignBegin=425564|AlignEnd=425752|Gloss=do
@@ -2299,7 +2299,7 @@
 # text_ortho = àmmaː baːkù daɗèːwaː ƙwarai ?//
 # text = àmmaː baːkù daɗèːwaː ƙwarai ?//
 # text_en = But you did not stay long?
-1	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	AlignBegin=448760|AlignEnd=448960|Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	2	discourse	_	AlignBegin=448760|AlignEnd=448960|Gloss=but
 2	baː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Number=Plur|Person=2|Polarity=Neg	0	root	_	AlignBegin=448960|AlignEnd=449160|Gloss=Neg.Prog-|SpaceAfter=No|wordform=baː
 3	kù=	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=448960|AlignEnd=449160|Gloss=2Plur=|wordform=baːkù
 4	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=449160|AlignEnd=449360|Gloss=spend_time.Vnoun.Fem

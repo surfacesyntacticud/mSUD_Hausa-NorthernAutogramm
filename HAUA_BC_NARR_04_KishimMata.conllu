@@ -95,7 +95,7 @@
 # text_ortho = shiːkèːnan sai sunkà cêː bàri sù tàhi yaːwòn duːniyàː à yoː gwàdayyàk kyaːwòː dà haːwà dà haːwaːtàn //
 # text = shiːkèːnan sai sunkà cêː bàri sù tàhi yaːwòn duːniyàː à yoː gwàdayyàk kyaːwòː dà Haːwà dà Haːwaːtàn //
 # text_en = OK, they said let them go around the world to do a beauty contest between Hawa and Hawatan.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=14075|AlignEnd=14453|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	4	discourse	_	AlignBegin=14075|AlignEnd=14453|Gloss=OK
 2	sai	sai	ADV	_	_	4	mod	_	AlignBegin=14453|AlignEnd=14831|Gloss=until
 3	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=14831|AlignEnd=15209|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 4	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
@@ -275,7 +275,7 @@
 # text_ortho = shiːkèːnan dà sunkà tohoː sai sunkà kaːwoː bàːkin tabkìː //
 # text = shiːkèːnan dà sunkà tohoː sai sunkà kaːwoː bàːkin tabkìː //
 # text_en = OK, on their way back, they reached the river bank.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	9	discourse	_	AlignBegin=45338|AlignEnd=45536|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	8	discourse	_	AlignBegin=45338|AlignEnd=45536|Gloss=OK
 2	dà	dà	SCONJ	_	_	8	mod	_	AlignBegin=45536|AlignEnd=45734|Gloss=as
 3	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=45734|AlignEnd=45932|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 4	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	2	comp	_	Gloss=Perf.Rel.Plur|wordform=nkà=
@@ -331,7 +331,7 @@
 # text_ortho = shiːkèːnan sai taj jìːɗa dàb bisà naːtà sâː //
 # text = shiːkèːnan sai taj jìːɗa dàb bisà naːtà sâː //
 # text_en = OK, she got down from her bull.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=55760|AlignEnd=56049|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	4	discourse	_	AlignBegin=55760|AlignEnd=56049|Gloss=OK
 2	sai	sai	ADV	_	_	4	mod	_	AlignBegin=56049|AlignEnd=56338|Gloss=until
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=56338|AlignEnd=56627|Gloss=3Fem-|SpaceAfter=No|wordform=taj
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=j=
@@ -349,7 +349,7 @@
 # text_ortho = tôː dà tat tàhi ɗeːboː maw ruwaː < indà dut tac cèː [ ìn ɗeːboː nân ?//] < sai tà cêː [ aː'àː < keː < indà jàkkankì sunkà shâː ruwaː |c sunkài his'ariː < zâː ki ɗeːboː nân ?//= ƙàːraː gàba //] //
 # text = tôː dà ta-Ø= tàhi ɗeːboː maw ruwaː < indà dut ta-Ø= cèː [ bà-n=ɗeːboː nân ?//] < sai ta-_̀=cêː [ aː'àː < keː < indà jàkka-n-kì sun-kà= shâː ruwaː |c sun-nkà= his'ariː < zâː-ki= ki ?//=ƙàːraː gàba //] //
 # text_en = Well, when she went to fetch water, each time she said "Shall I take it here?", then she said "No! You, you want to take water where your donkeys drank and pissed? Go further!"
-1	tôː	tôː	INTJ	_	_	25	discourse	_	AlignBegin=59720|AlignEnd=59904|Gloss=well
+1	tôː	tôː	INTJ	_	_	24	discourse	_	AlignBegin=59720|AlignEnd=59904|Gloss=well
 2	dà	dà	SCONJ	_	_	24	mod	_	AlignBegin=59904|AlignEnd=60088|Gloss=as
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=60088|AlignEnd=60272|Gloss=3Fem-|SpaceAfter=No|wordform=tat
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	2	comp	_	Gloss=Perf.Rel.Sing|wordform=t=
@@ -375,7 +375,7 @@
 24	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No
 25	cêː	cêː	VERB	_	_	24	comp:aux	_	AlignBegin=63400|AlignEnd=63584|Gloss=say
 26	[	[	PUNCT	_	_	45	punct	_	AlignBegin=63584|AlignEnd=63768|Gloss=PUNCT
-27	aː'àː	aː'àː	INTJ	_	_	47	discourse	_	AlignBegin=63768|AlignEnd=63952|Gloss=no
+27	aː'àː	aː'àː	INTJ	_	_	45	discourse	_	AlignBegin=63768|AlignEnd=63952|Gloss=no
 28	<	<	PUNCT	_	_	27	punct	_	AlignBegin=63952|AlignEnd=64136|Gloss=PUNCT
 29	keː	keː	PRON	_	Case=Nom|Gender=Fem|Person=2|PronType=Prs	47	vocative	_	AlignBegin=64136|AlignEnd=64320|Gloss=2Fem.Nom
 30	<	<	PUNCT	_	_	29	punct	_	AlignBegin=64320|AlignEnd=64504|Gloss=PUNCT
@@ -586,7 +586,7 @@
 # text_ortho = tôː dà sunkà zakà gidaː < sai sunkà cêː [ ay < taː mutù //] //
 # text = tôː dà sunkà zakà gidaː < sai sunkà cêː [ ay < taː mutù //] //
 # text_en = Well, when they arrived home, they said "Eh, she has died."
-1	tôː	tôː	INTJ	_	_	11	discourse	_	AlignBegin=91760|AlignEnd=91942|Gloss=well
+1	tôː	tôː	INTJ	_	_	10	discourse	_	AlignBegin=91760|AlignEnd=91942|Gloss=well
 2	dà	dà	SCONJ	_	_	10	mod	_	AlignBegin=91942|AlignEnd=92124|Gloss=as
 3	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=92124|AlignEnd=92306|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 4	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	2	comp	_	Gloss=Perf.Rel.Plur|wordform=nkà=
@@ -598,7 +598,7 @@
 10	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	AlignBegin=93216|AlignEnd=93398|Gloss=say
 12	[	[	PUNCT	_	_	16	punct	_	AlignBegin=93398|AlignEnd=93580|Gloss=PUNCT
-13	ay	ay	INTJ	_	_	17	discourse	_	AlignBegin=93580|AlignEnd=93762|Gloss=eh
+13	ay	ay	INTJ	_	_	16	discourse	_	AlignBegin=93580|AlignEnd=93762|Gloss=eh
 14	<	<	PUNCT	_	_	13	punct	_	AlignBegin=93762|AlignEnd=93944|Gloss=PUNCT
 15	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=93944|AlignEnd=94126|Gloss=3Fem-|SpaceAfter=No|wordform=taː
 16	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	11	comp:obj	_	Gloss=Perf.Sing
@@ -691,7 +691,7 @@
 # text_ortho = shiːkèːnan < dà uwattà tay yi cikìː < ta' àihi wani ɗan yaːròː ɗan ƙàramiː //
 # text = shiːkèːnan < dà uwaː-t-tà tay= yi cikìː < ta'= àihi wani ɗan yaːròː ɗan ƙàramiː //
 # text_en = OK, when her mother became pregnant, she gave birth to a tiny minute little boy.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	14	discourse	_	AlignBegin=105400|AlignEnd=105576|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	13	discourse	_	AlignBegin=105400|AlignEnd=105576|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=105576|AlignEnd=105752|Gloss=PUNCT
 3	dà	dà	SCONJ	_	_	13	mod	_	AlignBegin=105752|AlignEnd=105928|Gloss=as
 4	uwa	uwaː	NOUN	_	_	8	subj	_	AlignBegin=105928|AlignEnd=106104|GenderAf=Fem|Gloss=mother.Fem|SpaceAfter=No|wordform=uwattà
@@ -910,7 +910,7 @@
 # text_ortho = shiːkèːnan < sai tac cèː [ aː'àː //] //
 # text = shiːkèːnan < sai tac cèː [ aː'àː //] //
 # text_en = Then she said "No!"
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	6	discourse	_	AlignBegin=136500|AlignEnd=136646|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=136500|AlignEnd=136646|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=136646|AlignEnd=136792|Gloss=PUNCT
 3	sai	sai	ADV	_	_	5	mod	_	AlignBegin=136792|AlignEnd=136938|Gloss=until
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=136938|AlignEnd=137084|Gloss=3Fem-|SpaceAfter=No|wordform=tac
@@ -1034,7 +1034,7 @@
 # text_ortho = shiːkèːnan < sai yac cèː [ tôː < baːbù koːmiː //] //
 # text = shiːkèːnan < sai yac cèː [ tôː < baːbù koːmiː //] //
 # text_en = Then, he said "Well, it's all right."
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	6	discourse	_	AlignBegin=152140|AlignEnd=152418|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=152140|AlignEnd=152418|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=152418|AlignEnd=152696|Gloss=PUNCT
 3	sai	sai	ADV	_	_	5	mod	_	AlignBegin=152696|AlignEnd=152974|Gloss=until
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=152974|AlignEnd=153252|Gloss=3Masc-|SpaceAfter=No|wordform=yac
@@ -1669,7 +1669,7 @@
 # text_ortho = shiːkèːnan < dàn nan yak koːmoː gidaː //
 # text = shiːkèːnan < dàn nan yak koːmoː gidaː //
 # text_en = Then, from there, he came back home.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	7	discourse	_	AlignBegin=239780|AlignEnd=240022|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	6	discourse	_	AlignBegin=239780|AlignEnd=240022|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=240022|AlignEnd=240264|Gloss=PUNCT
 3	dàn	dàk	ADP	_	_	6	mod	_	AlignBegin=240264|AlignEnd=240506|Gloss=from
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp	_	AlignBegin=240506|AlignEnd=240748|Gloss=PreRef|PreRef=Yes
@@ -1853,7 +1853,7 @@
 # text_ortho = shiːkèːnan < ankài ta tàmbayàːtai mis sàːmai |c mis sàːmai //
 # text = shiːkèːnan < ankài ta tàmbayàːtai mis sàːmai |c mis sàːmai //
 # text_en = Then, they asked him what happened to him, what happened to him.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=261920|AlignEnd=262072|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	4	discourse	_	AlignBegin=261920|AlignEnd=262072|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=262072|AlignEnd=262224|Gloss=PUNCT
 3	an-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=262224|AlignEnd=262376|Gloss=4-|SpaceAfter=No|wordform=ankà
 4-5	nkà=	_	_	_	_	_	_	_	_
@@ -1975,7 +1975,7 @@
 # text_ortho = shiːkèːnan < ɗan sarkîn nan yaj jiyàː yac cèː [ shiː < bài yàrda ba //= sai yaː tàhi |c yaː ganoː //] //
 # text = shiːkèːnan < ɗan sarkîn nan yaj=jiyàː yac=cèː [ shiː < bài=yàrda ba //=sai yaː=tàhi |c yaː=ganoː //] //
 # text_en = Then, the King's son heard about it and said that he, he did not agree, he had to go and see for himself.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	8	discourse	_	AlignBegin=273820|AlignEnd=273954|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	7	discourse	_	AlignBegin=273820|AlignEnd=273954|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=273954|AlignEnd=274088|Gloss=PUNCT
 3	ɗan	ɗaː	NOUN	_	Definite=Def|Gender=Masc	7	subj	_	AlignBegin=274088|AlignEnd=274222|Gloss=child.Masc.Def
 4	sarkîn	sarkiː	NOUN	_	Definite=Def|Gender=Masc	3	mod	_	AlignBegin=274222|AlignEnd=274356|Gloss=king.Masc.Def
@@ -2157,7 +2157,7 @@
 6	hwarin	hwarin	ADJ	_	Gender=Masc	7	mod	_	AlignBegin=302284|AlignEnd=302480|Gloss=white.Masc
 7	sâː	sâː	NOUN	_	Gender=Masc	5	comp	_	AlignBegin=302480|AlignEnd=302676|Gloss=cow.Masc
 8	>	>	PUNCT	_	_	9	punct	_	AlignBegin=302676|AlignEnd=302872|Gloss=PUNCT
-9	mː	mː	INTJ	_	_	4	discourse	_	AlignBegin=302872|AlignEnd=303068|Gloss=BackChnl
+9	mː	mː	INTJ	_	_	3	discourse	_	AlignBegin=302872|AlignEnd=303068|Gloss=BackChnl
 10	&//]	&//]	PUNCT	_	_	3	punct	_	AlignBegin=303068|AlignEnd=303260|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_094-094
@@ -2294,7 +2294,7 @@
 13	taɓà	taɓ-	VERB	_	_	12	comp:aux	_	AlignBegin=321027|AlignEnd=321190|Gloss=experience
 14	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:obj	_	AlignBegin=321190|AlignEnd=321353|Gloss=go.Vnoun.Fem
 15	<	<	PUNCT	_	_	2	punct	_	AlignBegin=321353|AlignEnd=321516|Gloss=PUNCT
-16	kuma	kuma	CCONJ	_	_	20	discourse	_	AlignBegin=321516|AlignEnd=321679|Gloss=also
+16	kuma	kuma	CCONJ	_	_	19	discourse	_	AlignBegin=321516|AlignEnd=321679|Gloss=also
 17	sai	sai	ADV	_	_	19	mod	_	AlignBegin=321679|AlignEnd=321842|Gloss=until
 18	an-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	AlignBegin=321842|AlignEnd=322005|Gloss=4-|SpaceAfter=No|wordform=ankà
 19	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
@@ -2369,9 +2369,9 @@
 # text_ortho = shiːkèːnan < ha' ankà bar ganiːnai //
 # text = shiːkèːnan < ha' ankà bar ganiːnai //
 # text_en = OK, then, they could no longer see him.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	6	discourse	_	AlignBegin=331340|AlignEnd=331558|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=331340|AlignEnd=331558|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=331558|AlignEnd=331776|Gloss=PUNCT
-3	ha'	har	ADP	_	_	6	discourse	_	AlignBegin=331776|AlignEnd=331994|Gloss=until
+3	ha'	har	ADP	_	_	5	discourse	_	AlignBegin=331776|AlignEnd=331994|Gloss=until
 4	an-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=331994|AlignEnd=332212|Gloss=4-|SpaceAfter=No|wordform=ankà
 5	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 6	bar	bar-	VERB	_	_	5	comp:aux	_	AlignBegin=332212|AlignEnd=332430|Gloss=let

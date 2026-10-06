@@ -17,7 +17,7 @@
 # sent_timecode = 12275, 15616
 # text_ortho = m̀ːhm̂ː < kuːraː tag ga ɗam baràː //
 # text_en = Mhm, Hyena saw a Kuranic student.
-1	m̀ːhm̂ː	m̀ːhm̂ː	INTJ	_	_	6	discourse	_	AlignBegin=12275|AlignEnd=12693|Gloss=Mm
+1	m̀ːhm̂ː	m̀ːhm̂ː	INTJ	_	_	5	discourse	_	AlignBegin=12275|AlignEnd=12693|Gloss=Mm
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=12693|AlignEnd=13111|Gloss=PUNCT
 3	kuːraː	kuːraː	NOUN	_	Gender=Fem	5	mod	_	AlignBegin=13111|AlignEnd=13529|Gloss=hyena.Fem
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=13529|AlignEnd=13947|Gloss=3Fem-|SpaceAfter=No|wordform=tag
@@ -515,7 +515,7 @@
 # text_ortho = kuma taː matsàː mai tanàː sôn tà ciː shi //
 # text = kuma taː matsàː mai tanàː sôn tà ciː shi //
 # text_en = She was bothering him, she wanted to eat him.
-1	kuma	kuma	CCONJ	_	_	4	discourse	_	AlignBegin=93474|AlignEnd=93696|Gloss=also
+1	kuma	kuma	CCONJ	_	_	3	discourse	_	AlignBegin=93474|AlignEnd=93696|Gloss=also
 2	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=93696|AlignEnd=93918|Gloss=3Fem-|SpaceAfter=No|wordform=taː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	matsàː	mats-	VERB	_	_	3	comp:aux	_	AlignBegin=93918|AlignEnd=94140|Gloss=press
@@ -736,7 +736,7 @@
 # text_ortho = koː dà sunkà kaːwoː indà shi kè < dus sun hwaːɗi |c sun kariːrìyeː //
 # text = koːdà sun-kà= kaːwoː indà shi-kè < dus su-n= hwaːɗì |c su-n= kariːrìyeː //
 # text_en = As soon as they arrived where he was, they all fell down and broke into pieces.
-1	koːdà	koːdà	SCONJ	_	_	12	discourse	_	AlignBegin=126420|AlignEnd=126527|Gloss=just_as
+1	koːdà	koːdà	SCONJ	_	_	11	discourse	_	AlignBegin=126420|AlignEnd=126527|Gloss=just_as
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=126634|AlignEnd=126741|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
 3	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	kaːwoː	kaːy-	VERB	_	_	3	comp:aux	_	AlignBegin=126741|AlignEnd=126848|Gloss=reach

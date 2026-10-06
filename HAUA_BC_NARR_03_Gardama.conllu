@@ -77,7 +77,7 @@
 # sent_timecode = 101260, 103980
 # text = tôː ankà cêː [ cikin mutàːnên ga huɗu < wanèː naː yah hi àbin màːmaːkiː ?//] //
 # text_en = Well they said "Beteween these four people, who is the most amazing?"
-1	tôː	tôː	INTJ	_	_	4	discourse	_	AlignBegin=101260|AlignEnd=101430|Gloss=well
+1	tôː	tôː	INTJ	_	_	3	discourse	_	AlignBegin=101260|AlignEnd=101430|Gloss=well
 2	an-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=101430|AlignEnd=101600|Gloss=4-|SpaceAfter=No|wordform=ankà
 3	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=101600|AlignEnd=101770|Gloss=say
@@ -153,7 +153,7 @@
 # sent_timecode = 17244, 21780
 # text = shiːkèːnan < su nàː nan |r su nàː nan < rân nan sai ankà zakà ankà cêː musù [ ai àkwai saːnìyas sarkiː dà taɓ ɓacèː //] //
 # text_en = OK, then, one day, they came and told them "Eh, one of the king's cows has got lost."
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	16	discourse	_	AlignBegin=17244|AlignEnd=17418|Gloss=OK
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	15	discourse	_	AlignBegin=17244|AlignEnd=17418|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=17418|AlignEnd=17592|Gloss=PUNCT
 3	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17592|AlignEnd=17766|Gloss=3Plur|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	mod	_	AlignBegin=17592|AlignEnd=17766|Gloss=Prog|wordform=su
@@ -357,7 +357,7 @@
 # sent_timecode = 44380, 49669
 # text = hay yak kai gà wani wuriː |c yas' s'ayàː |c ankà cèː [ wurîn ga < dàn nanânga < saːnìyâg ga < ankài bisà dà ita //] //
 # text_en = Then he reached a place where he stopped and said "Here, from this place, the cow, someone has lifted it."
-1	hay	hay	SCONJ	_	_	4	discourse	_	AlignBegin=44380|AlignEnd=44569|Gloss=until
+1	hay	hay	SCONJ	_	_	3	discourse	_	AlignBegin=44380|AlignEnd=44569|Gloss=until
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=44569|AlignEnd=44758|Gloss=3Masc-|SpaceAfter=No|wordform=yak
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=k=
 4	kai	kaːy-	VERB	_	_	3	comp:aux	_	AlignBegin=44758|AlignEnd=44947|Gloss=reach
@@ -407,7 +407,7 @@
 6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=49979|AlignEnd=50134|Gloss=with
 7	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	6	comp	_	AlignBegin=50134|AlignEnd=50289|Gloss=3Fem.Nom
 8	<	<	PUNCT	_	_	2	punct	_	AlignBegin=50289|AlignEnd=50444|Gloss=PUNCT
-9	àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	AlignBegin=50444|AlignEnd=50599|Gloss=but
+9	àmmaː	àmmaː	CCONJ	_	_	14	discourse	_	AlignBegin=50444|AlignEnd=50599|Gloss=but
 10	dàw	dàk	ADP	_	_	14	mod	_	AlignBegin=50599|AlignEnd=50754|Gloss=from
 11	wurîn	wuriː	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	AlignBegin=50754|AlignEnd=50909|Gloss=place.Masc.Def
 12	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	11	det	_	AlignBegin=50909|AlignEnd=51064|Gloss=ProxS
@@ -522,7 +522,7 @@
 # sent_timecode = 71877, 72900
 # text = shiː kòː < ankà cêː mai [ gàː raːnak =kà //] //
 # text_en = Him, they told him "This is your day."
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	discourse	_	AlignBegin=71877|AlignEnd=71970|Gloss=3Masc.Nom
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	discourse	_	AlignBegin=71877|AlignEnd=71970|Gloss=3Masc.Nom
 2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=71970|AlignEnd=72063|Gloss=as_for
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=72063|AlignEnd=72156|Gloss=PUNCT
 4	an-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=72156|AlignEnd=72249|Gloss=4-|SpaceAfter=No|wordform=ankà
