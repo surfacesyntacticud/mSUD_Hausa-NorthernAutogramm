@@ -273,7 +273,7 @@
 19	|c	|c	PUNCT	_	_	22	punct	_	AlignBegin=685872|AlignEnd=686119|Gloss=PUNCT
 20	sai	sai	ADV	_	_	22	mod	_	AlignBegin=686119|AlignEnd=686366|Gloss=then
 21	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	AlignBegin=686366|AlignEnd=686613|Gloss=4|SpaceAfter=No|wordform=à
-22	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	16	conj:coord	_	Gloss=Sub|SpaceAfter=No
+22	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	14	conj:coord	_	Gloss=Sub|SpaceAfter=No
 23	waːc'èː	waːs'-	VERB	_	_	22	comp:aux	_	AlignBegin=686613|AlignEnd=686860|Gloss=scatter
 24	?//	?//	PUNCT	_	_	14	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
 
