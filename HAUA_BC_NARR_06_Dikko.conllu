@@ -8780,7 +8780,7 @@
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	8	comp	_	Gloss=Prog|wordform=shinàː
 11	yi	yi	VERB	_	_	10	comp:pred	_	Gloss=do
-12	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	10	comp:obl	_	Gloss=2Masc.Dat|SpaceAfter=No
+12	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	11	comp:obl	_	Gloss=2Masc.Dat|SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 14	dà	dà	CCONJ	_	_	17	cc	_	Gloss=and
 15	nau	nàː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	mod@poss	_	Gloss=3Masc.Gen
