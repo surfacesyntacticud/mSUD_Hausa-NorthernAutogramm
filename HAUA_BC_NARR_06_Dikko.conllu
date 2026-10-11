@@ -3053,8 +3053,8 @@
 36	ba	ba	PART	_	Polarity=Neg	31	mod	_	Gloss=Neg
 37	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	35	mod	_	Gloss=Gen.Fem
 38	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	37	comp	_	Gloss=some.Plur
-39	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	29	parataxis:conj	_	Gloss=Fut-|SpaceAfter=No
-40	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	39	subj/m	_	Gloss=Masc=|wordform=zâi
+39	zâː	zâː	AUX	_	Copula=No|Tense=Fut	29	parataxis:conj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+40	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	39	subj/m	_	Gloss=3Masc|wordform=zâi
 41	zuwàː	zoː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	39	comp:aux	_	Gloss=go.Vnoun.Masc
 42	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	43	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=shì
 43	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	41	comp:obj@G	_	Gloss=Sub|SpaceAfter=No
@@ -4241,7 +4241,7 @@
 13	yànzu	yànzu	ADV	_	_	16	mod	_	Gloss=now
 14	raːnaː	raːnaː	NOUN	_	Gender=Fem	16	dislocated@subj	_	Gloss=day
 15	hwaːɗùwaː	faːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	dislocated@comp	_	Gloss=tell.Vnoun.Masc
-16	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	12	comp	_	Gloss=Fut-|SpaceAfter=No
+16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	12	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 17	ta=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem=|wordform=zâːta
 18	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:aux	_	Gloss=do.Vnoun.Masc
 19	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|SpaceAfter=No
@@ -6294,8 +6294,8 @@
 10	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Plur=|SpaceAfter=No|wordform=amu
 11	ga	gan-	VERB	_	_	9	comp:aux	_	Gloss=see
 12	wàdà	wàdà	ADV	_	PronType=Rel	11	comp:obj	_	Gloss=how|RelAnt=Yes|Relz=Word
-13	zâ-	zâː-	AUX	_	Copula=No|Tense=Fut	12	mod@relcl	_	Gloss=Fut-|SpaceAfter=No
-14	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=Masc=|wordform=zâi
+13	zâː	zâː	AUX	_	Copula=No|Tense=Fut	12	mod@relcl	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâ-
+14	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc|wordform=zâi
 15	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:aux	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelRole=mod
 16	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT|SpaceAfter=No
 17	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -6892,7 +6892,7 @@
 13	bar	bar-	VERB	_	_	12	comp:aux	_	Gloss=leave
 14	sallamàd	sallamàː	NOUN	_	Definite=Def|Gender=Fem	13	comp:obj	_	Gloss=parting_gift.Fem.Def|RelAnt=Yes
 15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=CompRel|Relz=Word
-16	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	15	comp	_	Gloss=Fut-|SpaceAfter=No
+16	zâː	zâː	AUX	_	Copula=No|Tense=Fut	15	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 17	a=	a	PRON	_	Person=4|PronType=PrsSubj	16	subj/m	_	Gloss=4=|wordform=zâː'a
 18	yi	yi	VERB	_	_	16	comp:aux	_	ClauseType=Rel|Gloss=do|RelRole=pred
 19	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	comp:obl	_	Gloss=3Plur.Dat
@@ -8427,7 +8427,7 @@
 4	“	“	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 5	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	14	dislocated@comp	_	Gloss=thing.Masc.Def|RelAnt=Yes
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=CompRel|Relz=Word
-7	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	6	comp	_	Gloss=Fut-|SpaceAfter=No
+7	zâː	zâː	AUX	_	Copula=No|Tense=Fut	6	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 8	mu=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Plur=|wordform=zâːmu
 9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	7	comp:aux	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelRole=obj|SpaceAfter=No
 10	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -11440,8 +11440,8 @@
 2	koːkòː	koː	CCONJ	_	_	3	discourse	_	Gloss=or
 3	hàukaː	hàukaː	NOUN	_	Gender=Fem	0	root	_	Gloss=madness.Fem
 4	tàː	neː	PART	_	Gender=Fem|PartType=Foc	3	discourse@foc	_	Gloss=Foc.Fem
-5	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	3	comp:cleft	_	Gloss=Fut-|SpaceAfter=No
-6	ki=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=2Fem=|wordform=zâːki
+5	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:cleft	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+6	-ki	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc|wordform=zâːki
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	ClauseType=Cleft|Gloss=do.Vnoun.Masc
 8	?	?	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 9	“	“	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -14239,7 +14239,7 @@
 32	mù=	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	31	subj/m	_	Gloss=1Plur=|SpaceAfter=No|wordform=mù
 33	san	san-	VERB	_	_	31	comp:aux	_	Gloss=know
 34	wàdà	wàdà	ADV	_	PronType=Rel	33	comp:obj	_	Gloss=how|RelAnt=Yes|Relz=Word
-35	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	34	mod@relcl	_	Gloss=Fut-|SpaceAfter=No
+35	zâː	zâː	AUX	_	Copula=No|Tense=Fut	34	mod@relcl	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 36	su=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	35	subj/m	_	Gloss=3Plur=|wordform=zâːsu
 37	kwaːshèːwaː	kwaːs-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	35	comp:aux	_	ClauseType=Rel|Gloss=get_on.Vnoun.Fem|RelRole=mod
 38	ba	ba	PART	_	Polarity=Neg	33	mod	_	Gloss=Neg

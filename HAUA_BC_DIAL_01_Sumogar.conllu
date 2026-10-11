@@ -2123,7 +2123,7 @@
 # text = koːƙàːƙàː zâː-ku= yîː < sai ai ka-_̀=yi //
 # text_en = Whatever you had to do, you did it!
 1	koːƙàːƙàː	koːƙàːƙàː	SCONJ	_	_	9	mod	_	AlignBegin=424060|AlignEnd=424248|Gloss=however
-2	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	1	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zâː-
 3	ku=	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=424248|AlignEnd=424436|Gloss=2Plur=|wordform=zâːku
 4	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=424624|AlignEnd=424812|Gloss=do.Vnoun.Masc
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=424812|AlignEnd=425000|Gloss=PUNCT
