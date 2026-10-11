@@ -5912,7 +5912,7 @@
 14	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 15	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	6	conj:coord	_	Gloss=Neg.Perf-|SpaceAfter=No
 16	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	15	subj/m	_	Gloss=1Sing=|SpaceAfter=No|wordform=bàn
-17	gyaːràː	gyaːràː	NOUN	_	_	15	comp:aux	_	Gloss=repair
+17	gyaːràː	gyaːràː	VERB	_	_	15	comp:aux	_	Gloss=repair
 18	mukù	mukù	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	17	comp:obl	_	Gloss=2Plur.Dat
 19	koːmiː	koːmiː	PRON	_	PronType=Ind	17	comp:obj	_	Gloss=anything
 20	ba	ba	PART	_	Polarity=Neg	17	mod	_	Gloss=Neg
