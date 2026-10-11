@@ -79,7 +79,7 @@
 9	//=	//=	PUNCT	_	_	12	punct	_	AlignBegin=12810|AlignEnd=12950|Gloss=PUNCT|SpaceAfter=No
 10	wasu	wani	PRON	_	Definite=Spec|Number=Plur|PronType=Ind	12	subj	_	AlignBegin=12950|AlignEnd=13090|Gloss=some.Plur
 11	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=13090|AlignEnd=13230|Gloss=3Plur|SpaceAfter=No|wordform=sù
-12	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	3	parataxis:conj	_	Gloss=Sub|SpaceAfter=No
+12	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	2	parataxis:conj	_	Gloss=Sub|SpaceAfter=No
 13	cêː	cêː	VERB	_	_	12	comp:aux	_	AlignBegin=13230|AlignEnd=13370|Gloss=say
 14	wàccan	can	PRON	_	Deixis=Remt|Gender=Fem|PronType=Dem	16	subj	_	AlignBegin=13370|AlignEnd=13510|Gloss=Remt.Fem
 15	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=13510|AlignEnd=13650|Gloss=3Fem-|SpaceAfter=No|wordform=taː
@@ -400,7 +400,7 @@
 47	ɗeːboː	ɗeːb-	VERB	_	_	45	comp:aux	_	AlignBegin=66528|AlignEnd=66712|Gloss=take.Dir
 48	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	47	mod	_	AlignBegin=66712|AlignEnd=66896|Gloss=ProxS
 49	?//=	?//=	PUNCT	_	_	50	punct	_	AlignBegin=66896|AlignEnd=67080|Gloss=PUNCT|SpaceAfter=No
-50	ƙàːraː	ƙaːr-	VERB	_	_	47	parataxis:conj	_	AlignBegin=67080|AlignEnd=67264|Gloss=increase.Impr|Imperative=Yes
+50	ƙàːraː	ƙaːr-	VERB	_	_	45	parataxis:conj	_	AlignBegin=67080|AlignEnd=67264|Gloss=increase.Impr|Imperative=Yes
 51	gàba	gàba	ADV	_	_	50	comp:obj@G	_	AlignBegin=67264|AlignEnd=67448|Gloss=in_front
 52	//]	//]	PUNCT	_	_	45	punct	_	AlignBegin=67448|AlignEnd=67632|Gloss=PUNCT
 53	//	//	PUNCT	_	_	24	punct	_	AlignBegin=67632|AlignEnd=67809|Gloss=PUNCT
@@ -836,11 +836,11 @@
 9	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	7	comp:obj@T	_	AlignBegin=125890|AlignEnd=126103|Gloss=shit.Masc
 10	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=126103|AlignEnd=126316|Gloss=PUNCT
 11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=126316|AlignEnd=126529|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-12	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	7	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=z=
+12	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	6	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=z=
 13	zakà	zak-	VERB	_	_	12	comp:aux	_	AlignBegin=126529|AlignEnd=126742|Gloss=arrive
 14	|c	|c	PUNCT	_	_	16	punct	_	AlignBegin=126742|AlignEnd=126955|Gloss=PUNCT
 15	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=126955|AlignEnd=127168|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-16	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	13	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=c=
+16	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	12	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=c=
 17	cêː	cêː	VERB	_	_	16	comp:aux	_	AlignBegin=127168|AlignEnd=127381|Gloss=say
 18	mà	mà	ADP	_	Case=Dat	17	comp:obl	_	AlignBegin=127381|AlignEnd=127594|Gloss=Dat
 19	uwaː	uwaː	NOUN	_	_	18	comp	_	AlignBegin=127594|AlignEnd=127807|GenderAf=Masc|Gloss=mother.Fem|SpaceAfter=No|wordfrom=uwaːtai
@@ -1836,13 +1836,13 @@
 8	taːshì	taːs-	VERB	_	_	7	comp:aux	_	AlignBegin=259328|AlignEnd=259476|Gloss=stand
 9	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=259476|AlignEnd=259624|Gloss=PUNCT|SpaceAfter=No
 10	an-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=259624|AlignEnd=259772|Gloss=4-|SpaceAfter=No|wordform=ankà
-11	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	8	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+11	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	7	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 12	baː	baː	VERB	_	_	11	comp:aux	_	AlignBegin=259772|AlignEnd=259920|Gloss=give
 13	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	comp:obj@R	_	AlignBegin=259920|AlignEnd=260068|Gloss=3Masc
 14	ruwaː	ruwaː	NOUN	_	Number=Plur	12	comp:obj@T	_	AlignBegin=260068|AlignEnd=260216|Gloss=water.Plur
 15	//=	//=	PUNCT	_	_	17	punct	_	AlignBegin=260216|AlignEnd=260364|Gloss=PUNCT|SpaceAfter=No
 16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=260364|AlignEnd=260512|Gloss=3Masc-|SpaceAfter=No|wordform=yah
-17	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	12	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=h=
+17	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	11	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=h=
 18	hwalkàː	falk-	VERB	_	_	17	comp:aux	_	AlignBegin=260512|AlignEnd=260660|Gloss=wake_up
 19	//	//	PUNCT	_	_	2	punct	_	AlignBegin=260660|AlignEnd=260800|Gloss=PUNCT
 
@@ -1996,7 +1996,7 @@
 19	//=	//=	PUNCT	_	_	22	punct	_	AlignBegin=275830|AlignEnd=275964|Gloss=PUNCT|SpaceAfter=No
 20	sai	sai	ADV	_	_	22	mod	_	AlignBegin=275964|AlignEnd=276098|Gloss=then
 21	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	AlignBegin=276098|AlignEnd=276232|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-22	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	17	parataxis:conj	_	Gloss=Perf.Sing
+22	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	15	parataxis:conj	_	Gloss=Perf.Sing
 23	tàhi	tah-	VERB	_	_	22	comp:aux	_	AlignBegin=276232|AlignEnd=276366|Gloss=go
 24	|c	|c	PUNCT	_	_	26	punct	_	AlignBegin=276366|AlignEnd=276500|Gloss=PUNCT
 25	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	AlignBegin=276500|AlignEnd=276634|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -2107,7 +2107,7 @@
 # text = a-nkà= || ya-c= cèː [ à=tohoː dà sâː |c à=tohoː dà sâː baƙiː |c à=tohoː dà jan sâː |c à=tohoː dà hwarin sâː //] //
 # text_en = They... he said "Bring a cow... bring a black cow, bring a red cow, bring a white cow."
 1	a-	a	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	2	comp:aux	_	AlignBegin=291580|AlignEnd=291856|Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	5	subj/m	_	Gloss=Perf.Rel.Plur
+2	nkà=	kà=	AUX	_	Copula=No|Number=Plur	5	subj/m	_	Gloss=Perf.Rel.Plur
 3	||	||	PUNCT	_	_	4	punct	_	AlignBegin=291856|AlignEnd=292132|Gloss=PUNCT
 4	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	conj:dicto	_	AlignBegin=292132|AlignEnd=292408|Gloss=3Masc-|SpaceAfter=No|wordform=yac
 5	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	AlignBegin=292132|AlignEnd=292408|Gloss=Perf.Rel.Sing=|wordform=yac

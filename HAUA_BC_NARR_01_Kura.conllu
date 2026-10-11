@@ -521,7 +521,7 @@
 4	matsàː	mats-	VERB	_	_	3	comp:aux	_	AlignBegin=93918|AlignEnd=94140|Gloss=press
 5	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=94140|AlignEnd=94362|Gloss=3Masc.Dat
 6	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=94362|AlignEnd=94584|Gloss=3Fem|SpaceAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	parataxis:conj	_	AlignBegin=94362|AlignEnd=94584|Gloss=Prog|wordform=tanàː
+7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis:conj	_	AlignBegin=94362|AlignEnd=94584|Gloss=Prog|wordform=tanàː
 8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:pred	_	AlignBegin=94584|AlignEnd=94806|Gloss=want.Vnoun.Masc|SpaceAfter=No|wordform=sôn
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=94806|AlignEnd=95028|Gloss=3Fem|SpaceAfter=No|wordform=tà

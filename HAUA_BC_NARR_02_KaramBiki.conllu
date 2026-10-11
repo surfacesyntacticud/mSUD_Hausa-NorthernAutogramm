@@ -297,7 +297,7 @@
 # text = k-aː= ga < sai a-_̀=cikàː dà saurad dà ad dà sauraː //
 # text_en = You see, let's fill what remains.
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=50920|AlignEnd=51145|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-2	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	8	parataxis:discourse	_	Gloss=Perf.Sing=
+2	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	7	parataxis:discourse	_	Gloss=Perf.Sing=
 3	ga	gan-	VERB	_	_	2	comp:aux	_	AlignBegin=51145|AlignEnd=51370|Gloss=see
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=51370|AlignEnd=51595|Gloss=PUNCT
 5	sai	sai	ADV	_	_	7	mod	_	AlignBegin=51595|AlignEnd=51820|Gloss=then
@@ -905,7 +905,7 @@
 13	isoː	is-	VERB	_	_	12	comp:aux	_	AlignBegin=185892|AlignEnd=186257|Gloss=arrive
 14	//=	//=	PUNCT	_	_	16	punct	_	AlignBegin=186257|AlignEnd=186622|Gloss=PUNCT|SpaceAfter=No
 15	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	16	subj/m	_	AlignBegin=186622|AlignEnd=186987|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-16	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	13	parataxis:conj	_	Gloss=Perf.Sing=
+16	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	12	parataxis:conj	_	Gloss=Perf.Sing=
 17	zakà	zak-	VERB	_	_	16	comp:aux	_	AlignBegin=186987|AlignEnd=187352|Gloss=arrive
 18	?//]	?//]	PUNCT	_	_	12	punct	_	AlignBegin=187352|AlignEnd=187717|Gloss=PUNCT
 19	//	//	PUNCT	_	_	6	punct	_	AlignBegin=187717|AlignEnd=188087|Gloss=PUNCT

@@ -338,7 +338,7 @@
 3	hìta	fit-	VERB	_	_	2	comp:aux	_	AlignBegin=41902|AlignEnd=42042|Gloss=get_out
 4	//=	//=	PUNCT	_	_	6	punct	_	AlignBegin=42042|AlignEnd=42182|Gloss=PUNCT|SpaceAfter=No
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=42182|AlignEnd=42322|Gloss=3Fem|SpaceAfter=No|wordform=tà
-6	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	3	parataxis:conj	_	Gloss=Sub|SpaceAfter=No
+6	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	2	parataxis:conj	_	Gloss=Sub|SpaceAfter=No
 7	bi	bi	VERB	_	_	6	comp:aux	_	AlignBegin=42322|AlignEnd=42462|Gloss=follow
 8	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=42462|AlignEnd=42602|Gloss=stone.Masc
 9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=42602|AlignEnd=42742|Gloss=PUNCT
@@ -587,7 +587,7 @@
 11	îskè	isk-	VERB	_	_	10	comp:aux	_	AlignBegin=83034|AlignEnd=83380|Gloss=find
 12	mùtûm	mùtunèː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=83380|AlignEnd=83726|Gloss=human.Masc
 13	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=83726|AlignEnd=84072|Gloss=3Masc|SpaceAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	parataxis:conj	_	AlignBegin=83726|AlignEnd=84072|Gloss=Prog|wordform=shinàː
+14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	parataxis:conj	_	AlignBegin=83726|AlignEnd=84072|Gloss=Prog|wordform=shinàː
 15	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=84072|AlignEnd=84418|Gloss=milk.Vnoun.Fem|SpaceAfter=No|wordform=taːs'às
 16	-s	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem|wordform=-C
 17	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	16	comp	_	AlignBegin=84418|AlignEnd=84764|Gloss=cow.Fem.Def
