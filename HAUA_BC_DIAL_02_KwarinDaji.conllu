@@ -8,13 +8,13 @@
 2	lokàcin	lokàciː	NOUN	_	Definite=Def|Gender=Masc	19	mod	_	AlignBegin=4066|AlignEnd=4432|Gloss=time.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=4432|AlignEnd=4798|Gloss=CompRel|Relz=Word
 4	aʔ	neː	AUX	_	Copula=Yes	3	comp	_	AlignBegin=4798|AlignEnd=5164|ClauseType=Rel|Gloss=be.Pred.Rel2|RelRole=mod
-5	àkwai	àkwai	PART	_	PartType=Pred	4	conj:dicto	_	AlignBegin=5164|AlignEnd=5530|Gloss=there_is
+5	àkwai	àkwai	PART	_	PartType=Pred	4	comp:aux	_	AlignBegin=5164|AlignEnd=5530|Gloss=there_is
 6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=5530|AlignEnd=5896|Gloss=PUNCT
 7	ƙwàːri	ƙwaːròː	NOUN	_	Number=Plur	5	subj	_	AlignBegin=5896|AlignEnd=6262|Gloss=animal.Plur|SpaceAfter=No|wordform=ƙwàːrin
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Fem
 9	daːjìː	daːjìː	NOUN	_	Gender=Masc	8	comp	_	AlignBegin=6262|AlignEnd=6628|Gloss=bush.Masc
 10	||	||	PUNCT	_	_	11	punct	_	AlignBegin=6628|AlignEnd=6994|Gloss=PUNCT
-11	ƙwàːriː	ƙwaːròː	NOUN	_	Number=Plur	7	conj:dicto	_	AlignBegin=6994|AlignEnd=7360|Gloss=animal.Plur
+11	ƙwàːriː	ƙwaːròː	NOUN	_	Number=Plur	7	conj:reform	_	AlignBegin=6994|AlignEnd=7360|Gloss=animal.Plur
 12	dai	dai	PART	_	PartType=Top	11	discourse@top	_	AlignBegin=7360|AlignEnd=7726|Gloss=indeed
 13	}	}	PUNCT	_	_	7	punct	_	AlignBegin=7360|AlignEnd=7726|Gloss=PUNCT
 14	cikin	cikin	ADP	_	_	5	comp:pred	_	AlignBegin=7726|AlignEnd=8092|Gloss=inside

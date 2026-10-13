@@ -1402,15 +1402,15 @@
 # text = yaː yi || yaː yi ƴak kwàcciyaː //
 # text_en = It had produced... it had produced a little gourd.
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=198970|AlignEnd=199199|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-2	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+2	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	6	reparandum	_	Gloss=Perf.Sing
 3	yi	yi	VERB	_	_	2	comp:aux	_	AlignBegin=199199|AlignEnd=199428|Gloss=do
-4	||	||	PUNCT	_	_	6	punct	_	AlignBegin=199428|AlignEnd=199657|Gloss=PUNCT
+4	||	||	PUNCT	_	_	2	punct	_	AlignBegin=199428|AlignEnd=199657|Gloss=PUNCT
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=199657|AlignEnd=199886|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-6	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	3	conj:dicto	_	Gloss=Perf.Sing
+6	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 7	yi	yi	VERB	_	_	6	comp:aux	_	AlignBegin=199886|AlignEnd=200115|Gloss=do
 8	ƴak	ɗaː	ADJ	_	Gender=Fem	9	mod	_	AlignBegin=200115|AlignEnd=200344|Gloss=small.Fem
 9	kwàcciyaː	kwàcciyaː	NOUN	_	Gender=Fem	7	comp:pred	_	AlignBegin=200344|AlignEnd=200573|Gloss=gourd.Fem
-10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=200573|AlignEnd=200800|Gloss=PUNCT
+10	//	//	PUNCT	_	_	6	punct	_	AlignBegin=200573|AlignEnd=200800|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_060b-060b
 # speaker_id = SP
@@ -1513,7 +1513,7 @@
 6	Muːsà	muːsà	PROPN	_	_	5	vocative	_	AlignBegin=222071|AlignEnd=222381|Gloss=Musa
 7	Gayyà	Gayyà	PROPN	_	_	6	flat@name	_	AlignBegin=222381|AlignEnd=222691|Gloss=Gayya
 8	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=222691|AlignEnd=223001|Gloss=PUNCT|SpaceAfter=No
-9	rùmaː	rum-	VERB	_	_	5	conj:dicto	_	AlignBegin=223001|AlignEnd=223311|Gloss=calm_down.Impr|Imperative=Yes
+9	rùmaː	rum-	VERB	_	_	5	parataxis:conj	_	AlignBegin=223001|AlignEnd=223311|Gloss=calm_down.Impr|Imperative=Yes
 10	Muːsà	Muːsà	PROPN	_	_	9	vocative	_	AlignBegin=223311|AlignEnd=223621|Gloss=Musa
 11	ƙanèː	ƙanèː	NOUN	_	_	10	conj:appos	_	AlignBegin=223621|AlignEnd=223931|Gloss=younger_brother.Masc|SpaceAfter=No
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
@@ -2106,10 +2106,10 @@
 # text_ortho = ankà || yac cèː [ à tohoː dà sâː || à toho dà sâː baƙiː |c à tohoː dà jan sâː |c à tohoː dà hwarin sâː //] //
 # text = a-nkà= || ya-c= cèː [ à=tohoː dà sâː |c à=tohoː dà sâː baƙiː |c à=tohoː dà jan sâː |c à=tohoː dà hwarin sâː //] //
 # text_en = They... he said "Bring a cow... bring a black cow, bring a red cow, bring a white cow."
-1	a-	a	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	2	comp:aux	_	AlignBegin=291580|AlignEnd=291856|Gloss=4-|SpaceAfter=No|wordform=ankà
-2	nkà=	kà=	AUX	_	Copula=No|Number=Plur	5	subj/m	_	Gloss=Perf.Rel.Plur
-3	||	||	PUNCT	_	_	4	punct	_	AlignBegin=291856|AlignEnd=292132|Gloss=PUNCT
-4	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	conj:dicto	_	AlignBegin=292132|AlignEnd=292408|Gloss=3Masc-|SpaceAfter=No|wordform=yac
+1	a-	a	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	2	subj/m	_	AlignBegin=291580|AlignEnd=291856|Gloss=4-|SpaceAfter=No|wordform=ankà
+2	nkà=	kà=	AUX	_	Copula=No|Number=Plur	5	reparandum	_	Gloss=Perf.Rel.Plur
+3	||	||	PUNCT	_	_	2	punct	_	AlignBegin=291856|AlignEnd=292132|Gloss=PUNCT
+4	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj	_	AlignBegin=292132|AlignEnd=292408|Gloss=3Masc-|SpaceAfter=No|wordform=yac
 5	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	AlignBegin=292132|AlignEnd=292408|Gloss=Perf.Rel.Sing=|wordform=yac
 6	cèː	cêː	VERB	_	_	5	comp:aux	_	AlignBegin=292408|AlignEnd=292684|Gloss=say
 7	[	[	PUNCT	_	_	9	punct	_	AlignBegin=292684|AlignEnd=292960|Gloss=PUNCT
@@ -2447,7 +2447,7 @@
 6	ayaː	ayaː	NOUN	_	_	4	comp:obj	_	AlignBegin=340668|AlignEnd=340890|Gloss=tiger_nut
 7	wàje	wàje	ADV	_	_	6	flat@name	_	AlignBegin=340890|AlignEnd=341112|Gloss=outside
 8	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=341112|AlignEnd=341334|Gloss=PUNCT|SpaceAfter=No
-9	ayaː	ayaː	NOUN	_	_	6	conj:dicto	_	AlignBegin=341334|AlignEnd=341556|Gloss=tiger_nut
+9	ayaː	ayaː	NOUN	_	_	6	conj:redup	_	AlignBegin=341334|AlignEnd=341556|Gloss=tiger_nut
 10	wàje	wàje	ADV	_	_	9	flat@name	_	AlignBegin=341556|AlignEnd=341778|Gloss=outside
 11	]	]	PUNCT	_	_	6	punct	_	AlignBegin=341778|AlignEnd=342000|Gloss=PUNCT
 12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=342000|AlignEnd=342222|Gloss=PUNCT
