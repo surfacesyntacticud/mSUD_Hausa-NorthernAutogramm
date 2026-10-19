@@ -117,19 +117,19 @@
 # sent_timecode = 183180, 184900
 # text = tôː àmmaː bàkù taɓà yîn àkaràs dà ita ba ?//
 # text_en = But you never confronted her?
-1	tôː	tôː	INTJ	_	_	4	discourse	_	AlignBegin=183180|AlignEnd=183352|Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	AlignBegin=183352|AlignEnd=183524|Gloss=but
-3	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	-kù	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=-2Plur|SpaceAfter=No|wordform=bàkù
-6	taɓà	taɓ-	VERB	_	_	4	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
+1	tôː	tôː	INTJ	_	_	5	discourse	_	AlignBegin=183180|AlignEnd=183352|Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	5	discourse	_	AlignBegin=183352|AlignEnd=183524|Gloss=but
+3	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+4	kù-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=-2Plur|SpaceAfter=No|wordform=bàkù
+5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+6	taɓà	taɓ-	VERB	_	_	5	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
 7	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîn
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
 9	àkaràs	àkaràs	NOUN	_	_	8	comp	_	AlignBegin=184040|AlignEnd=184212|Gloss=confrontation
 10	dà	dà	ADP	_	_	7	comp:obl	_	AlignBegin=184212|AlignEnd=184384|Gloss=with
 11	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	10	comp	_	AlignBegin=184384|AlignEnd=184556|Gloss=3Fem.Nom
 12	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=184556|AlignEnd=184728|Gloss=Neg
-13	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
+13	?//	?//	PUNCT	_	_	5	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_9
 # speaker_id = SP1
@@ -137,17 +137,17 @@
 # sent_timecode = 185660, 186980
 # text = bàkù taɓà yîn àkaràs dà ita ba ?//
 # text_en = You never confronted her?
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-kù	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=-2Plur|SpaceAfter=No|wordform=bàkù
-4	taɓà	taɓ-	VERB	_	_	2	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	kù-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=-2Plur|SpaceAfter=No|wordform=bàkù
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	taɓà	taɓ-	VERB	_	_	3	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
 5	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	àkaràs	àkaràs	NOUN	_	_	6	comp	_	AlignBegin=184040|AlignEnd=184212|Gloss=confrontation
 8	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=184212|AlignEnd=184384|Gloss=with
 9	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	comp	_	AlignBegin=184384|AlignEnd=184556|Gloss=3Fem.Nom
 10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=184556|AlignEnd=184728|Gloss=Neg
-11	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
+11	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=184728|AlignEnd=184900|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_10
 # speaker_id = SP1
@@ -185,13 +185,13 @@
 # sent_timecode = 253425, 254025
 # text = bàn san wànnan ba //
 # text_en = I don't know about that.
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=253425|AlignEnd=253545|Gloss=-1Sing|SpaceAfter=No|wordform=bàn
-4	san	sanìː	VERB	_	_	2	comp:aux	_	AlignBegin=253545|AlignEnd=253665|Gloss=know
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=253425|AlignEnd=253545|Gloss=-1Sing|SpaceAfter=No|wordform=bàn
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	san	sanìː	VERB	_	_	3	comp:aux	_	AlignBegin=253545|AlignEnd=253665|Gloss=know
 5	wànnan	nan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	4	comp:obj	_	AlignBegin=253665|AlignEnd=253785|Gloss=ProxH.Masc
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=253785|AlignEnd=253905|Gloss=Neg
-7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=253905|AlignEnd=254025|Gloss=PUNCT
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=253905|AlignEnd=254025|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_14
 # speaker_id = SP1
@@ -255,9 +255,9 @@
 # sent_timecode = 681920, 687100
 # text = tôː àmmaː in kun=yi hwaɗàː dà takubbàː gà lòːkacìn nan < baːà koːmiː dà koːmiː |c sai à=waːc'èː ?//
 # text_en = But if you fought with swords at that time, nothing happened, you would just go away?
-1	tôː	tôː	INTJ	_	_	15	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	15	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
-3	in	in	SCONJ	_	_	15	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
+1	tôː	tôː	INTJ	_	_	17	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
+3	in	in	SCONJ	_	_	17	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
 4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur-|SpaceAfter=No|wordform=kun
 5	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp	_	Gloss=Perf.Plur|wordform=n=
 6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=682908|AlignEnd=683155|Gloss=do
@@ -268,18 +268,18 @@
 11	lòːkacìn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	AlignBegin=684143|AlignEnd=684390|Gloss=time.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH	11	det	_	AlignBegin=684390|AlignEnd=684637|Gloss=PreRef|PreRef=Yes
 13	<	<	PUNCT	_	_	3	punct	_	AlignBegin=684637|AlignEnd=684884|Gloss=PUNCT
-14	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	15	mod/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-15	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-16	-à	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=-4|wordform=baː'à
-17	koːmiː	koːmi	PRON	_	PronType=Ind	15	comp:aux	_	AlignBegin=685131|AlignEnd=685378|Gloss=anything
+14	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	17	mod/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
+15	à-	a	PRON	_	Person=4|PronType=PrsSubj	17	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=-4|wordform=baː'à
+16	oːmiː-	koːmi	PRON	_	PronType=Ind	17	comp:aux	_	AlignBegin=685131|AlignEnd=685378|Gloss=anything|wordform=koːmiː
+17	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
 18	dà	dà	CCONJ	_	_	19	cc	_	AlignBegin=685378|AlignEnd=685625|Gloss=and
-19	koːmiː	koːmi	PRON	_	PronType=Ind	17	conj:coord	_	AlignBegin=685625|AlignEnd=685872|Gloss=anything
+19	koːmiː	koːmi	PRON	_	PronType=Ind	16	conj:coord	_	AlignBegin=685625|AlignEnd=685872|Gloss=anything
 20	|c	|c	PUNCT	_	_	23	punct	_	AlignBegin=685872|AlignEnd=686119|Gloss=PUNCT
 21	sai	sai	ADV	_	_	23	mod	_	AlignBegin=686119|AlignEnd=686366|Gloss=then
 22	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	AlignBegin=686366|AlignEnd=686613|Gloss=4|SpaceAfter=No|wordform=à
-23	_̀	_̀	AUX	_	Copula=No|Mood=Sub	15	conj:coord	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
+23	_̀	_̀	AUX	_	Copula=No|Mood=Sub	17	conj:coord	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
 24	waːc'èː	waːs'-	VERB	_	_	23	comp:aux	_	AlignBegin=686613|AlignEnd=686860|Gloss=scatter
-25	?//	?//	PUNCT	_	_	15	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
+25	?//	?//	PUNCT	_	_	17	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_19
 # speaker_id = SP1

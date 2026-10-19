@@ -363,13 +363,13 @@
 12	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=61560|AlignEnd=61744|Gloss=3Fem-|SpaceAfter=No|wordform=tac
 13	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	10	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=c=
 14	cèː	cêː	VERB	_	_	13	comp:aux	_	AlignBegin=61744|AlignEnd=61928|ClauseType=Rel|Gloss=say
-15	[	[	PUNCT	_	_	17	punct	_	AlignBegin=61928|AlignEnd=62112|Gloss=PUNCT
-16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-17	_̀	_̀	AUX	_	Mood=Sub	14	comp:obj	_	wordform=Ø̀
-18	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	17	subj/m	_	AlignBegin=62112|AlignEnd=62296|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-19	ɗeːboː	ɗeːb-	VERB	_	_	17	comp:aux	_	AlignBegin=62296|AlignEnd=62480|Gloss=take.Dir
+15	[	[	PUNCT	_	_	18	punct	_	AlignBegin=61928|AlignEnd=62112|Gloss=PUNCT
+16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+17	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	18	subj/m	_	AlignBegin=62112|AlignEnd=62296|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+18	_̀	_̀	AUX	_	Mood=Sub	14	comp:obj	_	wordform=Ø̀
+19	ɗeːboː	ɗeːb-	VERB	_	_	18	comp:aux	_	AlignBegin=62296|AlignEnd=62480|Gloss=take.Dir
 20	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	19	mod	_	AlignBegin=62480|AlignEnd=62664|Gloss=ProxS
-21	?//]	?//]	PUNCT	_	_	17	punct	_	AlignBegin=62664|AlignEnd=62848|Gloss=PUNCT
+21	?//]	?//]	PUNCT	_	_	18	punct	_	AlignBegin=62664|AlignEnd=62848|Gloss=PUNCT
 22	<	<	PUNCT	_	_	10	punct	_	AlignBegin=62848|AlignEnd=63032|Gloss=PUNCT
 23	sai	sai	ADV	_	_	25	mod	_	AlignBegin=63032|AlignEnd=63216|Gloss=then
 24	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	25	subj/m	_	AlignBegin=63216|AlignEnd=63400|Gloss=3Fem|SpaceAfter=No|wordform=tà
@@ -416,13 +416,13 @@
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=67809|AlignEnd=68104|Gloss=3Fem|SpaceAfter=No|wordform=tà
 2	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=68104|AlignEnd=68399|Gloss=say
-4	[	[	PUNCT	_	_	6	punct	_	AlignBegin=68399|AlignEnd=68694|Gloss=PUNCT
-5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-6	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
-7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=68694|AlignEnd=68989|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-8	ɗeːboː	ɗeːb-	VERB	_	_	6	comp:aux	_	AlignBegin=68989|AlignEnd=69284|Gloss=take.Dir
+4	[	[	PUNCT	_	_	7	punct	_	AlignBegin=68399|AlignEnd=68694|Gloss=PUNCT
+5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+6	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=68694|AlignEnd=68989|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+7	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
+8	ɗeːboː	ɗeːb-	VERB	_	_	7	comp:aux	_	AlignBegin=68989|AlignEnd=69284|Gloss=take.Dir
 9	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	8	mod	_	AlignBegin=69284|AlignEnd=69579|Gloss=ProxS
-10	?//]	?//]	PUNCT	_	_	6	punct	_	AlignBegin=69579|AlignEnd=69874|Gloss=PUNCT
+10	?//]	?//]	PUNCT	_	_	7	punct	_	AlignBegin=69579|AlignEnd=69874|Gloss=PUNCT
 11	//	//	PUNCT	_	_	2	punct	_	AlignBegin=69874|AlignEnd=70172|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_018-018
@@ -466,13 +466,13 @@
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=73948|AlignEnd=74048|Gloss=3Fem|SpaceAfter=No|wordform=tà
 2	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=74048|AlignEnd=74148|Gloss=say
-4	[	[	PUNCT	_	_	6	punct	_	AlignBegin=74148|AlignEnd=74248|Gloss=PUNCT
-5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-6	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
-7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=74248|AlignEnd=74348|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-8	ɗeːboː	ɗeːb-	VERB	_	_	6	comp:aux	_	AlignBegin=74348|AlignEnd=74448|Gloss=take.Dir
+4	[	[	PUNCT	_	_	7	punct	_	AlignBegin=74148|AlignEnd=74248|Gloss=PUNCT
+5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+6	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=74248|AlignEnd=74348|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+7	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
+8	ɗeːboː	ɗeːb-	VERB	_	_	7	comp:aux	_	AlignBegin=74348|AlignEnd=74448|Gloss=take.Dir
 9	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	8	mod	_	AlignBegin=74448|AlignEnd=74548|Gloss=ProxS
-10	?//]	?//]	PUNCT	_	_	6	punct	_	AlignBegin=74548|AlignEnd=74648|Gloss=PUNCT
+10	?//]	?//]	PUNCT	_	_	7	punct	_	AlignBegin=74548|AlignEnd=74648|Gloss=PUNCT
 11	//	//	PUNCT	_	_	2	punct	_	AlignBegin=74648|AlignEnd=74748|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_020-020
@@ -1531,14 +1531,14 @@
 # text_ortho = [ ìn ɗeːboː ruwaː nanânga ?//]
 # text = [ ìn ɗeːboː ruwaː nanânga ?//]
 # text_en = "Shall I fetch water here?"
-1	[	[	PUNCT	_	_	3	punct	_	AlignBegin=225540|AlignEnd=225777|Gloss=PUNCT
-2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=225777|AlignEnd=226014|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-5	ɗeːboː	ɗeːb-	VERB	_	_	3	comp:aux	_	AlignBegin=226014|AlignEnd=226251|Gloss=take.Dir
+1	[	[	PUNCT	_	_	4	punct	_	AlignBegin=225540|AlignEnd=225777|Gloss=PUNCT
+2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=225777|AlignEnd=226014|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+5	ɗeːboː	ɗeːb-	VERB	_	_	4	comp:aux	_	AlignBegin=226014|AlignEnd=226251|Gloss=take.Dir
 6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp:obj@T	_	AlignBegin=226251|AlignEnd=226488|Gloss=water.Plur
 7	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	5	mod	_	AlignBegin=226488|AlignEnd=226725|Gloss=ProxS
-8	?//]	?//]	PUNCT	_	_	3	punct	_	AlignBegin=226725|AlignEnd=226962|Gloss=PUNCT
+8	?//]	?//]	PUNCT	_	_	4	punct	_	AlignBegin=226725|AlignEnd=226962|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_067-067
 # speaker_id = SP
@@ -1569,14 +1569,14 @@
 # text_ortho = [ ìn ɗeːboː ruwaː nanânga ?//]
 # text = [ ìn ɗeːboː ruwaː nanânga ?//]
 # text_en = "Shall I fetch water here?"
-1	[	[	PUNCT	_	_	3	punct	_	AlignBegin=229477|AlignEnd=229712|Gloss=PUNCT
-2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=229712|AlignEnd=229947|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-5	ɗeːboː	ɗeːb-	VERB	_	_	3	comp:aux	_	AlignBegin=229947|AlignEnd=230182|Gloss=take.Dir
+1	[	[	PUNCT	_	_	4	punct	_	AlignBegin=229477|AlignEnd=229712|Gloss=PUNCT
+2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=229712|AlignEnd=229947|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+5	ɗeːboː	ɗeːb-	VERB	_	_	4	comp:aux	_	AlignBegin=229947|AlignEnd=230182|Gloss=take.Dir
 6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp:obj@T	_	AlignBegin=230182|AlignEnd=230417|Gloss=water.Plur
 7	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	5	mod	_	AlignBegin=230417|AlignEnd=230652|Gloss=ProxS
-8	?//]	?//]	PUNCT	_	_	3	punct	_	AlignBegin=230652|AlignEnd=230888|Gloss=PUNCT
+8	?//]	?//]	PUNCT	_	_	4	punct	_	AlignBegin=230652|AlignEnd=230888|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_069-069
 # speaker_id = SP
@@ -1607,14 +1607,14 @@
 # text_ortho = [ ìn ɗeːboː ruwaː nanânga ?//]
 # text = [ ìn ɗeːboː ruwaː nanânga ?//]
 # text_en = "Shall I fetch water here?"
-1	[	[	PUNCT	_	_	3	punct	_	AlignBegin=233380|AlignEnd=233614|Gloss=PUNCT
-2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=233614|AlignEnd=233848|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-5	ɗeːboː	ɗeːb-	VERB	_	_	3	comp:aux	_	AlignBegin=233848|AlignEnd=234082|Gloss=take.Dir
+1	[	[	PUNCT	_	_	4	punct	_	AlignBegin=233380|AlignEnd=233614|Gloss=PUNCT
+2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=233614|AlignEnd=233848|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+5	ɗeːboː	ɗeːb-	VERB	_	_	4	comp:aux	_	AlignBegin=233848|AlignEnd=234082|Gloss=take.Dir
 6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp:obj@T	_	AlignBegin=234082|AlignEnd=234316|Gloss=water.Plur
 7	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	5	mod	_	AlignBegin=234316|AlignEnd=234550|Gloss=ProxS
-8	?//]	?//]	PUNCT	_	_	3	punct	_	AlignBegin=234550|AlignEnd=234783|Gloss=PUNCT
+8	?//]	?//]	PUNCT	_	_	4	punct	_	AlignBegin=234550|AlignEnd=234783|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_071-071
 # speaker_id = SP
@@ -1968,10 +1968,10 @@
 5	râ	râi	NOUN	_	_	4	comp	_	AlignBegin=271896|AlignEnd=272045|Gloss=life.Masc|SpaceAfter=No|wordform=rânta
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 7	-ta	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp	_	Gloss=3Fem.Gen
-8	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-9	_̀	_̀	AUX	_	Mood=Sub	3	parataxis:conj	_	wordform=Ø̀
-10	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=272045|AlignEnd=272194|Gloss=-3Fem|SpaceAfter=No|wordform=bàtà
-11	mutù	mat-	VERB	_	_	9	comp:aux	_	AlignBegin=272194|AlignEnd=272343|Gloss=die
+8	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	10	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+9	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=272045|AlignEnd=272194|Gloss=-3Fem|SpaceAfter=No|wordform=bàtà
+10	_̀	_̀	AUX	_	Mood=Sub	3	parataxis:conj	_	wordform=Ø̀
+11	mutù	mat-	VERB	_	_	10	comp:aux	_	AlignBegin=272194|AlignEnd=272343|Gloss=die
 12	ba	ba	PART	_	PartType=Neg|Polarity=Neg	11	mod	_	AlignBegin=272343|AlignEnd=272492|Gloss=Neg
 13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=272492|AlignEnd=272640|Gloss=PUNCT
 
@@ -1993,24 +1993,24 @@
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=274758|AlignEnd=274892|Gloss=3Masc-|SpaceAfter=No|wordform=yac
 10	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	7	conj:coord	_	Gloss=Perf.Rel.Sing|wordform=c=
 11	cèː	cêː	VERB	_	_	10	comp:aux	_	AlignBegin=274892|AlignEnd=275026|Gloss=say
-12	[	[	PUNCT	_	_	16	punct	_	AlignBegin=275026|AlignEnd=275160|Gloss=PUNCT
-13	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	dislocated@subj	_	AlignBegin=275160|AlignEnd=275294|Gloss=3Masc.Nom
+12	[	[	PUNCT	_	_	17	punct	_	AlignBegin=275026|AlignEnd=275160|Gloss=PUNCT
+13	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	dislocated@subj	_	AlignBegin=275160|AlignEnd=275294|Gloss=3Masc.Nom
 14	<	<	PUNCT	_	_	13	punct	_	AlignBegin=275294|AlignEnd=275428|Gloss=PUNCT
-15	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	16	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-16	_̀	_̀	AUX	_	Mood=Sub	11	comp:obj	_	wordform=Ø̀
-17	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=275428|AlignEnd=275562|Gloss=-3Masc|SpaceAfter=No|wordform=bài
-18	yàrda	yard-	VERB	_	_	16	comp:aux	_	AlignBegin=275562|AlignEnd=275696|Gloss=agree
+15	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+16	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=275428|AlignEnd=275562|Gloss=-3Masc|SpaceAfter=No|wordform=bài
+17	_̀	_̀	AUX	_	Mood=Sub	11	comp:obj	_	wordform=Ø̀
+18	yàrda	yard-	VERB	_	_	17	comp:aux	_	AlignBegin=275562|AlignEnd=275696|Gloss=agree
 19	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	AlignBegin=275696|AlignEnd=275830|Gloss=Neg
 20	//=	//=	PUNCT	_	_	23	punct	_	AlignBegin=275830|AlignEnd=275964|Gloss=PUNCT|SpaceAfter=No
 21	sai	sai	ADV	_	_	23	mod	_	AlignBegin=275964|AlignEnd=276098|Gloss=then
 22	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	23	subj/m	_	AlignBegin=276098|AlignEnd=276232|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-23	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	16	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
+23	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	17	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
 24	tàhi	tah-	VERB	_	_	23	comp:aux	_	AlignBegin=276232|AlignEnd=276366|Gloss=go
 25	|c	|c	PUNCT	_	_	27	punct	_	AlignBegin=276366|AlignEnd=276500|Gloss=PUNCT
 26	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	AlignBegin=276500|AlignEnd=276634|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 27	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	23	conj:coord	_	Gloss=Perf.Sing|wordform=aː=
 28	ganoː	gan-	VERB	_	_	27	comp:aux	_	AlignBegin=276634|AlignEnd=276768|Gloss=see
-29	//]	//]	PUNCT	_	_	16	punct	_	AlignBegin=276768|AlignEnd=276902|Gloss=PUNCT
+29	//]	//]	PUNCT	_	_	17	punct	_	AlignBegin=276768|AlignEnd=276902|Gloss=PUNCT
 30	//	//	PUNCT	_	_	7	punct	_	AlignBegin=276902|AlignEnd=277040|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_087-087
@@ -2662,10 +2662,10 @@
 13	kâ	kâi	NOUN	_	_	12	comp:obj	_	AlignBegin=368970|AlignEnd=369240|GenderAf=Masc|Gloss=head.Masc|SpaceAfter=No|wordform=kân
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 15	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	14	comp:obj/m	_	Gloss=2Masc.Gen
-16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-17	_̀	_̀	AUX	_	Mood=Sub	12	mod	_	wordform=Ø̀
-18	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	17	subj/m	_	AlignBegin=369240|AlignEnd=369510|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-19	ɗeːbèː	ɗeːb-	VERB	_	_	17	comp:aux	_	AlignBegin=369510|AlignEnd=369780|Gloss=scoop
+16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+17	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	18	subj/m	_	AlignBegin=369240|AlignEnd=369510|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+18	_̀	_̀	AUX	_	Mood=Sub	12	mod	_	wordform=Ø̀
+19	ɗeːbèː	ɗeːb-	VERB	_	_	18	comp:aux	_	AlignBegin=369510|AlignEnd=369780|Gloss=scoop
 20	maː	maː	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	19	comp:obl	_	AlignBegin=369780|AlignEnd=370050|Gloss=2Masc.Dat
 21	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	23	det	_	AlignBegin=370050|AlignEnd=370320|Gloss=some.Masc
 22	ɗan	ɗaː	ADJ	_	Gender=Masc	23	mod	_	AlignBegin=370320|AlignEnd=370590|Gloss=small.Masc

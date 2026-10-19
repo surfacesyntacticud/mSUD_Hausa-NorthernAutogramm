@@ -223,10 +223,10 @@
 5	[	[	PUNCT	_	_	7	punct	_	AlignBegin=46565|AlignEnd=46680|Gloss=PUNCT
 6	tôː	tôː	INTJ	_	_	7	discourse	_	AlignBegin=46680|AlignEnd=46795|Gloss=well
 7	bàri	bar-	VERB	_	_	3	comp:obj	_	AlignBegin=46795|AlignEnd=46910|Gloss=let.Impr|Imperative=Yes
-8	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-9	_̀	_̀	AUX	_	Mood=Sub	7	comp:obj	_	wordform=Ø̀
-10	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=46910|AlignEnd=47025|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
-11	shìga	shig-	VERB	_	_	9	comp:aux	_	AlignBegin=47025|AlignEnd=47140|Gloss=enter
+8	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	10	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+9	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	10	subj/m	_	AlignBegin=46910|AlignEnd=47025|Gloss=-1Sing|SpaceAfter=No|wordform=ìn
+10	_̀	_̀	AUX	_	Mood=Sub	7	comp:obj	_	wordform=Ø̀
+11	shìga	shig-	VERB	_	_	10	comp:aux	_	AlignBegin=47025|AlignEnd=47140|Gloss=enter
 12	ruwân	ruwaː	NOUN	_	Definite=Def|Number=Plur	11	comp:obj@G	_	AlignBegin=47140|AlignEnd=47255|Gloss=water.Plur.Def
 13	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	12	det	_	AlignBegin=47255|AlignEnd=47370|Gloss=ProxS
 14	//]	//]	PUNCT	_	_	7	punct	_	AlignBegin=47370|AlignEnd=47485|Gloss=PUNCT
