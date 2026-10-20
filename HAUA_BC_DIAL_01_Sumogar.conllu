@@ -1254,7 +1254,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_01.WAV
 # sent_timecode = 274034, 277642
 # text_ortho = kanàː aikìː |c baː'à biyànka kwabòː |c baː'à baː kà siːsìn kwabòː //
-# text = ka-nàː aikìː |c baː-à= biyà-n-ka kwabòː |c baː'à baː kà siːsì-n kwabòː //
+# text = ka-nàː aikìː |c baː-à biyà-n-ka kwabòː |c baː-'à baː kà siːsì-n kwabòː //
 # text_en = You worked, they didn't pay you a single kobo, they did not give you a single shilling.
 1	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	2	subj/m	_	AlignBegin=274034|AlignEnd=274312|Gloss=2Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=274034|AlignEnd=274312|Gloss=Prog|wordform=kanàː
@@ -1266,16 +1266,15 @@
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 9	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	8	comp:obj/m	_	Gloss=2Masc.Gen
 10	kwabòː	kwabòː	NOUN	_	Gender=Masc	7	comp:obj@T	_	AlignBegin=275424|AlignEnd=275702|Gloss=kobo.Masc
-11	|c	|c	PUNCT	_	_	14	punct	_	AlignBegin=275702|AlignEnd=275980|Gloss=PUNCT
-12	baː	bâː	PART	_	Copula=No|PartType=Neg|Polarity=Neg	14	mod/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː'à
-13	'-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=-|wordform='à
-14	_̀	_̀	AUX	_	Mood=Sub	5	conj:coord	_	wordform=Ø̀
-15	baː	baː	VERB	_	_	14	comp:aux	_	AlignBegin=276258|AlignEnd=276536|Gloss=give
-16	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	15	comp:obj@R	_	AlignBegin=276536|AlignEnd=276814|Gloss=2Masc
-17	siːsì	siːsìː	NOUN	_	Gender=Masc	15	comp:obj@T	_	AlignBegin=276814|AlignEnd=277092|Gloss=sisi|SpaceAfter=No|wordform=siːsìn
-18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod/m	_	Gloss=Gen.Fem
-19	kwabòː	kwabòː	NOUN	_	Gender=Masc	18	comp	_	AlignBegin=277092|AlignEnd=277370|Gloss=kobo.Masc
-20	//	//	PUNCT	_	_	2	punct	_	AlignBegin=277370|AlignEnd=277642|Gloss=PUNCT
+11	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=275702|AlignEnd=275980|Gloss=PUNCT
+12	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	conj:coord	_	AlignBegin=275980|AlignEnd=276258|Gloss=Neg.Prog|SpaceAfter=No|wordform=baː'à
+13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=4|wordform='à
+14	baː	baː	VERB	_	_	12	comp:pred	_	AlignBegin=276258|AlignEnd=276536|Gloss=give
+15	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	14	comp:obj@R	_	AlignBegin=276536|AlignEnd=276814|Gloss=2Masc
+16	siːsì	siːsìː	NOUN	_	Gender=Masc	14	comp:obj@T	_	AlignBegin=276814|AlignEnd=277092|Gloss=sisi|SpaceAfter=No|wordform=siːsìn
+17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod/m	_	Gloss=Gen.Fem
+18	kwabòː	kwabòː	NOUN	_	Gender=Masc	17	comp	_	AlignBegin=277092|AlignEnd=277370|Gloss=kobo.Masc
+19	//	//	PUNCT	_	_	2	punct	_	AlignBegin=277370|AlignEnd=277642|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_069-069
 # speaker_id = SP2

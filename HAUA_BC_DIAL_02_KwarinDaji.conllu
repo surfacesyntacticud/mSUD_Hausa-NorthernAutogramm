@@ -253,11 +253,11 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_02.WAV
 # sent_timecode = 681920, 687100
-# text = tôː àmmaː in kun=yi hwaɗàː dà takubbàː gà lòːkacìn nan < baːà koːmiː dà koːmiː |c sai à=waːc'èː ?//
+# text = tôː àmmaː in ku-n yi hwaɗàː dà takubbàː gà lòːkacìn nan < baː-'à koːmiː dà koːmiː > sai a-_̀waːc'èː ?//
 # text_en = But if you fought with swords at that time, nothing happened, you would just go away?
-1	tôː	tôː	INTJ	_	_	17	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
-2	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
-3	in	in	SCONJ	_	_	17	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
+1	tôː	tôː	INTJ	_	_	14	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
+2	àmmaː	àmmaː	CCONJ	_	_	14	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
+3	in	in	SCONJ	_	_	14	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
 4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur-|SpaceAfter=No|wordform=kun
 5	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp	_	Gloss=Perf.Plur|wordform=n=
 6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=682908|AlignEnd=683155|Gloss=do
@@ -268,18 +268,17 @@
 11	lòːkacìn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	AlignBegin=684143|AlignEnd=684390|Gloss=time.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH	11	det	_	AlignBegin=684390|AlignEnd=684637|Gloss=PreRef|PreRef=Yes
 13	<	<	PUNCT	_	_	3	punct	_	AlignBegin=684637|AlignEnd=684884|Gloss=PUNCT
-14	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	17	mod/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-15	à-	a	PRON	_	Person=4|PronType=PrsSubj	17	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=-4|wordform=baː'à
-16	oːmiː-	koːmi	PRON	_	PronType=Ind	17	comp:aux	_	AlignBegin=685131|AlignEnd=685378|Gloss=anything|wordform=koːmiː
-17	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-18	dà	dà	CCONJ	_	_	19	cc	_	AlignBegin=685378|AlignEnd=685625|Gloss=and
-19	koːmiː	koːmi	PRON	_	PronType=Ind	16	conj:coord	_	AlignBegin=685625|AlignEnd=685872|Gloss=anything
-20	|c	|c	PUNCT	_	_	23	punct	_	AlignBegin=685872|AlignEnd=686119|Gloss=PUNCT
-21	sai	sai	ADV	_	_	23	mod	_	AlignBegin=686119|AlignEnd=686366|Gloss=then
-22	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	AlignBegin=686366|AlignEnd=686613|Gloss=4|SpaceAfter=No|wordform=à
-23	_̀	_̀	AUX	_	Copula=No|Mood=Sub	17	conj:coord	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
-24	waːc'èː	waːs'-	VERB	_	_	23	comp:aux	_	AlignBegin=686613|AlignEnd=686860|Gloss=scatter
-25	?//	?//	PUNCT	_	_	17	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
+14	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Prog|SpaceAfter=No
+15	-'à	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=-4
+16	koːmiː	koːmi	PRON	_	PronType=Ind	14	comp:pred	_	AlignBegin=685131|AlignEnd=685378|Gloss=anything
+17	dà	dà	CCONJ	_	_	18	cc	_	AlignBegin=685378|AlignEnd=685625|Gloss=and
+18	koːmiː	koːmi	PRON	_	PronType=Ind	16	conj:coord	_	AlignBegin=685625|AlignEnd=685872|Gloss=anything
+19	>	>	PUNCT	_	_	20	punct	_	AlignBegin=685872|AlignEnd=686119|Gloss=PUNCT
+20	sai	sai	SCONJ	_	_	14	mod	_	AlignBegin=686119|AlignEnd=686366|Gloss=except
+21	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	AlignBegin=686366|AlignEnd=686613|Gloss=4|SpaceAfter=No|wordform=à
+22	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	comp	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
+23	waːc'èː	waːs'-	VERB	_	_	22	comp:aux	_	AlignBegin=686613|AlignEnd=686860|Gloss=scatter
+24	?//	?//	PUNCT	_	_	14	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_19
 # speaker_id = SP1
