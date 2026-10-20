@@ -1259,24 +1259,23 @@
 1	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	2	subj/m	_	AlignBegin=274034|AlignEnd=274312|Gloss=2Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=274034|AlignEnd=274312|Gloss=Prog|wordform=kanàː
 3	aikìː	aikìː	NOUN	_	Gender=Masc	2	comp:pred	_	AlignBegin=274312|AlignEnd=274590|Gloss=work.Masc
-4	|c	|c	PUNCT	_	_	7	punct	_	AlignBegin=274590|AlignEnd=274868|Gloss=PUNCT
-5	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	7	mod/m	_	AlignBegin=274868|AlignEnd=275146|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-6	à-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=274868|AlignEnd=275146|Gloss=-4|wordform=baː'à
-7	_̀	_̀	AUX	_	Mood=Sub	2	conj:coord	_	wordform=Ø̀
-8	biyà	biy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=275146|AlignEnd=275424|Gloss=pay.Vnoun|SpaceAfter=No|wordform=biyàn
-9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-10	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	9	comp:obj/m	_	Gloss=2Masc.Gen
-11	kwabòː	kwabòː	NOUN	_	Gender=Masc	8	comp:obj@T	_	AlignBegin=275424|AlignEnd=275702|Gloss=kobo.Masc
-12	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=275702|AlignEnd=275980|Gloss=PUNCT
-13	baː	bâː	PART	_	Copula=No|PartType=Neg|Polarity=Neg	15	mod/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː'à
-14	'-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=-|wordform='à
-15	_̀	_̀	AUX	_	Mood=Sub	7	conj:coord	_	wordform=Ø̀
-16	baː	baː	VERB	_	_	15	comp:aux	_	AlignBegin=276258|AlignEnd=276536|Gloss=give
-17	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	16	comp:obj@R	_	AlignBegin=276536|AlignEnd=276814|Gloss=2Masc
-18	siːsì	siːsìː	NOUN	_	Gender=Masc	16	comp:obj@T	_	AlignBegin=276814|AlignEnd=277092|Gloss=sisi|SpaceAfter=No|wordform=siːsìn
-19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod/m	_	Gloss=Gen.Fem
-20	kwabòː	kwabòː	NOUN	_	Gender=Masc	19	comp	_	AlignBegin=277092|AlignEnd=277370|Gloss=kobo.Masc
-21	//	//	PUNCT	_	_	2	punct	_	AlignBegin=277370|AlignEnd=277642|Gloss=PUNCT
+4	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=274590|AlignEnd=274868|Gloss=PUNCT
+5	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	2	conj:coord	_	AlignBegin=274868|AlignEnd=275146|Gloss=Neg.Prog|SpaceAfter=No
+6	-à	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=274868|AlignEnd=275146|Gloss=-4|wordform=baː'à
+7	biyà	biy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:pred	_	AlignBegin=275146|AlignEnd=275424|Gloss=pay.Vnoun|SpaceAfter=No|wordform=biyàn
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+9	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	8	comp:obj/m	_	Gloss=2Masc.Gen
+10	kwabòː	kwabòː	NOUN	_	Gender=Masc	7	comp:obj@T	_	AlignBegin=275424|AlignEnd=275702|Gloss=kobo.Masc
+11	|c	|c	PUNCT	_	_	14	punct	_	AlignBegin=275702|AlignEnd=275980|Gloss=PUNCT
+12	baː	bâː	PART	_	Copula=No|PartType=Neg|Polarity=Neg	14	mod/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː'à
+13	'-	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=-|wordform='à
+14	_̀	_̀	AUX	_	Mood=Sub	5	conj:coord	_	wordform=Ø̀
+15	baː	baː	VERB	_	_	14	comp:aux	_	AlignBegin=276258|AlignEnd=276536|Gloss=give
+16	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	15	comp:obj@R	_	AlignBegin=276536|AlignEnd=276814|Gloss=2Masc
+17	siːsì	siːsìː	NOUN	_	Gender=Masc	15	comp:obj@T	_	AlignBegin=276814|AlignEnd=277092|Gloss=sisi|SpaceAfter=No|wordform=siːsìn
+18	-n	na	PART	_	Case=Gen|PartType=Case	17	mod/m	_	Gloss=Gen.Fem
+19	kwabòː	kwabòː	NOUN	_	Gender=Masc	18	comp	_	AlignBegin=277092|AlignEnd=277370|Gloss=kobo.Masc
+20	//	//	PUNCT	_	_	2	punct	_	AlignBegin=277370|AlignEnd=277642|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_069-069
 # speaker_id = SP2
@@ -1915,22 +1914,21 @@
 # text_ortho = tôː àbin dà yas sâː baː mù gàmuwaː dà ƙwàːriː dan aːràːyiː nàː //
 # text = tôː àbin dà yas=sâː baːmù gàmuwaː dà ƙwàːriː dan aːràːyiː nàː //
 # text_en = Well, the reason why we did not meet with wild animals, is because we were a troup.
-1	tôː	tôː	INTJ	_	_	15	discourse	_	AlignBegin=391060|AlignEnd=391437|Gloss=well
-2	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	15	dislocated@comp	_	AlignBegin=391437|AlignEnd=391814|Gloss=thing.Masc.Def|RelAnt=Yes
+1	tôː	tôː	INTJ	_	_	14	discourse	_	AlignBegin=391060|AlignEnd=391437|Gloss=well
+2	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	14	dislocated@comp	_	AlignBegin=391437|AlignEnd=391814|Gloss=thing.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=391814|AlignEnd=392191|Gloss=CompRel|Relz=Word
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=392191|AlignEnd=392568|Gloss=3Masc-|SpaceAfter=No|wordform=yas
 5	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	3	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=s=
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	AlignBegin=392568|AlignEnd=392945|ClauseType=Rel|Gloss=put|RelRole=subj
-7	baː-	bâː-	PART	_	Copula=No|Number=Plur|PartType=Neg|Person=1|Polarity=Neg	9	mod/m	_	AlignBegin=392945|AlignEnd=393322|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-8	mù-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=392945|AlignEnd=393322|Gloss=-1Plur|wordform=baːmù
-9	_̀	_̀	AUX	_	Mood=Sub	6	comp:obj	_	wordform=Ø̀
-10	gàmuwaː	gàm-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:aux	_	AlignBegin=393699|AlignEnd=394076|Gloss=meet.Vnoun.Fem
-11	dà	dà	ADP	_	_	10	comp:obl	_	AlignBegin=394076|AlignEnd=394453|Gloss=with
-12	ƙwàːriː	ƙwaːròː	NOUN	_	Number=Plur	11	comp	_	AlignBegin=394453|AlignEnd=394830|Gloss=animal.Plur
-13	dan	dan	ADP	_	_	15	comp:pred	_	AlignBegin=394830|AlignEnd=395207|Gloss=because
-14	aːràːyiː	aːràːyiː	NOUN	_	Gender=Masc	13	comp	_	AlignBegin=395207|AlignEnd=395584|Gloss=troup.Masc
-15	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=395584|AlignEnd=395961|Gloss=Ident
-16	//	//	PUNCT	_	_	15	punct	_	AlignBegin=395961|AlignEnd=396340|Gloss=PUNCT
+7	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	6	comp:obj	_	AlignBegin=392945|AlignEnd=393322|Gloss=Neg.Prog|SpaceAfter=No
+8	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=392945|AlignEnd=393322|Gloss=-1Plur|wordform=baːmù
+9	gàmuwaː	gàm-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:pred	_	AlignBegin=393699|AlignEnd=394076|Gloss=meet.Vnoun.Fem
+10	dà	dà	ADP	_	_	9	comp:obl	_	AlignBegin=394076|AlignEnd=394453|Gloss=with
+11	ƙwàːriː	ƙwaːròː	NOUN	_	Number=Plur	10	comp	_	AlignBegin=394453|AlignEnd=394830|Gloss=animal.Plur
+12	dan	dan	ADP	_	_	14	comp:pred	_	AlignBegin=394830|AlignEnd=395207|Gloss=because
+13	aːràːyiː	aːràːyiː	NOUN	_	Gender=Masc	12	comp	_	AlignBegin=395207|AlignEnd=395584|Gloss=troup.Masc
+14	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=395584|AlignEnd=395961|Gloss=Ident
+15	//	//	PUNCT	_	_	14	punct	_	AlignBegin=395961|AlignEnd=396340|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_108-108
 # speaker_id = SP2
@@ -2311,13 +2309,12 @@
 # text_ortho = àmmaː baːkù daɗèːwaː ƙwarai ?//
 # text = àmmaː baːkù daɗèːwaː ƙwarai ?//
 # text_en = But you did not stay long?
-1	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	AlignBegin=448760|AlignEnd=448960|Gloss=but
-2	baː-	bâː-	PART	_	Copula=No|Number=Plur|PartType=Neg|Person=2|Polarity=Neg	4	mod/m	_	AlignBegin=448960|AlignEnd=449160|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-3	kù-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=448960|AlignEnd=449160|Gloss=-2Plur|wordform=baːkù
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	AlignBegin=449160|AlignEnd=449360|Gloss=spend_time.Vnoun.Fem
-6	ƙwarai	ƙwarai	ADV	_	_	5	mod	_	AlignBegin=449360|AlignEnd=449560|Gloss=quite
-7	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=449560|AlignEnd=449760|Gloss=PUNCT
+1	àmmaː	àmmaː	CCONJ	_	_	2	discourse	_	AlignBegin=448760|AlignEnd=448960|Gloss=but
+2	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=448960|AlignEnd=449160|Gloss=Neg.Prog|SpaceAfter=No
+3	-kù	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=448960|AlignEnd=449160|Gloss=-2Plur|wordform=baːkù
+4	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=449160|AlignEnd=449360|Gloss=spend_time.Vnoun.Fem
+5	ƙwarai	ƙwarai	ADV	_	_	4	mod	_	AlignBegin=449360|AlignEnd=449560|Gloss=quite
+6	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=449560|AlignEnd=449760|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_130-130
 # speaker_id = SP2
@@ -2327,11 +2324,10 @@
 # text = aː'àː baː mù daɗèːwaː //
 # text_en = No, we did not stay long.
 1	aː'àː	aː'àː	INTJ	_	_	0	root	_	AlignBegin=449980|AlignEnd=450150|Gloss=no
-2	baː-	bâː-	PART	_	Copula=No|Number=Plur|PartType=Neg|Person=1|Polarity=Neg	4	mod/m	_	AlignBegin=450150|AlignEnd=450320|Gloss=Neg.Perf|wordform=baː
-3	mù-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=450150|AlignEnd=450320|Gloss=-1Plur|wordform=baːmù
-4	_̀	_̀	AUX	_	Mood=Sub	1	parataxis:conj	_	wordform=Ø̀
-5	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp:aux	_	AlignBegin=450320|AlignEnd=450490|Gloss=spend_time.Vnoun.Fem
-6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=450490|AlignEnd=450660|Gloss=PUNCT
+2	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	1	parataxis:conj	_	AlignBegin=450150|AlignEnd=450320|Gloss=Neg.Prog
+3	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=450150|AlignEnd=450320|Gloss=-1Plur|wordform=baːmù
+4	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=450320|AlignEnd=450490|Gloss=spend_time.Vnoun.Fem
+5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=450490|AlignEnd=450660|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_131-131
 # speaker_id = SP2

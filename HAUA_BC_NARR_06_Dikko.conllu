@@ -1173,15 +1173,14 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
 7	mâyyaː	bàbbaː	ADJ	_	Number=Plur	6	comp	_	Gloss=big.Plur
 8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
-9	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	11	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-10	à-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	Gloss=-4|wordform=baːà
-11	_̀	_̀	AUX	_	Mood=Sub	8	comp	_	wordform=Ø̀
-12-13	wâː	_	_	_	_	_	_	_	_
-12	yi	yi	VERB	_	_	11	comp:aux	_	ClauseType=Rel|Gloss=do|RelRole=obj
-13	wà	mà	ADP	_	Case=Dat	12	comp:obl	_	Gloss=Dat
-14	'yan	ɗan	ADJ	_	Number=Plur	15	mod	_	Gloss=small.Plur
-15	yâːra	yaːròː	NOUN	_	Number=Plur	13	comp	_	Gloss=children|SpaceAfter=No
-16	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+9	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	8	comp	_	Gloss=Neg.Prog|SpaceAfter=No
+10	-à	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	Gloss=-4|wordform=baːà
+11-12	wâː	_	_	_	_	_	_	_	_
+11	yi	yi	VERB	_	_	9	comp:pred	_	ClauseType=Rel|Gloss=do|RelRole=obj
+12	wà	mà	ADP	_	Case=Dat	11	comp:obl	_	Gloss=Dat
+13	'yan	ɗan	ADJ	_	Number=Plur	14	mod	_	Gloss=small.Plur
+14	yâːra	yaːròː	NOUN	_	Number=Plur	12	comp	_	Gloss=children|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__58
 # text_ortho = jaː à hankàliː, kà yi Dandà Garbaː Dikkò, Garbà Ɗiɗìː, Garbà Tatìː, Garbà hàlle-hàllan hàukaː, Garbà hàlle-hàllan mutuwàː, kalì handàɗi kalì handì .
@@ -1326,13 +1325,12 @@
 42	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	39	comp:obj	_	Gloss=Perf.Rel.Sing|wordform=c=
 43	ciːjèː	ciːz-	VERB	_	_	42	comp:aux	_	Gloss=bite
 44	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	43	comp:obj/m	_	Gloss=-3Masc.Acc|SpaceAfter=No|wordform=shi
-45	,	,	PUNCT	_	_	49	punct	_	Gloss=PUNCT
-46	àmman	àmma	CCONJ	_	_	49	cc	_	Gloss=but
-47	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	49	mod/m	_	Gloss=Neg.Perf|wordform=baː
-48	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	49	subj/m	_	Gloss=-3Masc|wordform=baːshì
-49	_̀	_̀	AUX	_	Mood=Sub	38	conj:coord	_	wordform=Ø̀
-50	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	49	comp:aux	_	Gloss=crying.Masc|SpaceAfter=No
-51	.	.	PUNCT	_	_	38	punct	_	Gloss=PUNCT
+45	,	,	PUNCT	_	_	47	punct	_	Gloss=PUNCT
+46	àmman	àmma	CCONJ	_	_	47	cc	_	Gloss=but
+47	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	38	conj:coord	_	Gloss=Neg.Prog
+48	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	47	subj/m	_	Gloss=-3Masc|wordform=baːshì
+49	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	47	comp:pred	_	Gloss=crying.Masc|SpaceAfter=No
+50	.	.	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__64a
 # text_ortho = sai dai Dikkò tag ga shinàː ta mòːc'iː, shinàː ta moːtsàːwaː .
@@ -1378,18 +1376,17 @@
 # text_ortho = àmman Dandà Garbaː Dikkò baːshì kuːkaː in dan hakànan .
 # text = àmman Dandà Garbaː Dikkò baːshì kuːkaː in dan hakànan .
 # text_en = But DGD was not crying because of that .
-1	àmman	àmma	CCONJ	_	_	7	discourse	_	Gloss=but
-2	Dandà	Dandà	PROPN	_	_	7	subj	_	Gloss=Dandà
+1	àmman	àmma	CCONJ	_	_	5	discourse	_	Gloss=but
+2	Dandà	Dandà	PROPN	_	_	5	subj	_	Gloss=Dandà
 3	Garbaː	Garbaː	PROPN	_	_	2	flat@name	_	Gloss=Garbaː
 4	Dikkò	Dikkò	PROPN	_	_	3	flat@name	_	Gloss=Dikkò
-5	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|wordform=baː
-6	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=-3Masc|wordform=baːshì
-7	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-8	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	7	comp:aux	_	Gloss=crying.Masc
-9	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-10	dan	don	ADP	_	_	9	comp	_	Gloss=because
-11	hakànan	hakànan	ADV	_	_	10	comp	_	Gloss=like_that|SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+5	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
+6	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=-3Masc|wordform=baːshì
+7	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=crying.Masc
+8	in	in	SCONJ	_	_	7	mod	_	Gloss=if
+9	dan	don	ADP	_	_	8	comp	_	Gloss=because
+10	hakànan	hakànan	ADV	_	_	9	comp	_	Gloss=like_that|SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__66
 # text_ortho = Dikkò .
@@ -1425,21 +1422,20 @@
 21	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	22	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=tà
 22	_̀	_̀	AUX	_	Copula=No|Mood=Sub	18	parataxis:conj	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
 23	kashèː	kas-	VERB	_	_	22	comp:aux	_	Gloss=kill|SpaceAfter=No
-24	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-25	àmman	àmma	CCONJ	_	_	31	cc	_	Gloss=but
-26	Dandà	Dandà	PROPN	_	_	31	subj	_	Gloss=Dandà
+24	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
+25	àmman	àmma	CCONJ	_	_	29	cc	_	Gloss=but
+26	Dandà	Dandà	PROPN	_	_	29	subj	_	Gloss=Dandà
 27	Garbaː	Garbaː	PROPN	_	_	26	flat@name	_	Gloss=Garbaː
 28	Dikkò	Dikkò	PROPN	_	_	27	flat@name	_	Gloss=Dikkò
-29	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	31	mod/m	_	Gloss=Neg.Perf|wordform=baː
-30	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	Gloss=-3Masc|wordform=baːshì
-31	_̀	_̀	AUX	_	Mood=Sub	22	conj:coord	_	wordform=Ø̀
-32	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	31	comp:aux	_	Gloss=crying.Masc
-33	ba	ba	PART	_	Polarity=Neg	32	mod	_	Gloss=Neg
-34	dan	don	ADP	_	_	32	mod	_	Gloss=because
-35	ciːzò	cìːjeː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	34	comp	_	Compound=Yes|Gloss=bite.Vnoun.Masc|SpaceAfter=No|wordform=ciːzòn
-36	-n	na	PART	_	Case=Gen|PartType=Case	35	udep/m	_	Gloss=Gen.Masc/Plur
-37	kyaːshèː	kyaːshèː	NOUN	_	Gender=Masc	36	comp	_	Gloss=ants|SpaceAfter=No
-38	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+29	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	22	conj:coord	_	Gloss=Neg.Prog
+30	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	Gloss=-3Masc|wordform=baːshì
+31	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	29	comp:pred	_	Gloss=crying.Masc
+32	ba	ba	PART	_	Polarity=Neg	31	mod	_	Gloss=Neg
+33	dan	don	ADP	_	_	31	mod	_	Gloss=because
+34	ciːzò	cìːjeː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	33	comp	_	Compound=Yes|Gloss=bite.Vnoun.Masc|SpaceAfter=No|wordform=ciːzòn
+35	-n	na	PART	_	Case=Gen|PartType=Case	34	udep/m	_	Gloss=Gen.Masc/Plur
+36	kyaːshèː	kyaːshèː	NOUN	_	Gender=Masc	35	comp	_	Gloss=ants|SpaceAfter=No
+37	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__68
 # text_ortho = tôː anàː nan, anàː nan, yaːròː yag girma ya' iyà tàhiyàː .
@@ -1546,28 +1542,27 @@
 # text_en = "You, Garba Dikko, you don't collect wood for your mother, she will beat you. "
 # text_ortho = " kai Garbaː Dikkò baːkà yi mà uwakkà itàːceː, sai taː baː kà kaːshiː " .
 # text = " kai Garbaː Dikkò baːkà yi mà uwakkà itàːceː, sai taː baː kà kaːshiː " .
-1	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-2	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	18	vocative	_	Gloss=2Masc.Nom
+1	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+2	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	5	vocative	_	Gloss=2Masc.Nom
 3	Garbaː	Garbaː	PROPN	_	_	2	conj:appos	_	Gloss=Garbaː
 4	Dikkò	Dikkò	PROPN	_	_	3	flat@name	_	Gloss=Dikkò
-5	baː-	bâː-	PART	_	Copula=No|Gender=Masc|PartType=Neg|Person=2|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-6	kà-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	7	subj/m	_	Gloss=-2Masc|wordform=baːkà
-7	_̀	_̀	AUX	_	Mood=Sub	18	parataxis:mod	_	wordform=Ø̀
-8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
-9	mà	mà	ADP	_	Case=Dat	8	comp:obl	_	Gloss=Dat
-10	uwa	uwaː	NOUN	_	_	9	comp	_	Gloss=mother.Fem|SpaceAfter=No|wordform=uwakkà
-11	-k	na	PART	_	Case=Gen|PartType=Case	10	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
-12	-kà	-kà	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	comp	_	Gloss=2Masc.Gen
-13	itàːceː	itàːceː	NOUN	_	Number=Plur	8	comp:pred	_	Gloss=wood.Plur|SpaceAfter=No
-14	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-15	sai	sai	ADV	_	_	17	mod	_	Gloss=then
-16	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	17	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
-17	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
-18	baː	baː	VERB	_	_	17	comp:aux	_	Gloss=give
-19	-kà	-ka	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	18	comp:obj@R/m	_	Gloss=-2Masc.Acc|wordform=kà
-20	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	18	comp:obj@T	_	Gloss=thrashing
-21	"	"	PUNCT	_	_	17	punct	_	Gloss=PUNCT|SpaceAfter=No
-22	.	.	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+5	baː	baːbù	PART	_	Copula=No|Gender=Masc|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+6	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	Gloss=-2Masc|wordform=baːkà
+7	yi	yi	VERB	_	_	5	comp:pred	_	Gloss=do
+8	mà	mà	ADP	_	Case=Dat	7	comp:obl	_	Gloss=Dat
+9	uwa	uwaː	NOUN	_	_	8	comp	_	Gloss=mother.Fem|SpaceAfter=No|wordform=uwakkà
+10	-k	na	PART	_	Case=Gen|PartType=Case	9	mod@poss	_	Gloss=Gen.Fem|SpaceAfter=No|wordform=-t
+11	-kà	-kà	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	comp	_	Gloss=2Masc.Gen
+12	itàːceː	itàːceː	NOUN	_	Number=Plur	7	comp:pred	_	Gloss=wood.Plur|SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+14	sai	sai	ADV	_	_	16	mod	_	Gloss=then
+15	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=taː
+16	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	5	parataxis	_	Gloss=Perf.Sing|wordform=aː=
+17	baː	baː	VERB	_	_	16	comp:aux	_	Gloss=give
+18	-kà	-ka	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	17	comp:obj@R/m	_	Gloss=-2Masc.Acc|wordform=kà
+19	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	17	comp:obj@T	_	Gloss=thrashing
+20	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__76
 # text_ortho = yac cèː " kù yi, niː baːnì yîː " .
@@ -1644,10 +1639,10 @@
 # text_ortho = Dandà Garbaː Dikkò indà duy yat tàhi itàːceː tàːre dà yâːra baːshì itàːceː .
 # text = Dandà Garbaː Dikkò indà duy ya-Ø= tàhi itàːceː tàːre dà yâːra baː- shì= itàːceː.
 # text_en = DGD, whenever he went to collect wood with the other children, he did not pick any .
-1	Dandà	danon	PROPN	_	_	15	dislocated@subj	_	Gloss=Dandà
+1	Dandà	danon	PROPN	_	_	13	dislocated@subj	_	Gloss=Dandà
 2	Garbaː	Garbaː	PROPN	_	_	1	flat@name	_	Gloss=Garbaː
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
-4	indà	indà	ADV	_	PronType=Rel	15	mod	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
+4	indà	indà	ADV	_	PronType=Rel	13	mod	_	Gloss=where.Rel|RelAnt=Yes|Relz=Word
 5	duy	dukà	DET	_	PronType=Tot	4	det	_	Gloss=all
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yat
 7	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	4	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=t=
@@ -1656,11 +1651,10 @@
 10	tàːre	tàːre	ADV	_	_	11	mod	_	Gloss=together
 11	dà	dà	SCONJ	_	_	8	mod	_	Gloss=that
 12	yâːra	yaːròː	NOUN	_	Number=Plur	11	comp	_	Gloss=children
-13	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	15	mod/m	_	Gloss=Neg.Perf|wordform=baː
-14	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	Gloss=-3Masc|wordform=baːshì
-15	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-16	itàːceː	itàːceː	NOUN	_	Number=Plur	15	comp:aux	_	Gloss=wood.Plur|SpaceAfter=No
-17	.	.	PUNCT	_	_	15	punct	_	Gloss=PUNCT
+13	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
+14	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=-3Masc|wordform=baːshì
+15	itàːceː	itàːceː	NOUN	_	Number=Plur	13	comp:pred	_	Gloss=wood.Plur|SpaceAfter=No
+16	.	.	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__79
 # text_ortho = sai dai yâːra sù yi, in an yoː kusa gà gàriː shì amshèː shì kai mà uwaːtai .
@@ -1754,16 +1748,15 @@
 
 # sent_id = HAUA_BC_NARR_06_Dikko__84
 # text_ortho = baːkà jîː dai sai Dikkò .
-# text = baːkà jîː dai sai Dikkò .
+# text = baː-kà jîː dai sai Dikkò.
 # text_en = All you could hear was Dikko .
-1	baː-	bâː-	PART	_	Copula=No|Gender=Masc|PartType=Neg|Person=2|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-2	kà-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	Gloss=-2Masc|wordform=baːkà
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:aux	_	Gloss=hear.Vnoun.Masc
-5	dai	dai	PART	_	PartType=Top	4	discourse@top	_	Gloss=anyway
-6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
-7	Dikkò	Dikkò	PROPN	_	_	3	subj	_	Gloss=Dikkò|SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+1	baː	baːbù	PART	_	Copula=No|Gender=Masc|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+2	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	1	subj/m	_	Gloss=-2Masc|wordform=baːkà
+3	jîː	ji	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:pred	_	Gloss=hear.Vnoun.Masc
+4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	Gloss=anyway
+5	sai	sai	ADP	_	_	3	mod	_	Gloss=except
+6	Dikkò	Dikkò	PROPN	_	_	5	comp	_	Gloss=Dikkò|SpaceAfter=No
+7	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__85
 # text_ortho = Dikkò wànga ɗaː naːkì yaː matsàː munà .
@@ -2232,16 +2225,15 @@
 1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 2	àbin	àbiː	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	Gloss=thing.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=CompRel|Relz=Word
-4	Garbaː	Garbaː	PROPN	_	_	8	subj	_	Gloss=Garbaː
+4	Garbaː	Garbaː	PROPN	_	_	6	subj	_	Gloss=Garbaː
 5	Dikkò	Dikkò	PROPN	_	_	4	flat@name	_	Gloss=Dikkò
-6	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf|wordform=baː
-7	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=-3Masc|wordform=baːshì
-8	_̀	_̀	AUX	_	Mood=Sub	3	comp	_	wordform=Ø̀
-9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:aux	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelRole=pred
-10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
-11	doːkìn	doːkìː	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	Gloss=horse.Masc.Def
-12	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	11	det	_	Gloss=ProxS|SpaceAfter=No
-13	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+6	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	3	comp	_	Gloss=Neg.Prog
+7	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Masc|wordform=baːshì
+8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:pred	_	ClauseType=Rel|Gloss=do.Vnoun.Masc|RelRole=pred
+9	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
+10	doːkìn	doːkìː	NOUN	_	Definite=Def|Gender=Masc	9	comp	_	Gloss=horse.Masc.Def
+11	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	10	det	_	Gloss=ProxS|SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__111
 # text_en = He is taking it to places that he will not fear .
@@ -3424,17 +3416,16 @@
 # text_en = DGD did not give them even a penny .
 # text_ortho = Dandà Garbaː Dikkò koː dalàː baːshì baː sù .
 # text = Dandà Garbaː Dikkò koː dalàː baːshì baː sù.
-1	Dandà	Dandà	PROPN	_	_	8	dislocated@subj	_	Gloss=Dandà
+1	Dandà	Dandà	PROPN	_	_	6	dislocated@subj	_	Gloss=Dandà
 2	Garbaː	Garbaː	PROPN	_	_	1	flat@name	_	Gloss=Garbaː
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
 4	koː	koː	ADV	_	_	5	mod	_	Gloss=even
-5	dalàː	dalàː	NOUN	_	Gender=Fem	8	dislocated@comp	_	Gloss=shilling.Fem
-6	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf|wordform=baː
-7	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=-3Masc|wordform=baːshì
-8	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-9	baː	baː	VERB	_	_	8	comp:aux	_	Gloss=give
-10	-sù	-sù	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	9	comp:obj@R/m	_	Gloss=-3Plur.Acc|SpaceAfter=No|wordform=sù
-11	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+5	dalàː	dalàː	NOUN	_	Gender=Fem	6	dislocated@comp	_	Gloss=shilling.Fem
+6	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
+7	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Masc|wordform=baːshì
+8	baː	baː	VERB	_	_	6	comp:pred	_	Gloss=give
+9	-sù	-sù	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	8	comp:obj@R/m	_	Gloss=-3Plur.Acc|SpaceAfter=No|wordform=sù
+10	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__166
 # text_en = Griot, if you spent a month in DGD's house, there was nothing but the gruel that you drank, the mush that you ate and the meat that you ate .
@@ -3498,13 +3489,12 @@
 # text_ortho = koː dallàː, baːshì baːsuwàː .
 # text = koː dallàː, baːshì baːsuwàː .
 1	koː	koː	ADV	_	_	2	mod	_	Gloss=even
-2	dallàː	dallàː	NOUN	_	Gender=Fem	6	subj	_	Gloss=shilling.Fem|SpaceAfter=No
+2	dallàː	dallàː	NOUN	_	Gender=Fem	4	subj	_	Gloss=shilling.Fem|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-4	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|wordform=baː
-5	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Masc|wordform=baːshì
-6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-7	baːsuwàː	baː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun|Voice=Cau	6	comp:aux	_	Gloss=give|SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+4	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
+5	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=-3Masc|wordform=baːshì
+6	baːsuwàː	baː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun|Voice=Cau	4	comp:pred	_	Gloss=give|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__169
 # text_en = This is how things went .
@@ -3703,7 +3693,7 @@
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 10	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Masc.Gen
 11	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
-12	.	.	PUNCT	_	_	4	comp:obj	_	Gloss=PUNCT
+12	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__179
 # text_en = "You're just playing, but it's not my music. "
@@ -5316,29 +5306,28 @@
 5	yi	yi	VERB	_	Gender=Masc|Person=3	3	comp:pred	_	Gloss=X
 6	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	5	comp:obl	_	Gloss=3Masc.Dat
 7	kiɗìː	kiɗìː	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=music.Masc
-8	sai	sai	ADP	_	_	18	mod	_	Gloss=except_for
+8	sai	sai	ADP	_	_	16	mod	_	Gloss=except_for
 9	hwa	hwa	PART	_	PartType=Top	8	discourse@top	_	Gloss=indeed
 10	gaːrad	gaːraː	NOUN	_	Definite=Def|Gender=Fem	8	comp	_	Gloss=food.Fem.Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
 12	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	13	subj/m	_	Gloss=2Masc-|SpaceAfter=No|wordform=kash
 13	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	11	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=sh=
 14	shaː	shaː	VERB	_	_	13	comp:aux	_	ClauseType=Rel|Gloss=drink|RelRole=obj|SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-16	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|wordform=baː
-17	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=-3Masc|wordform=baːshì
-18	_̀	_̀	AUX	_	Mood=Sub	2	parataxis:conj	_	wordform=Ø̀
-19	kyàutaː	kyàutaː	NOUN	_	Gender=Fem	18	comp:aux	_	Gloss=gift.Fem|SpaceAfter=No
-20	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+16	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	2	parataxis:conj	_	Gloss=Neg.Prog
+17	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=-3Masc|wordform=baːshì
+18	kyàutaː	kyàutaː	NOUN	_	Gender=Fem	16	comp:pred	_	Gloss=gift.Fem|SpaceAfter=No
+19	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__257
 # text_en = Then, DGD, apart from the food that you eat in his house, he won't give anyone anything .
 # text_ortho = sa'ànnan Dandà Garbaː Dikkò sai hwa gaːrad dà kash shaː gidaːnai, baːshì yi mà koːwaː kyàutaː .
 # text = sa'ànnan Dandà Garbaː Dikkò sai hwa gaːrad dà ka-Ø= shaː gidaː-n-ai , baː- shì= yi mà koːwaː kyàutaː.
-1	sa'ànnan	sa'ànnan	ADV	_	_	18	mod	_	Gloss=then
-2	Dandà	Dandà	PROPN	_	_	18	dislocated@subj	_	Gloss=Dandà
+1	sa'ànnan	sa'ànnan	ADV	_	_	16	mod	_	Gloss=then
+2	Dandà	Dandà	PROPN	_	_	16	dislocated@subj	_	Gloss=Dandà
 3	Garbaː	Garbaː	PROPN	_	_	2	flat@name	_	Gloss=Garbaː
 4	Dikkò	Dikkò	PROPN	_	_	3	flat@name	_	Gloss=Dikkò
-5	sai	sai	ADV	_	_	18	mod	_	Gloss=except_for
+5	sai	sai	ADV	_	_	16	mod	_	Gloss=except_for
 6	hwa	hwa	PART	_	PartType=Top	5	discourse@top	_	Gloss=indeed
 7	gaːrad	gaːraː	NOUN	_	Definite=Def|Gender=Fem	5	comp:pred	_	Gloss=food.Fem.Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=CompRel|Relz=Word
@@ -5348,15 +5337,14 @@
 12	gidaː	gidaː	NOUN	_	_	11	mod	_	Gloss=compound.|SpaceAfter=No|wordform=gidaːnai|wordfrom=gidaːnai
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
 14	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	13	comp:obj/m	_	Gloss=3Masc.Gen
-15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-16	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|wordform=baː
-17	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=-3Masc|wordform=baːshì
-18	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
-20	mà	mà	ADP	_	Case=Dat	19	comp:obl	_	Gloss=Dat
-21	koːwaː	koːwaː	PRON	_	PronType=Ind	20	comp	_	Gloss=everyone
-22	kyàutaː	kyàutaː	NOUN	_	Gender=Fem	19	comp:pred@T	_	Gloss=gift.Fem|SpaceAfter=No
-23	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+16	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
+17	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=-3Masc|wordform=baːshì
+18	yi	yi	VERB	_	_	16	comp:pred	_	Gloss=do
+19	mà	mà	ADP	_	Case=Dat	18	comp:obl	_	Gloss=Dat
+20	koːwaː	koːwaː	PRON	_	PronType=Ind	19	comp	_	Gloss=everyone
+21	kyàutaː	kyàutaː	NOUN	_	Gender=Fem	18	comp:pred@T	_	Gloss=gift.Fem|SpaceAfter=No
+22	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__258
 # text_en = Griots, if these left today, tomorrow, there would be some others .
@@ -7685,21 +7673,20 @@
 15	-sù	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	comp:obj@R/m	_	Gloss=-3Plur.Acc|SpaceAfter=No|wordform=sù
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	in	in	SCONJ	_	_	14	mod	_	Gloss=if
-18	baː-	bâː-	PART	_	Copula=No|Gender=Fem|PartType=Neg|Person=2|Polarity=Neg	20	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-19	kì-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	20	subj/m	_	Gloss=-2Fem|wordform=baːkì
-20	_̀	_̀	AUX	_	Mood=Sub	17	comp	_	wordform=Ø̀
-21	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=like.Vnoun.Masc|SpaceAfter=No|wordform=sôn
-22	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	21	udep/m	_	Gloss=Gen|SpaceAfter=No
-23	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	24	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=ìn
-24	_̀	_̀	AUX	_	Copula=No|Mood=Sub	22	comp	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
-25	rìgai	rìgayàː	VERB	_	_	24	comp:aux	_	Gloss=precede
-26	Allàː	Allàː	PROPN	_	_	25	comp:obj	_	Gloss=Allàː
-27	gà	gà	ADP	_	_	25	comp:obl	_	Gloss=at
-28	râi	râi	NOUN	_	_	27	comp	_	GenderAf=Fem|Gloss=life.Masc|SpaceAfter=No|wordform=rânki
-29	-n	na	PART	_	Case=Gen|PartType=Case	28	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-30	-ki	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	29	comp:obj/m	_	Gloss=2Fem.Gen
-31	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
-32	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+18	baː	baːbù	PART	_	Copula=No|Gender=Fem|PartType=Pred|Polarity=Neg	17	comp	_	Gloss=Neg.Prog|SpaceAfter=No
+19	-kì	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	18	subj/m	_	Gloss=-2Fem|wordform=baːkì
+20	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:pred	_	Gloss=like.Vnoun.Masc|SpaceAfter=No|wordform=sôn
+21	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	20	udep/m	_	Gloss=Gen|SpaceAfter=No
+22	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	23	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=ìn
+23	_̀	_̀	AUX	_	Copula=No|Mood=Sub	21	comp	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
+24	rìgai	rìgayàː	VERB	_	_	23	comp:aux	_	Gloss=precede
+25	Allàː	Allàː	PROPN	_	_	24	comp:obj	_	Gloss=Allàː
+26	gà	gà	ADP	_	_	24	comp:obl	_	Gloss=at
+27	râi	râi	NOUN	_	_	26	comp	_	GenderAf=Fem|Gloss=life.Masc|SpaceAfter=No|wordform=rânki
+28	-n	na	PART	_	Case=Gen|PartType=Case	27	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+29	-ki	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	28	comp:obj/m	_	Gloss=2Fem.Gen
+30	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
+31	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__373
 # text_en = Well, it's then that 'Yabbaraya took the rope and tied him up .
@@ -7814,16 +7801,15 @@
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	Gloss=Prog|wordform=shinàː
 3	tàmmahà	tàmmahà	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=thought.Fem
 4	-m	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	udep/m	_	Gloss=Gen.Fem
-5	mài	mài	PART	_	Number=Sing|PartType=Der	9	subj	_	Gloss=owner_of.Sing
+5	mài	mài	PART	_	Number=Sing|PartType=Der	7	subj	_	Gloss=owner_of.Sing
 6	gidaː	gidaː	NOUN	_	Gender=Masc	5	compound	_	Gloss=compound.Masc
-7	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf|wordform=baː
-8	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	Gloss=-3Masc|wordform=baːshì
-9	_̀	_̀	AUX	_	Mood=Sub	4	comp	_	wordform=Ø̀
-10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
-11	mà	mà	ADP	_	Case=Dat	10	comp:obl	_	Gloss=Dat
-12	kâinai	kâi	PRON	_	Gender=Masc|Reflex=Yes	11	comp	_	CaseAf=Gen|GenderAf=Masc|Gloss=himself.Masc -3MascGen|MSeg=kâin-ai|PersonAf=3
-13	hakànan	hakànan	ADV	_	_	10	comp:obj	_	Gloss=like_that|SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+7	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	4	comp	_	Gloss=Neg.Prog
+8	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	Gloss=-3Masc|wordform=baːshì
+9	yi	yi	VERB	_	_	7	comp:pred	_	Gloss=do
+10	mà	mà	ADP	_	Case=Dat	9	comp:obl	_	Gloss=Dat
+11	kâinai	kâi	PRON	_	Gender=Masc|Reflex=Yes	10	comp	_	CaseAf=Gen|GenderAf=Masc|Gloss=himself.Masc -3MascGen|MSeg=kâin-ai|PersonAf=3
+12	hakànan	hakànan	ADV	_	_	9	comp:obj	_	Gloss=like_that|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__379
 # text_en = Then, they thanked her profusely, collected their belongings, and went away .
@@ -8495,21 +8481,20 @@
 # text_en = "As we are griots, they won't do anything to us. "
 # text_ortho = "tundà màːsu maulòː mukè dai baːà yi munà koːmiː ” .
 # text = “ tundà màːsu maulòː mu- kè dai baːà= yi munà koːmiː ”.
-1	“	“	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-2	tundà	tundà	SCONJ	_	_	10	mod	_	Gloss=since
+1	“	“	PUNCT	_	_	8	punct	_	Gloss=PUNCT
+2	tundà	tundà	SCONJ	_	_	8	mod	_	Gloss=since
 3	màːsu	mài	PART	_	Number=Plur|PartType=Der	6	comp:pred	_	Gloss=owner_of.Plur
 4	maulòː	maulòː	NOUN	_	Gender=Masc	3	compound	_	Gloss=guitar.Masc
 5	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	6	subj/m	_	Gloss=1Plur|SpaceAfter=No
 6	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	comp	_	Gloss=Prog.Rel2|Relative=Variante|wordform=mukè
 7	dai	dai	PART	_	PartType=Top	6	discourse@top	_	Gloss=anyway
-8	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	10	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-9	à-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	Gloss=-4|wordform=baːà
-10	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	munà	munà	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	comp:obl	_	Gloss=1Plur.Dat
-13	koːmiː	koːmiː	PRON	_	PronType=Ind	11	comp:pred	_	Gloss=anything
-14	”	”	PUNCT	_	_	10	punct	_	Gloss=PUNCT|SpaceAfter=No
-15	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+8	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+9	-à	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	Gloss=-4|wordform=baːà
+10	yi	yi	VERB	_	_	8	comp:pred	_	Gloss=do
+11	munà	munà	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	10	comp:obl	_	Gloss=1Plur.Dat
+12	koːmiː	koːmiː	PRON	_	PronType=Ind	10	comp:pred	_	Gloss=anything
+13	”	”	PUNCT	_	_	8	punct	_	Gloss=PUNCT|SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__414
 # text_en = They tuned and played their guitars .
@@ -9018,14 +9003,13 @@
 # text_en = The commander of the raid does not run away .
 # text_ortho = uway yaːƙìː baːtà gudùː .
 # text = uway yaːƙìː baːtà gudùː .
-1	uwa	uwaː	NOUN	_	Gender=Fem	6	dislocated@comp	_	Gloss=mother.Fem..Fem|SpaceAfter=No|wordform=uway
+1	uwa	uwaː	NOUN	_	Gender=Fem	4	dislocated@comp	_	Gloss=mother.Fem..Fem|SpaceAfter=No|wordform=uway
 2	-y	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Fem|wordform=-C
 3	yaːƙìː	yaːƙìː	NOUN	_	Gender=Masc	2	comp	_	Gloss=army.Masc
-4	baː-	bâː-	PART	_	Copula=No|Gender=Fem|PartType=Neg|Person=3|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-5	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Fem|wordform=baːtà
-6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-7	gudùː	gud-	VERB	_	Gender=Masc	6	comp:aux	_	Gloss=running.Masc|SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+4	baː	baːbù	PART	_	Copula=No|Gender=Fem|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+5	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	Gloss=-3Fem|wordform=baːtà
+6	gudùː	gud-	VERB	_	Gender=Masc	4	comp:pred	_	Gloss=running.Masc|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__438a
 # text_en = The raid had a commander .
@@ -9508,13 +9492,12 @@
 3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=naː
 4	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 5	san	san-	VERB	_	_	4	comp:aux	_	Gloss=know
-6	baː-	bâː-	PART	_	Copula=No|Gender=Fem|PartType=Neg|Person=3|Polarity=Neg	8	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-7	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=-3Fem|wordform=baːtà
-8	_̀	_̀	AUX	_	Mood=Sub	5	comp:obj	_	wordform=Ø̀
-9	zuwàː	zoː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=go.Vnoun.Masc
-10	koː'ìnaː	koː'ìnaː	ADV	_	PronType=Ind	9	mod	_	Gloss=anywhere
-11	“	“	PUNCT	_	_	4	punct	_	Gloss=PUNCT|SpaceAfter=No
-12	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+6	baː	baːbù	PART	_	Copula=No|Gender=Fem|PartType=Pred|Polarity=Neg	5	comp:obj	_	Gloss=Neg.Prog|SpaceAfter=No
+7	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=-3Fem|wordform=baːtà
+8	zuwàː	zoː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	Gloss=go.Vnoun.Masc
+9	koː'ìnaː	koː'ìnaː	ADV	_	PronType=Ind	8	mod	_	Gloss=anywhere
+10	“	“	PUNCT	_	_	4	punct	_	Gloss=PUNCT|SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__462
 # text_en = DGD went back home .
@@ -9676,17 +9659,16 @@
 # text_en = As for her, she did not tell his secret .
 # text_ortho = ita kòː baːtà hwaɗìn shirìːnai .
 # text = ita kòː baːtà hwaɗìn shirìːnai .
-1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	dislocated@subj	_	Gloss=3Fem.Nom
+1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	3	dislocated@subj	_	Gloss=3Fem.Nom
 2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=as_for
-3	baː-	bâː-	PART	_	Copula=No|Gender=Fem|PartType=Neg|Person=3|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-4	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=-3Fem|wordform=baːtà
-5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-6	hwaɗì	faɗ-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	Compound=Yes|Gloss=tell.Vnoun.Masc|SpaceAfter=No|wordform=hwaɗìn
-7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur
-8	shirìː	shirìː	NOUN	_	_	7	comp	_	Gloss=secret.|SpaceAfter=No|wordform=shirìːnai|wordfrom=shirìːnai
-9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-10	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp:obj/m	_	Gloss=3Masc.Gen
-11	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+3	baː	baːbù	PART	_	Copula=No|Gender=Fem|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+4	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=-3Fem|wordform=baːtà
+5	hwaɗì	faɗ-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:pred	_	Compound=Yes|Gloss=tell.Vnoun.Masc|SpaceAfter=No|wordform=hwaɗìn
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
+7	shirìː	shirìː	NOUN	_	_	6	comp	_	Gloss=secret.|SpaceAfter=No|wordform=shirìːnai|wordfrom=shirìːnai
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
+10	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__472a
 # text_en = Griots, these came, these came .
@@ -9780,11 +9762,10 @@
 23	Dandà	Dandà	PROPN	_	_	22	mod	_	Gloss=Dandà
 24	Garbaː	Garbaː	PROPN	_	_	23	flat@name	_	Gloss=Garbaː
 25	Dikkò	Dikkò	PROPN	_	_	24	flat@name	_	Gloss=Dikkò
-26	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	28	mod/m	_	Gloss=Neg.Perf|wordform=baː
-27	shì-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	28	subj/m	_	Gloss=-3Masc|wordform=baːshì
-28	_̀	_̀	AUX	_	Mood=Sub	23	comp:obj	_	wordform=Ø̀
-29	tsòːroː	tsòːroː	NOUN	_	Gender=Masc	28	comp:aux	_	Gloss=fear.Masc|SpaceAfter=No
-30	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+26	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	23	comp:obj	_	Gloss=Neg.Prog
+27	-shì	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	Gloss=-3Masc|wordform=baːshì
+28	tsòːroː	tsòːroː	NOUN	_	Gender=Masc	26	comp:pred	_	Gloss=fear.Masc|SpaceAfter=No
+29	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__476
 # text_en = Then his cousin, where he was trotting his horse, then his cousin he went there .
@@ -10256,17 +10237,16 @@
 19	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__497a
-# text = “ baː nì= kashèː -ka. "
+# text = “ baː -nì kashèː -ka. "
 # text_en = "I'm not killing you. "
 # text_ortho = "baːnì kashèː ka. "
-1	“	“	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-2	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|wordform=baː
-3	nì=-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	Gloss=-1Sing=|wordform=baːnì
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	kashèː	kas-	VERB	_	_	4	comp:aux	_	Gloss=kill
-6	-ka	-ka	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	5	comp:obj@R/m	_	Gloss=-2Masc.Acc|SpaceAfter=No|wordform=ka
-7	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-8	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+1	“	“	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+2	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
+3	-nì	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	Gloss=-1Sing|wordform=baːnì
+4	kashèː	kas-	VERB	_	_	2	comp:pred	_	Gloss=kill
+5	-ka	-ka	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	4	comp:obj@R/m	_	Gloss=-2Masc.Acc|SpaceAfter=No|wordform=ka
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+7	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__497b
 # text_en = "I'm just cutting off your tongue so you won't insult another person. "
@@ -11561,25 +11541,24 @@
 9	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	3	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say
 11	minì	mukù	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	comp:obl	_	Gloss=1Sing.Dat
-12	baː-	bâː-	PART	_	Copula=No|Number=Plur|PartType=Neg|Person=3|Polarity=Neg	14	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-13	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=-3Plur|wordform=baːsù
-14	_̀	_̀	AUX	_	Mood=Sub	10	comp:obj	_	wordform=Ø̀
-15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
-16	min	min	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	15	comp:obl	_	Gloss=1Sing.Dat
-17	kàlmisàː	kàlmisàː	NOUN	_	Gender=Fem	15	comp:pred	_	Gloss=shoe.Fem|SpaceAfter=No
-18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	mâ	mâi	NOUN	_	Gender=Masc	24	dislocated@comp	_	Compound=Yes|Gloss=fat.Masc|SpaceAfter=No|wordform=mân
-20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen.Masc/Plur
-21	shaːnu	sâː	NOUN	_	_	20	comp	_	GenderAf=Masc|Gloss=cow.Plur|SpaceAfter=No|wordform=shaːnunkà
-22	-n	na	PART	_	Case=Gen|PartType=Case	21	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-23	-kà	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	22	comp:obj/m	_	Gloss=2Masc.Gen
-24	waːriː	waːriː	NOUN	_	Gender=Masc	15	parataxis:mod	_	Gloss=bad_smell.Masc
-25	ag	neː	AUX	_	Copula=Yes|Mood=Rel	24	comp:cleft	_	ClauseType=Cleft|Gloss=Ident.Rel
-26-27	gàrai	_	_	_	_	_	_	_	_
-26	gàreː	gàreː	ADP	_	_	25	comp:pred	_	Gloss=at
-27	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	26	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shì
-28	“	“	PUNCT	_	_	3	punct	_	Gloss=PUNCT|SpaceAfter=No
-29	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+12	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	10	comp:obj	_	Gloss=Neg.Prog|SpaceAfter=No
+13	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=-3Plur|wordform=baːsù
+14	yi	yi	VERB	_	_	12	comp:pred	_	Gloss=do
+15	min	min	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	14	comp:obl	_	Gloss=1Sing.Dat
+16	kàlmisàː	kàlmisàː	NOUN	_	Gender=Fem	14	comp:pred	_	Gloss=shoe.Fem|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	mâ	mâi	NOUN	_	Gender=Masc	23	dislocated@comp	_	Compound=Yes|Gloss=fat.Masc|SpaceAfter=No|wordform=mân
+19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur
+20	shaːnu	sâː	NOUN	_	_	19	comp	_	GenderAf=Masc|Gloss=cow.Plur|SpaceAfter=No|wordform=shaːnunkà
+21	-n	na	PART	_	Case=Gen|PartType=Case	20	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
+22	-kà	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	21	comp:obj/m	_	Gloss=2Masc.Gen
+23	waːriː	waːriː	NOUN	_	Gender=Masc	14	parataxis:mod	_	Gloss=bad_smell.Masc
+24	ag	neː	AUX	_	Copula=Yes|Mood=Rel	23	comp:cleft	_	ClauseType=Cleft|Gloss=Ident.Rel
+25-26	gàrai	_	_	_	_	_	_	_	_
+25	gàreː	gàreː	ADP	_	_	24	comp:pred	_	Gloss=at
+26	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	25	comp:obj/m	_	Gloss=-3Masc.Acc|wordform=shì
+27	“	“	PUNCT	_	_	3	punct	_	Gloss=PUNCT|SpaceAfter=No
+28	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__553
 # text_en = "They said there is a warrier called Gilaːgèː-Gilaːgèː, mess of sorrel and hyena milk. "
@@ -12042,16 +12021,15 @@
 25	ɗiya	ɗaː	NOUN	_	Number=Plur	23	comp:obj@T	_	Gloss=child.Plur|SpaceAfter=No|wordform=ɗiyan
 26	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	25	mod/m	_	Gloss=Gen.Masc/Plur
 27	darà	darà	NOUN	_	Gender=Masc	26	comp	_	Gloss=draughts_sp.Masc|SpaceAfter=No
-28	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
-29	màcce	màcce	NOUN	_	Gender=Fem	32	subj	_	Gloss=woman.Fem
-30	baː-	bâː-	PART	_	Copula=No|Gender=Fem|PartType=Neg|Person=3|Polarity=Neg	32	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-31	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	32	subj/m	_	Gloss=-3Fem|wordform=baːtà
-32	_̀	_̀	AUX	_	Mood=Sub	23	parataxis:conj	_	wordform=Ø̀
-33	darà	darà	NOUN	_	Gender=Masc	32	comp:aux	_	Gloss=draughts_sp.Masc
-34	dà	dà	ADP	_	_	33	comp:obl	_	Gloss=with
-35	namijìː	namijìː	NOUN	_	Gender=Masc	34	comp	_	Gloss=man.Masc
-36	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
-37	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
+29	màcce	màcce	NOUN	_	Gender=Fem	30	subj	_	Gloss=woman.Fem
+30	baː	baːbù	PART	_	Copula=No|Gender=Fem|PartType=Pred|Polarity=Neg	23	parataxis:conj	_	Gloss=Neg.Prog|SpaceAfter=No
+31	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	30	subj/m	_	Gloss=-3Fem|wordform=baːtà
+32	darà	darà	NOUN	_	Gender=Masc	30	comp:pred	_	Gloss=draughts_sp.Masc
+33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
+34	namijìː	namijìː	NOUN	_	Gender=Masc	33	comp	_	Gloss=man.Masc
+35	"	"	PUNCT	_	_	23	punct	_	Gloss=PUNCT|SpaceAfter=No|wordform=.
+36	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__572
 # text_en = Then he took the draughts pawns and put down a nut.
@@ -13080,15 +13058,14 @@
 9	gàske	gàske	ADV	_	_	8	comp	_	Gloss=verily
 10	nàː	neː	AUX	_	Copula=Yes	4	comp:obj	_	Gloss=Ident
 11	dan	don	ADP	_	_	10	mod	_	Gloss=because
-12	namijì	namijì	NOUN	_	Gender=Masc	16	subj	_	Gloss=man
+12	namijì	namijì	NOUN	_	Gender=Masc	14	subj	_	Gloss=man
 13	ukkù	ukkù	NUM	_	_	12	mod:num	_	Gloss=three
-14	baː-	bâː-	PART	_	Copula=No|Number=Plur|PartType=Neg|Person=3|Polarity=Neg	16	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-15	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	Gloss=-3Plur|wordform=baːsù
-16	_̀	_̀	AUX	_	Mood=Sub	11	comp	_	wordform=Ø̀
-17	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	16	comp:aux	_	Gloss=lie.Fem
-18	daːjìː	daːjìː	NOUN	_	Gender=Masc	17	mod	_	Gloss=bush.Masc
-19	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT|SpaceAfter=No
-20	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+14	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	11	comp	_	Gloss=Neg.Prog|SpaceAfter=No
+15	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=-3Plur|wordform=baːsù
+16	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	14	comp:pred	_	Gloss=lie.Fem
+17	daːjìː	daːjìː	NOUN	_	Gender=Masc	16	mod	_	Gloss=bush.Masc
+18	"	"	PUNCT	_	_	10	punct	_	Gloss=PUNCT|SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__612
 # text_en = "Three men are not [lying] in the bush."
@@ -14519,11 +14496,11 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__685
 # text_ortho = "Even if Bani kills you, or Bani inflicts you severe pain, you, you don't want to leave him in peace."
 # text = " koːkòː Banì shì kashèː ka koːkòː Banì shì gaːnàː maː arkanài, kai, baːkà sôn à ràbu laːhiyàː . "
-1	"	"	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-2	koːkòː	koːkòː	CCONJ	_	_	6	cc@preconj	_	Gloss=whether
+1	"	"	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+2	koːkòː	koːkòː	CCONJ	_	_	5	cc@preconj	_	Gloss=whether
 3	Banì	Banì	PROPN	_	_	5	subj	_	Gloss=Banì
 4	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=shì
-5	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	mod	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
+5	_̀	_̀	AUX	_	Copula=No|Mood=Sub	18	mod	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
 6	kashèː	kas-	VERB	_	_	5	comp:aux	_	Gloss=kill
 7	-ka	-ka	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	6	comp:obj/m	_	Gloss=-2Masc.Acc|wordform=ka
 8	koːkòː	koːkòː	CCONJ	_	_	9	cc	_	Gloss=or
@@ -14534,19 +14511,18 @@
 13	maː	maː	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	12	comp:obl	_	Gloss=2Masc.Dat
 14	arkanài	arkanài	ADV	_	_	12	mod	_	Gloss=severe_pain.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-16	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	21	vocative	_	Gloss=2Masc.Nom|SpaceAfter=No
-17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-18	baː-	bâː-	PART	_	Copula=No|Gender=Masc|PartType=Neg|Person=2|Polarity=Neg	20	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-19	kà-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	20	subj/m	_	Gloss=-2Masc|wordform=baːkà
-20	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-21	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=like.Vnoun.Masc|SpaceAfter=No|wordform=sôn
-22	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	21	udep/m	_	Gloss=Gen|SpaceAfter=No
-23	a-	a	PRON	_	Person=4|PronType=PrsSubj	24	subj/m	_	Gloss=4|SpaceAfter=No|wordform=à
-24	_̀	_̀	AUX	_	Copula=No|Mood=Sub	22	comp	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
-25	ràbu	rab-	VERB	_	_	24	comp:aux	_	Gloss=part
-26	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	25	mod	_	Gloss=well_being.Fem|SpaceAfter=No
-27	.	.	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-28	"	"	PUNCT	_	_	20	punct	_	Gloss=PUNCT
+16	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	18	vocative	_	Gloss=2Masc.Nom|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	baː	baːbù	PART	_	Copula=No|Gender=Masc|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+19	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	18	subj/m	_	Gloss=-2Masc|wordform=baːkà
+20	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:pred	_	Gloss=like.Vnoun.Masc|SpaceAfter=No|wordform=sôn
+21	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	20	udep/m	_	Gloss=Gen|SpaceAfter=No
+22	a-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	Gloss=4|SpaceAfter=No|wordform=à
+23	_̀	_̀	AUX	_	Copula=No|Mood=Sub	21	comp	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
+24	ràbu	rab-	VERB	_	_	23	comp:aux	_	Gloss=part
+25	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=well_being.Fem|SpaceAfter=No
+26	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+27	"	"	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__686
 # text_en = He who sleeps peacefully must want to.
@@ -15366,22 +15342,21 @@
 # text_en = "Won't anything happen to somebody who tells the truth?"
 # text_ortho = " baːà yi mà mùtun koːmiː ba in yah hwàɗi gaskiyaː ? "
 # text = " baːà yi mà mùtun koːmiː ba in yah=hwàɗi gaskiyaː ? "
-1	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-2	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-3	à-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=-4|wordform=baːà
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
-6	mà	mà	ADP	_	Case=Dat	5	comp:obl	_	Gloss=Dat
-7	mùtun	mùtun	NOUN	_	Gender=Masc	6	comp	_	Gloss=man.Masc
-8	koːmiː	koːmiː	PRON	_	PronType=Ind	5	comp:pred	_	Gloss=anything
-9	ba	ba	PART	_	Polarity=Neg	5	mod	_	Gloss=Neg
-10	in	in	SCONJ	_	_	5	mod	_	Gloss=if
-11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
-12	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	10	comp	_	Gloss=Perf.Rel.Sing|wordform=h=
-13	hwàɗi	faɗ-	VERB	_	_	12	comp:aux	_	Gloss=tell
-14	gaskiyaː	gaskiyaː	NOUN	_	Gender=Fem	13	comp:pred	_	Gloss=truth.Fem
-15	?	?	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-16	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
+1	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+2	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+3	-à	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=-4|wordform=baːà
+4	yi	yi	VERB	_	_	2	comp:pred	_	Gloss=do
+5	mà	mà	ADP	_	Case=Dat	4	comp:obl	_	Gloss=Dat
+6	mùtun	mùtun	NOUN	_	Gender=Masc	5	comp	_	Gloss=man.Masc
+7	koːmiː	koːmiː	PRON	_	PronType=Ind	4	comp:pred	_	Gloss=anything
+8	ba	ba	PART	_	Polarity=Neg	4	mod	_	Gloss=Neg
+9	in	in	SCONJ	_	_	4	mod	_	Gloss=if
+10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yah
+11	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	9	comp	_	Gloss=Perf.Rel.Sing|wordform=h=
+12	hwàɗi	faɗ-	VERB	_	_	11	comp:aux	_	Gloss=tell
+13	gaskiyaː	gaskiyaː	NOUN	_	Gender=Fem	12	comp:pred	_	Gloss=truth.Fem
+14	?	?	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+15	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__727
 # text_en = "It's nothing."
@@ -16370,20 +16345,19 @@
 8	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=-3Sing.Acc|wordform=shì
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	sabàddà	sabàddà	SCONJ	_	_	5	mod	_	Gloss=because
-11	in	in	SCONJ	_	_	21	mod	_	Gloss=if
+11	in	in	SCONJ	_	_	19	mod	_	Gloss=if
 12	a-	a-	PRON	_	Person=4|PronType=Prs	13	subj/m	_	Gloss=4|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	comp	_	Gloss=Prog|wordform=anàː
 14	kiːyò	kiːyòː	NOUN	_	Gender=Masc	13	comp:pred	_	Compound=Yes|Gloss=tending.Masc|SpaceAfter=No|wordform=kiːyòn
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur
 16	jàkkai	jàːkiː	NOUN	_	Number=Plur	15	comp	_	Gloss=donkey.Plur|SpaceAfter=No
 17	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-18	jàkkai	jàːkiː	NOUN	_	Number=Plur	21	mod	_	Gloss=donkey.Plur
-19	baː-	bâː-	PART	_	Copula=No|Number=Plur|PartType=Neg|Person=3|Polarity=Neg	21	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-20	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	21	subj/m	_	Gloss=-3Plur|wordform=baːsù
-21	_̀	_̀	AUX	_	Mood=Sub	10	comp	_	wordform=Ø̀
-22	ashiggil	ashiggil	NOUN	_	Gender=Masc	21	comp:aux	_	Gloss=wandering_Masc
-23	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|SpaceAfter=No
-24	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+18	jàkkai	jàːkiː	NOUN	_	Number=Plur	19	mod	_	Gloss=donkey.Plur
+19	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	10	comp	_	Gloss=Neg.Prog|SpaceAfter=No
+20	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	19	subj/m	_	Gloss=-3Plur|wordform=baːsù
+21	ashiggil	ashiggil	NOUN	_	Gender=Masc	19	comp:pred	_	Gloss=wandering_Masc
+22	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|SpaceAfter=No
+23	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__775
 # text_en = "If you want to catch your donkey, you know where to go to catch your donkey."
@@ -17540,22 +17514,21 @@
 # text_en = And she did not see his face as he was wearing a turban.
 # text_ortho = kuma baː'à ganin huskàːtai sabàddà naɗìn dà yay yoː .
 # text = kuma baː-à= gani-n huskàː-t-ai sabàddà naɗìn dà ya-Ø= yoː.
-1	kuma	kuma	PART	_	PartType=Disc	4	discourse	_	Gloss=too
-2	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Person=4|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-3	à-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	Gloss=-4|wordform=baː'à
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	gani	gan-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	Gloss=see.Vnoun.Masc|SpaceAfter=No|wordform=ganin
-6	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
-7	huskàː	huskàː	NOUN	_	_	6	comp	_	GenderAf=Masc|Gloss=fac|SpaceAfter=No|wordform=huskàːtai|wordfrom=huskàːtai
-8	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
-9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen
-10	sabàddà	sabàddà	SCONJ	_	_	5	mod	_	Gloss=because
-11	naɗìn	naɗ-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp	_	Gloss=tie.Vnoun.Masc.Def|RelAnt=Yes
-12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
-13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
-14	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	12	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=y=
-15	yoː	yi	VERB	_	_	14	comp:aux	_	ClauseType=Rel|Gloss=do.Dir|RelRole=pred|SpaceAfter=No
-16	.	.	PUNCT	_	_	5	comp:obj	_	Gloss=PUNCT
+1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	Gloss=too
+2	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpaceAfter=No
+3	-à	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=-4|wordform=baː'à
+4	gani	gan-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:pred	_	Gloss=see.Vnoun.Masc|SpaceAfter=No|wordform=ganin
+5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur
+6	huskàː	huskàː	NOUN	_	_	5	comp	_	GenderAf=Masc|Gloss=fac|SpaceAfter=No|wordform=huskàːtai|wordfrom=huskàːtai
+7	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	6	mod@poss/m	_	Gloss=Gen.Fem|SpaceAfter=No
+8	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
+9	sabàddà	sabàddà	SCONJ	_	_	4	mod	_	Gloss=because
+10	naɗìn	naɗ-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	9	comp	_	Gloss=tie.Vnoun.Masc.Def|RelAnt=Yes
+11	dà	dà	SCONJ	_	_	10	mod@relcl	_	Gloss=CompRel|Relz=Word
+12	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yay
+13	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	11	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=y=
+14	yoː	yi	VERB	_	_	13	comp:aux	_	ClauseType=Rel|Gloss=do.Dir|RelRole=pred|SpaceAfter=No
+15	.	.	PUNCT	_	_	4	comp:obj	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__831
 # text_en = DGD entered the fight.

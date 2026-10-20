@@ -106,11 +106,10 @@
 # text_ortho = baːkà mânceːwà //
 # text = baːkà mânceːwà //
 # text_en = You won't forget.
-1	baː-	bâː-	PART	_	Copula=No|Gender=Masc|PartType=Neg|Person=2|Polarity=Neg	3	mod/m	_	AlignBegin=28170|AlignEnd=28470|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-2	kà-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=28170|AlignEnd=28470|Gloss=-2Masc|wordform=baːkà
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	mânceːwà	mant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=28470|AlignEnd=28770|Gloss=forget.Vnoun.Fem
-5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=28770|AlignEnd=29070|Gloss=PUNCT
+1	baː	baːbù	PART	_	Copula=No|Gender=Masc|PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=28170|AlignEnd=28470|Gloss=Neg.Prog|SpaceAfter=No
+2	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	1	subj/m	_	AlignBegin=28170|AlignEnd=28470|Gloss=-2Masc|wordform=baːkà
+3	mânceːwà	mant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	comp:pred	_	AlignBegin=28470|AlignEnd=28770|Gloss=forget.Vnoun.Fem
+4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=28770|AlignEnd=29070|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_07
 # speaker_id = SP1
@@ -456,14 +455,13 @@
 # text_en = Even a little one, you can't do it?
 1	koː	koː	CCONJ	_	_	3	cc	_	AlignBegin=87062|AlignEnd=87304|Gloss=even
 2	ƴag	ɗaː	ADJ	_	Gender=Fem	3	mod	_	AlignBegin=87304|AlignEnd=87546|Gloss=smal
-3	guntuwaː	guntuː	NOUN	_	Gender=Fem	8	dislocated@comp	_	AlignBegin=87546|AlignEnd=87788|Gloss=piece.Fem
+3	guntuwaː	guntuː	NOUN	_	Gender=Fem	6	dislocated@comp	_	AlignBegin=87546|AlignEnd=87788|Gloss=piece.Fem
 4	gùdaː	gùdaː	NOUN	_	Gender=Masc	3	mod	_	AlignBegin=87788|AlignEnd=88030|Gloss=unit.Masc
 5	ɗai	ɗai	NUM	_	_	4	det	_	AlignBegin=88030|AlignEnd=88272|Gloss=one
-6	baː-	bâː-	PART	_	Copula=No|Gender=Masc|PartType=Neg|Person=2|Polarity=Neg	8	mod/m	_	AlignBegin=88272|AlignEnd=88514|Gloss=Neg.Perf|SpaceAfter=No|wordform=baː
-7	kà-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	8	subj/m	_	AlignBegin=88272|AlignEnd=88514|Gloss=-2Masc|wordform=baːkà
-8	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	AlignBegin=88514|AlignEnd=88756|Gloss=do.Vnoun.Masc
-10	?//	?//	PUNCT	_	_	8	punct	_	AlignBegin=88756|AlignEnd=88999|Gloss=PUNCT
+6	baː	baːbù	PART	_	Copula=No|Gender=Masc|PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=88272|AlignEnd=88514|Gloss=Neg.Prog|SpaceAfter=No
+7	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	6	subj/m	_	AlignBegin=88272|AlignEnd=88514|Gloss=-2Masc|wordform=baːkà
+8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=88514|AlignEnd=88756|Gloss=do.Vnoun.Masc
+9	?//	?//	PUNCT	_	_	6	punct	_	AlignBegin=88756|AlignEnd=88999|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_23
 # speaker_id = SP1
