@@ -10,8 +10,8 @@
 4	aʔ	neː	AUX	_	Copula=Yes	3	comp	_	AlignBegin=4798|AlignEnd=5164|ClauseType=Rel|Gloss=be.Pred.Rel2|RelRole=mod
 5	àkwai	àkwai	PART	_	PartType=Pred	4	comp:aux	_	AlignBegin=5164|AlignEnd=5530|Gloss=there_is
 6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=5530|AlignEnd=5896|Gloss=PUNCT
-7	ƙwàːri	ƙwaːròː	NOUN	_	Number=Plur	5	subj	_	AlignBegin=5896|AlignEnd=6262|Gloss=animal.Plur|SpaceAfter=No|wordform=ƙwàːrin
-8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Fem
+7	ƙwàːri	ƙwaːròː	NOUN	_	Number=Plur	5	subj	_	AlignBegin=5896|AlignEnd=6262|Gloss=animal.Plur|wordform=ƙwàːrin
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
 9	daːjìː	daːjìː	NOUN	_	Gender=Masc	8	comp	_	AlignBegin=6262|AlignEnd=6628|Gloss=bush.Masc
 10	||	||	PUNCT	_	_	11	punct	_	AlignBegin=6628|AlignEnd=6994|Gloss=PUNCT
 11	ƙwàːriː	ƙwaːròː	NOUN	_	Number=Plur	7	conj:reform	_	AlignBegin=6994|AlignEnd=7360|Gloss=animal.Plur
@@ -97,9 +97,9 @@
 2	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=135308|AlignEnd=135476|Gloss=Ident
 3	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj/m	_	AlignBegin=135476|AlignEnd=135644|Gloss=2Plur|SpaceAfter=No
 4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp:cleft	_	AlignBegin=135476|AlignEnd=135644|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kukà
-5	àːgìzo	aːgiz-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=135644|AlignEnd=135812|Gloss=watch.Vnoun.Masc|SpaceAfter=No|wordform=àːgìzonta
-6	-n	-n	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceAfter=No
-7	-ta	-ta	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp	_	Gloss=3Fem.Gen
+5	àːgìzo	aːgiz-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=135644|AlignEnd=135812|Gloss=watch.Vnoun.Masc|wordform=àːgìzonta
+6	-n	-n	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
+7	-ta	-ta	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp	_	Gloss=3Fem.Gen|SpaceBefore=No
 8	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=135812|AlignEnd=135980|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_7
@@ -123,8 +123,8 @@
 4	kù-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=-2Plur|SpaceAfter=No|wordform=bàkù
 5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
 6	taɓà	taɓ-	VERB	_	_	5	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
-7	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîn
-8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur
+7	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|wordform=yîn
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 9	àkaràs	àkaràs	NOUN	_	_	8	comp	_	AlignBegin=184040|AlignEnd=184212|Gloss=confrontation
 10	dà	dà	ADP	_	_	7	comp:obl	_	AlignBegin=184212|AlignEnd=184384|Gloss=with
 11	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	10	comp	_	AlignBegin=184384|AlignEnd=184556|Gloss=3Fem.Nom
@@ -141,8 +141,8 @@
 2	kù-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=183524|AlignEnd=183696|Gloss=-2Plur|SpaceAfter=No|wordform=bàkù
 3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
 4	taɓà	taɓ-	VERB	_	_	3	comp:aux	_	AlignBegin=183696|AlignEnd=183868|Gloss=experience
-5	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|SpaceAfter=No|wordform=yîn
-6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur
+5	yî	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=183868|AlignEnd=184040|Compound=Yes|Gloss=do.Vnoun.Masc|wordform=yîn
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 7	àkaràs	àkaràs	NOUN	_	_	6	comp	_	AlignBegin=184040|AlignEnd=184212|Gloss=confrontation
 8	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=184212|AlignEnd=184384|Gloss=with
 9	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	comp	_	AlignBegin=184384|AlignEnd=184556|Gloss=3Fem.Nom
@@ -268,15 +268,15 @@
 11	lòːkacìn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	AlignBegin=684143|AlignEnd=684390|Gloss=time.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH	11	det	_	AlignBegin=684390|AlignEnd=684637|Gloss=PreRef|PreRef=Yes
 13	<	<	PUNCT	_	_	3	punct	_	AlignBegin=684637|AlignEnd=684884|Gloss=PUNCT
-14	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Prog|SpaceAfter=No
-15	-'à	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=-4
+14	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=684884|AlignEnd=685131|Gloss=Neg.Prog
+15	-'à	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=684884|AlignEnd=685131|Gloss=-4|SpaceBefore=No
 16	koːmiː	koːmi	PRON	_	PronType=Ind	14	comp:pred	_	AlignBegin=685131|AlignEnd=685378|Gloss=anything
 17	dà	dà	CCONJ	_	_	18	cc	_	AlignBegin=685378|AlignEnd=685625|Gloss=and
 18	koːmiː	koːmi	PRON	_	PronType=Ind	16	conj:coord	_	AlignBegin=685625|AlignEnd=685872|Gloss=anything
 19	>	>	PUNCT	_	_	20	punct	_	AlignBegin=685872|AlignEnd=686119|Gloss=PUNCT
 20	sai	sai	SCONJ	_	_	14	mod	_	AlignBegin=686119|AlignEnd=686366|Gloss=except
 21	a-	a	PRON	_	Person=4|PronType=PrsSubj	22	subj/m	_	AlignBegin=686366|AlignEnd=686613|Gloss=4|SpaceAfter=No|wordform=à
-22	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	comp	_	Gloss=Sub|SpaceAfter=No|wordform=_̀=
+22	_̀	_̀	AUX	_	Copula=No|Mood=Sub	20	comp	_	Gloss=Sub|wordform=_̀=
 23	waːc'èː	waːs'-	VERB	_	_	22	comp:aux	_	AlignBegin=686613|AlignEnd=686860|Gloss=scatter
 24	?//	?//	PUNCT	_	_	14	punct	_	AlignBegin=686860|AlignEnd=687100|Gloss=PUNCT
 
