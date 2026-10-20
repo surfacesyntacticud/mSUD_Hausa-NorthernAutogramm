@@ -2,12 +2,12 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_02.WAV
 # sent_timecode = 3700, 12120
-# text = tô lokàcin dà aʔ àkwai { ƙwàːri-n daːjìː || ƙwàːriː dai } cikin ràːhîn nan < ƙàːƙàː naː mutàːneː su-kè zàmne ?//
+# text = tô lokàcin dà aC àkwai { ƙwàːri -n daːjìː || ƙwàːriː dai } cikin ràːhîn nan < ƙàːƙàː naː mutàːneː su-kè zàmne ?//
 # text_en = Well, when there were wild animals, wild animals in that valley, how did people live?
 1	tô	tô	INTJ	_	_	19	discourse	_	AlignBegin=3700|AlignEnd=4066|Gloss=well
 2	lokàcin	lokàciː	NOUN	_	Definite=Def|Gender=Masc	19	mod	_	AlignBegin=4066|AlignEnd=4432|Gloss=time.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=4432|AlignEnd=4798|Gloss=CompRel|Relz=Word
-4	aʔ	neː	AUX	_	Copula=Yes	3	comp	_	AlignBegin=4798|AlignEnd=5164|ClauseType=Rel|Gloss=be.Pred.Rel2|RelRole=mod
+4	aC	neː	AUX	_	Copula=Yes	3	comp	_	AlignBegin=4798|AlignEnd=5164|ClauseType=Rel|Gloss=be.Pred.Rel2|RelRole=mod
 5	àkwai	àkwai	PART	_	PartType=Pred	4	comp:aux	_	AlignBegin=5164|AlignEnd=5530|Gloss=there_is
 6	{	{	PUNCT	_	_	7	punct	_	AlignBegin=5530|AlignEnd=5896|Gloss=PUNCT
 7	ƙwàːri	ƙwaːròː	NOUN	_	Number=Plur	5	subj	_	AlignBegin=5896|AlignEnd=6262|Gloss=animal.Plur|wordform=ƙwàːrin
