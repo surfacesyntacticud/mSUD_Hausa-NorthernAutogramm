@@ -1370,7 +1370,7 @@
 16	-kà	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	15	comp:obj/m	_	Gloss=2Masc.Gen|SpaceBefore=No
 17	|c	|c	PUNCT	_	_	19	punct	_	AlignBegin=297572|AlignEnd=297784|Gloss=PUNCT
 18	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	19	subj/m	_	AlignBegin=297784|AlignEnd=297996|Gloss=3Masc|SpaceAfter=No|wordform=shì
-19	_̀	_̀	AUX	_	Copula=No|Mood=Sub	12	mod	_	Gloss=Sub|wordform=_̀=
+19	_̀	_̀	AUX	_	Copula=No|Mood=Sub	12	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 20	baː	baː	VERB	_	_	19	comp:aux	_	AlignBegin=297996|AlignEnd=298208|Gloss=give
 21	kà	shì	PRON	_	Gender=Masc|Person=2|PronType=Prs	20	comp:obj@R	_	AlignBegin=298208|AlignEnd=298420|Gloss=2Masc
 22	káːshíː	káːshíː	NOUN	_	Gender=Masc	20	comp:obj@T	_	AlignBegin=298420|AlignEnd=298632|Gloss=shit.Masc
@@ -1586,7 +1586,7 @@
 21	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	22	subj/m	_	AlignBegin=331020|AlignEnd=331290|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 22	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	12	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
 23	kwan	kwaːn-	VERB	_	_	22	comp:aux	_	AlignBegin=331290|AlignEnd=331560|Gloss=spend_night
-24	sìttin	sìttin	NUM	_	_	23	det	_	AlignBegin=331560|AlignEnd=331830|Gloss=sixty
+24	sìttin	sìttin	NUM	_	_	23	mod	_	AlignBegin=331560|AlignEnd=331830|Gloss=sixty
 25	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	26	subj/m	_	AlignBegin=331830|AlignEnd=332100|Gloss=3Masc|SpaceAfter=No|wordform=shì
 26	_̀	_̀	AUX	_	Copula=No|Mood=Sub	23	mod	_	Gloss=Sub|wordform=_̀=
 27	zakà	zak-	VERB	_	_	26	comp:aux	_	AlignBegin=332100|AlignEnd=332370|Gloss=arrive
