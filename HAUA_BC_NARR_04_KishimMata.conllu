@@ -1309,14 +1309,14 @@
 3	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=187334|AlignEnd=187412|Gloss=3Masc|SpaceAfter=No
 4-5	shikài	_	_	_	_	_	_	_	_
 4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=187334|AlignEnd=187412|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
-5	yîː	yi	VERB	_	Gender=Masc	4	comp:pred	_	AlignBegin=187334|AlignEnd=187412|Gloss=do.Vnoun.Masc
+5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	AlignBegin=187334|AlignEnd=187412|Gloss=do.Vnoun.Masc
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=187412|AlignEnd=187490|Gloss=PUNCT
 7	hakànan	hakànan	ADV	_	_	1	conj:redup	_	AlignBegin=187490|AlignEnd=187568|Gloss=thus
 8	>+	>+	PUNCT	_	_	10	punct	_	AlignBegin=187646|AlignEnd=187724|Gloss=PUNCT
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=187724|AlignEnd=187802|Gloss=3Masc|SpaceAfter=No
 10-11	shikài	_	_	_	_	_	_	_	_
 10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:cleft	_	AlignBegin=187724|AlignEnd=187802|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
-11	yîː	yi	VERB	_	Gender=Masc	10	comp:pred	_	AlignBegin=187724|AlignEnd=187802|Gloss=do.Vnoun.Masc
+11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	AlignBegin=187724|AlignEnd=187802|Gloss=do.Vnoun.Masc
 12	//	//	PUNCT	_	_	1	punct	_	AlignBegin=187802|AlignEnd=187883|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_057-057
@@ -1860,7 +1860,7 @@
 4	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 5	yi	yi	VERB	_	_	4	comp:aux	_	AlignBegin=262224|AlignEnd=262376|Gloss=do
 6	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	7	mod	_	AlignBegin=262376|AlignEnd=262528|Gloss=Iter
-7	tàmbayàː	tambay-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:pred	_	AlignBegin=262528|AlignEnd=262680|GenderAf=Masc|Gloss=ask.Vnoun.Fem|wordfrom=tàmbayàːtai
+7	tàmbayàː	tambay-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	comp:pred	_	AlignBegin=262528|AlignEnd=262680|GenderAf=Masc|Gloss=ask.Vnoun.Fem|wordfrom=tàmbayàːtai
 8	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 9	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 10-11	mis	_	_	_	_	_	_	_	_
@@ -2563,7 +2563,7 @@
 8	<	<	PUNCT	_	_	5	punct	_	AlignBegin=354510|AlignEnd=354663|Gloss=PUNCT
 9	a-	a-	PRON	_	Person=4|PronType=Prs	10	subj/m	_	AlignBegin=354663|AlignEnd=354816|Gloss=4|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	AlignBegin=354663|AlignEnd=354816|Gloss=Prog|wordform=anàː
-11	kirà	kir-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	comp:pred	_	AlignBegin=354816|AlignEnd=354969|GenderAf=Masc|Gloss=call.Vnoun.Masc|wordform=kiràn
+11	kirà	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	AlignBegin=354816|AlignEnd=354969|GenderAf=Masc|Gloss=call.Vnoun.Masc|wordform=kiràn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 13	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	12	comp:obj/m	_	Gloss=2Masc.Gen|SpaceBefore=No
 14	//]	//]	PUNCT	_	_	10	punct	_	AlignBegin=354969|AlignEnd=355122|Gloss=PUNCT

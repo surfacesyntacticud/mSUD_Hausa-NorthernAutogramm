@@ -97,7 +97,7 @@
 2	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=135308|AlignEnd=135476|Gloss=Ident
 3	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj/m	_	AlignBegin=135476|AlignEnd=135644|Gloss=2Plur|SpaceAfter=No
 4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp:cleft	_	AlignBegin=135476|AlignEnd=135644|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kukà
-5	àːgìzo	aːgiz-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=135644|AlignEnd=135812|Gloss=watch.Vnoun.Masc|wordform=àːgìzonta
+5	àːgìzo	aːgiz-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=135644|AlignEnd=135812|Gloss=watch.Vnoun.Masc|wordform=àːgìzonta
 6	-n	-n	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 7	-ta	-ta	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp	_	Gloss=3Fem.Gen|SpaceBefore=No
 8	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=135812|AlignEnd=135980|Gloss=PUNCT

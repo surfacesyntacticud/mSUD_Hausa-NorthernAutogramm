@@ -2199,7 +2199,7 @@
 13	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=432104|AlignEnd=432339|Gloss=PUNCT
 14	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	15	subj/m	_	AlignBegin=432339|AlignEnd=432574|Gloss=2Plur|SpaceAfter=No|wordform=kù
 15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	10	conj:coord	_	Gloss=Sub|wordform=_̀=
-16	tàhiyà	tah-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	15	comp:aux	_	AlignBegin=432574|AlignEnd=432809|Gloss=walk.Vnoun.Fem|wordform=tàhiyàkkù
+16	tàhiyà	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	15	comp:aux	_	AlignBegin=432574|AlignEnd=432809|Gloss=walk.Vnoun.Fem|wordform=tàhiyàkkù
 17	-k	na	PART	_	Case=Gen|PartType=Case	16	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 18	-kù	-kù	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	17	comp	_	Gloss=2Plur.Gen|SpaceBefore=No
 19	//	//	PUNCT	_	_	10	punct	_	AlignBegin=432809|AlignEnd=433040|Gloss=PUNCT
