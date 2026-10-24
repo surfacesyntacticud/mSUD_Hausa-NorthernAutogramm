@@ -494,8 +494,8 @@
 6	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	4	comp:obj	_	Gloss=Perf.Sing|wordform=aː=
 7	ji	ji	VERB	_	_	6	comp:aux	_	AlignBegin=64272|AlignEnd=64435|Gloss=hear
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=64435|AlignEnd=64598|Gloss=4|SpaceAfter=No
-9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:obj	_	AlignBegin=64435|AlignEnd=64598|Gloss=Prog|wordform=anàː
-10	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:pred	_	AlignBegin=64598|AlignEnd=64761|Gloss=milk.Vnoun.Fem|wordform=taːs'às
+9	nàː	nàː	AUX	_	Aspect=Prog	7	comp:obj	_	AlignBegin=64435|AlignEnd=64598|Gloss=Prog|wordform=anàː
+10	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:aux	_	AlignBegin=64598|AlignEnd=64761|Gloss=milk.Vnoun.Fem|wordform=taːs'às
 11	-s	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No|wordform=-C
 12	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	11	comp	_	AlignBegin=64761|AlignEnd=64924|Gloss=cow.Fem.Def
 13	tan	nan	DET	_	Gender=Fem|PronType=Dem	12	det	_	AlignBegin=64924|AlignEnd=65087|Gloss=PreRef|PreRef=Yes
@@ -587,8 +587,8 @@
 11	îskè	isk-	VERB	_	_	10	comp:aux	_	AlignBegin=83034|AlignEnd=83380|Gloss=find
 12	mùtûm	mùtunèː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=83380|AlignEnd=83726|Gloss=human.Masc
 13	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=83726|AlignEnd=84072|Gloss=3Masc|SpaceAfter=No
-14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	parataxis:conj	_	AlignBegin=83726|AlignEnd=84072|Gloss=Prog|wordform=shinàː
-15	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=84072|AlignEnd=84418|Gloss=milk.Vnoun.Fem|wordform=taːs'às
+14	nàː	nàː	AUX	_	Aspect=Prog	10	parataxis:conj	_	AlignBegin=83726|AlignEnd=84072|Gloss=Prog|wordform=shinàː
+15	taːs'à	taːs'-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	14	comp:aux	_	AlignBegin=84072|AlignEnd=84418|Gloss=milk.Vnoun.Fem|wordform=taːs'às
 16	-s	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No|wordform=-C
 17	saːnìyât	saːnìyaː	NOUN	_	Definite=Def|Gender=Fem	16	comp	_	AlignBegin=84418|AlignEnd=84764|Gloss=cow.Fem.Def
 18	tan	nan	DET	_	Gender=Fem|PronType=Dem	17	det	_	AlignBegin=84764|AlignEnd=85110|Gloss=PreRef|PreRef=Yes

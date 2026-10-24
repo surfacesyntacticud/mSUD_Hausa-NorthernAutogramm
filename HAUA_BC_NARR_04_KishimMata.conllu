@@ -127,19 +127,19 @@
 # text = sunàː ta tàhiyàː |c sunàː ta tàhiyàː |c sunàː ta tàhiyàː //
 # text_en = They went on travelling.
 1	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=21100|AlignEnd=21306|Gloss=3Plur|SpaceAfter=No
-2	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=21100|AlignEnd=21306|Gloss=Prog|wordform=sunàː
+2	nà	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=21100|AlignEnd=21306|Gloss=Prog|wordform=sunàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=21306|AlignEnd=21512|Gloss=Iter
-4	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=21512|AlignEnd=21718|Gloss=go.Vnoun.Fem
+4	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=21512|AlignEnd=21718|Gloss=go.Vnoun.Fem
 5	|c	|c	PUNCT	_	_	7	punct	_	AlignBegin=21718|AlignEnd=21924|Gloss=PUNCT
 6	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=21924|AlignEnd=22130|Gloss=3Plur|SpaceAfter=No
-7	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:redup	_	AlignBegin=21924|AlignEnd=22130|Gloss=Prog|wordform=sunàː
+7	nà	nàː	AUX	_	Aspect=Prog	2	conj:redup	_	AlignBegin=21924|AlignEnd=22130|Gloss=Prog|wordform=sunàː
 8	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	9	mod	_	AlignBegin=22130|AlignEnd=22336|Gloss=Iter
-9	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:pred	_	AlignBegin=22336|AlignEnd=22542|Gloss=go.Vnoun.Fem
+9	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=22336|AlignEnd=22542|Gloss=go.Vnoun.Fem
 10	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=22542|AlignEnd=22748|Gloss=PUNCT
 11	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	12	subj/m	_	AlignBegin=22748|AlignEnd=22954|Gloss=3Plur|SpaceAfter=No
-12	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	conj:redup	_	AlignBegin=22748|AlignEnd=22954|Gloss=Prog|wordform=sunàː
+12	nà	nàː	AUX	_	Aspect=Prog	7	conj:redup	_	AlignBegin=22748|AlignEnd=22954|Gloss=Prog|wordform=sunàː
 13	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	14	mod	_	AlignBegin=22954|AlignEnd=23160|Gloss=Iter
-14	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:pred	_	AlignBegin=23160|AlignEnd=23366|Gloss=go.Vnoun.Fem
+14	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	12	comp:aux	_	AlignBegin=23160|AlignEnd=23366|Gloss=go.Vnoun.Fem
 15	//	//	PUNCT	_	_	2	punct	_	AlignBegin=23366|AlignEnd=23567|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_008-008
@@ -512,12 +512,12 @@
 # text = tanàː tàhiyàː |c tanàː tàhiyàː har ruwaː sunkà haɗèː ta //
 # text_en = She kept walking until the water swallowed her.
 1	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=78460|AlignEnd=78695|Gloss=3Fem|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=78460|AlignEnd=78695|Gloss=Prog|wordform=tanàː
-3	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=78695|AlignEnd=78930|Gloss=go.Vnoun.Fem
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=78460|AlignEnd=78695|Gloss=Prog|wordform=tanàː
+3	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=78695|AlignEnd=78930|Gloss=go.Vnoun.Fem
 4	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=78930|AlignEnd=79165|Gloss=PUNCT
 5	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=79165|AlignEnd=79400|Gloss=3Fem|SpaceAfter=No
-6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:redup	_	AlignBegin=79165|AlignEnd=79400|Gloss=Prog|wordform=tanàː
-7	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=79400|AlignEnd=79635|Gloss=go.Vnoun.Fem
+6	nàː	nàː	AUX	_	Aspect=Prog	2	conj:redup	_	AlignBegin=79165|AlignEnd=79400|Gloss=Prog|wordform=tanàː
+7	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	6	comp:aux	_	AlignBegin=79400|AlignEnd=79635|Gloss=go.Vnoun.Fem
 8	har	har̃	ADP	_	ExtPos=SCONJ	11	mod	_	AlignBegin=79635|AlignEnd=79870|Gloss=until
 9	ruwaː	ruwaː	NOUN	_	Number=Plur	11	subj	_	AlignBegin=79870|AlignEnd=80105|Gloss=water.Plur
 10	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=80105|AlignEnd=80340|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
@@ -573,8 +573,8 @@
 8	ɗa	ɗaː	NOUN	_	Gender=Masc	11	subj	_	AlignBegin=90264|AlignEnd=90436|Compound=Yes|Gloss=child.Masc|wordform=ɗan
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 10	sarkiː	sarkiː	NOUN	_	Gender=Masc	9	comp	_	AlignBegin=90436|AlignEnd=90608|Gloss=king.Masc
-11	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=90608|AlignEnd=90780|Gloss=Prog
-12	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	AlignBegin=90780|AlignEnd=90952|Gloss=want.Vnoun.Masc|wordform=sônta
+11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=90608|AlignEnd=90780|Gloss=Prog
+12	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	AlignBegin=90780|AlignEnd=90952|Gloss=want.Vnoun.Masc|wordform=sônta
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Fem|SpaceBefore=No
 14	-tà	-tà	PRON	_	Case=Acc|Gender=Fem|Person=3|PronType=Prs	13	comp	_	Gloss=3Fem.Acc|SpaceBefore=No
 15	//	//	PUNCT	_	_	11	punct	_	AlignBegin=90952|AlignEnd=91120|Gloss=PUNCT
@@ -806,16 +806,16 @@
 4	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=123000|AlignEnd=123155|Gloss=PUNCT
 5	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=123155|AlignEnd=123310|Gloss=3Masc|SpaceAfter=No
 6-7	shikài	_	_	_	_	_	_	_	_
-6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=123155|AlignEnd=123310|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
-7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=123155|AlignEnd=123310|Gloss=do.Vnoun.Masc
+6	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=123155|AlignEnd=123310|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	AlignBegin=123155|AlignEnd=123310|Gloss=do.Vnoun.Masc
 8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=123310|AlignEnd=123465|Gloss=PUNCT
 9	kullun	kullun	ADV	_	_	10	mod	_	AlignBegin=123465|AlignEnd=123620|Gloss=always
 10	hakànan	hakànan	ADV	_	_	3	conj:redup	_	AlignBegin=123620|AlignEnd=123775|Gloss=thus
 11	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=123930|AlignEnd=124085|Gloss=PUNCT
 12	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=124085|AlignEnd=124240|Gloss=3Masc|SpaceAfter=No
 13-14	shikài	_	_	_	_	_	_	_	_
-13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	10	comp:cleft	_	AlignBegin=124085|AlignEnd=124240|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
-14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	AlignBegin=124085|AlignEnd=124240|Gloss=do.Vnoun.Masc
+13	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	10	comp:cleft	_	AlignBegin=124085|AlignEnd=124240|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	AlignBegin=124085|AlignEnd=124240|Gloss=do.Vnoun.Masc
 15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=124240|AlignEnd=124399|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_035-035
@@ -1208,7 +1208,7 @@
 # text_en = He kept watering it.
 1	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=175014|AlignEnd=175165|Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=175014|AlignEnd=175165|Gloss=Prog|wordform=shinàː
-3	baː	baː	VERB	_	_	2	comp:pred	_	AlignBegin=175165|AlignEnd=175316|Gloss=give
+3	baː	baː	VERB	_	_	2	comp:aux	_	AlignBegin=175165|AlignEnd=175316|Gloss=give
 4	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	comp:obj@R	_	AlignBegin=175316|AlignEnd=175467|Gloss=3Masc
 5	ruwaː	ruwaː	NOUN	_	Number=Plur	3	comp:obj@T	_	AlignBegin=175467|AlignEnd=175618|Gloss=water.Plur
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=175618|AlignEnd=175767|Gloss=PUNCT
@@ -1224,7 +1224,7 @@
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=175937|AlignEnd=176107|Gloss=PUNCT
 3	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=176107|AlignEnd=176277|Gloss=3Masc|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=176107|AlignEnd=176277|Gloss=Prog|wordform=shinàː
-5	baː	baː	VERB	_	_	4	comp:pred	_	AlignBegin=176277|AlignEnd=176447|Gloss=give
+5	baː	baː	VERB	_	_	4	comp:aux	_	AlignBegin=176277|AlignEnd=176447|Gloss=give
 6	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj@R	_	AlignBegin=176447|AlignEnd=176617|Gloss=3Masc
 7	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp:obj@T	_	AlignBegin=176617|AlignEnd=176787|Gloss=water.Plur
 8	had	har	SCONJ	_	_	5	mod	_	AlignBegin=176787|AlignEnd=176957|Gloss=until
@@ -1308,15 +1308,15 @@
 2	>+	>+	PUNCT	_	_	4	punct	_	AlignBegin=187256|AlignEnd=187334|Gloss=PUNCT
 3	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=187334|AlignEnd=187412|Gloss=3Masc|SpaceAfter=No
 4-5	shikài	_	_	_	_	_	_	_	_
-4	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=187334|AlignEnd=187412|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
-5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	AlignBegin=187334|AlignEnd=187412|Gloss=do.Vnoun.Masc
+4	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=187334|AlignEnd=187412|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	AlignBegin=187334|AlignEnd=187412|Gloss=do.Vnoun.Masc
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=187412|AlignEnd=187490|Gloss=PUNCT
 7	hakànan	hakànan	ADV	_	_	1	conj:redup	_	AlignBegin=187490|AlignEnd=187568|Gloss=thus
 8	>+	>+	PUNCT	_	_	10	punct	_	AlignBegin=187646|AlignEnd=187724|Gloss=PUNCT
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=187724|AlignEnd=187802|Gloss=3Masc|SpaceAfter=No
 10-11	shikài	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:cleft	_	AlignBegin=187724|AlignEnd=187802|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
-11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	AlignBegin=187724|AlignEnd=187802|Gloss=do.Vnoun.Masc
+10	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:cleft	_	AlignBegin=187724|AlignEnd=187802|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:aux	_	AlignBegin=187724|AlignEnd=187802|Gloss=do.Vnoun.Masc
 12	//	//	PUNCT	_	_	1	punct	_	AlignBegin=187802|AlignEnd=187883|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_057-057
@@ -1641,8 +1641,8 @@
 # text_en = "I want to escape from the Dodo."
 1	[	[	PUNCT	_	_	3	punct	_	AlignBegin=236531|AlignEnd=236833|Gloss=PUNCT
 2	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj/m	_	AlignBegin=236833|AlignEnd=237135|Gloss=1Sing|SpaceAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=236833|AlignEnd=237135|Gloss=Prog|wordform=inàː
-4	gudù	gud-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=237135|AlignEnd=237437|Gloss=run.Vnoun.Masc|wordform=gudùn
+3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=236833|AlignEnd=237135|Gloss=Prog|wordform=inàː
+4	gudù	gud-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=237135|AlignEnd=237437|Gloss=run.Vnoun.Masc|wordform=gudùn
 5	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 6	Dòːdoː	Dòːdoː	PROPN	_	_	5	comp	_	AlignBegin=237437|AlignEnd=237739|Gloss=Dodo|wordform=dòːdoː
 7	//]	//]	PUNCT	_	_	3	punct	_	AlignBegin=237739|AlignEnd=238042|Gloss=PUNCT
@@ -2440,9 +2440,9 @@
 # text = shinàː ta cêwaː [ ayaː wàje //= ayaː wàje ] //
 # text_en = He kept crying "aya waje, aya waje!"
 1	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=339780|AlignEnd=340002|Gloss=3Masc|SpaceAfter=No
-2	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=339780|AlignEnd=340002|Gloss=Prog|wordform=shinàː
+2	nà	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=339780|AlignEnd=340002|Gloss=Prog|wordform=shinàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=340002|AlignEnd=340224|Gloss=Iter
-4	cêwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=340224|AlignEnd=340446|Gloss=say.Vnoun.Fem
+4	cêwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=340224|AlignEnd=340446|Gloss=say.Vnoun.Fem
 5	[	[	PUNCT	_	_	6	punct	_	AlignBegin=340446|AlignEnd=340668|Gloss=PUNCT
 6	ayaː	ayaː	NOUN	_	_	4	comp:obj	_	AlignBegin=340668|AlignEnd=340890|Gloss=tiger_nut
 7	wàje	wàje	ADV	_	_	6	flat@name	_	AlignBegin=340890|AlignEnd=341112|Gloss=outside
@@ -2562,8 +2562,8 @@
 7	wànzamìː	wànzamìː	NOUN	_	Gender=Masc	5	conj:appos	_	AlignBegin=354357|AlignEnd=354510|Gloss=barber.Masc
 8	<	<	PUNCT	_	_	5	punct	_	AlignBegin=354510|AlignEnd=354663|Gloss=PUNCT
 9	a-	a-	PRON	_	Person=4|PronType=Prs	10	subj/m	_	AlignBegin=354663|AlignEnd=354816|Gloss=4|SpaceAfter=No
-10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	AlignBegin=354663|AlignEnd=354816|Gloss=Prog|wordform=anàː
-11	kirà	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	AlignBegin=354816|AlignEnd=354969|GenderAf=Masc|Gloss=call.Vnoun.Masc|wordform=kiràn
+10	nàː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	AlignBegin=354663|AlignEnd=354816|Gloss=Prog|wordform=anàː
+11	kirà	kir-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	AlignBegin=354816|AlignEnd=354969|GenderAf=Masc|Gloss=call.Vnoun.Masc|wordform=kiràn
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 13	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	12	comp:obj/m	_	Gloss=2Masc.Gen|SpaceBefore=No
 14	//]	//]	PUNCT	_	_	10	punct	_	AlignBegin=354969|AlignEnd=355122|Gloss=PUNCT
@@ -2614,7 +2614,7 @@
 2	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=361911|AlignEnd=362178|Gloss=Prog|wordform=shinàː
 3-4	tai	_	_	_	_	_	_	_	_
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=362178|AlignEnd=362445|Gloss=Iter
-4	yi	yi	VERB	_	_	2	comp:pred	_	AlignBegin=362178|AlignEnd=362445|Gloss=do
+4	yi	yi	VERB	_	_	2	comp:aux	_	AlignBegin=362178|AlignEnd=362445|Gloss=do
 5	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=362445|AlignEnd=362712|Gloss=3Masc.Ben
 6	askì	askìː	NOUN	_	Gender=Masc	4	comp:pred	_	AlignBegin=362712|AlignEnd=362979|Compound=Yes|Gloss=shaving.Masc|wordform=askìn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -2624,7 +2624,7 @@
 11	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis:conj	_	AlignBegin=363513|AlignEnd=363780|Gloss=Prog|wordform=shinàː
 12-13	tai	_	_	_	_	_	_	_	_
 12	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	13	mod	_	AlignBegin=363780|AlignEnd=364047|Gloss=Iter
-13	yi	yi	VERB	_	_	11	comp:pred	_	AlignBegin=363780|AlignEnd=364047|Gloss=do
+13	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=363780|AlignEnd=364047|Gloss=do
 14	mà	mà	ADP	_	Case=Dat	13	comp:obl	_	AlignBegin=364047|AlignEnd=364314|Gloss=Dat
 15	Dòːdoː	Dòːdoː	PROPN	_	_	14	comp	_	AlignBegin=364314|AlignEnd=364581|Gloss=Dodo|wordform=dòːdoː
 16	askì	askìː	NOUN	_	Gender=Masc	13	comp:pred	_	AlignBegin=364581|AlignEnd=364848|Compound=Yes|Gloss=shaving.Masc|wordform=askìn

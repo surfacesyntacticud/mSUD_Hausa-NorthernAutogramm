@@ -34,8 +34,8 @@
 8	kwaːnaː	kwaːna-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp	_	AlignBegin=11680|AlignEnd=11856|Gloss=lie_down.Vnoun.Masc
 9	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	10	subj/m	_	AlignBegin=12032|AlignEnd=12208|Gloss=2Masc|SpaceAfter=No
 10-11	ka	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	comp:cleft	_	AlignBegin=12032|AlignEnd=12208|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kakà
-11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	AlignBegin=12032|AlignEnd=12208|Gloss=do.Vnoun.Masc
+10	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=12032|AlignEnd=12208|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kakà
+11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	AlignBegin=12032|AlignEnd=12208|Gloss=do.Vnoun.Masc
 12	//	//	PUNCT	_	_	6	punct	_	AlignBegin=12208|AlignEnd=12380|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_03
@@ -360,7 +360,7 @@
 4	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	3	comp	_	AlignBegin=62904|AlignEnd=63060|Gloss=3Fem.Nom
 5	a-	a-	PRON	_	Person=4|PronType=Prs	6	subj/m	_	AlignBegin=63060|AlignEnd=63216|Gloss=4|SpaceAfter=No
 6	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=63060|AlignEnd=63216|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-7	koːyàː	koːy-	VERB	_	_	6	comp:pred	_	AlignBegin=63216|AlignEnd=63372|Gloss=teach
+7	koːyàː	koːy-	VERB	_	_	6	comp:aux	_	AlignBegin=63216|AlignEnd=63372|Gloss=teach
 8	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	comp:obl	_	AlignBegin=63372|AlignEnd=63528|Gloss=3Plur.Ben
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=63528|AlignEnd=63684|Gloss=PUNCT
 
@@ -373,7 +373,7 @@
 # text_en = They teach them Hausa with this type of tales.
 1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	AlignBegin=63684|AlignEnd=63840|Gloss=4|SpaceAfter=No
 2	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	0	root	_	AlignBegin=63684|AlignEnd=63840|Gloss=Prog.Rel|wordform=akà
-3	koːyàː	koːy-	VERB	_	_	2	comp:pred	_	AlignBegin=63840|AlignEnd=63996|Gloss=teach
+3	koːyàː	koːy-	VERB	_	_	2	comp:aux	_	AlignBegin=63840|AlignEnd=63996|Gloss=teach
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=63996|AlignEnd=64152|Gloss=3Plur.Dat
 5	Hausa	Hausa	PROPN	_	_	3	comp:obj	_	AlignBegin=64152|AlignEnd=64308|Gloss=Hausa
 6	dà	dà	CCONJ	_	_	7	cc	_	AlignBegin=64463|AlignEnd=64663|Gloss=and
@@ -397,7 +397,7 @@
 5	>+	>+	PUNCT	_	_	7	punct	_	AlignBegin=66183|AlignEnd=66363|Gloss=PUNCT
 6	a-	a-	PRON	_	Person=4|PronType=Prs	7	subj/m	_	AlignBegin=66363|AlignEnd=66543|Gloss=4|SpaceAfter=No
 7	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	4	comp:cleft	_	AlignBegin=66363|AlignEnd=66543|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-8	koːyàː	koːy-	VERB	_	_	7	comp:pred	_	AlignBegin=66543|AlignEnd=66723|Gloss=teach
+8	koːyàː	koːy-	VERB	_	_	7	comp:aux	_	AlignBegin=66543|AlignEnd=66723|Gloss=teach
 9	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	comp:obl	_	AlignBegin=66903|AlignEnd=67083|Gloss=3Plur.Dat
 10	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	comp:obj@T	_	AlignBegin=67083|AlignEnd=67263|Gloss=3Fem.Nom
 11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=67263|AlignEnd=67445|Gloss=PUNCT
@@ -431,8 +431,8 @@
 10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	reparandum	_	AlignBegin=70201|AlignEnd=70523|Gloss=Prog|wordform=shinàː=
 11	||	||	PUNCT	_	_	10	punct	_	AlignBegin=70523|AlignEnd=70845|Gloss=PUNCT
 12	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=70845|AlignEnd=71167|Gloss=3Masc|SpaceAfter=No
-13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=70845|AlignEnd=71167|Gloss=Prog|wordform=shinàː
-14	koːyò	koːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:pred	_	AlignBegin=71167|AlignEnd=71489|Gloss=learn.Vnoun.Masc|wordform=koːyòn
+13	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=70845|AlignEnd=71167|Gloss=Prog|wordform=shinàː
+14	koːyò	koːy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	AlignBegin=71167|AlignEnd=71489|Gloss=learn.Vnoun.Masc|wordform=koːyòn
 15	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	14	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 16	kàːràːtu	karant-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	15	comp	_	AlignBegin=71489|AlignEnd=71811|Compound=Yes|Gloss=read.Vnoun.Masc|wordform=kàːràːtun
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -507,7 +507,7 @@
 3	ɓiki	ɓiki	NOUN	_	Gender=Masc	2	comp	_	AlignBegin=108828|AlignEnd=109195|Gloss=shit.Masc
 4	nàː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	AlignBegin=109195|AlignEnd=109562|Gloss=Emph.Masc/Plur
 5	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	0	root	_	AlignBegin=109562|AlignEnd=109929|Gloss=Prog.Rel
-6	yi	yi	VERB	_	_	5	comp:pred	_	AlignBegin=109929|AlignEnd=110296|ClauseType=Rel|Gloss=do|RelRole=mod
+6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=109929|AlignEnd=110296|ClauseType=Rel|Gloss=do|RelRole=mod
 7	mà	mà	ADP	_	Case=Dat	6	comp:obl	_	AlignBegin=110296|AlignEnd=110663|Gloss=Dat
 8	sàràkkuwaː	sìrikiː	NOUN	_	_	7	comp	_	AlignBegin=110663|AlignEnd=111030|GenderAf=Masc|Gloss=in-la|wordfrom=sàràkkuwaːtai
 9	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -531,8 +531,8 @@
 7	hwaɗì	hwaɗ-	VERB	_	_	6	comp:aux	_	AlignBegin=116420|AlignEnd=116767|Gloss=tell
 8	||	||	PUNCT	_	_	10	punct	_	AlignBegin=116767|AlignEnd=117114|Gloss=PUNCT
 9	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=117114|AlignEnd=117461|Gloss=3Masc|SpaceAfter=No
-10	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	conj:reform	_	AlignBegin=117114|AlignEnd=117461|Gloss=Prog|wordform=shinàː
-11	hwaɗìː	hwaɗ-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:pred	_	AlignBegin=117461|AlignEnd=117808|Gloss=tell.Vnoun.Masc
+10	nàː	nàː	AUX	_	Aspect=Prog	6	conj:reform	_	AlignBegin=117114|AlignEnd=117461|Gloss=Prog|wordform=shinàː
+11	hwaɗìː	hwaɗ-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	AlignBegin=117461|AlignEnd=117808|Gloss=tell.Vnoun.Masc
 12	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=117808|AlignEnd=118155|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_02_GKB_28
@@ -1167,8 +1167,8 @@
 3	cân	can	ADV	_	Deixis=Remt|PronType=Dem	2	comp:pred	_	AlignBegin=221797|AlignEnd=222123|Gloss=Rmt
 4	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=222123|AlignEnd=222449|Gloss=PUNCT
 5	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=222449|AlignEnd=222775|Gloss=3Masc|SpaceAfter=No
-6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	parataxis:conj	_	AlignBegin=222449|AlignEnd=222775|Gloss=Prog|wordform=shinàː
-7	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=222775|AlignEnd=223101|Gloss=eat.Vnoun.Masc|wordform=cîn
+6	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	AlignBegin=222449|AlignEnd=222775|Gloss=Prog|wordform=shinàː
+7	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	AlignBegin=222775|AlignEnd=223101|Gloss=eat.Vnoun.Masc|wordform=cîn
 8	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 9	mùzuːruː	mùzuːruː	NOUN	_	Gender=Masc	8	comp	_	AlignBegin=223101|AlignEnd=223427|Gloss=cat.Masc
 10	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=223427|AlignEnd=223753|Gloss=PUNCT

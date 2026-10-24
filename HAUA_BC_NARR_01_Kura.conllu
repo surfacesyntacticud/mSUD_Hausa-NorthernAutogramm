@@ -49,8 +49,8 @@
 # text = shi-nàː tàhiyàː-t-ai dà jàlloː-n-ai //
 # text_en = He was walking with his stick.
 1	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=18058|AlignEnd=19230|Gloss=3Masc|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=18058|AlignEnd=19230|Gloss=Prog|wordform=shinàː
-3	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=19230|AlignEnd=20402|CaseAf=Gen|GenderAf=Masc|Gloss=go.Vnoun.Fem|PersonAf=3|PronTypeAf=Prs|wordform=tàhiyàːtai
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=18058|AlignEnd=19230|Gloss=Prog|wordform=shinàː
+3	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=19230|AlignEnd=20402|CaseAf=Gen|GenderAf=Masc|Gloss=go.Vnoun.Fem|PersonAf=3|PronTypeAf=Prs|wordform=tàhiyàːtai
 4	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	mod/m	_	Gloss=Gen.Fem|SpaceBefore=No
 5	-ai	-ai	PART	_	Case=Gen|Gender=Masc|PartType=Case|Person=3|PronType=Prs	4	comp	_	Gloss=3Masc.Gen|SpaceBefore=No
 6	dà	dà	ADP	_	_	3	mod	_	AlignBegin=20402|AlignEnd=21574|Gloss=with
@@ -117,8 +117,8 @@
 # text = tanàː sôn tà ciː shì //
 # text_en = She wanted to eat him.
 1	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=31645|AlignEnd=31831|Gloss=3Fem|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=31645|AlignEnd=31831|Gloss=Prog|wordform=tanàː
-3	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=31831|AlignEnd=32017|Gloss=want.Vnoun.Masc|wordform=sôn
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=31645|AlignEnd=31831|Gloss=Prog|wordform=tanàː
+3	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=31831|AlignEnd=32017|Gloss=want.Vnoun.Masc|wordform=sôn
 4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=32017|AlignEnd=32203|Gloss=3Fem|SpaceAfter=No|wordform=tà
 6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
@@ -134,8 +134,8 @@
 # text = ta- nàː sôn tà= ciː shì |r ta- nàː sôn tà= ciː shì |r ta- nàː sôn tà= ciː shì har sunkà= kai gà bàːki-n tabkìː //
 # text_en = She kept wanting to eat him until they reached the bank of the river.
 1	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=32762|AlignEnd=32953|Gloss=3Fem|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=32762|AlignEnd=32953|Gloss=Prog|wordform=tanàː
-3	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=32953|AlignEnd=33144|Gloss=want.Vnoun.Masc|wordform=sôn
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=32762|AlignEnd=32953|Gloss=Prog|wordform=tanàː
+3	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=32953|AlignEnd=33144|Gloss=want.Vnoun.Masc|wordform=sôn
 4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=33144|AlignEnd=33335|Gloss=3Fem|SpaceAfter=No|wordform=tà
 6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
@@ -143,8 +143,8 @@
 8	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=33526|AlignEnd=33717|Gloss=3Masc
 9	|r	|r	PUNCT	_	_	11	punct	_	AlignBegin=33717|AlignEnd=33908|Gloss=PUNCT
 10	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=33908|AlignEnd=34099|Gloss=3Fem|SpaceAfter=No
-11	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:redup	_	AlignBegin=33908|AlignEnd=34099|Gloss=Prog|wordform=tanàː
-12	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:pred	_	AlignBegin=34099|AlignEnd=34290|Gloss=want.Vnoun.Masc|wordform=sôn
+11	nàː	nàː	AUX	_	Aspect=Prog	2	conj:redup	_	AlignBegin=33908|AlignEnd=34099|Gloss=Prog|wordform=tanàː
+12	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	AlignBegin=34099|AlignEnd=34290|Gloss=want.Vnoun.Masc|wordform=sôn
 13	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 14	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=34290|AlignEnd=34481|Gloss=3Fem|SpaceAfter=No|wordform=tà
 15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
@@ -152,8 +152,8 @@
 17	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	comp:obj	_	AlignBegin=34672|AlignEnd=34863|Gloss=3Masc
 18	|r	|r	PUNCT	_	_	20	punct	_	AlignBegin=34863|AlignEnd=35054|Gloss=PUNCT
 19	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	AlignBegin=35054|AlignEnd=35245|Gloss=3Fem|SpaceAfter=No
-20	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	11	conj:redup	_	AlignBegin=35054|AlignEnd=35245|Gloss=Prog|wordform=tanàː
-21	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:pred	_	AlignBegin=35245|AlignEnd=35436|Gloss=want.Vnoun.Masc|wordform=sôn
+20	nàː	nàː	AUX	_	Aspect=Prog	11	conj:redup	_	AlignBegin=35054|AlignEnd=35245|Gloss=Prog|wordform=tanàː
+21	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	AlignBegin=35245|AlignEnd=35436|Gloss=want.Vnoun.Masc|wordform=sôn
 22	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	AlignBegin=35436|AlignEnd=35627|Gloss=3Fem|SpaceAfter=No|wordform=tà
 24	_̀	_̀	AUX	_	Copula=No|Mood=Sub	22	comp	_	Gloss=Sub|wordform=_̀=
@@ -182,8 +182,8 @@
 4	ga	gan-	VERB	_	_	3	comp:aux	_	AlignBegin=38494|AlignEnd=38783|Gloss=see
 5	dai	dai	PART	_	PartType=Top	4	discourse@top	_	AlignBegin=38783|AlignEnd=39072|Gloss=indeed
 6	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=39072|AlignEnd=39361|Gloss=3Fem|SpaceAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	comp:obj	_	AlignBegin=39072|AlignEnd=39361|Gloss=Prog|wordform=tanàː
-8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:pred	_	AlignBegin=39361|AlignEnd=39650|Gloss=want.Vnoun.Masc|wordform=sôn
+7	nàː	nàː	AUX	_	Aspect=Prog	4	comp:obj	_	AlignBegin=39072|AlignEnd=39361|Gloss=Prog|wordform=tanàː
+8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=39361|AlignEnd=39650|Gloss=want.Vnoun.Masc|wordform=sôn
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=39650|AlignEnd=39939|Gloss=3Fem|SpaceAfter=No|wordform=tà
 11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
@@ -354,8 +354,8 @@
 # text_en = As she was eating, the student got up from the water.
 1	koːdà	koːdà	SCONJ	_	_	9	mod	_	AlignBegin=68350|AlignEnd=68612|Gloss=just_as
 2	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=68874|AlignEnd=69136|Gloss=3Fem|SpaceAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp	_	AlignBegin=68874|AlignEnd=69136|Gloss=Prog.Rel|wordform=takà
-4	cânyeːwàː	ci	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=69136|AlignEnd=69398|Gloss=eat.Vnoun.Fem
+3	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	comp	_	AlignBegin=68874|AlignEnd=69136|Gloss=Prog.Rel|wordform=takà
+4	cânyeːwàː	ci	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=69136|AlignEnd=69398|Gloss=eat.Vnoun.Fem
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=69136|AlignEnd=69398|Gloss=PUNCT
 6	sa’ànnan	sa’ànnan	ADV	_	_	9	mod	_	AlignBegin=69398|AlignEnd=69660|Gloss=then
 7	àlmaːjìriː	àlmaːjìriː	NOUN	_	Gender=Masc	9	subj	_	AlignBegin=69922|AlignEnd=70184|Gloss=student.Masc
@@ -521,8 +521,8 @@
 4	matsàː	mats-	VERB	_	_	3	comp:aux	_	AlignBegin=93918|AlignEnd=94140|Gloss=press
 5	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=94140|AlignEnd=94362|Gloss=3Masc.Dat
 6	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=94362|AlignEnd=94584|Gloss=3Fem|SpaceAfter=No
-7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis:conj	_	AlignBegin=94362|AlignEnd=94584|Gloss=Prog|wordform=tanàː
-8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:pred	_	AlignBegin=94584|AlignEnd=94806|Gloss=want.Vnoun.Masc|wordform=sôn
+7	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis:conj	_	AlignBegin=94362|AlignEnd=94584|Gloss=Prog|wordform=tanàː
+8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=94584|AlignEnd=94806|Gloss=want.Vnoun.Masc|wordform=sôn
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=94806|AlignEnd=95028|Gloss=3Fem|SpaceAfter=No|wordform=tà
 11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
@@ -593,8 +593,8 @@
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	AlignBegin=105938|AlignEnd=106174|Gloss=say
 16	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	15	comp:obl	_	AlignBegin=106174|AlignEnd=106410|Gloss=3Plur.Dat
 17	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	18	subj/m	_	AlignBegin=106410|AlignEnd=106646|Gloss=1Sing|SpaceAfter=No
-18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	AlignBegin=106410|AlignEnd=106646|Gloss=Prog|wordform=inàː
-19	ɓaːcìː	ɓaːt-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:pred	_	AlignBegin=106646|AlignEnd=106882|Gloss=insult.Vnoun.Masc|wordform=ɓaːcìnsu
+18	nàː	nàː	AUX	_	Aspect=Prog	15	comp:obj	_	AlignBegin=106410|AlignEnd=106646|Gloss=Prog|wordform=inàː
+19	ɓaːcìː	ɓaːt-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	comp:aux	_	AlignBegin=106646|AlignEnd=106882|Gloss=insult.Vnoun.Masc|wordform=ɓaːcìnsu
 20	-n	-n	PART	_	Case=Gen|PartType=Case	19	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 21	-ta	-su	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	comp	_	Gloss=3Plur|SpaceBefore=No
 22	!//]	!//]	PUNCT	_	_	6	punct	_	AlignBegin=106882|AlignEnd=107118|Gloss=PUNCT
@@ -623,8 +623,8 @@
 14	cân	can	ADV	_	Deixis=Remt|PronType=Dem	10	comp:pred	_	AlignBegin=112182|AlignEnd=112458|Gloss=Rmt
 15	//=	//=	PUNCT	_	_	17	punct	_	AlignBegin=112458|AlignEnd=112734|Gloss=PUNCT
 16	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	17	subj/m	_	AlignBegin=112734|AlignEnd=113010|Gloss=3Masc|SpaceAfter=No
-17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	parataxis:conj	_	AlignBegin=112734|AlignEnd=113010|Gloss=Prog|wordform=shinàː
-18	ɓaːcì	ɓaːt-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:pred	_	AlignBegin=113010|AlignEnd=113286|Gloss=insult.Vnoun.Masc|wordform=ɓaːcìnku
+17	nàː	nàː	AUX	_	Aspect=Prog	10	parataxis:conj	_	AlignBegin=112734|AlignEnd=113010|Gloss=Prog|wordform=shinàː
+18	ɓaːcì	ɓaːt-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	17	comp:aux	_	AlignBegin=113010|AlignEnd=113286|Gloss=insult.Vnoun.Masc|wordform=ɓaːcìnku
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 20	-ku	-ku	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	19	comp	_	Gloss=2Plur.Gen|SpaceBefore=No
 21	//]	//]	PUNCT	_	_	10	punct	_	AlignBegin=113286|AlignEnd=113562|Gloss=PUNCT
@@ -694,38 +694,38 @@
 # text_en = He said "Here you fall, here you break ; here you fall, here you break ; here you fall, here you break."
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=120060|AlignEnd=120261|Gloss=then
 2	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=120261|AlignEnd=120462|Gloss=3Masc|SpaceAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=120261|AlignEnd=120462|Gloss=Prog|wordform=shinàː
-4	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=120462|AlignEnd=120663|Gloss=say.Vnoun.Fem
+3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=120261|AlignEnd=120462|Gloss=Prog|wordform=shinàː
+4	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=120462|AlignEnd=120663|Gloss=say.Vnoun.Fem
 5	[	[	PUNCT	_	_	6	punct	_	AlignBegin=120663|AlignEnd=120864|Gloss=PUNCT
 6	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	4	comp:obj	_	AlignBegin=120864|AlignEnd=121065|Gloss=ProxS
 7	a-	a-	PRON	_	Person=4|PronType=Prs	8	subj/m	_	AlignBegin=121065|AlignEnd=121266|Gloss=4|SpaceAfter=No
-8	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	comp:cleft	_	AlignBegin=121065|AlignEnd=121266|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-9	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp:pred	_	AlignBegin=121266|AlignEnd=121467|Gloss=fall.Vnoun.Fem
+8	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=121065|AlignEnd=121266|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+9	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp:aux	_	AlignBegin=121266|AlignEnd=121467|Gloss=fall.Vnoun.Fem
 10	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=121467|AlignEnd=121668|Gloss=PUNCT
 11	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	6	parataxis:conj	_	AlignBegin=121668|AlignEnd=121869|Gloss=ProxS
 12	a-	a-	PRON	_	Person=4|PronType=Prs	13	subj/m	_	AlignBegin=121869|AlignEnd=122070|Gloss=4|SpaceAfter=No
-13	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	11	comp:cleft	_	AlignBegin=121869|AlignEnd=122070|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-14	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:pred	_	AlignBegin=122070|AlignEnd=122271|Gloss=break.Vnoun.Fem
+13	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	11	comp:cleft	_	AlignBegin=121869|AlignEnd=122070|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+14	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	13	comp:aux	_	AlignBegin=122070|AlignEnd=122271|Gloss=break.Vnoun.Fem
 15	//=	//=	PUNCT	_	_	16	punct	_	AlignBegin=122271|AlignEnd=122472|Gloss=PUNCT
 16	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	11	parataxis:conj	_	AlignBegin=122472|AlignEnd=122673|Gloss=ProxS
 17	a-	a-	PRON	_	Person=4|PronType=Prs	18	subj/m	_	AlignBegin=122673|AlignEnd=122874|Gloss=4|SpaceAfter=No
-18	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	16	comp:cleft	_	AlignBegin=122673|AlignEnd=122874|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-19	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp:pred	_	AlignBegin=122874|AlignEnd=123075|Gloss=fall.Vnoun.Fem
+18	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	16	comp:cleft	_	AlignBegin=122673|AlignEnd=122874|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+19	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	18	comp:aux	_	AlignBegin=122874|AlignEnd=123075|Gloss=fall.Vnoun.Fem
 20	//=	//=	PUNCT	_	_	21	punct	_	AlignBegin=123075|AlignEnd=123276|Gloss=PUNCT
 21	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	16	parataxis:conj	_	AlignBegin=123276|AlignEnd=123477|Gloss=ProxS
 22	a-	a-	PRON	_	Person=4|PronType=Prs	23	subj/m	_	AlignBegin=123477|AlignEnd=123678|Gloss=4|SpaceAfter=No
-23	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	21	comp:cleft	_	AlignBegin=123477|AlignEnd=123678|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-24	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:pred	_	AlignBegin=123678|AlignEnd=123879|Gloss=break.Vnoun.Fem
+23	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	21	comp:cleft	_	AlignBegin=123477|AlignEnd=123678|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+24	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	23	comp:aux	_	AlignBegin=123678|AlignEnd=123879|Gloss=break.Vnoun.Fem
 25	//=	//=	PUNCT	_	_	26	punct	_	AlignBegin=123879|AlignEnd=124080|Gloss=PUNCT
 26	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	21	parataxis:conj	_	AlignBegin=124080|AlignEnd=124281|Gloss=ProxS
 27	a-	a-	PRON	_	Person=4|PronType=Prs	28	subj/m	_	AlignBegin=124281|AlignEnd=124482|Gloss=4|SpaceAfter=No
-28	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	26	comp:cleft	_	AlignBegin=124281|AlignEnd=124482|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-29	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:pred	_	AlignBegin=124482|AlignEnd=124683|Gloss=fall.Vnoun.Fem
+28	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	26	comp:cleft	_	AlignBegin=124281|AlignEnd=124482|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+29	hwaːɗùwaː	hwaːɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	28	comp:aux	_	AlignBegin=124482|AlignEnd=124683|Gloss=fall.Vnoun.Fem
 30	//=	//=	PUNCT	_	_	31	punct	_	AlignBegin=124683|AlignEnd=124884|Gloss=PUNCT
 31	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	26	parataxis:conj	_	AlignBegin=124884|AlignEnd=125085|Gloss=ProxS
 32	a-	a-	PRON	_	Person=4|PronType=Prs	33	subj/m	_	AlignBegin=125085|AlignEnd=125286|Gloss=4|SpaceAfter=No
-33	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	31	comp:cleft	_	AlignBegin=125085|AlignEnd=125286|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
-34	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	33	comp:pred	_	AlignBegin=125286|AlignEnd=125487|Gloss=break.Vnoun.Fem
+33	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	31	comp:cleft	_	AlignBegin=125085|AlignEnd=125286|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+34	kankaryaː	kary-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	33	comp:aux	_	AlignBegin=125286|AlignEnd=125487|Gloss=break.Vnoun.Fem
 35	//]	//]	PUNCT	_	_	6	punct	_	AlignBegin=125487|AlignEnd=125688|Gloss=PUNCT
 36	//	//	PUNCT	_	_	3	punct	_	AlignBegin=125688|AlignEnd=125900|Gloss=PUNCT
 
@@ -844,9 +844,9 @@
 3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=139400|AlignEnd=139539|Gloss=Prog|wordform=ta
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	AlignBegin=139539|AlignEnd=139678|Gloss=PreRef|PreRef=Yes
 5	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=139678|AlignEnd=139817|Gloss=3Fem|SpaceAfter=No
-6	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	parataxis:conj	_	AlignBegin=139678|AlignEnd=139817|Gloss=Prog|wordform=tanàː
+6	nà	nàː	AUX	_	Aspect=Prog	3	parataxis:conj	_	AlignBegin=139678|AlignEnd=139817|Gloss=Prog|wordform=tanàː
 7	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	8	mod	_	AlignBegin=139817|AlignEnd=139956|Gloss=Iter
-8	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=139956|AlignEnd=140095|Gloss=eat.Vnoun.Masc|wordform=cîn
+8	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	AlignBegin=139956|AlignEnd=140095|Gloss=eat.Vnoun.Masc|wordform=cîn
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	naːmàː	naːmàː	NOUN	_	Gender=Masc	9	comp	_	AlignBegin=140095|AlignEnd=140234|Gloss=meat.Masc
 11	//=	//=	PUNCT	_	_	13	punct	_	AlignBegin=140234|AlignEnd=140373|Gloss=PUNCT
@@ -854,9 +854,9 @@
 13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	parataxis:conj	_	AlignBegin=140373|AlignEnd=140512|Gloss=Prog|wordform=ta
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	comp:pred	_	AlignBegin=140512|AlignEnd=140651|Gloss=PreRef|PreRef=Yes
 15	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	16	subj/m	_	AlignBegin=140651|AlignEnd=140790|Gloss=3Fem|SpaceAfter=No
-16	nà	nàː	AUX	_	Aspect=Prog|Copula=Yes	13	parataxis:conj	_	AlignBegin=140651|AlignEnd=140790|Gloss=Prog|wordform=tanàː
+16	nà	nàː	AUX	_	Aspect=Prog	13	parataxis:conj	_	AlignBegin=140651|AlignEnd=140790|Gloss=Prog|wordform=tanàː
 17	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	18	mod	_	AlignBegin=140790|AlignEnd=140929|Gloss=Iter
-18	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:pred	_	AlignBegin=140929|AlignEnd=141068|Compound=Yes|Gloss=eat.Vnoun.Masc|wordform=cîn
+18	cî	ci	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:aux	_	AlignBegin=140929|AlignEnd=141068|Compound=Yes|Gloss=eat.Vnoun.Masc|wordform=cîn
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 20	naːmàː	naːmàː	NOUN	_	_	19	comp	_	AlignBegin=141068|AlignEnd=141207|Gloss=meat
 21	//	//	PUNCT	_	_	3	punct	_	AlignBegin=141207|AlignEnd=141341|Gloss=PUNCT
