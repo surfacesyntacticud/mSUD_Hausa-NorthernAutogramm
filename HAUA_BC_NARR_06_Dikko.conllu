@@ -3384,7 +3384,7 @@
 11	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Masc|SpaceAfter=No
 12	nàː	nàː	AUX	_	Aspect=Prog	10	comp	_	Gloss=Prog|wordform=shinàː
 13	zaːrùmiː	zaːrùmiː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=brave
-14	nàː	neː	AUX	_	_	0	root	_	Gloss=Ident
+14	nàː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Ident
 15	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 16	àmman	àmma	CCONJ	_	_	21	cc	_	Gloss=but
 17	koː	koː	ADV	_	_	18	mod	_	Gloss=even
@@ -3695,7 +3695,7 @@
 8	àmman	àmma	CCONJ	_	_	11	cc	_	Gloss=but
 9	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	11	mod	_	Gloss=Neg
 10	nau	nau	PRON	_	Number=Plur|Person=3|PronType=Prs	11	comp:pred	_	Gloss=1Sing.Gen
-11	nàː	neː	AUX	_	_	2	conj:coord	_	Gloss=Ident
+11	nàː	neː	AUX	_	Copula=Yes	2	conj:coord	_	Gloss=Ident
 12	ba	ba	PART	_	Polarity=Neg	11	mod	_	Gloss=Neg
 13	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -3750,7 +3750,7 @@
 2	kiɗìː	kiɗìː	NOUN	_	Gender=Masc	5	subj	_	Gloss=music.Masc
 3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	Gloss=Neg
 4	nau	nau	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	Gloss=3Masc.Gen
-5	nàː	neː	AUX	_	_	0	root	_	Gloss=Ident
+5	nàː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Ident
 6	ba	ba	PART	_	Polarity=Neg	5	mod	_	Gloss=Neg
 7	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 8	àmman	àmma	CCONJ	_	_	11	cc	_	Gloss=but
@@ -6684,7 +6684,7 @@
 4	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 5	waɗàncân	cân	PRON	_	Deixis=Med|Number=Plur|PronType=Dem	7	subj	_	Gloss=Med.Plur
 6	wasu	wasu	DET	_	Definite=Spec|Number=Plur	7	comp:pred	_	Gloss=some.Plur
-7	nàː	neː	AUX	_	_	3	comp:obj	_	Gloss=Ident
+7	nàː	neː	AUX	_	Copula=Yes	3	comp:obj	_	Gloss=Ident
 8	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|wordform=.
 9	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -9251,7 +9251,7 @@
 # text = " niː nàː Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː Garbà hàlle-hàllan hàukaː Garbà hàlle-hàllan mutuwàː, kalìhandàɗiː kalìhandà àgwandà àmònoː àshindà àmànoː " .
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	comp:pred	_	Gloss=1Sing.Nom
-3	nàː	neː	AUX	_	_	0	root	_	Gloss=Ident
+3	nàː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Ident
 4	Dandà	Dandà	PROPN	_	_	3	dislocated@subj	_	Gloss=Dandà
 5	Garbaː	Garbaː	PROPN	_	_	4	flat@name	_	Gloss=Garbaː
 6	Dikkò	Dikkò	PROPN	_	_	5	flat@name	_	Gloss=Dikkò
@@ -9897,7 +9897,7 @@
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 6	“	“	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	comp:pred	_	Gloss=1Sing.Nom
-8	nàː	neː	AUX	_	_	3	comp:obj@T	_	Gloss=Ident
+8	nàː	neː	AUX	_	Copula=Yes	3	comp:obj@T	_	Gloss=Ident
 9	”	”	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -18168,7 +18168,7 @@
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	comp:pred	_	Gloss=1Sing.Nom
-6	nàː	neː	AUX	_	_	3	comp:obj	_	Gloss=Ident
+6	nàː	neː	AUX	_	Copula=Yes	3	comp:obj	_	Gloss=Ident
 7	Garbaː	Garbaː	PROPN	_	_	6	dislocated@subj	_	Gloss=Garbaː
 8	Dikkò	Dikkò	PROPN	_	_	7	flat@name	_	Gloss=Dikkò
 9	Garbà	Garbà	PROPN	_	_	7	conj:reform	_	Gloss=Garbà
