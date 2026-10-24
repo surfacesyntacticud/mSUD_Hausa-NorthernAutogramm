@@ -94,7 +94,7 @@
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=24953|AlignEnd=25142|Gloss=PUNCT
 4	in	in	SCONJ	_	_	0	root	_	AlignBegin=25142|AlignEnd=25331|Gloss=if
 5	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=25331|AlignEnd=25520|Gloss=1Sing-|SpaceAfter=No|wordform=nim
-6	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	4	comp	_	Gloss=Perf.Rel.Sing|wordform=m=
+6	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	4	comp	_	Gloss=Perf.Rel.Sing|wordform=m=
 7	mânceː	mant-	VERB	_	_	6	comp:aux	_	AlignBegin=25520|AlignEnd=25709|Gloss=forget
 8	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=25709|AlignEnd=25895|Gloss=PUNCT
 
@@ -464,7 +464,7 @@
 # text = bàri ìn ganiː //
 # text_en = Let me see.
 1	bàri	bar-	VERB	_	_	0	root	_	AlignBegin=92666|AlignEnd=92880|Gloss=let.Impr|Imperative=Yes
-2	bà	bà	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	1	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
+2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	1	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
 3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=92880|AlignEnd=93094|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 4	ganiː	gan-	VERB	_	_	2	comp:aux	_	AlignBegin=93094|AlignEnd=93308|Gloss=see
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=93308|AlignEnd=93520|Gloss=PUNCT
@@ -918,7 +918,7 @@
 # text = yac cèː [ eː //] //
 # text_en = He said "Yes."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=188087|AlignEnd=188196|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=188196|AlignEnd=188305|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=188305|AlignEnd=188414|Gloss=PUNCT
 5	eː	eː	INTJ	_	_	3	comp:obj	_	AlignBegin=188414|AlignEnd=188523|Gloss=yes
@@ -933,7 +933,7 @@
 # text = yac cèː [ wùceː !//] //
 # text_en = He said "Get in!"
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=189820|AlignEnd=189940|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=189940|AlignEnd=190060|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=190060|AlignEnd=190180|Gloss=PUNCT
 5	wùceː	wut-	VERB	_	_	3	comp:obj	_	AlignBegin=190180|AlignEnd=190300|Gloss=move.Impr|Imperative=Yes
@@ -1128,11 +1128,11 @@
 # text = yac cèː [ sun zakà //] //
 # text_en = He said "They have arrived."
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=215044|AlignEnd=215152|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=215152|AlignEnd=215260|Gloss=say
 4	[	[	PUNCT	_	_	6	punct	_	AlignBegin=215260|AlignEnd=215368|Gloss=PUNCT
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=215368|AlignEnd=215476|Gloss=3Plur-|SpaceAfter=No|wordform=sun
-6	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp:obj	_	Gloss=Perf.Plur|wordform=n=
+6	n	aː	AUX	_	Aspect=Perf|Number=Plur	3	comp:obj	_	Gloss=Perf.Plur|wordform=n=
 7	zakà	zak-	VERB	_	_	6	comp:aux	_	AlignBegin=215476|AlignEnd=215584|Gloss=arrive
 8	//]	//]	PUNCT	_	_	6	punct	_	AlignBegin=215584|AlignEnd=215692|Gloss=PUNCT
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=215692|AlignEnd=215800|Gloss=PUNCT

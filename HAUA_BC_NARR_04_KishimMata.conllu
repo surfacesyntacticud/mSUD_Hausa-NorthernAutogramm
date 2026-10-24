@@ -551,7 +551,7 @@
 # text = yaj jayèː ta //
 # text_en = He drew her under.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=82765|AlignEnd=82924|Gloss=3Masc-|SpaceAfter=No|wordform=yaj
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=j=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=j=
 3	jayèː	jaː	VERB	_	_	2	comp:aux	_	AlignBegin=82924|AlignEnd=83083|Gloss=pull
 4	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=83083|AlignEnd=83242|Gloss=3Fem
 5	//	//	PUNCT	_	_	2	punct	_	AlignBegin=83242|AlignEnd=83400|Gloss=PUNCT
@@ -2026,7 +2026,7 @@
 # text = yaz zakà //
 # text_en = He arrived there.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=279240|AlignEnd=279407|Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=z=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=z=
 3	zakà	zak-	VERB	_	_	2	comp:aux	_	AlignBegin=279407|AlignEnd=279574|Gloss=arrive
 4	//	//	PUNCT	_	_	2	punct	_	AlignBegin=279574|AlignEnd=279740|Gloss=PUNCT
 
@@ -2388,7 +2388,7 @@
 # text = yaː shigèː //
 # text_en = He had completely entered (inside the water).
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=332648|AlignEnd=332866|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	shigèː	shig-	VERB	_	_	2	comp:aux	_	AlignBegin=332866|AlignEnd=333080|Gloss=enter
 4	//	//	PUNCT	_	_	2	punct	_	AlignBegin=332866|AlignEnd=333080|Gloss=PUNCT
 
@@ -2541,7 +2541,7 @@
 # text = tak kìrai shì //
 # text_en = She called him.
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=353060|AlignEnd=353193|Gloss=3Fem-|SpaceAfter=No|wordform=tak
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=k=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=k=
 3	kìrai	kir-	VERB	_	_	2	comp:aux	_	AlignBegin=353193|AlignEnd=353326|Gloss=call
 4	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	mod	_	AlignBegin=353326|AlignEnd=353459|Gloss=3Masc
 5	//	//	PUNCT	_	_	2	punct	_	AlignBegin=353459|AlignEnd=353592|Gloss=PUNCT

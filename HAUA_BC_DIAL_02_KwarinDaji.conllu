@@ -164,7 +164,7 @@
 # text_en = Well, I don't remember.
 1	kâi	kâi	INTJ	_	_	3	discourse	_	AlignBegin=246435|AlignEnd=246703|Gloss=my!
 2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=246703|AlignEnd=246971|Gloss=1Sing|SpaceAfter=No|wordform=naː
-3	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+3	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	mânceː	mânceː	VERB	_	_	3	comp:aux	_	AlignBegin=246971|AlignEnd=247239|Gloss=forget
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=247239|AlignEnd=247508|Gloss=PUNCT
 

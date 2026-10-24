@@ -2555,10 +2555,10 @@
 2	waɗàncân	cân	PRON	_	Deixis=Med|Number=Plur|PronType=Dem	8	dislocated@subj	_	Gloss=Med.Plur
 3	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 4	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sun
-5	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp	_	Gloss=Perf.Plur|wordform=n=
+5	n	aː	AUX	_	Aspect=Perf|Number=Plur	3	comp	_	Gloss=Perf.Plur|wordform=n=
 6	ìsaː	is-	VERB	_	_	5	comp:aux	_	Gloss=reach
 7	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sun
-8	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
+8	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
 9	ìsaː	is-	VERB	_	_	8	comp:aux	_	Gloss=reach
 10	"	"	PUNCT	_	_	8	punct	_	Gloss=PUNCT|wordform=.
 11	.	.	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -2927,14 +2927,14 @@
 # text_ortho = " tôː, niː nik kaːwoː sù. "
 # text = yac cèː " tôː, niː nik kaːwoː sù . "
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 5	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	comp:obj	_	Gloss=1Sing.Nom
 8	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nik
-9	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	7	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=k=
+9	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	7	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=k=
 10	kaːwoː	kaːy-	VERB	_	_	9	comp:aux	_	ClauseType=Cleft|Gloss=bring.Dir
 11	-sù	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=-3Plur.Acc|SpaceBefore=No|wordform=sù
 12	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -4465,7 +4465,7 @@
 # text = dukà sunkà gamèː .
 1	dukà	dukà	PRON	_	PronType=Tot	3	subj	_	Gloss=all
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	gamèː	gam-	VERB	_	_	3	comp:aux	_	Gloss=finish.Res
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -4978,7 +4978,7 @@
 # text_ortho = " gwangà walàhaːlì gwangà ! "
 # text = yac cèː " gwangà walàhaːlì gwangà ! "
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	gwangà	gwangà	INTJ	_	_	3	comp:obj	_	Gloss=truly
@@ -5456,12 +5456,12 @@
 # text_ortho = yac cèː " waɗàndà nir rakkàː ? " .
 # text = ya-Ø= cèː " waɗàndà ni-Ø= rakkàː ? ".
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	waɗàndà	wandà	PRON	_	Number=Plur|PronType=Rel	3	comp:obj	_	Gloss=who.Plur|RelAnt=Yes|Relz=Word
 6	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nir
-7	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	5	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=r=
+7	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	5	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=r=
 8	rakkàː	rakk-	VERB	_	_	7	comp:aux	_	ClauseType=Rel|Gloss=escort|RelRole=obj
 9	?	?	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 10	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -5472,7 +5472,7 @@
 # text_ortho = tac cèː " wasu nàː " .
 # text = tac cèː " wasu nàː ".
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	6	subj	_	Gloss=some.Plur
@@ -5796,7 +5796,7 @@
 # text_ortho = sunkà cêː " îm ! yallà ! " .
 # text = sunkà cêː " îm ! yallà ! " .
 1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 5	îm	îm	INTJ	_	_	7	discourse	_	Gloss=îm
@@ -5857,7 +5857,7 @@
 # text = dà sun-kà= koːmoː &//
 1	dà	dà	SCONJ	_	_	0	root	_	Gloss=that|Scrap=Yes
 2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-3	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 4	koːmoː	koːm-	VERB	_	_	3	comp:aux	_	Gloss=go_back.Dir
 5	&//	&//	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -5946,11 +5946,11 @@
 # text_ortho = yac cèː " kun ganeː kù" .
 # text = yac cèː " kun ganeː kù " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	6	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
-6	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp:obj	_	Gloss=Perf.Plur|wordform=n=
+6	n	aː	AUX	_	Aspect=Perf|Number=Plur	3	comp:obj	_	Gloss=Perf.Plur|wordform=n=
 7	ganeː	gan-	VERB	_	_	6	comp:aux	_	Gloss=see
 8	-kù	-ku	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	7	comp:obj/m	_	Gloss=-2Plur.Acc|SpaceBefore=No|wordform=kù
 9	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|wordform=.
@@ -5961,11 +5961,11 @@
 # text_ortho = yac cèː " kun kaːc'èː ni" .
 # text = yac cèː " kun kaːc'èː ni " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	6	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
-6	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	comp:obj	_	Gloss=Perf.Plur|wordform=n=
+6	n	aː	AUX	_	Aspect=Perf|Number=Plur	3	comp:obj	_	Gloss=Perf.Plur|wordform=n=
 7	kaːc'èː	kaːts-	VERB	_	_	6	comp:aux	_	Gloss=snap
 8	-ni	-ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	comp:obj/m	_	Gloss=-1Sing.Acc|SpaceBefore=No|wordform=ni
 9	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|wordform=.
@@ -5977,18 +5977,18 @@
 # text = " kun ganeː kù, kun kaːc'èː ni", yac cèː .
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 2	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	3	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
-3	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
+3	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
 4	ganeː	gan-	VERB	_	_	3	comp:aux	_	Gloss=see
 5	-kù	-ka	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	4	comp:obj/m	_	Gloss=-2Masc.Acc|SpaceBefore=No|wordform=kù
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	8	subj/m	_	Gloss=2Plur-|SpaceAfter=No|wordform=kun
-8	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	3	parataxis:conj	_	Gloss=Perf.Plur|wordform=n=
+8	n	aː	AUX	_	Aspect=Perf|Number=Plur	3	parataxis:conj	_	Gloss=Perf.Plur|wordform=n=
 9	kaːc'èː	kaːts-	VERB	_	_	8	comp:aux	_	Gloss=snap
 10	-ni	-ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	comp:obj/m	_	Gloss=-1Sing.Acc|SpaceBefore=No|wordform=ni
 11	"	́"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-14	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	3	dislocated	_	Gloss=Perf.Rel.Sing|wordform=c=
+14	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	3	dislocated	_	Gloss=Perf.Rel.Sing|wordform=c=
 15	cèː	cêː	VERB	_	_	14	comp:aux	_	Gloss=say
 16	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -6679,7 +6679,7 @@
 # text_ortho = " waɗàncân wasu nàː " .
 # text = tac cèː " waɗàncân wasu nàː " .
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Fem-|SpaceAfter=No|wordform=tac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 5	waɗàncân	cân	PRON	_	Deixis=Med|Number=Plur|PronType=Dem	7	subj	_	Gloss=Med.Plur
@@ -7052,7 +7052,7 @@
 # text_ortho = sunkà cêː " nà'am ! "
 # text = sunkà cêː " nà'am ! "
 1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	nà'am	nà'am	INTJ	_	_	3	comp:obj	_	Gloss=yes
@@ -8350,10 +8350,10 @@
 # text = wandà ya-Ø= iyàː y-aː= huːtàː.
 1	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	6	subj	_	Gloss=Pron.Masc.Rel|RelAnt=Yes|Relz=Word
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya'
-3	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform='=
+3	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform='=
 4	iyàː	iy-	VERB	_	_	3	comp:aux	_	ClauseType=Rel|Gloss=can|RelRole=subj
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-6	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+6	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 7	huːtàː	fuːt-	VERB	_	_	6	comp:aux	_	Gloss=rest
 8	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -9891,7 +9891,7 @@
 # text_ortho = yac cèː mai,"niː nàː . ”
 # text = yac cèː mai,"niː nàː . ”
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	comp:obl	_	Gloss=3Masc.Dat
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -10813,7 +10813,7 @@
 # text_ortho = yats tsayàː .
 # text = yats tsayàː .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yats
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=ts=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=ts=
 3	tsayàː	tsay-	VERB	_	_	2	comp:aux	_	Gloss=stop
 4	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -11892,7 +11892,7 @@
 # text_ortho = yac cèː musù" sàlaːmù àleːkùm, sàlaːmù àleːkùm, sàlaːmù àleːkùm ! " .
 # text = yac cèː musù " sàlaːmù àleːkùm, sàlaːmù àleːkùm, sàlaːmù àleːkùm ! ".
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	Gloss=3Plur.Dat
 5	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -12020,7 +12020,7 @@
 # text_ortho = yac cèː " bìsimìllaːhi " .
 # text = yac cèː " bìsimìllaːhi " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	bìsimìllaːhi	bìsimìllaːhi	INTJ	_	_	3	comp:obj	_	Gloss=let's_start
@@ -12396,10 +12396,10 @@
 # text_ortho = yaz zoː ya' îskeː su .
 # text = yaz zoː ya' îskeː su.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yaz
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=z=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=z=
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	Gloss=go
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya'
-5	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	2	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform='=
+5	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	2	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform='=
 6	îskeː	isk-	VERB	_	_	5	comp:aux	_	Gloss=meet
 7	-su	-su	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=-3Plur.Acc|SpaceBefore=No|wordform=su
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -12776,7 +12776,7 @@
 # text_ortho = ankà ɗarmèː shi .
 # text = ankà ɗarmèː shi .
 1	an-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	ɗarmèː	ɗarm-	VERB	_	_	2	comp:aux	_	Gloss=tie
 4	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=-3Masc.Acc|SpaceBefore=No|wordform=shi
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -12886,7 +12886,7 @@
 # text_ortho = " kù ɗarmèː shi ! "
 # text = yac cèː " kù ɗarmèː shi ! "
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	6	subj/m	_	Gloss=2Plur|SpaceAfter=No|wordform=kù
@@ -12901,7 +12901,7 @@
 # text_ortho = ankà ɗarmèː wannàn .
 # text = ankà ɗarmèː wannàn.
 1	an-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	ɗarmèː	ɗarm-	VERB	_	_	2	comp:aux	_	Gloss=tie
 4	wannàn	nân	PRON	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	comp:obj	_	Gloss=ProxS.Masc
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -13100,7 +13100,7 @@
 # text_ortho = ankà gwadàː mai .
 # text = ankà gwadàː mai .
 1	an-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=4-|SpaceAfter=No|wordform=ankà
-2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	gwadàː	gwad-	VERB	_	_	2	comp:aux	_	Gloss=show
 4	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	comp:obl	_	Gloss=3Masc.Dat
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -13436,11 +13436,11 @@
 # text_ortho = yac cèː " naː shiryàː " .
 # text = yac cèː " naː shiryàː " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=naː
-6	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	3	comp:obj	_	Gloss=Perf.Sing
+6	aː	aː	AUX	_	Aspect=Perf|Number=Sing	3	comp:obj	_	Gloss=Perf.Sing
 7	shiryàː	shiry-	VERB	_	_	6	comp:aux	_	Gloss=get_ready
 8	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|wordform=.
 9	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -15162,7 +15162,7 @@
 # text_ortho = sunkà cêː " nà'am " .
 # text = sunkà cêː " nà'am " .
 1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	2	subj/m	_	Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
-2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	nà'am	nà'am	INTJ	_	_	3	comp:obj	_	Gloss=yes
@@ -16932,7 +16932,7 @@
 # text_ortho = ya' amsàː .
 # text = ya' amsàː .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=ya'
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform='=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform='=
 3	amsàː	ams-	VERB	_	_	2	comp:aux	_	Gloss=answer
 4	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -17077,7 +17077,7 @@
 # text_ortho = " tôː . "
 # text = yac cèː " tôː . "
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	tôː	tôː	INTJ	_	_	2	discourse	_	Gloss=well

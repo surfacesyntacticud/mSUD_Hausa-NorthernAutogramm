@@ -639,7 +639,7 @@
 # text = kaː jiyàː ?//
 # text_en = You see?
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=166400|AlignEnd=166761|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	jiyàː	ji	VERB	_	_	2	comp:aux	_	AlignBegin=166761|AlignEnd=167122|Gloss=hear
 4	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=167122|AlignEnd=167482|Gloss=PUNCT
 
@@ -745,7 +745,7 @@
 # text = kaː jiyàː ?//
 # text_en = You see?
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=186480|AlignEnd=186787|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	jiyàː	ji	VERB	_	_	2	comp:aux	_	AlignBegin=186787|AlignEnd=187094|Gloss=hear
 4	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=187094|AlignEnd=187400|Gloss=PUNCT
 
@@ -759,7 +759,7 @@
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=187646|AlignEnd=187804|Gloss=3Masc.Nom
 2	>+	>+	PUNCT	_	_	4	punct	_	AlignBegin=187804|AlignEnd=187962|Gloss=PUNCT
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=187962|AlignEnd=188120|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-4	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=c=
+4	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=c=
 5	ciː	ci	VERB	_	_	4	comp:aux	_	AlignBegin=188120|AlignEnd=188278|ClauseType=Cleft|Gloss=eat/conquer
 6	sù	su	PRON	_	Number=Plur|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=188278|AlignEnd=188436|Gloss=3Plur
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=188436|AlignEnd=188594|Gloss=PUNCT
@@ -772,7 +772,7 @@
 # text = kaː jiyàː ?//
 # text_en = You see?
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=188732|AlignEnd=189054|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	jiyàː	ji	VERB	_	_	2	comp:aux	_	AlignBegin=189054|AlignEnd=189376|Gloss=hear
 4	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=189376|AlignEnd=189698|Gloss=PUNCT
 
@@ -786,7 +786,7 @@
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=189741|AlignEnd=189916|Gloss=3Masc.Nom
 2	>+	>+	PUNCT	_	_	4	punct	_	AlignBegin=189916|AlignEnd=190091|Gloss=PUNCT
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=190091|AlignEnd=190266|Gloss=3Masc-|SpaceAfter=No|wordform=yac
-4	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=c=
+4	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=c=
 5	ciː	ci	VERB	_	_	4	comp:aux	_	AlignBegin=190266|AlignEnd=190441|ClauseType=Cleft|Gloss=eat/conquer
 6	sù	su	PRON	_	Number=Plur|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=190441|AlignEnd=190616|Gloss=3Plur
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=190616|AlignEnd=190793|Gloss=PUNCT
@@ -832,7 +832,7 @@
 # text = ya' iyàː musù //
 # text_en = He was stronger than them.
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=197000|AlignEnd=197175|Gloss=3Masc-|SpaceAfter=No|wordform=ya'
-2	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform='=
+2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform='=
 3	iyàː	iy-	VERB	_	_	2	comp:aux	_	AlignBegin=197175|AlignEnd=197350|Gloss=be_able
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=197350|AlignEnd=197525|Gloss=3Plur.Dat
 5	//	//	PUNCT	_	_	2	punct	_	AlignBegin=197525|AlignEnd=197700|Gloss=PUNCT
@@ -873,7 +873,7 @@
 # text = kaː jiyàː ?//
 # text_en = You see?
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=203810|AlignEnd=204060|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	jiyàː	ji	VERB	_	_	2	comp:aux	_	AlignBegin=204060|AlignEnd=204310|Gloss=hear
 4	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=204310|AlignEnd=204560|Gloss=PUNCT
 
@@ -1180,7 +1180,7 @@
 # text = kaː jiyàː ?//
 # text_en = You see?
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=261047|AlignEnd=261512|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	jiyàː	ji	VERB	_	_	2	comp:aux	_	AlignBegin=261512|AlignEnd=261977|Gloss=hear
 4	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=261977|AlignEnd=262443|Gloss=PUNCT
 
@@ -1315,7 +1315,7 @@
 # text = naː ga wànnan //
 # text_en = You see then.
 1	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=284080|AlignEnd=284345|Gloss=1Sing|SpaceAfter=No|wordform=naː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing
 3	ga	gan-	VERB	_	_	2	comp:aux	_	AlignBegin=284345|AlignEnd=284610|Gloss=see
 4	wànnan	nan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	comp:obj	_	AlignBegin=284610|AlignEnd=284875|Gloss=ProxH.Masc
 5	//	//	PUNCT	_	_	2	punct	_	AlignBegin=284875|AlignEnd=285140|Gloss=PUNCT
@@ -1471,10 +1471,10 @@
 # text_en = If you managed to leave...
 1	in	in	SCONJ	_	_	0	root	_	AlignBegin=314090|AlignEnd=314283|Gloss=if|Scrap=Yes
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=314283|AlignEnd=314476|Gloss=2Masc-|SpaceAfter=No|wordform=kac
-3	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=c=
+3	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=c=
 4	ci	ci	VERB	_	_	3	comp:aux	_	AlignBegin=314476|AlignEnd=314669|Gloss=eat
 5	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	6	subj/m	_	AlignBegin=314669|AlignEnd=314862|Gloss=2Masc-|SpaceAfter=No|wordform=kat
-6	Ø	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	3	conj:coord	_	Gloss=Perf.Rel.Sing|wordform=t=
+6	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	3	conj:coord	_	Gloss=Perf.Rel.Sing|wordform=t=
 7	tohoː	tah-	VERB	_	_	6	comp:aux	_	AlignBegin=314862|AlignEnd=315055|Gloss=go
 8	&//	&//	PUNCT	_	_	1	punct	_	AlignBegin=315055|AlignEnd=315250|Gloss=PUNCT
 
@@ -1527,7 +1527,7 @@
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=319634|AlignEnd=319772|Gloss=PUNCT
 6	dus	dukà	DET	_	ExtPos=PRON|PronType=Tot	8	mod	_	AlignBegin=319772|AlignEnd=319910|Gloss=all
 7	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=319910|AlignEnd=320048|Gloss=3Plur-|SpaceAfter=No|wordform=sun
-8	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
+8	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
 9	kaːc'èː	kaːts-	VERB	_	_	8	comp:aux	_	AlignBegin=320048|AlignEnd=320186|Gloss=wear_out
 10	//	//	PUNCT	_	_	8	punct	_	AlignBegin=320186|AlignEnd=320320|Gloss=PUNCT
 
@@ -2029,7 +2029,7 @@
 # text = kaː jiyàː ?//
 # text_en = You see?
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=410391|AlignEnd=410558|Gloss=2Masc|SpaceAfter=No|wordform=kaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	jiyàː	ji	VERB	_	_	2	comp:aux	_	AlignBegin=410558|AlignEnd=410725|Gloss=hear
 4	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=410725|AlignEnd=410891|Gloss=PUNCT
 

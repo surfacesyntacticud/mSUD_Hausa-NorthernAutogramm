@@ -511,7 +511,7 @@
 # text = ankà kaːwoː shì //
 # text_en = They brought him.
 1	an-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	AlignBegin=71040|AlignEnd=71248|Gloss=4-|SpaceAfter=No|wordform=ankà
-2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	kaːwoː	kaːy-	VERB	_	_	2	comp:aux	_	AlignBegin=71248|AlignEnd=71456|Gloss=carry
 4	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=71456|AlignEnd=71664|Gloss=3Masc
 5	//	//	PUNCT	_	_	2	punct	_	AlignBegin=71664|AlignEnd=71874|Gloss=PUNCT
