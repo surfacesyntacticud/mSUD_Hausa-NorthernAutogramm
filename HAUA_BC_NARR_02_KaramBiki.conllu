@@ -331,7 +331,7 @@
 10	cikoː	cik-	VERB	_	_	13	reparandum	_	AlignBegin=57781|AlignEnd=57987|Gloss=complete
 11	abìn	àbiː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	AlignBegin=57987|AlignEnd=58193|Gloss=thing.Masc.Def
 12	||	||	PUNCT	_	_	10	punct	_	AlignBegin=58193|AlignEnd=58399|Gloss=PUNCT
-13	cikoː	cik-	VERB	_	_	9	comp:obj	_	AlignBegin=58193|AlignEnd=58399|Gloss=fill
+13	cikoː	cik-	VERB	_	_	9	comp:aux	_	AlignBegin=58193|AlignEnd=58399|Gloss=fill
 14	abìn	àbiː	NOUN	_	Definite=Def|Gender=Masc	13	comp:obj	_	AlignBegin=58605|AlignEnd=58811|Gloss=thing.Masc.Def
 15	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	14	det	_	AlignBegin=58811|AlignEnd=59017|Gloss=ProxS
 16	shìn	shìn	ADV	_	_	6	mod	_	AlignBegin=58811|AlignEnd=59017|Gloss=Quest

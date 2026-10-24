@@ -85,7 +85,7 @@
 7	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 8	nàː	neː	PART	_	PartType=Foc	5	discourse@foc	_	Gloss=Foc
 9	ag	neː	AUX	_	Copula=Yes|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=Ident.Rel
-10	Garbà	Garbà	PROPN	_	_	9	comp:obj	_	Gloss=Garbà
+10	Garbà	Garbà	PROPN	_	_	9	comp:pred	_	Gloss=Garbà
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	uwaː	uwaː	NOUN	_	_	5	parataxis:conj	_	GenderAf=Masc|Gloss=mother.Fem|wordform=uwaːtai|wordfrom=uwaːtai
 13	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	12	mod@poss/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -102,7 +102,7 @@
 3	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 4	nàː	neː	PART	_	PartType=Foc	1	discourse@foc	_	Gloss=Foc
 5	ag	neː	AUX	_	Copula=Yes|Mood=Rel	1	comp:cleft	_	ClauseType=Cleft|Gloss=Ident.Rel
-6	Garbà	Garbà	PROPN	_	_	5	comp:obj	_	Gloss=Garbà
+6	Garbà	Garbà	PROPN	_	_	5	comp:pred	_	Gloss=Garbà
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	uwaː	uwaː	NOUN	_	_	1	parataxis:conj	_	GenderAf=Masc|Gloss=mother.Fe|wordform=uwaːt|wordfrom=uwaːtai
 9	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod@poss/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -6228,7 +6228,7 @@
 6	maulòː	maulòː	NOUN	_	Gender=Masc	5	compound	_	Gloss=guitar.Masc
 7	"	"	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	9	subj/m	_	Gloss=2Plur|SpaceAfter=No|wordform=kù
-9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	2	comp:obj	_	Gloss=Sub|wordform=_̀=
+9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	3	comp:obj	_	Gloss=Sub|wordform=_̀=
 10	tàhi	tah-	VERB	_	_	9	comp:aux	_	Gloss=go
 11	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	12	subj/m	_	Gloss=2Plur|SpaceAfter=No|wordform=kù
 12	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	parataxis:conj	_	Gloss=Sub|wordform=_̀=
@@ -6479,7 +6479,7 @@
 3	ad	neː	AUX	_	Copula=Yes|Mood=Rel	2	comp	_	ClauseType=Rel|Gloss=Ident.Rel|RelRole=subj|Relz=Affix
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	sauraː	sauraː	NOUN	_	Gender=Masc	4	comp	_	Gloss=remains.Masc
-6	gà	gà	ADP	_	_	3	comp:obl	_	Gloss=at
+6	gà	gà	ADP	_	_	5	udep	_	Gloss=at
 7	Dandà	Dandà	PROPN	_	_	6	comp	_	Gloss=Dandà
 8	Garbaː	Garbaː	PROPN	_	_	7	flat@name	_	Gloss=Garbaː
 9	Dikkò	Dikkò	PROPN	_	_	8	flat@name	_	Gloss=Dikkò
@@ -11044,10 +11044,10 @@
 9	tuːtsàː	tuːts-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	8	comp:aux	_	GenderAf=Masc|Gloss=prick.Vnoun.Fem|wordform=tuːtsàːtai|wordfrom=tuːtsàːtai
 10	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 11	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
-12	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
+12	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 13	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	14	det	_	Gloss=some.Plur
 14	c'inoːniː	c'inàː	NOUN	_	Number=Plur	12	comp	_	Gloss=sharp_weapon.Plur
-15	gà	gà	ADP	_	_	8	comp:obl	_	Gloss=at
+15	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=at
 16	kuyùɓɓaː	kwiːɓìː	NOUN	_	Number=Plur	15	comp	_	Gloss=waist.Plur
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	àmman	àmma	CCONJ	_	_	19	cc	_	Gloss=but
@@ -16621,7 +16621,7 @@
 9	makyàːyi	makyàːyiː	NOUN	_	Gender=Masc	8	comp	_	Compound=Yes|Gloss=herdsman.Masc|wordform=makyàːyin
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 11	jàkkai	jàːkiː	NOUN	_	Number=Plur	10	comp	_	Gloss=donkey.Plur
-12	àbincìː	àbincìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=food.Masc
+12	àbincìː	àbincìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=food.Masc
 13	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__789

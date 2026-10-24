@@ -193,13 +193,13 @@
 2	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=33681|AlignEnd=33862|Gloss=3Plur|SpaceAfter=No
 3	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=33681|AlignEnd=33862|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
 4	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	5	mod	_	AlignBegin=33862|AlignEnd=34043|Gloss=Iter
-5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp@aux	_	AlignBegin=34043|AlignEnd=34224|Gloss=go.Vnoun.Fem
+5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=34043|AlignEnd=34224|Gloss=go.Vnoun.Fem
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=34224|AlignEnd=34405|Gloss=PUNCT
 7	hakànan	hakànan	ADV	_	_	1	conj:redup	_	AlignBegin=34405|AlignEnd=34586|Gloss=thus
 8	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=34767|AlignEnd=34948|Gloss=3Plur|SpaceAfter=No
 9	kà	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	7	comp:cleft	_	AlignBegin=34767|AlignEnd=34948|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
 10	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	11	mod	_	AlignBegin=34948|AlignEnd=35129|Gloss=Iter
-11	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp@aux	_	AlignBegin=35129|AlignEnd=35310|Gloss=go.Vnoun.Fem
+11	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:aux	_	AlignBegin=35129|AlignEnd=35310|Gloss=go.Vnoun.Fem
 12	duh	dukà	ADV	_	ExtPos=PRON|PronType=Tot	11	mod	_	AlignBegin=35491|AlignEnd=35672|Gloss=all
 13	has	har	ADV	_	_	15	mod	_	AlignBegin=35672|AlignEnd=35853|Gloss=then
 14	sun-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	15	subj/m	_	AlignBegin=35853|AlignEnd=36034|Gloss=3Plur-|SpaceAfter=No|wordform=sunkà
