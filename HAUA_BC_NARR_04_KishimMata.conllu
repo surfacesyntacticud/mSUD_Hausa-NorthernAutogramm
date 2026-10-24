@@ -1207,7 +1207,7 @@
 # text = shinàː baː shì ruwaː //
 # text_en = He kept watering it.
 1	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=175014|AlignEnd=175165|Gloss=3Masc|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=175014|AlignEnd=175165|Gloss=Prog|wordform=shinàː
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=175014|AlignEnd=175165|Gloss=Prog|wordform=shinàː
 3	baː	baː	VERB	_	_	2	comp:pred	_	AlignBegin=175165|AlignEnd=175316|Gloss=give
 4	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	comp:obj@R	_	AlignBegin=175316|AlignEnd=175467|Gloss=3Masc
 5	ruwaː	ruwaː	NOUN	_	Number=Plur	3	comp:obj@T	_	AlignBegin=175467|AlignEnd=175618|Gloss=water.Plur
@@ -1223,7 +1223,7 @@
 1	kullun	kullun	ADV	_	_	4	mod	_	AlignBegin=175767|AlignEnd=175937|Gloss=always
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=175937|AlignEnd=176107|Gloss=PUNCT
 3	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=176107|AlignEnd=176277|Gloss=3Masc|SpaceAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=176107|AlignEnd=176277|Gloss=Prog|wordform=shinàː
+4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=176107|AlignEnd=176277|Gloss=Prog|wordform=shinàː
 5	baː	baː	VERB	_	_	4	comp:pred	_	AlignBegin=176277|AlignEnd=176447|Gloss=give
 6	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj@R	_	AlignBegin=176447|AlignEnd=176617|Gloss=3Masc
 7	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp:obj@T	_	AlignBegin=176617|AlignEnd=176787|Gloss=water.Plur

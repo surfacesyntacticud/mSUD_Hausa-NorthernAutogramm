@@ -1166,7 +1166,7 @@
 13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	12	mod	_	AlignBegin=258030|AlignEnd=258293|Gloss=Neg
 14	kuma	kuma	CCONJ	_	_	16	cc	_	AlignBegin=258556|AlignEnd=258819|Gloss=also
 15	a-	a-	PRON	_	Person=4|PronType=Prs	16	subj/m	_	AlignBegin=258819|AlignEnd=259082|Gloss=4|SpaceAfter=No
-16	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	conj:coord	_	AlignBegin=258819|AlignEnd=259082|Gloss=Prog|wordform=anàː
+16	nàː	nàː	AUX	_	Aspect=Prog	10	conj:coord	_	AlignBegin=258819|AlignEnd=259082|Gloss=Prog|wordform=anàː
 17	bâː	baː	VERB	_	_	16	comp:pred	_	AlignBegin=259082|AlignEnd=259345|Gloss=give
 18	ka	ka	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	17	comp:obj@R	_	AlignBegin=259345|AlignEnd=259608|Gloss=2Masc.Gen
 19	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	17	comp:obj@T	_	AlignBegin=259608|AlignEnd=259871|Gloss=shit.Masc
