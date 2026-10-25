@@ -65,7 +65,7 @@
 7	Galmaːwaː	Galmaːwaː	PROPN	_	_	9	dislocated@subj	_	AlignBegin=12284|AlignEnd=12515|Gloss=Galmaːwaː
 8	<	<	PUNCT	_	_	7	punct	_	AlignBegin=12515|AlignEnd=12746|Gloss=PUNCT
 9	Bàːgai	Bàːgai	PROPN	_	_	0	root	_	AlignBegin=12746|AlignEnd=12977|Gloss=Bagai|RelRole=mod
-10	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=13208|AlignEnd=13439|Gloss=3Fem|SpaceAfter=No
+10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=13208|AlignEnd=13439|Gloss=3Fem|SpaceAfter=No
 11	kè	nàː	AUX	_	Aspect=Prog	9	comp:cleft	_	AlignBegin=13208|AlignEnd=13439|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante
 12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	AlignBegin=13439|AlignEnd=13670|Gloss=follow.Part
 13	//	//	PUNCT	_	_	9	punct	_	AlignBegin=13670|AlignEnd=13900|Gloss=PUNCT
@@ -79,19 +79,19 @@
 # text_en = Well they followed Bagai for a long time.
 1	tôː	tôː	INTJ	_	_	4	discourse	_	AlignBegin=16590|AlignEnd=16828|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=16828|AlignEnd=17066|Gloss=PUNCT
-3	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17304|AlignEnd=17542|Gloss=3Plur|SpaceAfter=No
+3	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17304|AlignEnd=17542|Gloss=3Plur|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=17304|AlignEnd=17542|Gloss=Prog|wordform=su
 5	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	4	comp:pred	_	AlignBegin=17542|AlignEnd=17780|Gloss=follow.Part
 6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=17780|AlignEnd=18018|Gloss=with
 7	Bàːgai	Bàːgai	PROPN	_	_	6	comp	_	AlignBegin=18018|AlignEnd=18256|Gloss=Bàːgai
 8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=18256|AlignEnd=18494|Gloss=PUNCT
-9	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=18732|AlignEnd=18970|Gloss=3Plur|SpaceAfter=No
+9	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=18732|AlignEnd=18970|Gloss=3Plur|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	4	parataxis:conj	_	AlignBegin=18732|AlignEnd=18970|Gloss=Prog|wordform=su
 11	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	10	comp:pred	_	AlignBegin=18970|AlignEnd=19208|Gloss=follow.Part
 12	dà	dà	ADP	_	_	11	comp:obl	_	AlignBegin=19208|AlignEnd=19446|Gloss=with
 13	Bàːgai	Bàːgai	PROPN	_	_	12	comp	_	AlignBegin=19446|AlignEnd=19684|Gloss=Bàːgai
 14	//=	//=	PUNCT	_	_	16	punct	_	AlignBegin=19684|AlignEnd=19922|Gloss=PUNCT
-15	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	16	subj/m	_	AlignBegin=20160|AlignEnd=20398|Gloss=3Plur|SpaceAfter=No
+15	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	16	subj/m	_	AlignBegin=20160|AlignEnd=20398|Gloss=3Plur|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	10	parataxis:conj	_	AlignBegin=20160|AlignEnd=20398|Gloss=Prog|wordform=su
 17	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	16	comp:pred	_	AlignBegin=20398|AlignEnd=20636|Gloss=follow.Part
 18	dà	dà	ADP	_	_	17	comp:obl	_	AlignBegin=20636|AlignEnd=20874|Gloss=with
@@ -106,7 +106,7 @@
 # text = Saːrèː sunàː bìye dà Gidan Tudùː //
 # text_en = Sare was under Gidan Tudu.
 1	Saːrèː	Saːrèː	PROPN	_	_	3	subj	_	AlignBegin=22380|AlignEnd=22559|Gloss=Saːrèː
-2	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=22738|AlignEnd=22917|Gloss=3Plur|SpaceAfter=No
+2	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=22738|AlignEnd=22917|Gloss=3Plur|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=22738|AlignEnd=22917|Gloss=Prog|wordform=su
 4	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:pred	_	AlignBegin=22917|AlignEnd=23096|Gloss=follow.Part
 5	dà	dà	ADP	_	_	4	comp:obl	_	AlignBegin=23096|AlignEnd=23275|Gloss=with
@@ -813,7 +813,7 @@
 # text_ortho = su nàː baːyuːnai > kaː jiyàː ?//
 # text = su-nàː baːyuː -n -ai > k-aː jiyàː ?//
 # text_en = They are his slaves, you see?
-1	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=194794|AlignEnd=194968|Gloss=3Plur|SpaceAfter=No
+1	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=194794|AlignEnd=194968|Gloss=3Plur|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=194794|AlignEnd=194968|Gloss=Prog|wordform=su
 3	baːyuː	baːwàː	NOUN	_	_	2	comp:pred	_	AlignBegin=194968|AlignEnd=195142|Gloss=slave.Plur|wordfrom=baːyuːnai
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -844,11 +844,11 @@
 # text_ortho = shi nàː nan //= shi nàː nan |c sai yag ga cikinsù sunàː aihùwaz zàːrùmmai //
 # text = shinàː= nan //= shinàː= nan |c sai yag= ga cikin-sù sunàː= aihùwaz zàːrùmmai //
 # text_en = After a while, he saw that among them, there were good warriors.
-1	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=198780|AlignEnd=199021|Gloss=3Masc|SpaceAfter=No
+1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=198780|AlignEnd=199021|Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=198780|AlignEnd=199021|Gloss=Prog|wordform=shi
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	AlignBegin=199262|AlignEnd=199503|Gloss=PreRef|PreRef=Yes
 4	//=	//=	PUNCT	_	_	6	punct	_	AlignBegin=199503|AlignEnd=199744|Gloss=PUNCT
-5	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=199744|AlignEnd=199985|Gloss=3Masc|SpaceAfter=No
+5	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=199744|AlignEnd=199985|Gloss=3Masc|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	AlignBegin=199744|AlignEnd=199985|Gloss=Prog|wordform=shi
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp:pred	_	AlignBegin=200226|AlignEnd=200467|Gloss=PreRef|PreRef=Yes
 8	|c	|c	PUNCT	_	_	11	punct	_	AlignBegin=200467|AlignEnd=200708|Gloss=PUNCT
@@ -1194,7 +1194,7 @@
 1	àkwai	àkwai	PART	_	PartType=Pred	14	dislocated@mod	_	AlignBegin=262513|AlignEnd=262898|Gloss=there_is
 2	lòːkacìn	loːkàciː	NOUN	_	Definite=Def|Gender=Masc	1	subj	_	AlignBegin=262898|AlignEnd=263283|Gloss=time.Masc.Def|RelAnt=Yes
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=263283|AlignEnd=263668|Gloss=CompRel|Relz=Word
-4	ka-	ka	PRON	_	Copula=Yes|Gender=Masc|Person=2|PronType=Prs	5	subj/m	_	AlignBegin=263668|AlignEnd=264053|Gloss=2Masc|SpaceAfter=No
+4	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	5	subj/m	_	AlignBegin=263668|AlignEnd=264053|Gloss=2Masc|SpaceAfter=No
 5	nàː	nàː	AUX	_	Copula=Yes	3	comp	_	AlignBegin=263668|AlignEnd=264053|ClauseType=Rel|Gloss=be.Loc|RelRole=mod|wordform=ka
 6	cikin	cikin	ADP	_	_	5	comp:pred	_	AlignBegin=264053|AlignEnd=264438|Gloss=in
 7	ɗaːkì	ɗaːkìː	NOUN	_	_	6	comp	_	AlignBegin=264438|AlignEnd=264823|GenderAf=Masc|Gloss=room.Masc|wordform=ɗaːkìn

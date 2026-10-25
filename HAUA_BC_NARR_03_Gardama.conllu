@@ -155,11 +155,11 @@
 # text_en = OK, then, one day, they came and told them "Eh, one of the king's cows has got lost."
 1	shiːkèːnan	shiːkèːnan	INTJ	_	_	15	discourse	_	AlignBegin=17244|AlignEnd=17418|Gloss=OK
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=17418|AlignEnd=17592|Gloss=PUNCT
-3	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17592|AlignEnd=17766|Gloss=3Plur|SpaceAfter=No
+3	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17592|AlignEnd=17766|Gloss=3Plur|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	15	mod	_	AlignBegin=17592|AlignEnd=17766|Gloss=Prog|wordform=su
 5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	comp:pred	_	AlignBegin=17766|AlignEnd=17940|Gloss=PreRef|PreRef=Yes
 6	|r	|r	PUNCT	_	_	8	punct	_	AlignBegin=17940|AlignEnd=18114|Gloss=PUNCT
-7	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=18114|AlignEnd=18288|Gloss=3Plur|SpaceAfter=No
+7	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=18114|AlignEnd=18288|Gloss=3Plur|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	4	conj:redup	_	AlignBegin=18114|AlignEnd=18288|Gloss=Prog|wordform=su
 9	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	comp:pred	_	AlignBegin=18288|AlignEnd=18462|Gloss=PreRef|PreRef=Yes
 10	<	<	PUNCT	_	_	4	punct	_	AlignBegin=18462|AlignEnd=18636|Gloss=PUNCT
@@ -318,7 +318,7 @@
 5	cikin	cikin	ADP	_	_	4	comp:obl	_	AlignBegin=39662|AlignEnd=39896|Gloss=in
 6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp	_	AlignBegin=39896|AlignEnd=40130|Gloss=water.Plur
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40130|AlignEnd=40364|Gloss=PUNCT
-8	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=40598|AlignEnd=40832|Gloss=3Masc|SpaceAfter=No
+8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=40598|AlignEnd=40832|Gloss=3Masc|SpaceAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=40598|AlignEnd=40832|Gloss=Prog|wordform=shi
 10	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	AlignBegin=40832|AlignEnd=41066|Gloss=follow.Part
 11	dà	dà	ADP	_	_	10	comp:obl	_	AlignBegin=41066|AlignEnd=41300|Gloss=with
@@ -342,7 +342,7 @@
 7	bi	bi	VERB	_	_	6	comp:aux	_	AlignBegin=42322|AlignEnd=42462|Gloss=follow
 8	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=42462|AlignEnd=42602|Gloss=stone.Masc
 9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=42602|AlignEnd=42742|Gloss=PUNCT
-10	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=42742|AlignEnd=42882|Gloss=3Masc|SpaceAfter=No
+10	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=42742|AlignEnd=42882|Gloss=3Masc|SpaceAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=42742|AlignEnd=42882|Gloss=Prog|wordform=shi
 12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	AlignBegin=42882|AlignEnd=43022|Gloss=follow.Part
 13	dà	dà	ADP	_	_	12	comp:obl	_	AlignBegin=43022|AlignEnd=43162|Gloss=with

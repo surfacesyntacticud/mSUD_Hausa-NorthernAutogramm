@@ -232,7 +232,7 @@
 # text = tôː a- nàː nan wata shèːkaràː sai Garbà yat= tàhi yaːƙìː.
 # text_en = Well, then one year, Garba went on a raid .
 1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
-2	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
+2	a-	a	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	11	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
 5	wata	wata	DET	_	Definite=Spec|Gender=Fem	6	det	_	Gloss=some.Fem
@@ -654,11 +654,11 @@
 # text_ortho = anàː nan, anàː nan, ankà cêː Dikkò hwa, cikìː gàreː tà, jìmma'àː .
 # text = a- nàː nan, a- nàː nan, ankà= cêː Dikkò hwa, cikìː gàreː -tà, jìmma'àː.
 # text_en = After some time, they said that Dikko is pregnant, people!
-1	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
+1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
 2	nàː	nàː	AUX	_	Copula=Yes	11	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-5	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	6	subj/m	_	Gloss=4|SpaceAfter=No
+5	a-	a	PRON	_	Person=4|PronType=Prs	6	subj/m	_	Gloss=4|SpaceAfter=No
 6	nàː	nàː	AUX	_	Copula=Yes	2	conj:redup	_	Gloss=be.Loc|wordform=anàː
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp:pred	_	Gloss=PreRef|PreRef=Yes
 8	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -1338,7 +1338,7 @@
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	Gloss=3Fem|SpaceAfter=No|wordform=tag
 5	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=g=
 6	ga	gan-	VERB	_	_	5	comp:aux	_	Gloss=see
-7	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Masc|SpaceAfter=No
+7	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Masc|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	Gloss=Prog|wordform=shinàː
 9	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	10	mod	_	Gloss=Iter
 10	mòːc'iː	moːts-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=move.Vnoun.Masc
@@ -1438,11 +1438,11 @@
 # text = tôː a- nàː nan, a- nàː nan, yaːròː yag= girma ya'= iyà tàhiyàː.
 # text_en = Well, after a while, the boy grew up and was able to walk .
 1	tôː	tôː	INTJ	_	_	12	discourse	_	Gloss=well
-2	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
+2	a-	a	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	13	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-6	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	7	subj/m	_	Gloss=4|SpaceAfter=No
+6	a-	a	PRON	_	Person=4|PronType=Prs	7	subj/m	_	Gloss=4|SpaceAfter=No
 7	nàː	nàː	AUX	_	Copula=Yes	3	conj:redup	_	Gloss=be.Loc|wordform=anàː
 8	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	7	comp:pred	_	Gloss=PreRef|PreRef=Yes
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -2181,7 +2181,7 @@
 # text_en = He is going, teaching his horse to walk across rivers, to walk across big rivers, teaching him to fight and collide with horses .
 # text_ortho = shinàː tàhe shinàː koːyàː mà doːkìːnai ƙèːtaràg gyàbbuː, ƙèːtaràm mayyàn gyàbbuː, dà kòːyon hwaɗàː, dà gwabta dà doːkìː .
 # text = shi-nàː tàhe shi-nàː koːyàː mà doːkìː-n-ai ƙèːtarà-g gyàbbuː, ƙèːtarà-mmayyàn gyàbbuː, dà kòːyo-n hwaɗàː, dà gwabta dà doːkìː.
-1	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpaceAfter=No
+1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 3	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	2	comp:pred	_	Gloss=walk.Part
 4	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Masc|SpaceAfter=No
@@ -2278,7 +2278,7 @@
 1	Dandà	Dandà	PROPN	_	_	5	discourse	_	Gloss=Dandà
 2	Garbaː	Garbaː	PROPN	_	_	1	flat@name	_	Gloss=Garbaː
 3	Dikkò	Dikkò	PROPN	_	_	2	flat@name	_	Gloss=Dikkò
-4	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Masc|SpaceAfter=No
+4	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Masc|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 6	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	5	comp:pred	_	Gloss=walk.Part
 7	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Masc|SpaceAfter=No
@@ -2617,7 +2617,7 @@
 10	Dandà	Dandà	PROPN	_	_	14	mod	_	Gloss=Dandà
 11	Garbaː	Garbaː	PROPN	_	_	10	flat@name	_	Gloss=Garbaː
 12	Dikkò	Dikkò	PROPN	_	_	11	flat@name	_	Gloss=Dikkò
-13	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Masc|SpaceAfter=No
+13	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	14	subj/m	_	Gloss=3Masc|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog	6	parataxis:conj	_	Gloss=Prog|wordform=shinàː
 15	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	14	comp:pred	_	Gloss=PreRef|PreRef=Yes
 16	zamaː	zam-	VERB	_	ExtPos=NOUN	15	mod:appos	_	Gloss=stay.Vnoun|wordform=zamaːnai|wordfrom=zamaːnai
@@ -2641,7 +2641,7 @@
 # text_en = Here they were DGD [epithet] was travelling when he was told about some raiders .
 # text_ortho = anàː nan Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː Garbà hàlla-hàllan hàukaː yaː yi wata 'yat tàhiyàː sai yaj ji nàːbaːrìn wani yaːƙìː .
 # text = a- nàː nan Dandà Garbaː Dikkò Garbà Ɗiɗìː Garbà Tatìː Garbà hàlla-hàllan hàukaː yaː= yi wata 'yat tàhiyàː sai yaj= ji nàːbaːrìn wani yaːƙìː.
-1	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
+1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
 2	nàː	nàː	AUX	_	Copula=Yes	24	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	Dandà	Dandà	PROPN	_	_	16	subj	_	Gloss=Dandà
@@ -3508,11 +3508,11 @@
 # text_en = After a while, then one day, griots were playing music for him .
 # text_ortho = anàː nan, anàː nan, rân nan sai màːsu maulòː sunkà zakà sunàː yi mai kiɗìn maulòː .
 # text = a- nàː nan, a- nàː nan, rân nan sai màːsu maulòː sunkà= zakà sunàː= yi mai kiɗìn maulòː.
-1	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
+1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
 2	nàː	nàː	AUX	_	Copula=Yes	16	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-5	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	6	subj/m	_	Gloss=4|SpaceAfter=No
+5	a-	a	PRON	_	Person=4|PronType=Prs	6	subj/m	_	Gloss=4|SpaceAfter=No
 6	nàː	nàː	AUX	_	Copula=Yes	2	parataxis:conj	_	Gloss=be.Loc|wordform=anàː
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp:pred	_	Gloss=PreRef|PreRef=Yes
 8	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -3568,7 +3568,7 @@
 9	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 10	cèː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say
 11	"	"	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-12	i-	i	PRON	_	Copula=Yes|Number=Sing|Person=1|PronType=Prs	13	subj/m	_	Gloss=1Sing|SpaceAfter=No
+12	i-	i	PRON	_	Number=Sing|Person=1|PronType=Prs	13	subj/m	_	Gloss=1Sing|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	10	comp:obj	_	Gloss=Prog|wordform=inàː
 14	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 15	màganàː	màganàː	NOUN	_	Gender=Fem	14	comp	_	Gloss=speech.Fem
@@ -3996,7 +3996,7 @@
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	Gloss=3Masc|SpaceAfter=No|wordform=yat
 3	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=t=
 4	tàhi	tah-	VERB	_	_	3	comp:aux	_	Gloss=go
-5	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	Gloss=3Masc|SpaceAfter=No
+5	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	Gloss=3Masc|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog	15	parataxis:mod	_	Gloss=Prog|wordform=shinàː
 7	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:pred	_	Gloss=walk.Part
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
@@ -4341,7 +4341,7 @@
 # text_en = After a while, the sun went down, then a hornbill arrived and climbed on the tree .
 # text_ortho = anàː nan raːnaː taː hwaːɗì sai cilàkko taz zakà tah hausà iccèː .
 # text = a- nàː nan raːnaː taː= hwaːɗì sai cilàkko taz= zakà tah= hausà iccèː.
-1	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
+1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	Gloss=4|SpaceAfter=No
 2	nàː	nàː	AUX	_	Copula=Yes	12	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=PreRef|PreRef=Yes
 4	raːnaː	raːnaː	NOUN	_	_	6	subj	_	Gloss=day
@@ -4534,7 +4534,7 @@
 8	gàreː	gàreː	ADP	_	_	7	mod	_	Gloss=at
 9	-shì	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	8	comp:obj/m	_	Gloss=-3Masc.Acc|SpaceBefore=No|wordform=shì
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-11	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Masc|SpaceAfter=No
+11	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Masc|SpaceAfter=No
 12	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis:conj	_	Gloss=Prog|wordform=shinàː
 13	nàɗe	naɗ-	VERB	_	ExtPos=ADV|VerbForm=Part	12	comp:pred	_	Gloss=tie.Part
 14	cikin	cikin	ADP	_	_	13	comp:obl	_	Gloss=in
@@ -5361,7 +5361,7 @@
 # text_ortho = tôː anàː nan, wata raːnaː Dandà Garbaː Dikkò, Garbà Ɗiɗìː, Garbà Tatìː, Garbà hàlle-hàllan hàukaː, yaː ràkki wasu, màːsu maulòː suː buy sun tàhi .
 # text = tôː a- nàː nan, wata raːnaː Dandà Garbaː Dikkò, Garbà Ɗiɗìː, Garbà Tatìː, Garbà hàlle-hàllan hàukaː, yaː= ràkki wasu, màːsu maulòː suː buy sun= tàhi.
 1	tôː	tôː	INTJ	_	_	23	discourse	_	Gloss=well
-2	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
+2	a-	a	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	23	mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -6171,7 +6171,7 @@
 12	in	in	SCONJ	_	_	28	mod	_	Gloss=if
 13	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=2|PronType=Prs	14	dislocated@subj	_	Gloss=2Masc.Nom
 14	ɗai	ɗaya	NUM	_	_	12	comp	_	Gloss=one
-15	ka-	ka	PRON	_	Copula=Yes|Gender=Masc|Person=2|PronType=Prs	16	subj/m	_	Gloss=2Masc|SpaceAfter=No
+15	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	16	subj/m	_	Gloss=2Masc|SpaceAfter=No
 16	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	14	comp:cleft	_	ClauseType=Cleft|Gloss=be.Pred|wordform=kakè
 17	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 18	in	in	SCONJ	_	_	28	mod	_	Gloss=if
@@ -6850,7 +6850,7 @@
 3	ni	ni	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	subj	_	Gloss=1Sing.Acc
 4	gidaː	gidaː	NOUN	_	Gender=Masc	2	comp:pred	_	Gloss=compound.Masc
 5	àmman	àmma	CCONJ	_	_	7	cc	_	Gloss=but
-6	i-	i	PRON	_	Copula=Yes|Number=Sing|Person=1|PronType=Prs	7	subj/m	_	Gloss=1Sing|SpaceAfter=No
+6	i-	i	PRON	_	Number=Sing|Person=1|PronType=Prs	7	subj/m	_	Gloss=1Sing|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	2	conj:coord	_	Gloss=Prog|wordform=inàː
 8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 9	nàːbaːrìn	nàːbaːrìn	NOUN	_	Definite=Def|Gender=Masc	8	comp	_	Gloss=story.Masc.Def
@@ -6865,7 +6865,7 @@
 # text_ortho = "inàː dà nàːbaːrìn sunàː zakkùwaː ."
 # text = " i-nàː dà nàːbaːrì -n su-nàː zakkùwaː ".
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-2	i-	i	PRON	_	Copula=Yes|Number=Sing|Person=1|PronType=Prs	3	subj/m	_	Gloss=1Sing|SpaceAfter=No
+2	i-	i	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj/m	_	Gloss=1Sing|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=inàː
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	nàːbaːrì	nàːbaːrìː	NOUN	_	Gender=Masc	4	comp	_	Gloss=story.Masc
@@ -6881,7 +6881,7 @@
 # text_en = "I've been told they are coming, I have left a parting gift to give them in the morning if they stay for the night. "
 # text_ortho = " inàː dà nàːbaːrìn sunàː zakkùwaː, naː bar sallamàd dà zâː'a yi musù in sunkà kwan dà saːhe" .
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-2	i-	i	PRON	_	Copula=Yes|Number=Sing|Person=1|PronType=Prs	3	subj/m	_	Gloss=1Sing|SpaceAfter=No
+2	i-	i	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj/m	_	Gloss=1Sing|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=inàː
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	nàːbaːrì	nàːbaːrìː	NOUN	_	Gender=Masc	4	comp	_	Gloss=story.Masc|wordform=nàːbaːrìn
@@ -7103,7 +7103,7 @@
 6	gidaː	gidaː	NOUN	_	Gender=Masc	4	comp:obj@G	_	Gloss=compound.Masc
 7	ba	ba	PART	_	Polarity=Neg	4	mod	_	Gloss=Neg
 8	àmman	àmma	CCONJ	_	_	10	cc	_	Gloss=but
-9	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpaceAfter=No
+9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	Gloss=3Masc|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	2	conj:coord	_	Gloss=Prog|wordform=shinàː
 11	dà	dà	ADP	_	_	10	comp:pred	_	Gloss=with
 12	nàːbaːrì	nàːbaːrìn	NOUN	_	Gender=Masc	11	comp	_	Gloss=story.Masc|wordform=nàːbaːrìn
@@ -7119,7 +7119,7 @@
 # text_ortho = " shinàː dà nàːbaːrìn kunàː zakkùwaː àmman yaː bar sàllamàkku" .
 # text = " shinàː= dà nàːbaːrìn kunàː= zakkùwaː àmman yaː= bar sàllamàː-k-ku ".
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-2	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpaceAfter=No
+2	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Masc|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	nàːbaːrì	nàːbaːrìː	NOUN	_	Gender=Masc	4	comp	_	Gloss=story.Masc|wordform=nàːbaːrìn
@@ -7177,7 +7177,7 @@
 # text_ortho = " tanàː nan. "
 # text = "  tanàː nan . "
 1	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-2	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Fem|SpaceAfter=No
+2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	3	subj/m	_	Gloss=3Fem|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=tanàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
 5	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT|wordform=.
@@ -7370,7 +7370,7 @@
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	sirìddaː	sirdìː	NOUN	_	Number=Plur	21	comp:pred	_	Gloss=saddle.Plur
 23	in	in	SCONJ	_	_	21	mod	_	Gloss=if
-24	ku-	ku	PRON	_	Copula=Yes|Number=Plur|Person=2|PronType=Prs	25	subj/m	_	Gloss=2Plur|SpaceAfter=No
+24	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	25	subj/m	_	Gloss=2Plur|SpaceAfter=No
 25	nàː	nàː	AUX	_	Aspect=Prog	23	comp	_	Gloss=Prog|wordform=kunàː
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with
 27	nuhì	nùhwaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	26	comp	_	Compound=Yes|Gloss=intend_to.Vnoun.Masc|wordform=nuhìn
@@ -10075,7 +10075,7 @@
 5	cikin	cikin	ADP	_	_	4	comp:obl	_	Gloss=in
 6	ruwaː	ruwaː	NOUN	_	Number=Plur	5	comp	_	Gloss=water.Plur
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-8	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	Gloss=3Masc|SpaceAfter=No
+8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	Gloss=3Masc|SpaceAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 10	tsakar	tsakar	ADP	_	_	9	comp:pred	_	Gloss=in_the_middle_of
 11	ruwaː	ruwaː	NOUN	_	Number=Plur	10	comp	_	Gloss=water.Plur
@@ -10602,7 +10602,7 @@
 13	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 14	koː	koː	SCONJ	_	_	34	mod	_	Gloss=even_if
 15	wàndoːnai	wàndoː	PRON	_	Gender=Masc|PronType=Prs	17	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=trousers.Masc -3MascGen|MSeg=wàndoːn-ai|PersonAf=3
-16	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Masc|SpaceAfter=No
+16	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	17	subj/m	_	Gloss=3Masc|SpaceAfter=No
 17	nàː	nàː	AUX	_	Aspect=Prog	14	comp	_	Gloss=Prog|wordform=shinàː
 18	ɗàːme	ɗarm-	VERB	_	ExtPos=ADV|VerbForm=Part	17	comp:pred	_	Gloss=tie.Part
 19	gau	gau	IDEO	_	_	18	mod	_	Gloss=tight
@@ -11036,7 +11036,7 @@
 1	tabbàːshiː	tabbàːshiː	NOUN	_	_	5	subj	_	Gloss=teasing_relative.|wordform=tabbàːshiːnai|wordfrom=tabbàːshiːnai
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 3	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	2	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
-4	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Masc|SpaceAfter=No
+4	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	Gloss=3Masc|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 6	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	5	comp:pred	_	Gloss=go.Part
 7	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	subj/m	_	Gloss=3Masc|SpaceAfter=No
@@ -14132,7 +14132,7 @@
 11	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	7	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 12	soːkè	soːk-	VERB	_	_	11	comp:aux	_	Gloss=pierce
 13	kaːnuː	kâi	NOUN	_	Number=Plur	12	comp:obj	_	Gloss=head.Plur
-14	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Plur|SpaceAfter=No
+14	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	15	subj/m	_	Gloss=3Plur|SpaceAfter=No
 15	nàː	nàː	AUX	_	Aspect=Prog	11	parataxis:conj	_	Gloss=Prog|wordform=sunàː
 16	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	15	comp:pred	_	Gloss=PreRef|PreRef=Yes
 17	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -16828,7 +16828,7 @@
 17	biyoː	bi	VERB	_	_	16	comp:aux	_	Gloss=follow.Dir
 18	dà	dà	ADP	_	_	17	mod	_	Gloss=with
 19	raːna	raːnaː	ADV	_	_	18	comp	_	Gloss=daylight.Fem
-20	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	21	subj/m	_	Gloss=3Masc|SpaceAfter=No
+20	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	21	subj/m	_	Gloss=3Masc|SpaceAfter=No
 21	nàː	nàː	AUX	_	Aspect=Prog	17	parataxis:mod	_	Gloss=Prog|wordform=shinàː
 22	wuri	wuriː	NOUN	_	Gender=Masc	21	comp:aux	_	Compound=Yes|Gloss=place.Masc|wordform=wurin
 23	-n	na	PART	_	Case=Gen|PartType=Case	22	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -17807,7 +17807,7 @@
 # text_ortho = tôː anàː nan sai rân nan ɗìyas sarkiː taː tàhi wurin kai mai àbincìː .
 # text = tôː a-nàː nan sai rân nan ɗìya -s sarkiː t-aː= tàhi wuri-nkai mai àbincìː.
 1	tôː	tôː	INTJ	_	_	12	discourse	_	Gloss=well
-2	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
+2	a-	a	PRON	_	Person=4|PronType=Prs	3	subj/m	_	Gloss=4|SpaceAfter=No
 3	nàː	nàː	AUX	_	Copula=Yes	13	parataxis:mod	_	Gloss=be.Loc|wordform=anàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=PreRef|PreRef=Yes
 5	sai	sai	ADV	_	_	12	mod	_	Gloss=then

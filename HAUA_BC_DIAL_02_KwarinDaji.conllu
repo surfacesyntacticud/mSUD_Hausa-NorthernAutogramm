@@ -24,7 +24,7 @@
 18	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	19	comp:pred	_	AlignBegin=9556|AlignEnd=9922|Gloss=how
 19	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=9922|AlignEnd=10288|Gloss=Ident
 20	mutàːneː	mùtunèː	NOUN	_	Number=Plur	22	subj	_	AlignBegin=10288|AlignEnd=10654|Gloss=human.Plur
-21	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	22	subj/m	_	AlignBegin=10654|AlignEnd=11020|Gloss=3Plur|SpaceAfter=No
+21	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	22	subj/m	_	AlignBegin=10654|AlignEnd=11020|Gloss=3Plur|SpaceAfter=No
 22	kè	nàː	AUX	_	Aspect=Prog	19	comp:cleft	_	AlignBegin=10654|AlignEnd=11020|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante
 23	zàmne	zamn-	VERB	_	VerbForm=Part|Voice=Stat	22	comp:aux	_	AlignBegin=11386|AlignEnd=11752|Gloss=stay/sit.Stat
 24	?//	?//	PUNCT	_	_	19	punct	_	AlignBegin=11752|AlignEnd=12120|Gloss=PUNCT

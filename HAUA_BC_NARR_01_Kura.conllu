@@ -66,7 +66,7 @@
 # text_ortho = shinàː tàhe //
 # text = shi nàː tàhe //
 # text_en = He was walking.
-1	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=24520|AlignEnd=24687|Gloss=3Masc|SpaceAfter=No
+1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=24520|AlignEnd=24687|Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=24520|AlignEnd=24687|Gloss=Prog|wordform=shi
 3	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	2	comp:pred	_	AlignBegin=24687|AlignEnd=24854|Gloss=walk.Part
 4	//	//	PUNCT	_	_	2	punct	_	AlignBegin=24854|AlignEnd=25020|Gloss=PUNCT
@@ -78,15 +78,15 @@
 # text_ortho = shinàː tàhe |r shinàː tàhe |r shinàː tàhe //
 # text = shi nàː tàhe |r shi nàː tàhe |r shi nàː tàhe //
 # text_en = He kept walking, and walking, and walking.
-1	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=25960|AlignEnd=26133|Gloss=3Masc|SpaceAfter=No
+1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=25960|AlignEnd=26133|Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=25960|AlignEnd=26133|Gloss=Prog|wordform=shi
 3	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	2	comp:pred	_	AlignBegin=26133|AlignEnd=26306|Gloss=walk.Part
 4	|r	|r	PUNCT	_	_	6	punct	_	AlignBegin=26306|AlignEnd=26479|Gloss=PUNCT
-5	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=26479|AlignEnd=26652|Gloss=3Masc|SpaceAfter=No
+5	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=26479|AlignEnd=26652|Gloss=3Masc|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog	2	conj:redup	_	AlignBegin=26479|AlignEnd=26652|Gloss=Prog|wordform=shi
 7	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:pred	_	AlignBegin=26652|AlignEnd=26825|Gloss=walk.Part
 8	|r	|r	PUNCT	_	_	10	punct	_	AlignBegin=26825|AlignEnd=26998|Gloss=PUNCT
-9	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=26998|AlignEnd=27171|Gloss=3Masc|SpaceAfter=No
+9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=26998|AlignEnd=27171|Gloss=3Masc|SpaceAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	6	conj:redup	_	AlignBegin=26998|AlignEnd=27171|Gloss=Prog|wordform=shi
 11	tàhe	tah-	VERB	_	ExtPos=ADV|VerbForm=Part	10	comp:pred	_	AlignBegin=27171|AlignEnd=27344|Gloss=walk.Part
 12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=27344|AlignEnd=27521|Gloss=PUNCT
@@ -465,25 +465,25 @@
 # text_ortho = tanàː bìye dà shiː |r tanàː bìye dà shiː |r tanàː bìye dà shiː |r tanàː bìye dà shiː //
 # text = ta nàː bìye dà shiː |r ta nàː bìye dà shiː |r ta nàː bìye dà shiː |r ta nàː bìye dà shiː //
 # text_en = She kept following him.
-1	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=87259|AlignEnd=87377|Gloss=3Fem|SpaceAfter=No
+1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=87259|AlignEnd=87377|Gloss=3Fem|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=87259|AlignEnd=87377|Gloss=Prog|wordform=ta
 3	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	2	comp:pred	_	AlignBegin=87377|AlignEnd=87495|Gloss=follow.Part
 4	dà	dà	ADP	_	_	3	comp:obl	_	AlignBegin=87495|AlignEnd=87613|Gloss=with
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	comp	_	AlignBegin=87613|AlignEnd=87731|Gloss=3Masc.Nom
 6	|r	|r	PUNCT	_	_	8	punct	_	AlignBegin=87731|AlignEnd=87849|Gloss=PUNCT
-7	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=87849|AlignEnd=87967|Gloss=3Fem|SpaceAfter=No
+7	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=87849|AlignEnd=87967|Gloss=3Fem|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	2	conj:redup	_	AlignBegin=87849|AlignEnd=87967|Gloss=Prog|wordform=ta
 9	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	8	comp:pred	_	AlignBegin=87967|AlignEnd=88085|Gloss=follow.Part
 10	dà	dà	ADP	_	_	9	comp:obl	_	AlignBegin=88085|AlignEnd=88203|Gloss=with
 11	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	comp	_	AlignBegin=88203|AlignEnd=88321|Gloss=3Masc.Nom
 12	|r	|r	PUNCT	_	_	14	punct	_	AlignBegin=88321|AlignEnd=88439|Gloss=PUNCT
-13	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=88439|AlignEnd=88557|Gloss=3Fem|SpaceAfter=No
+13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=88439|AlignEnd=88557|Gloss=3Fem|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog	8	conj:redup	_	AlignBegin=88439|AlignEnd=88557|Gloss=Prog|wordform=ta
 15	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	14	comp:pred	_	AlignBegin=88557|AlignEnd=88675|Gloss=follow.Part
 16	dà	dà	ADP	_	_	15	comp:obl	_	AlignBegin=88675|AlignEnd=88793|Gloss=with
 17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	comp	_	AlignBegin=88793|AlignEnd=88911|Gloss=3Masc.Nom
 18	|r	|r	PUNCT	_	_	20	punct	_	AlignBegin=88911|AlignEnd=89029|Gloss=PUNCT
-19	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	AlignBegin=89029|AlignEnd=89147|Gloss=3Fem|SpaceAfter=No
+19	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	20	subj/m	_	AlignBegin=89029|AlignEnd=89147|Gloss=3Fem|SpaceAfter=No
 20	nàː	nàː	AUX	_	Aspect=Prog	14	conj:redup	_	AlignBegin=89029|AlignEnd=89147|Gloss=Prog|wordform=ta
 21	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	20	comp:pred	_	AlignBegin=89147|AlignEnd=89265|Gloss=follow.Part
 22	dà	dà	ADP	_	_	21	comp:obl	_	AlignBegin=89265|AlignEnd=89383|Gloss=with
@@ -498,7 +498,7 @@
 # text = sai shinàː cikin tàhiyàː sai yac c'ìnkai //
 # text_en = Then, as he was walking, he saw her.
 1	sai	sai	ADV	_	_	8	mod	_	AlignBegin=90506|AlignEnd=90877|Gloss=until
-2	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=90877|AlignEnd=91248|Gloss=3Masc|SpaceAfter=No
+2	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=90877|AlignEnd=91248|Gloss=3Masc|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	8	mod	_	AlignBegin=90877|AlignEnd=91248|Gloss=Prog|wordform=shi
 4	cikin	cikin	ADP	_	_	3	comp:pred	_	AlignBegin=91248|AlignEnd=91619|Gloss=in
 5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	4	comp	_	AlignBegin=91619|AlignEnd=91990|Gloss=go.Vnoun.Fem
@@ -561,7 +561,7 @@
 # text = giːwàːyeː su nàː tsàye suː dà yawàː //
 # text_en = There were many elephants standing there.
 1	giːwàːyeː	giːwaː	NOUN	_	Number=Plur	3	subj	_	AlignBegin=100122|AlignEnd=100402|Gloss=elephant.Plur
-2	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=100402|AlignEnd=100682|Gloss=3Plur|SpaceAfter=No
+2	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=100402|AlignEnd=100682|Gloss=3Plur|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=100402|AlignEnd=100682|Gloss=Prog|wordform=su
 4	tsàye	tsay-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:pred	_	AlignBegin=100682|AlignEnd=100962|Gloss=stop.Part
 5	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	dislocated@subj	_	AlignBegin=100962|AlignEnd=101242|Gloss=3Plur.Nom
@@ -840,7 +840,7 @@
 # text = ita ta-nàː nan ta-nà ta cî-n naːmàː //=ta-nàː nan ta-nà ta cî-n naːmàː //
 # text_en = She kept eating and eating the meat.
 1	ita	ita	PRON	_	Gender=Fem|Person=3|PronType=Prs	3	subj	_	AlignBegin=139400|AlignEnd=139539|Gloss=3Fem
-2	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=139400|AlignEnd=139539|Gloss=3Fem|SpaceAfter=No
+2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=139400|AlignEnd=139539|Gloss=3Fem|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=139400|AlignEnd=139539|Gloss=Prog|wordform=ta
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	AlignBegin=139539|AlignEnd=139678|Gloss=PreRef|PreRef=Yes
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=139678|AlignEnd=139817|Gloss=3Fem|SpaceAfter=No
@@ -850,7 +850,7 @@
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	naːmàː	naːmàː	NOUN	_	Gender=Masc	9	comp	_	AlignBegin=140095|AlignEnd=140234|Gloss=meat.Masc
 11	//=	//=	PUNCT	_	_	13	punct	_	AlignBegin=140234|AlignEnd=140373|Gloss=PUNCT
-12	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=140373|AlignEnd=140512|Gloss=3Fem|SpaceAfter=No
+12	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=140373|AlignEnd=140512|Gloss=3Fem|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	6	parataxis:conj	_	AlignBegin=140373|AlignEnd=140512|Gloss=Prog|wordform=ta
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	13	comp:pred	_	AlignBegin=140512|AlignEnd=140651|Gloss=PreRef|PreRef=Yes
 15	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	16	subj/m	_	AlignBegin=140651|AlignEnd=140790|Gloss=3Fem|SpaceAfter=No
