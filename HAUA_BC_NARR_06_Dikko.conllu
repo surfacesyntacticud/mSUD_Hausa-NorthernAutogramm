@@ -1572,7 +1572,7 @@
 6	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj@T	_	Gloss=Sub|wordform=_̀=
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-9	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	subj	_	Gloss=1Sing.Nom
+9	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	dislocated@subj	_	Gloss=1Sing.Nom
 10	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	6	parataxis:conj	_	Gloss=Neg.Prog
 11	-nì	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	10	subj/m	_	Gloss=-1Sing|SpaceBefore=No|wordform=baːnì
 12	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	Gloss=do.Vnoun.Masc
@@ -15793,8 +15793,8 @@
 5	dàw	dàgà	ADP	_	_	0	root	_	Gloss=from
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	7	det	_	Gloss=some.Masc
 7	gàriː	gàriː	NOUN	_	Gender=Masc	5	comp	_	Gloss=town.Masc
-8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	9	subj/m	_	Gloss=1Sing
-9	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes|Gender=Fem|Mood=Rel|Person=1	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	9	subj	_	Gloss=1Sing
+9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 10	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 11	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
