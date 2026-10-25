@@ -121,7 +121,7 @@
 3	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=31831|AlignEnd=32017|Gloss=want.Vnoun.Masc|wordform=sôn
 4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=32017|AlignEnd=32203|Gloss=3Fem|SpaceAfter=No|wordform=tà
-6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
+6	_̀	_̀	AUX	_	Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
 7	ciː	ci	VERB	_	_	6	comp:aux	_	AlignBegin=32203|AlignEnd=32389|Gloss=eat/conquer
 8	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=32389|AlignEnd=32575|Gloss=3Masc
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=32575|AlignEnd=32762|Gloss=PUNCT
@@ -138,7 +138,7 @@
 3	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=32953|AlignEnd=33144|Gloss=want.Vnoun.Masc|wordform=sôn
 4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=33144|AlignEnd=33335|Gloss=3Fem|SpaceAfter=No|wordform=tà
-6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
+6	_̀	_̀	AUX	_	Mood=Sub	4	comp	_	Gloss=Sub|wordform=_̀=
 7	ciː	ci	VERB	_	_	6	comp:aux	_	AlignBegin=33335|AlignEnd=33526|Gloss=eat/conquer
 8	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=33526|AlignEnd=33717|Gloss=3Masc
 9	|r	|r	PUNCT	_	_	11	punct	_	AlignBegin=33717|AlignEnd=33908|Gloss=PUNCT
@@ -147,7 +147,7 @@
 12	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	11	comp:aux	_	AlignBegin=34099|AlignEnd=34290|Gloss=want.Vnoun.Masc|wordform=sôn
 13	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 14	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=34290|AlignEnd=34481|Gloss=3Fem|SpaceAfter=No|wordform=tà
-15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
+15	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
 16	ciː	ci	VERB	_	_	15	comp:aux	_	AlignBegin=34481|AlignEnd=34672|Gloss=eat/conquer
 17	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	comp:obj	_	AlignBegin=34672|AlignEnd=34863|Gloss=3Masc
 18	|r	|r	PUNCT	_	_	20	punct	_	AlignBegin=34863|AlignEnd=35054|Gloss=PUNCT
@@ -156,7 +156,7 @@
 21	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	AlignBegin=35245|AlignEnd=35436|Gloss=want.Vnoun.Masc|wordform=sôn
 22	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	21	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 23	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	24	subj/m	_	AlignBegin=35436|AlignEnd=35627|Gloss=3Fem|SpaceAfter=No|wordform=tà
-24	_̀	_̀	AUX	_	Copula=No|Mood=Sub	22	comp	_	Gloss=Sub|wordform=_̀=
+24	_̀	_̀	AUX	_	Mood=Sub	22	comp	_	Gloss=Sub|wordform=_̀=
 25	ciː	ci	VERB	_	_	24	comp:aux	_	AlignBegin=35627|AlignEnd=35818|Gloss=eat/conquer
 26	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	25	comp:obj	_	AlignBegin=35818|AlignEnd=36009|Gloss=3Masc
 27	har	har	ADV	_	_	29	mod	_	AlignBegin=36009|AlignEnd=36200|Gloss=then
@@ -186,7 +186,7 @@
 8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=39361|AlignEnd=39650|Gloss=want.Vnoun.Masc|wordform=sôn
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=39650|AlignEnd=39939|Gloss=3Fem|SpaceAfter=No|wordform=tà
-11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
+11	_̀	_̀	AUX	_	Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
 12	ciː	ci	VERB	_	_	11	comp:aux	_	AlignBegin=39939|AlignEnd=40228|Gloss=eat/conquer
 13	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	comp:obj	_	AlignBegin=40228|AlignEnd=40517|Gloss=3Masc
 14	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40517|AlignEnd=40806|Gloss=PUNCT
@@ -255,7 +255,7 @@
 15	maːshìn	maːshìː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	AlignBegin=51738|AlignEnd=52020|Gloss=spear.Masc.Def
 16	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	15	det	_	AlignBegin=52020|AlignEnd=52302|Gloss=PreRef|PreRef=Yes
 17	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	18	subj/m	_	AlignBegin=52302|AlignEnd=52584|Gloss=2Fem|SpaceAfter=No|wordform=kì
-18	_̀	_̀	AUX	_	Copula=No|Mood=Sub	14	conj:coord	_	Gloss=Sub|wordform=_̀=
+18	_̀	_̀	AUX	_	Mood=Sub	14	conj:coord	_	Gloss=Sub|wordform=_̀=
 19	soːkàː	soːk-	VERB	_	_	18	comp:aux	_	AlignBegin=52584|AlignEnd=52866|Gloss=stab
 20	//	//	PUNCT	_	_	14	punct	_	AlignBegin=52866|AlignEnd=53152|Gloss=PUNCT
 
@@ -305,7 +305,7 @@
 5	maːshìː	maːshìː	NOUN	_	Gender=Masc	4	comp:obj	_	AlignBegin=59980|AlignEnd=60180|Gloss=spear.Masc
 6	sai	sai	ADV	_	_	8	mod	_	AlignBegin=60180|AlignEnd=60380|Gloss=then
 7	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=60380|AlignEnd=60580|Gloss=3Fem|SpaceAfter=No|wordform=tà
-8	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+8	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 9	ciroː	cir-	VERB	_	_	8	comp:aux	_	AlignBegin=60580|AlignEnd=60780|Gloss=pull
 10	kiːhiː	kiːhiː	NOUN	_	Gender=Masc	9	comp:obj	_	AlignBegin=60780|AlignEnd=60980|Gloss=fish.Masc
 11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=60980|AlignEnd=61180|Gloss=PUNCT
@@ -337,7 +337,7 @@
 # text_en = Then she sat down to eat it up.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=66226|AlignEnd=66422|Gloss=then
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=66422|AlignEnd=66618|Gloss=3Fem|SpaceAfter=No|wordform=tà
-3	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 4	zamnàː	zamn-	VERB	_	_	3	comp:aux	_	AlignBegin=66618|AlignEnd=66814|Gloss=stay/sit
 5	sai	sai	ADV	_	_	7	mod	_	AlignBegin=66814|AlignEnd=67010|Gloss=then
 6	t-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=67010|AlignEnd=67206|Gloss=3Fem-|SpaceAfter=No|wordform=taː
@@ -376,7 +376,7 @@
 # text_en = He said " Have you eaten enough? "
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=72762|AlignEnd=72880|Gloss=then
 2	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=72880|AlignEnd=72998|Gloss=3Masc|SpaceAfter=No|wordform=shì
-3	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=72998|AlignEnd=73116|Gloss=say
 5	[	[	PUNCT	_	_	7	punct	_	AlignBegin=73116|AlignEnd=73234|Gloss=PUNCT
 6	ky-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	7	subj/m	_	AlignBegin=73234|AlignEnd=73352|Gloss=2Fem-|SpaceAfter=No|wordform=kyaː
@@ -393,7 +393,7 @@
 # text = tà cêː [ aː’àː //] //
 # text_en = She said "No".
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=73704|AlignEnd=73816|Gloss=3Fem|SpaceAfter=No|wordform=tà
-2	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=73816|AlignEnd=73928|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=73928|AlignEnd=74040|Gloss=PUNCT
 5	aː’àː	aː’àː	NOUN	_	_	3	comp:obj	_	AlignBegin=74040|AlignEnd=74152|Gloss=no
@@ -409,7 +409,7 @@
 # text_en = Then they resumed.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=74582|AlignEnd=74804|Gloss=then
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=74804|AlignEnd=75026|Gloss=3Plur|SpaceAfter=No|wordform=sù
-3	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 4	koːmàː	koːm-	VERB	_	_	3	comp:aux	_	AlignBegin=75026|AlignEnd=75248|Gloss=go_back
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=75248|AlignEnd=75469|Gloss=PUNCT
 
@@ -525,7 +525,7 @@
 8	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=94584|AlignEnd=94806|Gloss=want.Vnoun.Masc|wordform=sôn
 9	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	8	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=94806|AlignEnd=95028|Gloss=3Fem|SpaceAfter=No|wordform=tà
-11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
+11	_̀	_̀	AUX	_	Mood=Sub	9	comp	_	Gloss=Sub|wordform=_̀=
 12	ciː	ci	VERB	_	_	11	comp:aux	_	AlignBegin=95028|AlignEnd=95250|Gloss=eat/conquer
 13	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	mod	_	AlignBegin=95250|AlignEnd=95472|Gloss=3Masc
 14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=95472|AlignEnd=95691|Gloss=PUNCT
@@ -589,7 +589,7 @@
 11	can	can	DET	_	Deixis=Remt|PronType=Dem	10	det	_	AlignBegin=105230|AlignEnd=105466|Gloss=Remt
 12	!//=	!//=	PUNCT	_	_	14	punct	_	AlignBegin=105466|AlignEnd=105702|Gloss=PUNCT
 13	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	14	subj/m	_	AlignBegin=105702|AlignEnd=105938|Gloss=2Fem|SpaceAfter=No|wordform=kì
-14	_̀	_̀	AUX	_	Copula=No|Mood=Sub	8	parataxis:conj	_	Gloss=Sub|wordform=_̀=
+14	_̀	_̀	AUX	_	Mood=Sub	8	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	AlignBegin=105938|AlignEnd=106174|Gloss=say
 16	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	15	comp:obl	_	AlignBegin=106174|AlignEnd=106410|Gloss=3Plur.Dat
 17	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	18	subj/m	_	AlignBegin=106410|AlignEnd=106646|Gloss=1Sing|SpaceAfter=No
@@ -776,7 +776,7 @@
 # text_en = Then he told her "Here is your meat."
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=130803|AlignEnd=130914|Gloss=then
 2	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=130914|AlignEnd=131025|Gloss=3Masc|SpaceAfter=No|wordform=shì
-3	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=131025|AlignEnd=131136|Gloss=say
 5	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=131136|AlignEnd=131247|Gloss=3Fem.Dat
 6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=131247|AlignEnd=131358|Gloss=PUNCT

@@ -28,10 +28,10 @@
 4	yànzu	yànzu	ADV	_	_	7	mod	_	AlignBegin=68350|AlignEnd=68535|Gloss=now
 5	sai	sai	ADV	_	_	7	mod	_	AlignBegin=68535|AlignEnd=68720|Gloss=then
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=68720|AlignEnd=68905|Gloss=4|SpaceAfter=No|wordform=à
-7	_̀	_̀	AUX	_	Copula=No|Mood=Sub	3	comp:obj	_	Gloss=Sub|wordform=_̀=
+7	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	Gloss=Sub|wordform=_̀=
 8	zoː	zoː	VERB	_	_	7	comp:aux	_	AlignBegin=68905|AlignEnd=69090|Gloss=go
 9	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=69090|AlignEnd=69275|Gloss=4|SpaceAfter=No|wordform=à
-10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	conj:coord	_	Gloss=Sub|wordform=_̀=
+10	_̀	_̀	AUX	_	Mood=Sub	7	conj:coord	_	Gloss=Sub|wordform=_̀=
 11	biɗoː	biɗ-	VERB	_	_	10	comp:aux	_	AlignBegin=69275|AlignEnd=69460|Gloss=look_for
 12	sarki	sarkiː	NOUN	_	Gender=Masc	11	comp:obj	_	AlignBegin=69460|AlignEnd=69645|Compound=Yes|Gloss=king.Masc|wordform=sarkin
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -334,11 +334,11 @@
 # text = tà= hìta //= tà= bi duːc'ìː < shinàː= bìye dà shìgaː-t-tà //
 # text_en = If it came out [of the water] and went along some stones, he followed her track.
 1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=41762|AlignEnd=41902|Gloss=3Fem|SpaceAfter=No|wordform=tà
-2	_̀	_̀	AUX	_	Copula=No|Mood=Sub	11	parataxis:mod	_	Gloss=Sub|wordform=_̀=
+2	_̀	_̀	AUX	_	Mood=Sub	11	parataxis:mod	_	Gloss=Sub|wordform=_̀=
 3	hìta	fit-	VERB	_	_	2	comp:aux	_	AlignBegin=41902|AlignEnd=42042|Gloss=get_out
 4	//=	//=	PUNCT	_	_	6	punct	_	AlignBegin=42042|AlignEnd=42182|Gloss=PUNCT
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=42182|AlignEnd=42322|Gloss=3Fem|SpaceAfter=No|wordform=tà
-6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	2	parataxis:conj	_	Gloss=Sub|wordform=_̀=
+6	_̀	_̀	AUX	_	Mood=Sub	2	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 7	bi	bi	VERB	_	_	6	comp:aux	_	AlignBegin=42322|AlignEnd=42462|Gloss=follow
 8	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	7	comp:obj	_	AlignBegin=42462|AlignEnd=42602|Gloss=stone.Masc
 9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=42602|AlignEnd=42742|Gloss=PUNCT
