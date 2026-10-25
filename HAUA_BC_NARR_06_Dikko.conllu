@@ -3177,7 +3177,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__157a
 # text_en = He told her"Well, girl, the way I am, I am never afraid. "
 # text_ortho = yac cèː matà " tôː yaːrinyà, niː hwa zaman dà nikè, baːnì tsòːroː " .
-# text = ya-_ cèː matà " tôː yaːrinyà, niː hwa zaman dà ni- kè, baː-nì tsòːroː ".
+# text = ya-Ø cèː matà " tôː yaːrinyà , niː hwa zaman dà ni kè , baː -nì tsòːroː " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
@@ -3190,8 +3190,8 @@
 10	hwa	hwa	PART	_	PartType=Top	9	discourse@top	_	Gloss=indeed
 11	zaman	zam-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	dislocated@top	_	Gloss=stay.Vnoun.Masc.Def|RelAnt=Yes
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
-13	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	14	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-14	kè	nàː	AUX	_	Aspect=Prog|Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=be.Rel|RelRole=pred|Relz=Affix|wordform=nikè
+13	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	14	subj/m	_	Gloss=1Sing
+14	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	12	comp	_	ClauseType=Rel|Gloss=be.Rel|RelRole=pred|Relz=Affix
 15	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 16	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	Gloss=Neg.Prog|wordform=baːnì
 17	-nì	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	Gloss=1Sing|SpaceBefore=No
@@ -3578,14 +3578,14 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__174
 # text_en = "Griots, It's you I want to talk to. "
 # text_ortho = " màːsu maulòː dà kuː nikè dà màganàː " .
-# text = " màːsu maulòː dà kuː nikè dà màganàː ".
+# text = " màːsu maulòː dà kuː ni-kè dà màganàː " .
 1	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 2	màːsu	mài	PART	_	Number=Plur|PartType=Der	4	vocative	_	Gloss=owner_of.Plur
 3	maulòː	maulòː	NOUN	_	Gender=Masc	2	compound	_	Gloss=guitar.Masc
 4	dà	dà	ADP	_	_	0	root	_	Gloss=with
 5	kuː	kuː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	comp	_	Gloss=2Plur.Nom
 6	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-7	kè	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+7	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
 9	màganàː	màganàː	NOUN	_	Gender=Fem	8	comp	_	Gloss=speech.Fem
 10	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -10243,7 +10243,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__498
 # text_en = Then the Fulani said "Come on, DGD, myself, you see, I am a griot. "
 # text_ortho = sa'ànnan ɗan Hilàːni yac cèː "habàː Dandà Garbaː Dikkò, niː kaː ga ɗam maːbà nikè. "
-# text = sa'ànnan ɗan Hilàːni yac cèː "habàː Dandà Garbaː Dikkò, niː kaː ga ɗam maːbà nikè. "
+# text = sa'ànnan ɗa -n Hilàːni ya-Ø cèː “ habàː Dandà Garbaː Dikkò , niː k-aː ga ɗa -n maːbà ni kè “ .
 1	sa'ànnan	sa'ànnan	ADV	_	_	6	mod	_	Gloss=then
 2	ɗa	ɗaː	NOUN	_	Gender=Masc	6	subj	_	Compound=Yes|Gloss=son.Masc|wordform=ɗan
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
@@ -10264,8 +10264,8 @@
 18	ɗa	ɗaː	NOUN	_	Gender=Masc	7	comp:obj	_	Compound=Yes|Gloss=son.Masc|wordform=ɗam
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 20	maːbà	maːbà	NOUN	_	Gender=Fem	19	comp	_	Gloss=joking.Fem
-21	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	22	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-22	kè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Mood=Rel|Person=1	18	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+21	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	22	subj/m	_	Gloss=1Sing
+22	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	18	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 23	“	“	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 24	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -10538,7 +10538,7 @@
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	“	“	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-5	shîn	shîn	PART	_	PartType=Disc	11	discourse	_	Gloss=maybe
+5	shîn	shîn	PART	_	Copula=Yes|PartType=Disc	11	discourse	_	Gloss=maybe
 6	wai	wai	PART	_	Evident=Nfh|PartType=Evident	11	discourse	_	Gloss=reportedly
 7	jìma'àː	jìma'àː	NOUN	_	Gender=Fem	11	vocative	_	Gloss=people.Fem
 8	abìn	àbiː	NOUN	_	Definite=Def|Gender=Masc	11	dislocated@top	_	Gloss=thing.Masc.Def
@@ -10549,7 +10549,7 @@
 13	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	14	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=niy
 14	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	11	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=y=
 15	yi	yi	VERB	_	_	14	comp:aux	_	ClauseType=Cleft|Gloss=do
-16	shîn	shîn	PART	_	PartType=Disc	11	discourse	_	Gloss=maybe
+16	shîn	shîn	PART	_	Copula=Yes|PartType=Disc	11	discourse	_	Gloss=maybe
 17	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 18	àmman	àmma	CCONJ	_	_	22	cc	_	Gloss=but
 19	zuccìyaː	zuccì	NOUN	_	_	22	dislocated@top	_	Gloss=heart.Fem|wordform=zuccìyaːtaː
@@ -13302,7 +13302,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__628
 # text_en = He said "" Me, I've been ready since I took your things.""
 # text_ortho = yac cèː " niː hwa shìrye nikè tundà nit taroː kaːyankà " .
-# text = yac cèː " niː hwa shìrye nikè tundà nit taroː kaːyankà " .
+# text = ya-Ø cèː " niː hwa shìrye ni kè tundà ni-Ø taroː kaːya -n -kà " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
@@ -13310,8 +13310,8 @@
 5	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	dislocated@subj	_	Gloss=1Sing.Nom
 6	hwa	hwa	PART	_	PartType=Top	5	discourse@top	_	Gloss=indeed
 7	shìrye	shiry-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj	_	Gloss=get_ready.Part
-8	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-9	kè	nàː	AUX	_	Aspect=Prog|Mood=Rel|Number=Sing|Person=1	7	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing
+9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	7	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 10	tundà	tundà	SCONJ	_	_	7	mod	_	Gloss=since
 11	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	12	subj/m	_	Gloss=1Sing-|SpaceAfter=No|wordform=nit
 12	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	10	comp	_	Gloss=Perf.Rel.Sing|wordform=t=
@@ -13350,28 +13350,28 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__631
 # text_en = "I'm ready."
 # text_ortho = " shìrye nikè " .
-# text = yac cèː " shìrye nikè " .
+# text = ya-Ø cèː " shìrye ni kè " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	shìrye	shiry-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj@T	_	Gloss=get_ready.Part
-6	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-7	kè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Mood=Rel|Person=1	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+6	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing
+7	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 8	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|wordform=.
 9	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__632
 # text_en = He said "I'm ready, me."
 # text_ortho = yac cèː " shìrye nikè niː " .
-# text = yac cèː " shìrye nikè niː ".
+# text = ya-Ø cèː " shìrye ni kè niː " .
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	Gloss=3Masc-|SpaceAfter=No|wordform=yac
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=c=
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	shìrye	shiry-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj@T	_	Gloss=get_ready.Part|Imperative=Yes
-6	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-7	kè	nàː	AUX	_	Aspect=Prog|Mood=Rel|Number=Sing|Person=1	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+6	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	Gloss=1Sing
+7	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 8	niː	niː	PRON	_	Case=Nom|Gender=Masc|Person=1|PronType=Prs	5	dislocated@subj	_	Gloss=1Sing.Nom
 9	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|wordform=.
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -15749,13 +15749,13 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__748
 # text_en = "I am a stranger."
 # text_ortho = " niː hwa bàːƙoː nikè. "
-# text = " niː hwa bàːƙoː ni- kè. "
+# text = " niː hwa bàːƙoː ni kè . "
 1	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	dislocated@subj	_	Gloss=1Sing.Nom
 3	hwa	hwa	PART	_	PartType=Top	2	discourse@top	_	Gloss=indeed
 4	bàːƙoː	bàːƙoː	NOUN	_	Gender=Masc	0	root	_	Gloss=visitor.Masc
-5	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-6	kè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Mood=Rel|Person=1	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+5	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	Gloss=1Sing
+6	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 8	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -15785,7 +15785,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__751
 # text_en = "Indeed, I am from another town."
 # text_ortho = " lalleː dai, dàw wani gàriː nikè " .
-# text = " lalleː dai, dàw wani gàriː ni- kè ".
+# text = " lalleː dai , dàw wani gàriː ni kè " .
 1	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 2	lalleː	lalleː	ADV	_	_	5	mod	_	Gloss=indeed
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	Gloss=anyway
@@ -15793,8 +15793,8 @@
 5	dàw	dàgà	ADP	_	_	0	root	_	Gloss=from
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	7	det	_	Gloss=some.Masc
 7	gàriː	gàriː	NOUN	_	Gender=Masc	5	comp	_	Gloss=town.Masc
-8	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-9	kè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Mood=Rel|Person=1	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
+8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing
+9	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes|Gender=Fem|Mood=Rel|Person=1	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel|wordform=nikè
 10	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 11	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
@@ -18252,7 +18252,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__866
 # text_en = "An now you know who I am."
 # text_ortho = " kuma yànzu kun san koːwaː nikè " .
-# text = " kuma yànzu ku-n= san koːwaː ni- kè ".
+# text = " kuma yànzu ku-n san koːwaː ni kè " .
 1	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 2	kuma	kuma	PART	_	PartType=Disc	5	discourse	_	Gloss=too
 3	yànzu	yànzu	ADV	_	_	5	mod	_	Gloss=now
@@ -18260,8 +18260,8 @@
 5	n	aː	AUX	_	Aspect=Perf|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
 6	san	san-	VERB	_	_	5	comp:aux	_	Gloss=know
 7	koːwaː	koːwaː	PRON	_	Number=Sing|PronType=Int	6	comp:obj	_	Gloss=who.Sing
-8	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing-|SpaceAfter=No
-9	kè	nàː	AUX	_	Aspect=Prog|Mood=Rel|Number=Sing|Person=1	7	mod@relcl	_	ClauseType=Int|Gloss=be.Rel|wordform=nikè
+8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	Gloss=1Sing
+9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	7	mod@relcl	_	ClauseType=Rel|Gloss=be.Rel
 10	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|wordform=.
 11	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
