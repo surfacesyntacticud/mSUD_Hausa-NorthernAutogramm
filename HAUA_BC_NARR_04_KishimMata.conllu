@@ -1898,14 +1898,14 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_04_GYM.WAV
 # sent_timecode = 265000, 269100
 # text_ortho = a nàː nan |c a nàː nan < sai dàb baːya < dà koːwaː yaw waːc'èː < yah hwaɗàː mà uwaːtai //
-# text = a- nàː nan |c a- nàː nan < sai dàb baːya < dà koːwaː yaw= waːc'èː < yah= hwaɗàː mà uwaː-t-ai //
+# text = a-nàː nan |c anàː nan < sai dàb baːya < dà koːwaː ya-Ø waːc'èː < ya-Ø hwaɗàː mà uwaː -t -ai //
 # text_en = After a while, after that, when everyone had gone away, he told his mother.
 1	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	2	subj/m	_	AlignBegin=265186|AlignEnd=265372|Gloss=4|SpaceAfter=No
 2	nàː	nàː	AUX	_	Copula=Yes	21	parataxis:mod	_	AlignBegin=265186|AlignEnd=265372|Gloss=be.Loc
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	AlignBegin=265372|AlignEnd=265558|Gloss=PreRef|PreRef=Yes
 4	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=265558|AlignEnd=265744|Gloss=PUNCT
-5	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	6	subj/m	_	AlignBegin=265930|AlignEnd=266116|Gloss=4|SpaceAfter=No
-6	nàː	nàː	AUX	_	Copula=be.Loc	2	conj:redup	_	AlignBegin=265930|AlignEnd=266116|Gloss=Prog|wordform=a
+5	a	a	PRON	_	Person=4|PronType=PrsSubj	6	subj	_	AlignBegin=265930|AlignEnd=266116|Gloss=4|SpaceAfter=No
+6	nàː	nàː	AUX	_	_	2	conj:redup	_	AlignBegin=265930|AlignEnd=266116|Gloss=be.Loc
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp:pred	_	AlignBegin=266116|AlignEnd=266302|Gloss=PreRef|PreRef=Yes
 8	<	<	PUNCT	_	_	2	punct	_	AlignBegin=266302|AlignEnd=266488|Gloss=PUNCT
 9	sai	sai	ADV	_	_	20	mod	_	AlignBegin=266488|AlignEnd=266674|Gloss=until
