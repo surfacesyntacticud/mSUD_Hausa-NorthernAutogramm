@@ -107,13 +107,13 @@
 1	a-	a-	PRON	_	Person=4|PronType=Prs	2	subj/m	_	AlignBegin=6220|AlignEnd=6443|Gloss=4|SpaceAfter=No
 2	nà	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=6220|AlignEnd=6443|Gloss=Prog|wordform=anàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=6443|AlignEnd=6666|Gloss=Iter
-4	gardamà	gardamàː	NOUN	_	_	2	comp:pred	_	AlignBegin=6666|AlignEnd=6889|Gloss=comparing.Fem|wordform=gardamàssu
+4	gardamà	gardamàː	NOUN	_	_	2	comp:aux	_	AlignBegin=6666|AlignEnd=6889|Gloss=comparing.Fem|wordform=gardamàssu
 5	-s	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 6	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	comp:obj/m	_	Gloss=3Plur.Gen|SpaceBefore=No
 7	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=6889|AlignEnd=7112|Gloss=PUNCT
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=7112|AlignEnd=7335|Gloss=4|SpaceAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	AlignBegin=7112|AlignEnd=7335|Gloss=Prog|wordform=anàː
-10	gardamà	gardamàː	NOUN	_	_	9	comp:pred	_	AlignBegin=7335|AlignEnd=7558|Gloss=comparing.Fem|wordform=gardamàssu
+10	gardamà	gardamàː	NOUN	_	_	9	comp:aux	_	AlignBegin=7335|AlignEnd=7558|Gloss=comparing.Fem|wordform=gardamàssu
 11	-s	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 12	-su	-sù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	11	comp:obj/m	_	Gloss=3Plur.Gen|SpaceBefore=No
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=7558|AlignEnd=7780|Gloss=PUNCT

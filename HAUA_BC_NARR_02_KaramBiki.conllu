@@ -558,7 +558,7 @@
 14	[	[	PUNCT	_	_	16	punct	_	AlignBegin=122892|AlignEnd=123278|Gloss=PUNCT
 15	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	16	subj/m	_	AlignBegin=123278|AlignEnd=123664|Gloss=1Sing|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	12	comp:obj	_	AlignBegin=123278|AlignEnd=123664|Gloss=Prog|wordform=inàː
-17	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	16	comp:pred	_	AlignBegin=123664|AlignEnd=124050|Gloss=communal_farming.Fem
+17	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	16	comp:aux	_	AlignBegin=123664|AlignEnd=124050|Gloss=communal_farming.Fem
 18	//]	//]	PUNCT	_	_	16	punct	_	AlignBegin=124050|AlignEnd=124436|Gloss=PUNCT
 19	//	//	PUNCT	_	_	2	punct	_	AlignBegin=124436|AlignEnd=124821|Gloss=PUNCT
 
@@ -626,7 +626,7 @@
 7	kàreː	kàreː	NOUN	_	Gender=Masc	9	vocative	_	AlignBegin=135110|AlignEnd=135351|Gloss=dog.Masc
 8	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	9	subj/m	_	AlignBegin=135351|AlignEnd=135592|Gloss=1Sing|SpaceAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	AlignBegin=135351|AlignEnd=135592|Gloss=Prog|wordform=inàː
-10	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	9	comp:pred	_	AlignBegin=135592|AlignEnd=135833|Gloss=communal_farming.Fem
+10	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	9	comp:aux	_	AlignBegin=135592|AlignEnd=135833|Gloss=communal_farming.Fem
 11	//]	//]	PUNCT	_	_	9	punct	_	AlignBegin=135833|AlignEnd=136074|Gloss=PUNCT
 12	]	]	PUNCT	_	_	2	punct	_	AlignBegin=136074|AlignEnd=136316|Gloss=PUNCT
 
@@ -645,7 +645,7 @@
 6	[	[	PUNCT	_	_	8	punct	_	AlignBegin=138396|AlignEnd=138620|Gloss=PUNCT
 7	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	8	subj/m	_	AlignBegin=138620|AlignEnd=138844|Gloss=2Masc|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog	4	comp:obj	_	AlignBegin=138620|AlignEnd=138844|Gloss=Prog|wordform=kanàː
-9	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	8	comp:pred	_	AlignBegin=138844|AlignEnd=139068|Gloss=communal_hunting.Fem
+9	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	8	comp:aux	_	AlignBegin=138844|AlignEnd=139068|Gloss=communal_hunting.Fem
 10	//=	//=	PUNCT	_	_	14	punct	_	AlignBegin=139068|AlignEnd=139292|Gloss=PUNCT
 11	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	14	parataxis:discourse	_	Gloss=Neg.Perf|wordform=bà-
 12	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=139292|AlignEnd=139516|Gloss=-1Sing|SpaceBefore=No|wordform=ìn

@@ -67,7 +67,7 @@
 1	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=111445|AlignEnd=111617|Gloss=3Fem|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=111445|AlignEnd=111617|Gloss=Prog|wordform=tanàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=111617|AlignEnd=111789|Gloss=Iter
-4	kiːyòː	kiːyòː	NOUN	_	Gender=Masc	2	comp:pred	_	AlignBegin=111789|AlignEnd=111961|Gloss=grazing.Masc
+4	kiːyòː	kiːyòː	NOUN	_	Gender=Masc	2	comp:aux	_	AlignBegin=111789|AlignEnd=111961|Gloss=grazing.Masc
 5	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=111961|AlignEnd=112135|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_02_5

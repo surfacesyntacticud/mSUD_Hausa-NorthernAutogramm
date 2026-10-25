@@ -1044,7 +1044,7 @@
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	AlignBegin=239937|AlignEnd=240146|Gloss=CompRel|Relz=Word
 8	Tuːraːwaː	Tuːrai	PROPN	_	Number=Plur	9	subj	_	AlignBegin=240146|AlignEnd=240355|Gloss=European.Plur
 9	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	7	comp	_	AlignBegin=240355|AlignEnd=240564|ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix
-10	iːkòː	iːkòː	NOUN	_	Gender=Masc	9	comp:pred	_	AlignBegin=240564|AlignEnd=240773|Gloss=power.Masc
+10	iːkòː	iːkòː	NOUN	_	Gender=Masc	9	comp:aux	_	AlignBegin=240564|AlignEnd=240773|Gloss=power.Masc
 11	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=240773|AlignEnd=240978|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_059-059
@@ -1070,7 +1070,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=242594|AlignEnd=242846|Gloss=CompRel|Relz=Word
 4	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	5	subj/m	_	AlignBegin=242846|AlignEnd=243098|Gloss=3Plur|SpaceAfter=No
 5	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp	_	AlignBegin=242846|AlignEnd=243098|ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=sukà
-6	iːkòː	iːkòː	NOUN	_	Gender=Masc	5	comp:pred	_	AlignBegin=243098|AlignEnd=243350|Gloss=power.Masc
+6	iːkòː	iːkòː	NOUN	_	Gender=Masc	5	comp:aux	_	AlignBegin=243098|AlignEnd=243350|Gloss=power.Masc
 7	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	0	root	_	AlignBegin=243350|AlignEnd=243602|Gloss=how
 8-10	sukài	_	_	_	_	_	_	_	_
 8	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=243602|AlignEnd=243854|Gloss=3Plur|SpaceAfter=No
@@ -1111,7 +1111,7 @@
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	AlignBegin=246820|AlignEnd=247080|Gloss=CompRel|Relz=Word
 3	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=247080|AlignEnd=247340|Gloss=3Plur|SpaceAfter=No
 4	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp	_	AlignBegin=247080|AlignEnd=247340|ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=sukà
-5	iːkòː	iːkòː	NOUN	_	Gender=Masc	4	comp:pred	_	AlignBegin=247340|AlignEnd=247600|Gloss=power.Masc
+5	iːkòː	iːkòː	NOUN	_	Gender=Masc	4	comp:aux	_	AlignBegin=247340|AlignEnd=247600|Gloss=power.Masc
 6	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=247600|AlignEnd=247860|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_064-064
@@ -1251,7 +1251,7 @@
 # text_en = You worked, they didn't pay you a single kobo, they did not give you a single shilling.
 1	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	2	subj/m	_	AlignBegin=274034|AlignEnd=274312|Gloss=2Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=274034|AlignEnd=274312|Gloss=Prog|wordform=kanàː
-3	aikìː	aikìː	NOUN	_	Gender=Masc	2	comp:pred	_	AlignBegin=274312|AlignEnd=274590|Gloss=work.Masc
+3	aikìː	aikìː	NOUN	_	Gender=Masc	2	comp:aux	_	AlignBegin=274312|AlignEnd=274590|Gloss=work.Masc
 4	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=274590|AlignEnd=274868|Gloss=PUNCT
 5	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	2	conj:coord	_	AlignBegin=274868|AlignEnd=275146|Gloss=Neg.Prog
 6	-à	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=274868|AlignEnd=275146|Gloss=-4|SpaceBefore=No|wordform=baː'à

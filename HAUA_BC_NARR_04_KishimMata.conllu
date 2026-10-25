@@ -54,7 +54,7 @@
 2	sai	sai	ADV	_	_	4	mod	_	AlignBegin=8750|AlignEnd=9052|Gloss=then
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	AlignBegin=9052|AlignEnd=9354|Gloss=4|SpaceAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=9052|AlignEnd=9354|Gloss=Prog|wordform=anàː
-5	gardamà	gardamàː	NOUN	_	Gender=Fem	4	comp:pred	_	AlignBegin=9354|AlignEnd=9656|Gloss=comparing.Fem..Fem|wordform=gardamàk
+5	gardamà	gardamàː	NOUN	_	Gender=Fem	4	comp:aux	_	AlignBegin=9354|AlignEnd=9656|Gloss=comparing.Fem..Fem|wordform=gardamàk
 6	-k	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No|wordform=-C
 7	kyaːwò	kyaːwòː	NOUN	_	_	6	comp	_	AlignBegin=9656|AlignEnd=9958|Gloss=beauty.Masc|wordform=kyaːwònsu
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -790,7 +790,7 @@
 29	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	30	subj/m	_	AlignBegin=120860|AlignEnd=121060|Gloss=3Masc|SpaceAfter=No
 30	nà	nàː	AUX	_	Aspect=Prog	27	parataxis:mod	_	AlignBegin=120860|AlignEnd=121060|Gloss=Prog|wordform=shinàː
 31	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	32	mod	_	AlignBegin=121060|AlignEnd=121260|Gloss=Iter
-32	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	30	comp:pred	_	AlignBegin=121260|AlignEnd=121460|Gloss=crying.Masc
+32	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	30	comp:aux	_	AlignBegin=121260|AlignEnd=121460|Gloss=crying.Masc
 33	//	//	PUNCT	_	_	6	punct	_	AlignBegin=121460|AlignEnd=121660|Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_04_GYM_034-034
@@ -1247,15 +1247,15 @@
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	AlignBegin=179136|AlignEnd=179334|Gloss=PreRef|PreRef=Yes
 4	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	AlignBegin=179532|AlignEnd=179730|Gloss=3Masc|SpaceAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	AlignBegin=179532|AlignEnd=179730|Gloss=Prog|wordform=shinàː
-6	yaːɗaː	yaːɗaː	NOUN	_	Gender=Masc	5	comp:pred	_	AlignBegin=179730|AlignEnd=179928|Gloss=creeping.Masc
+6	yaːɗaː	yaːɗaː	NOUN	_	Gender=Masc	5	comp:aux	_	AlignBegin=179730|AlignEnd=179928|Gloss=creeping.Masc
 7	|r	|r	PUNCT	_	_	9	punct	_	AlignBegin=179928|AlignEnd=180126|Gloss=PUNCT
 8	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=180126|AlignEnd=180324|Gloss=3Masc|SpaceAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	5	conj:redup	_	AlignBegin=180126|AlignEnd=180324|Gloss=Prog|wordform=shinàː
-10	yaːɗaː	yaːɗaː	NOUN	_	Gender=Masc	9	comp:pred	_	AlignBegin=180324|AlignEnd=180522|Gloss=creeping.Masc
+10	yaːɗaː	yaːɗaː	NOUN	_	Gender=Masc	9	comp:aux	_	AlignBegin=180324|AlignEnd=180522|Gloss=creeping.Masc
 11	|r	|r	PUNCT	_	_	13	punct	_	AlignBegin=180522|AlignEnd=180720|Gloss=PUNCT
 12	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=180720|AlignEnd=180918|Gloss=3Masc|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	9	conj:redup	_	AlignBegin=180720|AlignEnd=180918|Gloss=Prog|wordform=shinàː
-14	yaːɗaː	yaːɗaː	NOUN	_	Gender=Masc	13	comp:pred	_	AlignBegin=180918|AlignEnd=181116|Gloss=creeping.Masc
+14	yaːɗaː	yaːɗaː	NOUN	_	Gender=Masc	13	comp:aux	_	AlignBegin=180918|AlignEnd=181116|Gloss=creeping.Masc
 15	hay	har	SCONJ	_	_	13	mod	_	AlignBegin=181116|AlignEnd=181314|Gloss=till
 16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=181314|AlignEnd=181512|Gloss=3Masc-|SpaceAfter=No|wordform=yah
 17	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	15	comp	_	Gloss=Perf.Rel.Sing|wordform=h=
@@ -2424,7 +2424,7 @@
 1	shi-	shi-	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=336223|AlignEnd=336464|Gloss=3Masc|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=336223|AlignEnd=336464|Gloss=Prog|wordform=shinàː
 3	[	[	PUNCT	_	_	4	punct	_	AlignBegin=336464|AlignEnd=336705|Gloss=PUNCT
-4	ayaː	ayaː	NOUN	_	_	2	comp:pred	_	AlignBegin=336705|AlignEnd=336946|Gloss=tiger_nut
+4	ayaː	ayaː	NOUN	_	_	2	comp:aux	_	AlignBegin=336705|AlignEnd=336946|Gloss=tiger_nut
 5	wàje	wàje	ADV	_	_	4	flat@name	_	AlignBegin=336946|AlignEnd=337187|Gloss=outside
 6	!//=	!//=	PUNCT	_	_	7	punct	_	AlignBegin=337187|AlignEnd=337428|Gloss=PUNCT
 7	ayaː	ayaː	NOUN	_	_	4	conj:redup	_	AlignBegin=337428|AlignEnd=337669|Gloss=tiger_nut
