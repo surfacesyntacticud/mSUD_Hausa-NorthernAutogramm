@@ -811,10 +811,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_DIAL_01.WAV
 # sent_timecode = 194620, 195840
 # text_ortho = su nàː baːyuːnai > kaː jiyàː ?//
-# text = su nàː baːyuːnai > kaː jiyàː ?//
+# text = su-nàː baːyuː -n -ai > k-aː jiyàː ?//
 # text_en = They are his slaves, you see?
 1	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=194794|AlignEnd=194968|Gloss=3Plur|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=194794|AlignEnd=194968|Gloss=Prog|wordform=su
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=194794|AlignEnd=194968|Gloss=Prog|wordform=su
 3	baːyuː	baːwàː	NOUN	_	_	2	comp:pred	_	AlignBegin=194968|AlignEnd=195142|Gloss=slave.Plur|wordfrom=baːyuːnai
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 5	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	4	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No

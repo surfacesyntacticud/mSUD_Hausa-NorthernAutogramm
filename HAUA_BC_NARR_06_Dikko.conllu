@@ -3344,7 +3344,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__163
 # text_en = At that time, the songs that the griots were playing, kept praising his bravery .
 # text_ortho = shiː kuma, gà loːkàcîn nan, kiɗìn dà màːsu maulòː kà yi mai, na shinàː zaːrùmiː kawài .
-# text = shiː kuma, gà loːkàcîn nan, kiɗìn dà màːsu maulòː kàyi mai, na shi-nàː zaːrùmiː kawài.
+# text = shiː kuma , gà loːkàcîn nan , kiɗìn dà màːsu maulòː kà yi mai , na shi nàː zaːrùmiː kawài .
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	16	dislocated@top	_	Gloss=3Masc.Nom
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=too
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3361,8 +3361,8 @@
 14	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	13	comp:obl	_	Gloss=3Masc.Dat
 15	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 16	na	na	PART	_	Case=Gen|PartType=Case	0	root	_	Gloss=Gen
-17	shi-	shi	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	18	subj/m	_	Gloss=3Masc|SpaceAfter=No
-18	nàː	nàː	AUX	_	Aspect=Prog	16	comp	_	Gloss=Prog|wordform=shinàː
+17	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	Gloss=3Masc
+18	nàː	nàː	AUX	_	Copula=Yes	16	comp	_	Gloss=be.Loc/Pred
 19	zaːrùmiː	zaːrùmiː	NOUN	_	Gender=Masc	18	comp:pred	_	Gloss=brave
 20	kawài	kawài	ADV	_	_	18	mod	_	Gloss=merely
 21	.	.	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -3370,7 +3370,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__164
 # text_en = The songs that the griots were playing, kept praising his bravery, but he would not give them a single penny .
 # text_ortho = kiɗìn maulòn dà màːsu maulòː kà yi mai dan shinàː zaːrùmiː nàː, àmman koː dalàː bâi baː sù .
-# text = kiɗì-n maulòn dà màːsu maulòː kàyi mai dan shi-nàː zaːrùmiː nàː, àmman koː dalàː baːì baː -sù.
+# text = kiɗì -n maulòn dà màːsu maulòː kà yi mai dan shi nàː zaːrùmiː nàː , àmman koː dalàː bâ-ì-_̀ baː -sù .
 1	kiɗì	kiɗìː	NOUN	_	Gender=Masc	14	subj	_	Compound=Yes|Gloss=music.Masc|RelAnt=Yes|wordform=kiɗìn
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 3	maulòn	maulòː	NOUN	_	Definite=Def|Gender=Masc	2	comp	_	Gloss=guitar.Masc.Def
@@ -3381,8 +3381,8 @@
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do|RelPos=Yes
 9	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	8	comp:obl	_	Gloss=3Masc.Dat
 10	dan	don	SCONJ	_	_	14	comp:pred	_	Gloss=because
-11	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	subj/m	_	Gloss=3Masc|SpaceAfter=No
-12	nàː	nàː	AUX	_	Aspect=Prog	10	comp	_	Gloss=Prog|wordform=shinàː
+11	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj	_	Gloss=3Masc
+12	nàː	nàː	AUX	_	Copula=Yes	10	comp	_	Gloss=be.Loc/Pred
 13	zaːrùmiː	zaːrùmiː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=brave
 14	nàː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Ident
 15	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT

@@ -660,7 +660,7 @@
 # text = a- nàː nan |r a- nàː nan |r a- nàː nan < rân nan < sai uwa-t-tà tay= yi cikìː //
 # text_en = After some time, one day, her [Dove's] mother became pregnant.
 1	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	2	subj/m	_	AlignBegin=100380|AlignEnd=100603|Gloss=4|SpaceAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	22	parataxis:mod	_	AlignBegin=100380|AlignEnd=100603|Gloss=be.Loc|wordform=a
+2	nàː	nàː	AUX	_	Copula=Yes	21	parataxis:mod	_	AlignBegin=100380|AlignEnd=100603|Gloss=be.Loc|wordform=a
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	AlignBegin=100603|AlignEnd=100826|Gloss=PreRef|PreRef=Yes
 4	|r	|r	PUNCT	_	_	6	punct	_	AlignBegin=100826|AlignEnd=101049|Gloss=PUNCT
 5	a-	a	PRON	_	Copula=Yes|Person=4|PronType=Prs	6	subj/m	_	AlignBegin=101049|AlignEnd=101272|Gloss=4|SpaceAfter=No
