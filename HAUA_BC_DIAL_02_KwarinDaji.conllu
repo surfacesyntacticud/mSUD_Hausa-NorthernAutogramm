@@ -24,7 +24,7 @@
 18	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	19	comp:pred	_	AlignBegin=9556|AlignEnd=9922|Gloss=how
 19	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=9922|AlignEnd=10288|Gloss=Ident
 20	mutàːneː	mùtunèː	NOUN	_	Number=Plur	22	subj	_	AlignBegin=10288|AlignEnd=10654|Gloss=human.Plur
-21	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	22	subj/m	_	AlignBegin=10654|AlignEnd=11020|Gloss=3Plur|SpaceAfter=No
+21	su-	su	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	22	subj/m	_	AlignBegin=10654|AlignEnd=11020|Gloss=3Plur|SpaceAfter=No
 22	kè	nàː	AUX	_	Aspect=Prog	19	comp:cleft	_	AlignBegin=10654|AlignEnd=11020|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante
 23	zàmne	zamn-	VERB	_	VerbForm=Part|Voice=Stat	22	comp:aux	_	AlignBegin=11386|AlignEnd=11752|Gloss=stay/sit.Stat
 24	?//	?//	PUNCT	_	_	19	punct	_	AlignBegin=11752|AlignEnd=12120|Gloss=PUNCT
@@ -64,7 +64,7 @@
 # sent_timecode = 111445, 112135
 # text = ta- nàː ta kiːyòː ?//
 # text_en = Were they browsing?
-1	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=111445|AlignEnd=111617|Gloss=3Fem|SpaceAfter=No
+1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=111445|AlignEnd=111617|Gloss=3Fem|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=111445|AlignEnd=111617|Gloss=Prog|wordform=tanàː
 3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	mod	_	AlignBegin=111617|AlignEnd=111789|Gloss=Iter
 4	kiːyòː	kiːyòː	NOUN	_	Gender=Masc	2	comp:aux	_	AlignBegin=111789|AlignEnd=111961|Gloss=grazing.Masc
@@ -79,7 +79,7 @@
 1	wanèː	wanèː	DET	_	Gender=Masc|PronType=Int	2	det	_	AlignBegin=132960|AlignEnd=133143|Gloss=which.Masc
 2	àːgìzoː	aːgiz-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	0	root	_	AlignBegin=133143|AlignEnd=133326|Gloss=watch.Vnoun.Masc
 3	nàː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=133326|AlignEnd=133509|Gloss=Emph
-4	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	5	subj/m	_	AlignBegin=133509|AlignEnd=133692|Gloss=2Plur|SpaceAfter=No
+4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	5	subj/m	_	AlignBegin=133509|AlignEnd=133692|Gloss=2Plur|SpaceAfter=No
 5-6	kukài	_	_	_	_	_	_	_	_
 5	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp:cleft	_	AlignBegin=133509|AlignEnd=133692|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kukà
 6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=133509|AlignEnd=133692|Gloss=do
@@ -95,7 +95,7 @@
 # text_en = How did you keep watch on them?
 1	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	2	comp:pred	_	AlignBegin=135140|AlignEnd=135308|Gloss=how
 2	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=135308|AlignEnd=135476|Gloss=Ident
-3	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj/m	_	AlignBegin=135476|AlignEnd=135644|Gloss=2Plur|SpaceAfter=No
+3	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj/m	_	AlignBegin=135476|AlignEnd=135644|Gloss=2Plur|SpaceAfter=No
 4	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp:cleft	_	AlignBegin=135476|AlignEnd=135644|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kukà
 5	àːgìzo	aːgiz-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	comp:aux	_	AlignBegin=135644|AlignEnd=135812|Gloss=watch.Vnoun.Masc|wordform=àːgìzonta
 6	-n	-n	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
@@ -202,7 +202,7 @@
 4	Isshìhi	Isshìhi	PROPN	_	_	5	comp:pred	_	AlignBegin=255197|AlignEnd=255346|Gloss=Isshihi
 5	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=255346|AlignEnd=255495|Gloss=Ident
 6	>+	>+	PUNCT	_	_	8	punct	_	AlignBegin=255495|AlignEnd=255644|Gloss=PUNCT
-7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=255644|AlignEnd=255793|Gloss=1Sing-|SpaceAfter=No|wordform=nis
+7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=255644|AlignEnd=255793|Gloss=1Sing|SpaceAfter=No|wordform=nis
 8	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	5	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=s=
 9	sanìː	sanìː	VERB	_	_	8	comp:aux	_	AlignBegin=255793|AlignEnd=255942|ClauseType=Cleft|Gloss=know
 10	wurìn	wurìː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	AlignBegin=255942|AlignEnd=256091|Gloss=place.Masc.Def
@@ -255,7 +255,7 @@
 1	tôː	tôː	INTJ	_	_	14	discourse	_	AlignBegin=681920|AlignEnd=682167|Gloss=well
 2	àmmaː	àmmaː	CCONJ	_	_	14	discourse	_	AlignBegin=682167|AlignEnd=682414|Gloss=but
 3	in	in	SCONJ	_	_	14	mod	_	AlignBegin=682414|AlignEnd=682661|Gloss=if
-4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur-|SpaceAfter=No|wordform=kun
+4	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=682661|AlignEnd=682908|Gloss=2Plur|SpaceAfter=No|wordform=kun
 5	n	aː	AUX	_	Aspect=Perf|Number=Plur	3	comp	_	Gloss=Perf.Plur|wordform=n=
 6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=682908|AlignEnd=683155|Gloss=do
 7	hwaɗàː	hwaɗàː	NOUN	_	Gender=Masc	6	comp:pred	_	AlignBegin=683155|AlignEnd=683402|Gloss=fight.Masc
