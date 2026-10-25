@@ -12,7 +12,7 @@
 5	gidaː	gidaː	NOUN	_	Gender=Masc	4	comp:obj@G	_	AlignBegin=7001|AlignEnd=7168|Gloss=house.Masc
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=7168|AlignEnd=7335|Gloss=PUNCT
 7	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-8	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=7335|AlignEnd=7502|Gloss=-1Sing|SpaceBefore=No|wordform=ani
+8	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=7335|AlignEnd=7502|Gloss=-1Sing|SpaceBefore=No|wordform=ani
 9	hwaɗàː	hwaɗ-	VERB	_	_	7	comp:aux	_	AlignBegin=7502|AlignEnd=7669|Gloss=tell
 10	maː	maː	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	9	comp:obl	_	AlignBegin=7669|AlignEnd=7836|Gloss=2Masc.Dat
 11	//	//	PUNCT	_	_	7	punct	_	AlignBegin=7836|AlignEnd=8000|Gloss=PUNCT
@@ -206,11 +206,11 @@
 16	|c	|c	PUNCT	_	_	18	punct	_	AlignBegin=42128|AlignEnd=42294|Gloss=PUNCT
 17	sai	sai	ADV	_	_	18	mod	_	AlignBegin=42294|AlignEnd=42460|Gloss=then
 18	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	12	conj:coord	_	Gloss=Neg.Perf|wordform=bà-
-19	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	18	subj/m	_	AlignBegin=42460|AlignEnd=42626|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+19	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	18	subj/m	_	AlignBegin=42460|AlignEnd=42626|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 20	zakà	zak-	VERB	_	_	18	comp:aux	_	AlignBegin=42626|AlignEnd=42792|Gloss=arrive
 21	|c	|c	PUNCT	_	_	22	punct	_	AlignBegin=42792|AlignEnd=42958|Gloss=PUNCT
 22	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	18	conj:coord	_	Gloss=Neg.Perf|wordform=bà-
-23	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	22	subj/m	_	AlignBegin=42958|AlignEnd=43124|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+23	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	22	subj/m	_	AlignBegin=42958|AlignEnd=43124|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 24	ƙaːràː	ƙaːr-	VERB	_	_	22	comp:aux	_	AlignBegin=43124|AlignEnd=43290|Gloss=increase
 25	gà	gà	ADP	_	_	24	comp:obl	_	AlignBegin=43290|AlignEnd=43456|Gloss=by
 26	wàccân	cân	DET	_	Deixis=Med|Gender=Fem|PronType=Dem	27	det	_	AlignBegin=43456|AlignEnd=43622|Gloss=Med.Fem
@@ -262,10 +262,10 @@
 9	<	<	PUNCT	_	_	1	punct	_	AlignBegin=47110|AlignEnd=47292|Gloss=PUNCT
 10	sai	sai	ADV	_	_	11	mod	_	AlignBegin=47292|AlignEnd=47474|Gloss=then
 11	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-12	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=47474|AlignEnd=47656|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+12	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=47474|AlignEnd=47656|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 13	zakà	zak-	VERB	_	_	11	comp:aux	_	AlignBegin=47656|AlignEnd=47838|Gloss=arrive
 14	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	11	conj:coord	_	Gloss=Neg.Perf|wordform=bà-
-15	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	14	subj/m	_	AlignBegin=47838|AlignEnd=48020|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+15	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	14	subj/m	_	AlignBegin=47838|AlignEnd=48020|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 16	ƙaːràː	ƙaːr-	VERB	_	_	14	comp:aux	_	AlignBegin=48020|AlignEnd=48202|Gloss=increase
 17	//	//	PUNCT	_	_	11	punct	_	AlignBegin=48202|AlignEnd=48390|Gloss=PUNCT
 
@@ -282,10 +282,10 @@
 4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=49046|AlignEnd=49209|Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	AlignBegin=49209|AlignEnd=49372|Gloss=then
 6	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=49372|AlignEnd=49535|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+7	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=49372|AlignEnd=49535|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 8	zakà	zak-	VERB	_	_	6	comp:aux	_	AlignBegin=49535|AlignEnd=49698|Gloss=arrive
 9	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	6	conj:coord	_	Gloss=Neg.Perf|wordform=bà-
-10	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=49698|AlignEnd=49861|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+10	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=49698|AlignEnd=49861|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 11	ƙaːràː	ƙaːr-	VERB	_	_	9	comp:aux	_	AlignBegin=49861|AlignEnd=50024|Gloss=increase
 12	//	//	PUNCT	_	_	6	punct	_	AlignBegin=50024|AlignEnd=50184|Gloss=PUNCT
 
@@ -465,7 +465,7 @@
 # text_en = Let me see.
 1	bàri	bar-	VERB	_	_	0	root	_	AlignBegin=92666|AlignEnd=92880|Gloss=let.Impr|Imperative=Yes
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	1	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=92880|AlignEnd=93094|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+3	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=92880|AlignEnd=93094|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 4	ganiː	gan-	VERB	_	_	2	comp:aux	_	AlignBegin=93094|AlignEnd=93308|Gloss=see
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=93308|AlignEnd=93520|Gloss=PUNCT
 
@@ -479,7 +479,7 @@
 1	wàːtôː	wàːtôː	INTJ	_	_	2	discourse	_	AlignBegin=98166|AlignEnd=98934|Gloss=that_is
 2	shìryaː	shiry-	VERB	_	_	0	root	_	AlignBegin=98934|AlignEnd=99702|Gloss=prepare.Impr|Imperative=Yes
 3	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	2	mod	_	Gloss=Neg.Perf|wordform=bà-
-4	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=99702|AlignEnd=100470|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+4	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=99702|AlignEnd=100470|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 5	kakkàːryaː	kary-	VERB	_	_	3	comp:aux	_	AlignBegin=100470|AlignEnd=101238|Gloss=break
 6	hakànan	hakànan	ADV	_	_	5	mod	_	AlignBegin=101238|AlignEnd=102006|Gloss=thus
 7	!//	!//	PUNCT	_	_	2	punct	_	AlignBegin=102774|AlignEnd=103544|Gloss=PUNCT
@@ -574,7 +574,7 @@
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=126288|AlignEnd=126576|Gloss=say
 4	[	[	PUNCT	_	_	8	punct	_	AlignBegin=126576|AlignEnd=126864|Gloss=PUNCT
 5	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	8	parataxis:discourse	_	Gloss=Neg.Perf|wordform=bà-
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=126864|AlignEnd=127152|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+6	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=126864|AlignEnd=127152|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 7	ji	ji	VERB	_	_	5	comp:aux	_	AlignBegin=127152|AlignEnd=127440|Gloss=hear
 8	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	AlignBegin=127440|AlignEnd=127728|Gloss=there_is.Neg
 9	kàreː	kàreː	NOUN	_	Gender=Masc	8	subj	_	AlignBegin=127728|AlignEnd=128016|Gloss=dog.Masc
@@ -648,7 +648,7 @@
 9	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	8	comp:pred	_	AlignBegin=138844|AlignEnd=139068|Gloss=communal_hunting.Fem
 10	//=	//=	PUNCT	_	_	14	punct	_	AlignBegin=139068|AlignEnd=139292|Gloss=PUNCT
 11	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	14	parataxis:discourse	_	Gloss=Neg.Perf|wordform=bà-
-12	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=139292|AlignEnd=139516|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+12	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=139292|AlignEnd=139516|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 13	ji	ji	VERB	_	_	11	comp:aux	_	AlignBegin=139516|AlignEnd=139740|Gloss=hear
 14	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	8	parataxis:conj	_	AlignBegin=139740|AlignEnd=139964|Gloss=there_is.Neg
 15	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	14	subj	_	AlignBegin=139964|AlignEnd=140188|Gloss=leopard.Fem
@@ -734,7 +734,7 @@
 4	cèː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=149124|AlignEnd=149314|Gloss=say
 5	[	[	PUNCT	_	_	9	punct	_	AlignBegin=149314|AlignEnd=149504|Gloss=PUNCT
 6	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	9	parataxis:discourse	_	Gloss=Neg.Perf|wordform=bà-
-7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=149504|AlignEnd=149694|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+7	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=149504|AlignEnd=149694|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 8	ji	ji	VERB	_	_	6	comp:aux	_	AlignBegin=149694|AlignEnd=149884|Gloss=hear
 9	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	comp:obj	_	AlignBegin=149884|AlignEnd=150074|Gloss=there_is.Neg
 10	dàːmisàː	dàːmisàː	NOUN	_	Gender=Fem	9	subj	_	AlignBegin=150074|AlignEnd=150264|Gloss=leopard.Fem
@@ -789,7 +789,7 @@
 4	cèː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=157106|AlignEnd=157312|Gloss=say
 5	[	[	PUNCT	_	_	9	punct	_	AlignBegin=157312|AlignEnd=157518|Gloss=PUNCT
 6	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	9	parataxis:discourse	_	Gloss=Neg.Perf|wordform=bà-
-7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=157518|AlignEnd=157724|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+7	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=157518|AlignEnd=157724|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 8	ji	ji	VERB	_	_	6	comp:aux	_	AlignBegin=157724|AlignEnd=157930|Gloss=hear
 9	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	comp:obj	_	AlignBegin=157930|AlignEnd=158136|Gloss=there_is.Neg
 10	zaːkìː	zaːkìː	NOUN	_	Gender=Masc	9	subj	_	AlignBegin=158136|AlignEnd=158342|Gloss=lion.Masc

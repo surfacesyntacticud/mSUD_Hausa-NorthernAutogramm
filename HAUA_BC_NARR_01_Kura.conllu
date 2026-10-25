@@ -224,7 +224,7 @@
 6	tôː	tôː	INTJ	_	_	7	discourse	_	AlignBegin=46680|AlignEnd=46795|Gloss=well
 7	bàri	bar-	VERB	_	_	3	comp:obj	_	AlignBegin=46795|AlignEnd=46910|Gloss=let.Impr|Imperative=Yes
 8	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	7	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
-9	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=46910|AlignEnd=47025|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+9	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=46910|AlignEnd=47025|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 10	shìga	shig-	VERB	_	_	8	comp:aux	_	AlignBegin=47025|AlignEnd=47140|Gloss=enter
 11	ruwân	ruwaː	NOUN	_	Definite=Def|Number=Plur	10	comp:obj@G	_	AlignBegin=47140|AlignEnd=47255|Gloss=water.Plur.Def
 12	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	11	det	_	AlignBegin=47255|AlignEnd=47370|Gloss=ProxS

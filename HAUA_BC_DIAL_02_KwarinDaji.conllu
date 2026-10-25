@@ -184,7 +184,7 @@
 # text = bàn san wànnan ba //
 # text_en = I don't know about that.
 1	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-2	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=253425|AlignEnd=253545|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
+2	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=253425|AlignEnd=253545|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
 3	san	sanìː	VERB	_	_	1	comp:aux	_	AlignBegin=253545|AlignEnd=253665|Gloss=know
 4	wànnan	nan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	3	comp:obj	_	AlignBegin=253665|AlignEnd=253785|Gloss=ProxH.Masc
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=253785|AlignEnd=253905|Gloss=Neg

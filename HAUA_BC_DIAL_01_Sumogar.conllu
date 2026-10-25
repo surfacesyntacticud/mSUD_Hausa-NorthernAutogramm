@@ -1021,7 +1021,7 @@
 # text = bàn= san loːkàcîn nan ba //
 # text_en = I don't know when.
 1	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-2	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=238154|AlignEnd=238304|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
+2	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=238154|AlignEnd=238304|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
 3	san	san-	VERB	_	_	1	comp:aux	_	AlignBegin=238304|AlignEnd=238454|Gloss=know
 4	loːkàcîn	loːkàcîː	NOUN	_	Definite=Def|Gender=Masc	3	comp:obj	_	AlignBegin=238454|AlignEnd=238604|Gloss=time.Def
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	AlignBegin=238604|AlignEnd=238754|Gloss=PreRef|PreRef=Yes

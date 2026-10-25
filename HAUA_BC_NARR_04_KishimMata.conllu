@@ -365,7 +365,7 @@
 14	cèː	cêː	VERB	_	_	13	comp:aux	_	AlignBegin=61744|AlignEnd=61928|ClauseType=Rel|Gloss=say
 15	[	[	PUNCT	_	_	16	punct	_	AlignBegin=61928|AlignEnd=62112|Gloss=PUNCT
 16	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	14	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
-17	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	AlignBegin=62112|AlignEnd=62296|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+17	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	AlignBegin=62112|AlignEnd=62296|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 18	ɗeːboː	ɗeːb-	VERB	_	_	16	comp:aux	_	AlignBegin=62296|AlignEnd=62480|Gloss=take.Dir
 19	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	18	mod	_	AlignBegin=62480|AlignEnd=62664|Gloss=ProxS
 20	?//]	?//]	PUNCT	_	_	16	punct	_	AlignBegin=62664|AlignEnd=62848|Gloss=PUNCT
@@ -417,7 +417,7 @@
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=68104|AlignEnd=68399|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=68399|AlignEnd=68694|Gloss=PUNCT
 5	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	3	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=68694|AlignEnd=68989|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+6	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=68694|AlignEnd=68989|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 7	ɗeːboː	ɗeːb-	VERB	_	_	5	comp:aux	_	AlignBegin=68989|AlignEnd=69284|Gloss=take.Dir
 8	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	7	mod	_	AlignBegin=69284|AlignEnd=69579|Gloss=ProxS
 9	?//]	?//]	PUNCT	_	_	5	punct	_	AlignBegin=69579|AlignEnd=69874|Gloss=PUNCT
@@ -466,7 +466,7 @@
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=74048|AlignEnd=74148|Gloss=say
 4	[	[	PUNCT	_	_	5	punct	_	AlignBegin=74148|AlignEnd=74248|Gloss=PUNCT
 5	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	3	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=74248|AlignEnd=74348|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+6	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=74248|AlignEnd=74348|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 7	ɗeːboː	ɗeːb-	VERB	_	_	5	comp:aux	_	AlignBegin=74348|AlignEnd=74448|Gloss=take.Dir
 8	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	7	mod	_	AlignBegin=74448|AlignEnd=74548|Gloss=ProxS
 9	?//]	?//]	PUNCT	_	_	5	punct	_	AlignBegin=74548|AlignEnd=74648|Gloss=PUNCT
@@ -1530,7 +1530,7 @@
 # text_en = "Shall I fetch water here?"
 1	[	[	PUNCT	_	_	2	punct	_	AlignBegin=225540|AlignEnd=225777|Gloss=PUNCT
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=225777|AlignEnd=226014|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+3	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=225777|AlignEnd=226014|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 4	ɗeːboː	ɗeːb-	VERB	_	_	2	comp:aux	_	AlignBegin=226014|AlignEnd=226251|Gloss=take.Dir
 5	ruwaː	ruwaː	NOUN	_	Number=Plur	4	comp:obj@T	_	AlignBegin=226251|AlignEnd=226488|Gloss=water.Plur
 6	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	4	mod	_	AlignBegin=226488|AlignEnd=226725|Gloss=ProxS
@@ -1567,7 +1567,7 @@
 # text_en = "Shall I fetch water here?"
 1	[	[	PUNCT	_	_	2	punct	_	AlignBegin=229477|AlignEnd=229712|Gloss=PUNCT
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=229712|AlignEnd=229947|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+3	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=229712|AlignEnd=229947|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 4	ɗeːboː	ɗeːb-	VERB	_	_	2	comp:aux	_	AlignBegin=229947|AlignEnd=230182|Gloss=take.Dir
 5	ruwaː	ruwaː	NOUN	_	Number=Plur	4	comp:obj@T	_	AlignBegin=230182|AlignEnd=230417|Gloss=water.Plur
 6	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	4	mod	_	AlignBegin=230417|AlignEnd=230652|Gloss=ProxS
@@ -1604,7 +1604,7 @@
 # text_en = "Shall I fetch water here?"
 1	[	[	PUNCT	_	_	2	punct	_	AlignBegin=233380|AlignEnd=233614|Gloss=PUNCT
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=233614|AlignEnd=233848|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+3	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=233614|AlignEnd=233848|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 4	ɗeːboː	ɗeːb-	VERB	_	_	2	comp:aux	_	AlignBegin=233848|AlignEnd=234082|Gloss=take.Dir
 5	ruwaː	ruwaː	NOUN	_	Number=Plur	4	comp:obj@T	_	AlignBegin=234082|AlignEnd=234316|Gloss=water.Plur
 6	nanânga	nân	ADV	_	Deixis=ProxS|PronType=Dem	4	mod	_	AlignBegin=234316|AlignEnd=234550|Gloss=ProxS
@@ -2655,7 +2655,7 @@
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 15	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	14	comp:obj/m	_	Gloss=2Masc.Gen|SpaceBefore=No
 16	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	12	mod	_	Gloss=Neg.Perf|wordform=bà-
-17	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	AlignBegin=369240|AlignEnd=369510|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
+17	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	16	subj/m	_	AlignBegin=369240|AlignEnd=369510|Gloss=-1Sing|SpaceBefore=No|wordform=ìn
 18	ɗeːbèː	ɗeːb-	VERB	_	_	16	comp:aux	_	AlignBegin=369510|AlignEnd=369780|Gloss=scoop
 19	maː	maː	PRON	_	Case=Dat|Gender=Masc|Person=2|PronType=Prs	18	comp:obl	_	AlignBegin=369780|AlignEnd=370050|Gloss=2Masc.Dat
 20	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	22	det	_	AlignBegin=370050|AlignEnd=370320|Gloss=some.Masc
