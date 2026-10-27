@@ -1163,7 +1163,7 @@
 # text = shi nàː cân |c shinàː cîn mùzuːruː |c sai gàː kuːraː sagàb sagàb sagàb //
 # text_en = He is there, eating Cat, when Hyena arrived galloping.
 1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	AlignBegin=221471|AlignEnd=221797|Gloss=3Masc|SpacesAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=221471|AlignEnd=221797|Gloss=Prog|wordform=shi
+2	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	AlignBegin=221471|AlignEnd=221797|Gloss=Prog|wordform=shi
 3	cân	can	ADV	_	Deixis=Remt|PronType=Dem	2	comp:pred	_	AlignBegin=221797|AlignEnd=222123|Gloss=Rmt
 4	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=222123|AlignEnd=222449|Gloss=PUNCT
 5	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=222449|AlignEnd=222775|Gloss=3Masc|SpacesAfter=No
