@@ -10949,12 +10949,12 @@
 2	im	in	SCONJ	_	_	13	mod	_	Gloss=if
 3	mùtun	mùtun	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=man.Masc
 4	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	5	subj/m	_	Gloss=2Masc|SpacesAfter=No
-5	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	2	comp	_	Gloss=be.Pred|wordform=kakè
+5	kè	kè	AUX	_	Copula=Yes|Mood=Rel	2	comp	_	Gloss=be.Pred|wordform=kakè
 6	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 7	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 8	àljaniː	àljaniː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=jinn.Masc
 9	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	10	subj/m	_	Gloss=2Masc|SpacesAfter=No
-10	kè	nàː	AUX	_	Copula=Yes|Mood=Rel	7	comp	_	Gloss=be.Pred|wordform=kakè
+10	kè	kè	AUX	_	Copula=Yes|Mood=Rel	7	comp	_	Gloss=be.Pred|wordform=kakè
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 12	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	13	subj/m	_	Gloss=2Masc|SpacesAfter=No|wordform=kà
 13	_̀	_̀	AUX	_	Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
