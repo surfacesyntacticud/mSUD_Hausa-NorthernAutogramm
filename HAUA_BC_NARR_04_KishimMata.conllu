@@ -2104,10 +2104,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUA/WAV/HAUA_BC_NARR_04_GYM.WAV
 # sent_timecode = 291580, 299580
 # text_ortho = ankà || yac cèː [ à tohoː dà sâː || à toho dà sâː baƙiː |c à tohoː dà jan sâː |c à tohoː dà hwarin sâː //] //
-# text = a-nkà= || ya-c= cèː [ à=tohoː dà sâː |c à=tohoː dà sâː baƙiː |c à=tohoː dà jan sâː |c à=tohoː dà hwarin sâː //] //
+# text = an- kà || ya- Ø cèː [ a- _̀ tohoː dà sâː |c a- _̀ tohoː dà sâː baƙiː |c a- _̀ tohoː dà jan sâː |c a- _̀ tohoː dà hwarin sâː //] //
 # text_en = They... he said "Bring a cow... bring a black cow, bring a red cow, bring a white cow."
-1	a-	a	PRON	_	Number=Plur|Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=291580|AlignEnd=291856|Gloss=4|SpacesAfter=No|wordform=ankà
-2	nkà	kà	AUX	_	Number=Plur	5	reparandum	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+1	an-	a	PRON	_	Number=Plur|Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=291580|AlignEnd=291856|Gloss=4|SpacesAfter=No|wordform=ankà
+2	kà	kà	AUX	_	Number=Plur	5	reparandum	_	Gloss=Perf.Rel.Plur|wordform=nkà=
 3	||	||	PUNCT	_	_	2	punct	_	AlignBegin=291856|AlignEnd=292132|Gloss=PUNCT
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	5	subj	_	AlignBegin=292132|AlignEnd=292408|Gloss=3Masc|SpacesAfter=No|wordform=yac
 5	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	AlignBegin=292132|AlignEnd=292408|Gloss=Perf.Rel.Sing|wordform=yac
