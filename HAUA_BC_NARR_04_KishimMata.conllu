@@ -395,7 +395,7 @@
 43	his'ariː	his'ariː	NOUN	_	Gender=Masc	42	comp:pred	_	AlignBegin=65792|AlignEnd=65976|Gloss=urine.Masc
 44	<	<	PUNCT	_	_	27	punct	_	AlignBegin=65976|AlignEnd=66160|Gloss=PUNCT
 45	zâː	zâː	AUX	_	Tense=Fut	25	comp:obj	_	Gloss=Fut|SpaceForm=zâi|wordform=zâː-
-46	-ki	ki	PRON	_	Gender=Fem|Person=2|PronType=ProSubj	45	subj/m	_	AlignBegin=66160|AlignEnd=66344|Gloss=3Masc|SpacesBefore=No|wordform=zâːki
+46	ki	ki	PRON	_	Gender=Fem|Person=2|PronType=ProSubj	45	subj	_	AlignBegin=66160|AlignEnd=66344|Gloss=3Masc|SpacesBefore=No|wordform=zâːki
 47-48	ki	_	_	_	_	_	_	_	_
 47	ɗeːboː	ɗeːb-	VERB	_	_	45	comp:aux	_	AlignBegin=66528|AlignEnd=66712|Gloss=take.Dir
 48	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	47	mod	_	AlignBegin=66712|AlignEnd=66896|Gloss=ProxS
@@ -1805,7 +1805,7 @@
 13	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	subj	_	AlignBegin=255397|AlignEnd=255564|Gloss=3Masc
 14	yâu	yâu	ADV	_	_	15	mod	_	AlignBegin=255564|AlignEnd=255731|Gloss=today
 15	zâː	zâː	AUX	_	Tense=Fut	12	comp:pred	_	Gloss=Fut|SpaceForm=zâi|wordform=zâː-
-16	-shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	15	subj/m	_	AlignBegin=255731|AlignEnd=255898|Gloss=3Masc|SpacesBefore=No|wordform=zâːshi
+16	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	15	subj	_	AlignBegin=255731|AlignEnd=255898|Gloss=3Masc|SpacesBefore=No|wordform=zâːshi
 17	mutuwàː	mut-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	15	comp:aux	_	AlignBegin=256065|AlignEnd=256232|Gloss=die.Vnoun.Fem
 18	//	//	PUNCT	_	_	12	punct	_	AlignBegin=256232|AlignEnd=256400|Gloss=PUNCT
 

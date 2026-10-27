@@ -106,7 +106,7 @@
 # text = baːkà mânceːwà //
 # text_en = You won't forget.
 1	baː	bâː	AUX	_	Aspect=Prog|Gender=Masc|Polarity=Neg	0	root	_	AlignBegin=28170|AlignEnd=28470|Gloss=Neg.Prog
-2	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	1	subj/m	_	AlignBegin=28170|AlignEnd=28470|Gloss=-2Masc|SpacesBefore=No|wordform=baːkà
+2	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	1	subj	_	AlignBegin=28170|AlignEnd=28470|Gloss=-2Masc|SpacesBefore=No|wordform=baːkà
 3	mânceːwà	mant-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	1	comp:aux	_	AlignBegin=28470|AlignEnd=28770|Gloss=forget.Vnoun.Fem
 4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=28770|AlignEnd=29070|Gloss=PUNCT
 
@@ -452,7 +452,7 @@
 4	gùdaː	gùdaː	NOUN	_	Gender=Masc	3	mod	_	AlignBegin=87788|AlignEnd=88030|Gloss=unit.Masc
 5	ɗai	ɗai	NUM	_	_	4	det	_	AlignBegin=88030|AlignEnd=88272|Gloss=one
 6	baː	bâː	AUX	_	Aspect=Prog|Gender=Masc|Polarity=Neg	0	root	_	AlignBegin=88272|AlignEnd=88514|Gloss=Neg.Prog
-7	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	6	subj/m	_	AlignBegin=88272|AlignEnd=88514|Gloss=-2Masc|SpacesBefore=No|wordform=baːkà
+7	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	6	subj	_	AlignBegin=88272|AlignEnd=88514|Gloss=-2Masc|SpacesBefore=No|wordform=baːkà
 8	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	AlignBegin=88514|AlignEnd=88756|Gloss=do.Vnoun.Masc
 9	?//	?//	PUNCT	_	_	6	punct	_	AlignBegin=88756|AlignEnd=88999|Gloss=PUNCT
 

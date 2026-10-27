@@ -1255,14 +1255,14 @@
 3	aikìː	aikìː	NOUN	_	Gender=Masc	2	comp:aux	_	AlignBegin=274312|AlignEnd=274590|Gloss=work.Masc
 4	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=274590|AlignEnd=274868|Gloss=PUNCT
 5	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	2	conj:coord	_	AlignBegin=274868|AlignEnd=275146|Gloss=Neg.Prog
-6	-à	a	PRON	_	Person=4|PronType=ProSubj	5	subj/m	_	AlignBegin=274868|AlignEnd=275146|Gloss=-4|SpacesBefore=No|wordform=baː'à
+6	à	a	PRON	_	Person=4|PronType=ProSubj	5	subj	_	AlignBegin=274868|AlignEnd=275146|Gloss=-4|SpacesBefore=No|wordform=baː'à
 7	biyà	biy-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	5	comp:aux	_	AlignBegin=275146|AlignEnd=275424|Gloss=pay.Vnoun|wordform=biyàn
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 9	-ka	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	8	comp:obj/m	_	Gloss=2Masc.Gen|SpacesBefore=No
 10	kwabòː	kwabòː	NOUN	_	Gender=Masc	7	comp:obj@T	_	AlignBegin=275424|AlignEnd=275702|Gloss=kobo.Masc
 11	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=275702|AlignEnd=275980|Gloss=PUNCT
 12	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	5	conj:coord	_	AlignBegin=275980|AlignEnd=276258|Gloss=Neg.Prog|wordform=baː'à
-13	-'à	a	PRON	_	Person=4|PronType=ProSubj	12	subj/m	_	AlignBegin=275980|AlignEnd=276258|Gloss=4|SpacesBefore=No|wordform='à
+13	'à	a	PRON	_	Person=4|PronType=ProSubj	12	subj	_	AlignBegin=275980|AlignEnd=276258|Gloss=4|SpacesBefore=No
 14	baː	baː	VERB	_	_	12	comp:aux	_	AlignBegin=276258|AlignEnd=276536|Gloss=give
 15	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	14	comp:obj@R	_	AlignBegin=276536|AlignEnd=276814|Gloss=2Masc
 16	siːsì	siːsìː	NOUN	_	Gender=Masc	14	comp:obj@T	_	AlignBegin=276814|AlignEnd=277092|Gloss=sisi|wordform=siːsìn
@@ -1913,7 +1913,7 @@
 5	C	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	3	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=s=
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	AlignBegin=392568|AlignEnd=392945|ClauseType=Rel|Gloss=put|RelRole=subj
 7	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	6	comp:obj	_	AlignBegin=392945|AlignEnd=393322|Gloss=Neg.Prog
-8	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	7	subj/m	_	AlignBegin=392945|AlignEnd=393322|Gloss=-1Plur|SpacesBefore=No|wordform=baːmù
+8	mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	7	subj	_	AlignBegin=392945|AlignEnd=393322|Gloss=-1Plur|SpacesBefore=No|wordform=baːmù
 9	gàmuwaː	gàm-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=393699|AlignEnd=394076|Gloss=meet.Vnoun.Fem
 10	dà	dà	ADP	_	_	9	comp:obl	_	AlignBegin=394076|AlignEnd=394453|Gloss=with
 11	ƙwàːriː	ƙwaːròː	NOUN	_	Number=Plur	10	comp	_	AlignBegin=394453|AlignEnd=394830|Gloss=animal.Plur
@@ -2125,7 +2125,7 @@
 # text_en = Whatever you had to do, you did it!
 1	koːƙàːƙàː	koːƙàːƙàː	SCONJ	_	_	9	mod	_	AlignBegin=424060|AlignEnd=424248|Gloss=however
 2	zâː	zâː	AUX	_	Tense=Fut	1	comp	_	Gloss=Fut|wordform=zâː-
-3	-ku	ku	PRON	_	Number=Plur|Person=2|PronType=ProSubj	2	subj/m	_	AlignBegin=424248|AlignEnd=424436|Gloss=2Plur|SpacesBefore=No|wordform=zâːku
+3	ku	ku	PRON	_	Number=Plur|Person=2|PronType=ProSubj	2	subj	_	AlignBegin=424248|AlignEnd=424436|Gloss=2Plur|SpacesBefore=No|wordform=zâːku
 4	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=424624|AlignEnd=424812|Gloss=do.Vnoun.Masc
 5	<	<	PUNCT	_	_	1	punct	_	AlignBegin=424812|AlignEnd=425000|Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	AlignBegin=425000|AlignEnd=425188|Gloss=then
@@ -2302,7 +2302,7 @@
 # text_en = But you did not stay long?
 1	àmmaː	àmmaː	CCONJ	_	_	2	discourse	_	AlignBegin=448760|AlignEnd=448960|Gloss=but
 2	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	0	root	_	AlignBegin=448960|AlignEnd=449160|Gloss=Neg.Prog
-3	-kù	ku	PRON	_	Number=Plur|Person=2|PronType=ProSubj	2	subj/m	_	AlignBegin=448960|AlignEnd=449160|Gloss=-2Plur|SpacesBefore=No|wordform=baːkù
+3	kù	ku	PRON	_	Number=Plur|Person=2|PronType=ProSubj	2	subj	_	AlignBegin=448960|AlignEnd=449160|Gloss=-2Plur|SpacesBefore=No|wordform=baːkù
 4	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=449160|AlignEnd=449360|Gloss=spend_time.Vnoun.Fem
 5	ƙwarai	ƙwarai	ADV	_	_	4	mod	_	AlignBegin=449360|AlignEnd=449560|Gloss=quite
 6	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=449560|AlignEnd=449760|Gloss=PUNCT
@@ -2316,7 +2316,7 @@
 # text_en = No, we did not stay long.
 1	aː'àː	aː'àː	INTJ	_	_	0	root	_	AlignBegin=449980|AlignEnd=450150|Gloss=no
 2	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	1	parataxis:conj	_	AlignBegin=450150|AlignEnd=450320|Gloss=Neg.Prog
-3	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	2	subj/m	_	AlignBegin=450150|AlignEnd=450320|Gloss=-1Plur|SpacesBefore=No|wordform=baːmù
+3	mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	2	subj	_	AlignBegin=450150|AlignEnd=450320|Gloss=-1Plur|SpacesBefore=No|wordform=baːmù
 4	daɗèːwaː	daɗ-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	comp:aux	_	AlignBegin=450320|AlignEnd=450490|Gloss=spend_time.Vnoun.Fem
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=450490|AlignEnd=450660|Gloss=PUNCT
 
