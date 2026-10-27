@@ -203,7 +203,7 @@
 5	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=255346|AlignEnd=255495|Gloss=Ident
 6	>+	>+	PUNCT	_	_	8	punct	_	AlignBegin=255495|AlignEnd=255644|Gloss=PUNCT
 7	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	8	subj/m	_	AlignBegin=255644|AlignEnd=255793|Gloss=1Sing|SpacesAfter=No|wordform=nis
-8	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	5	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=s=
+8	C	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	5	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=s=
 9	sanìː	sanìː	VERB	_	_	8	comp:aux	_	AlignBegin=255793|AlignEnd=255942|ClauseType=Cleft|Gloss=know
 10	wurìn	wurìː	NOUN	_	Definite=Def|Gender=Masc	9	mod	_	AlignBegin=255942|AlignEnd=256091|Gloss=place.Masc.Def
 11	nan	nan	DET	_	Deixis=ProxH	10	det	_	AlignBegin=256091|AlignEnd=256240|Gloss=PreRef|PreRef=Yes
