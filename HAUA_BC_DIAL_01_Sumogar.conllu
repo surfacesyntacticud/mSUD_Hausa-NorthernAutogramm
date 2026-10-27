@@ -7,9 +7,9 @@
 # text_en = How did they do for Galmahoua to settle and stop moving everywhere?
 1	ƙàːƙàː	ƙàːƙàː	ADV	_	PronType=Int	2	comp:pred	_	AlignBegin=3540|AlignEnd=3840|Gloss=how
 2	naː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=3840|AlignEnd=4140|Gloss=Ident
-3	an-	a	PRON	_	Person=4|PronType=ProSubj	4	subj/m	_	AlignBegin=4140|AlignEnd=4440|Gloss=4|SpacesAfter=No|wordform=ankà
+3	a-	a	PRON	_	Person=4|PronType=ProSubj	4	subj/m	_	AlignBegin=4140|AlignEnd=4440|Gloss=4|SpacesAfter=No
 4-5	nkà=	_	_	_	_	_	_	_	_
-4	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	2	comp:cleft	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+4	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	2	comp:cleft	_	Gloss=Perf.Rel.Plur|wordform=ankà
 5	yi	yi	VERB	_	_	4	comp:aux	_	AlignBegin=4140|AlignEnd=4440|ClauseType=Cleft|Gloss=do
 6	hag	har	SCONJ	_	_	5	mod	_	AlignBegin=4440|AlignEnd=4740|Gloss=until
 7	Galmaːwaː	Galmaːwaː	PROPN	_	_	9	subj	_	AlignBegin=4740|AlignEnd=5040|Gloss=Galmaːwaː
@@ -56,9 +56,9 @@
 # text = wàdà an-nkà= dâː < Galmaːwaː < Bàːgai ta-kè bìye //
 # text_en = The way they did it formerly, Galmawa was under Bagai.
 1	wàdà	wàdà	ADV	_	PronType=Rel	9	dislocated@top	_	AlignBegin=11360|AlignEnd=11591|Gloss=how|RelAnt=Yes|Relz=Word
-2	an-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=11591|AlignEnd=11822|Gloss=4|SpacesAfter=No|wordform=ankà
+2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=11591|AlignEnd=11822|Gloss=4|SpacesAfter=No
 3-4	nkà=	_	_	_	_	_	_	_	_
-3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
+3	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=ankà
 4	yi	yi	VERB	_	_	3	comp:aux	_	AlignBegin=11591|AlignEnd=11822|ClauseType=Rel|Gloss=do|RelRole=pred
 5	dâː	dâː	ADV	_	_	4	mod	_	AlignBegin=11822|AlignEnd=12053|Gloss=formerly
 6	<	<	PUNCT	_	_	1	punct	_	AlignBegin=12053|AlignEnd=12284|Gloss=PUNCT
@@ -128,8 +128,8 @@
 5	Muːsà	Muːsà	PROPN	_	_	3	conj:coord	_	AlignBegin=31280|AlignEnd=32388|Gloss=Musa
 6	dà	dà	CCONJ	_	_	7	cc	_	AlignBegin=32388|AlignEnd=33496|Gloss=and
 7	Àbòkka	Àbòkka	PROPN	_	_	5	conj:coord	_	AlignBegin=33496|AlignEnd=34604|Gloss=Àbòkka
-8	sun-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=34604|AlignEnd=35712|Gloss=3Plur|SpacesAfter=No|wordform=sunkà
-9	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+8	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=34604|AlignEnd=35712|Gloss=3Plur|SpacesAfter=No
+9	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=sunkà
 10	s'aisà	s'ay-	VERB	_	Voice=Cau	9	comp:aux	_	AlignBegin=35712|AlignEnd=36820|Gloss=stop.Cau
 11	Galmaːwaː	Galmaːwaː	PROPN	_	_	10	comp:obj	_	AlignBegin=36820|AlignEnd=37928|Gloss=Galmaːwaː
 12	//	//	PUNCT	_	_	9	punct	_	AlignBegin=37928|AlignEnd=39040|Gloss=PUNCT
@@ -142,8 +142,8 @@
 # text = suː sunkà cêː sun gàji dà bìyam mutàːneː //
 # text_en = They said that they were tired of depending from people.
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	dislocated@subj	_	AlignBegin=40250|AlignEnd=40477|Gloss=3Plur.Nom
-2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=40477|AlignEnd=40704|Gloss=3Plur|SpacesAfter=No|wordform=sunkà
-3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=40477|AlignEnd=40704|Gloss=3Plur|SpacesAfter=No
+3	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=sunkà
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=40704|AlignEnd=40931|Gloss=say
 5	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	6	subj/m	_	AlignBegin=40931|AlignEnd=41158|Gloss=3Plur|SpacesAfter=No|wordform=sun
 6	n	aː	AUX	_	Aspect=Perf|Number=Plur	4	comp:obj	_	Gloss=Perf.Plur|wordform=n=
@@ -181,8 +181,8 @@
 # text_ortho = ankà zoː indà Kùmãdã dà sarkiː Iːsaː //
 # text = an-kà= zoː indà Kùmãdã dà Sarkiː Iːsaː //
 # text_en = They went to see the Commander and King Isa.
-1	an-	a	PRON	_	Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=52110|AlignEnd=52789|Gloss=4|SpacesAfter=No|wordform=ankà
-2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+1	a-	a	PRON	_	Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=52110|AlignEnd=52789|Gloss=4|SpacesAfter=No
+2	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=ankà
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=52789|AlignEnd=53468|Gloss=go
 4	indà	indà	ADV	_	PronType=Rel	3	comp:obj@G	_	AlignBegin=53468|AlignEnd=54147|Gloss=where|RelAnt=Yes|Relz=Word
 5	Kùmãdã	Kùmãdã	PROPN	_	_	4	mod@relcl	_	AlignBegin=54147|AlignEnd=54826|ClauseType=Rel|Gloss=Kùmãdã|RelRole=pred
@@ -201,8 +201,8 @@
 1	ìsaː	is-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	dislocated	_	AlignBegin=58950|AlignEnd=59228|Gloss=reach.Vnoun.Fem
 2	gà	gà	ADP	_	_	1	comp:obl	_	AlignBegin=59228|AlignEnd=59506|Gloss=by
 3	haːkimcìː	haːkimcìː	NOUN	_	_	2	comp	_	AlignBegin=59506|AlignEnd=59784|Gloss=chieftaincy
-4	an-	a	PRON	_	Person=4|PronType=ProSubj	5	subj/m	_	AlignBegin=59784|AlignEnd=60062|Gloss=4|SpacesAfter=No|wordform=ankà
-5	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+4	a-	a	PRON	_	Person=4|PronType=ProSubj	5	subj/m	_	AlignBegin=59784|AlignEnd=60062|Gloss=4|SpacesAfter=No
+5	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=ankà
 6	sâː	sâː	VERB	_	_	5	comp:aux	_	AlignBegin=60062|AlignEnd=60340|Gloss=put
 7	Muːsà	Muːsà	PROPN	_	_	6	comp:obj	_	AlignBegin=60340|AlignEnd=60618|Gloss=Musa
 8	//	//	PUNCT	_	_	5	punct	_	AlignBegin=60618|AlignEnd=60896|Gloss=PUNCT
@@ -236,8 +236,8 @@
 # text_ortho = sa'àn nan ankà sâː Ìllo haːkìmiː //
 # text_en = Then, they put Illo as chief.
 1	sa'ànnan	sa'ànnan	ADV	_	_	3	mod	_	AlignBegin=63680|AlignEnd=63829|Gloss=then
-2	an-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=63978|AlignEnd=64127|Gloss=4|SpacesAfter=No|wordform=ankà
-3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=63978|AlignEnd=64127|Gloss=4|SpacesAfter=No
+3	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=ankà
 4	sâː	sâː	VERB	_	_	3	comp:aux	_	AlignBegin=64127|AlignEnd=64276|Gloss=put
 5	Ìllo	Ìllo	PROPN	_	_	4	comp:obj	_	AlignBegin=64276|AlignEnd=64425|Gloss=Ìllo
 6	haːkìmiː	haːkìmiː	NOUN	_	Gender=Masc	4	comp:pred	_	AlignBegin=64425|AlignEnd=64574|Gloss=chief.Masc
@@ -293,9 +293,9 @@
 8	<	<	PUNCT	_	_	7	punct	_	AlignBegin=73406|AlignEnd=73657|Gloss=PUNCT
 9	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	16	mod	_	AlignBegin=73657|AlignEnd=73908|Gloss=where.Rel|RelAnt=Yes|Relz=Word
 10	duk	dukà	ADV	_	_	9	mod	_	AlignBegin=73657|AlignEnd=73908|Gloss=all
-11	an-	a	PRON	_	Person=4|PronType=ProSubj	12	subj/m	_	AlignBegin=74159|AlignEnd=74410|Gloss=4|SpacesAfter=No|wordform=ankà
+11	a-	a	PRON	_	Person=4|PronType=ProSubj	12	subj/m	_	AlignBegin=74159|AlignEnd=74410|Gloss=4|SpacesAfter=No
 12-13	nkà=	_	_	_	_	_	_	_	_
-12	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	9	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=nkà=
+12	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	9	mod@relcl	_	Gloss=Perf.Rel.Plur|Relz=Affix|wordform=ankà
 13	yi	yi	VERB	_	_	12	comp:aux	_	AlignBegin=74159|AlignEnd=74410|ClauseType=Rel|Gloss=do|RelRole=mod
 14	noːmaː	noːmaː	NOUN	_	Gender=Masc	13	comp:pred	_	AlignBegin=74410|AlignEnd=74661|Gloss=farming.Masc
 15	<	<	PUNCT	_	_	9	punct	_	AlignBegin=74661|AlignEnd=74912|Gloss=PUNCT
@@ -424,8 +424,8 @@
 23	<	<	PUNCT	_	_	22	punct	_	AlignBegin=99978|AlignEnd=100377|Gloss=PUNCT
 24	Ìlleːlàː	Ìlleːlàː	PROPN	_	_	0	root	_	AlignBegin=100377|AlignEnd=100776|Gloss=Illela
 25	>+	>+	PUNCT	_	_	27	punct	_	AlignBegin=100776|AlignEnd=101175|Gloss=PUNCT
-26	an-	a	PRON	_	Person=4|PronType=ProSubj	27	subj/m	_	AlignBegin=101175|AlignEnd=101574|Gloss=4|SpacesAfter=No|wordform=ankà
-27	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	24	comp:cleft	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+26	a-	a	PRON	_	Person=4|PronType=ProSubj	27	subj/m	_	AlignBegin=101175|AlignEnd=101574|Gloss=4|SpacesAfter=No
+27	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	24	comp:cleft	_	Gloss=Perf.Rel.Plur|wordform=ankà
 28-29	àihwai	_	_	_	_	_	_	_	_
 28	àihweː	aiwh-	VERB	_	_	27	comp:aux	_	AlignBegin=101574|AlignEnd=101973|ClauseType=Cleft|Gloss=give_birth
 29	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	28	comp:obj	_	AlignBegin=101574|AlignEnd=101973|Gloss=3Masc
@@ -441,8 +441,8 @@
 1	dà'	dàgà	ADP	_	_	0	root	_	AlignBegin=104420|AlignEnd=104713|Gloss=from
 2	Ìlleːlàː	Ìlleːlàː	PROPN	_	_	1	comp	_	AlignBegin=104713|AlignEnd=105006|Gloss=Illela
 3	>+	>+	PUNCT	_	_	5	punct	_	AlignBegin=105006|AlignEnd=105299|Gloss=PUNCT
-4	sun-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	5	subj/m	_	AlignBegin=105299|AlignEnd=105592|Gloss=3Plur|SpacesAfter=No|wordform=sunkà
-5	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	comp:cleft	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+4	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	5	subj/m	_	AlignBegin=105299|AlignEnd=105592|Gloss=3Plur|SpacesAfter=No
+5	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	comp:cleft	_	Gloss=Perf.Rel.Plur|wordform=sunkà
 6	hitoː	fit-	VERB	_	_	5	comp:aux	_	AlignBegin=105592|AlignEnd=105885|ClauseType=Cleft|Gloss=come_out
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=105885|AlignEnd=106180|Gloss=PUNCT
 
@@ -798,8 +798,8 @@
 # text_ortho = sunkà zan baːyuːnai //
 # text = sunkà zan baːyuːna -i //
 # text_en = They became his slaves.
-1	sun-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=192400|AlignEnd=192714|Gloss=3Plur|SpacesAfter=No|wordform=sunkà
-2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+1	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=192400|AlignEnd=192714|Gloss=3Plur|SpacesAfter=No
+2	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=sunkà
 3	zan	zam-	VERB	_	_	2	comp:aux	_	AlignBegin=192714|AlignEnd=193028|Gloss=become
 4	baːyuː	baːwàː	NOUN	_	_	3	comp:pred	_	AlignBegin=193028|AlignEnd=193342|Gloss=slave.Plur|wordfrom=baːyuːnai
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
@@ -2159,16 +2159,16 @@
 # text = in sun-kà= hi ƙarhi-n-kù < wandà sun-kà= hi ƙarhiː-n-ai su-_̀=ƙwaːcèː //
 # text_en = If they were stronger than you, if someone was weaker, they would catch him.
 1	in	in	SCONJ	_	_	17	mod	_	AlignBegin=426842|AlignEnd=427078|Gloss=if
-2	sun-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=427078|AlignEnd=427314|Gloss=3Plur|SpacesAfter=No|wordform=sunkà
-3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=nkà=
+2	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=427078|AlignEnd=427314|Gloss=3Plur|SpacesAfter=No
+3	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=sunkà
 4	hi	fi	VERB	_	_	3	comp:aux	_	AlignBegin=427314|AlignEnd=427550|Gloss=exceed
 5	ƙarhi	ƙarhiː	NOUN	_	_	4	comp:obj	_	AlignBegin=427550|AlignEnd=427786|Gloss=strength.Masc|wordform=ƙarhinkù
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss	_	Gloss=Gen.Masc|SpacesBefore=No
 7	-kù	-kù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	comp	_	Gloss=2Plur.Gen|SpacesBefore=No
 8	<	<	PUNCT	_	_	1	punct	_	AlignBegin=427786|AlignEnd=428022|Gloss=PUNCT
 9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	17	dislocated@obj	_	AlignBegin=428022|AlignEnd=428258|Gloss=which.Masc.Rel|Relz=Word
-10	sun-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	11	subj/m	_	AlignBegin=428258|AlignEnd=428494|ClauseType=Rel|Gloss=3Plur|RelRole=mod|SpacesAfter=No|wordform=sunkà
-11	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	9	mod@relcl	_	Relz=Affix|wordform=nkà=
+10	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	11	subj/m	_	AlignBegin=428258|AlignEnd=428494|ClauseType=Rel|Gloss=3Plur|RelRole=mod|SpacesAfter=No
+11	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	9	mod@relcl	_	Relz=Affix|wordform=sunkà
 12	hi	fi	VERB	_	_	11	comp:aux	_	AlignBegin=428494|AlignEnd=428730|ClauseType=Rel|Gloss=exceed
 13	ƙarhiː	ƙarhiː	NOUN	_	_	12	comp:obj	_	AlignBegin=428730|AlignEnd=428966|ClauseType=Rel|Gloss=strength.Masc|RelRole=mod|wordfrom=ƙarhiːnai
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
