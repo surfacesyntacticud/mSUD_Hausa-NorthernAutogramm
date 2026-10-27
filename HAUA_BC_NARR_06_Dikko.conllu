@@ -2231,18 +2231,17 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__111
 # text_en = He is taking it to places that he will not fear .
 # text_ortho = shinàː sâː shi wuriː wandà bâi tsòːroː .
-# text = shi-nàː sâː -shi wuriː wandà baì tsòːroː.
+# text = shi- nàː sâː -shi wuriː wandà bâ- -i tsòːroː .
 1	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj/m	_	Gloss=3Masc|SpacesAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog|wordform=shinàː
 3	sâː	sâː	VERB	_	_	2	comp:aux	_	Gloss=put
 4	-shi	-shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=-3Masc.Acc|SpacesBefore=No|wordform=shi
 5	wuriː	wuriː	NOUN	_	Gender=Masc	3	comp:obj@L	_	Gloss=place.Masc
 6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	5	mod@relcl	_	Gloss=Pron.Masc.Rel|Relz=Word
-7	bâ-	bâː	PART	_	Gender=Masc|PartType=Neg|Polarity=Neg	9	mod/m	_	Gloss=Neg.Perf|SpacesAfter=No|wordform=bâi
-8	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	9	subj/m	_	Gloss=-3Masc|SpacesAfter=No|wordform=ì=
-9	_̀	_̀	AUX	_	Mood=Sub	6	comp	_	wordform=Ø̀
-10	tsòːroː	tsòːroː	NOUN	_	Gender=Masc	9	comp:aux	_	ClauseType=Rel|Gloss=fear.Masc|RelRole=obj
-11	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
+7	bâ	bâː	AUX	_	Aspect=Prog|Polarity=Neg	6	comp	_	Gloss=Neg.Perf|wordform=bâi
+8	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	7	subj/m	_	Gloss=3Masc
+9	tsòːroː	tsòːroː	NOUN	_	Gender=Masc	7	comp:aux	_	ClauseType=Rel|Gloss=fear.Masc|RelRole=obj
+10	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__112
 # text_en = All the places that you fear, DGD is taking that horse, Baniyoguba, so that it will get used to it .
@@ -3370,7 +3369,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__164
 # text_en = The songs that the griots were playing, kept praising his bravery, but he would not give them a single penny .
 # text_ortho = kiɗìn maulòn dà màːsu maulòː kà yi mai dan shinàː zaːrùmiː nàː, àmman koː dalàː bâi baː sù .
-# text = kiɗì -n maulòn dà màːsu maulòː kà yi mai dan shi nàː zaːrùmiː nàː , àmman koː dalàː bâ-ì-_̀ baː -sù .
+# text = kiɗì -n maulòn dà màːsu maulòː kà yi mai dan shi nàː zaːrùmiː nàː , àmman koː dalàː bâ- -i baː -sù .
 1	kiɗì	kiɗìː	NOUN	_	Gender=Masc	14	subj	_	Compound=Yes|Gloss=music.Masc|RelAnt=Yes|wordform=kiɗìn
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 3	maulòn	maulòː	NOUN	_	Definite=Def|Gender=Masc	2	comp	_	Gloss=guitar.Masc.Def
@@ -3385,16 +3384,15 @@
 12	nàː	nàː	AUX	_	ExtPos=PART	10	comp	_	Gloss=be.Loc/Pred
 13	zaːrùmiː	zaːrùmiː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=brave
 14	nàː	neː	AUX	_	Copula=Yes	0	root	_	Gloss=Ident
-15	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-16	àmman	àmma	CCONJ	_	_	21	cc	_	Gloss=but
+15	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+16	àmman	àmma	CCONJ	_	_	19	cc	_	Gloss=but
 17	koː	koː	ADV	_	_	18	mod	_	Gloss=even
-18	dalàː	dalàː	NOUN	_	Gender=Fem	21	dislocated@comp	_	Gloss=shilling.Fem
-19	bâ-	bâː	PART	_	Gender=Masc|PartType=Neg|Person=3|Polarity=Neg	21	mod/m	_	Gloss=Neg.Perf|SpacesAfter=No|wordform=bâi
-20	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	21	subj/m	_	Gloss=-3Masc|SpacesAfter=No|wordform=ì=
-21	_̀	_̀	AUX	_	Mood=Sub	14	conj:coord	_	wordform=Ø̀
-22	baː	baː	VERB	_	_	21	comp:aux	_	Gloss=give
-23	-sù	-sù	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	comp:obj@R/m	_	Gloss=-3Plur.Acc|SpacesBefore=No|wordform=sù
-24	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
+18	dalàː	dalàː	NOUN	_	Gender=Fem	19	dislocated@comp	_	Gloss=shilling.Fem
+19	bâ	bâː	AUX	_	Gender=Masc|PartType=Neg|Person=3|Polarity=Neg	14	conj:coord	_	Gloss=Neg.Perf|SpacesAfter=No|wordform=bâi
+20	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	19	subj/m	_	Gloss=3Masc|SpacesBefore=No
+21	baː	baː	VERB	_	_	19	comp:aux	_	Gloss=give
+22	-sù	-sù	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	comp:obj@R/m	_	Gloss=-3Plur.Acc|SpacesBefore=No|wordform=sù
+23	.	.	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__165
 # text_en = DGD did not give them even a penny .
@@ -7961,7 +7959,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__387
 # text_en = When they were given gruel, they drank, and gave him some, he said he would not drink it .
 # text_ortho = dà ankà kai musù huraː, sunkà shaː, sunkà baː shì, yac cèː bâi shâː .
-# text = dà ankà kai musù huraː, sunkà shaː, sunkà baː shì, yac cèː bâi shâː .
+# text = dà a- nkà kai musù huraː , su- nkà shaː , su- nkà baː -shì , ya- C cèː bâ- -i shâː .
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=that
 2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	Gloss=4|SpacesAfter=No
 3	nkà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=ankà
@@ -7981,11 +7979,10 @@
 17	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	18	subj/m	_	Gloss=3Masc|SpacesAfter=No|wordform=yac
 18	C	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	13	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=c=
 19	cèː	cêː	VERB	_	_	18	comp:aux	_	Gloss=say
-20	bâ-	bâː	PART	_	Gender=Masc|PartType=Neg|Person=3|Polarity=Neg	22	mod/m	_	Gloss=Neg.Perf|SpacesAfter=No|wordform=bâi
-21	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	22	subj/m	_	Gloss=-3Masc|SpacesAfter=No|wordform=ì=
-22	_̀	_̀	AUX	_	Mood=Sub	19	comp:obj	_	wordform=Ø̀
-23	shâː	shâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	22	comp:aux	_	Gloss=drink.Vnoun.Masc
-24	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+20	bâ	bâː	AUX	_	Aspect=Prog|Polarity=Neg	19	comp:obj	_	Gloss=Neg.Prog|wordform=bâi
+21	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	20	subj/m	_	Gloss=3Masc|SpacesBefore=No
+22	shâː	shâː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	20	comp:aux	_	Gloss=drink.Vnoun.Masc
+23	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__388
 # text_en = Then one of them took his guitar and said "Really, GD is the best. "
@@ -10018,16 +10015,15 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__488
 # text_en = Wanting to live does not prevent death .
 # text_ortho = sôn râi bâi hanà mutuwàː .
-# text = sôn râi bâi hanà mutuwàː .
-1	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	subj	_	Gloss=like.Vnoun.Masc|wordform=sôn
+# text = sô -n râi bâ- -i hanà mutuwàː .
+1	sô	soː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	4	subj	_	Gloss=like.Vnoun.Masc|wordform=sôn
 2	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	1	udep/m	_	Gloss=Gen|SpacesBefore=No
 3	râi	râi	NOUN	_	Gender=Masc	2	comp	_	Gloss=life.Masc
-4	bâ-	bâː	PART	_	PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpacesAfter=No|wordform=bâi
-5	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	6	subj/m	_	Gloss=-3Masc|SpacesAfter=No|wordform=ì=
-6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-7	hanà	han-	VERB	_	_	6	comp:aux	_	Gloss=forbid
-8	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=death.Fem
-9	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+4	bâ	bâː	AUX	_	Aspect=Prog|Polarity=Neg	0	root	_	Gloss=Neg.Prog|SpacesAfter=No|wordform=bâi
+5	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	Gloss=3Masc|SpacesBefore=No
+6	hanà	han-	VERB	_	_	4	comp:aux	_	Gloss=forbid
+7	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=death.Fem
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = HAUA_BC_NARR_06_Dikko__489
 # text_en = DGD went into the water with his horse, and parted the waters .
@@ -12234,7 +12230,7 @@
 # sent_id = HAUA_BC_NARR_06_Dikko__580
 # text_en = After Gilage had put down a nut, he said "My cows, I don't give them as a present to anyone, I don't give them free, and nobody takes them by force."
 # text_ortho = Gilaːgèː-Gilaːgè in ya' azà ƙòːdagòː, kuma shì cêː " shaːnuːnaː baːnì bâː mùtun sàdakà, baːnì baːsà kyàutaː kuma mùtun bâi amshèː min dà ƙarhìː " .
-# text = Gilaːgèː-Gilaːgè in ya-_ azà ƙòːdagòː, kuma shi-_̀cêː " shaːnuː -n -aː baː-nì bâː mùtun sàdakà, baː-nì baːsà kyàutaː kuma mùtun baː-ì amshèː min dà ƙarhìː ".
+# text = Gilaːgèː-Gilaːgè in ya- C azà ƙòːdagòː , kuma shi- _̀ cêː " shaːnuː -n -aː baː -nì bâː mùtun sàdakà , baː -nì baːsà kyàutaː kuma mùtun bâ -i amshèː min dà ƙarhìː " .
 1	Gilaːgèː-Gilaːgè	Gilaːgèː-gilaːgè	PROPN	_	_	10	dislocated@subj	_	Gloss=Gilaːgèː-Gilaːgè
 2	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	Gloss=3Masc|SpacesAfter=No|wordform=ya'
@@ -12262,8 +12258,8 @@
 25	kyàutaː	kyàutaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=gift.Fem
 26	kuma	kuma	PART	_	PartType=Disc	28	discourse	_	Gloss=too
 27	mùtun	mùtun	NOUN	_	Gender=Masc	28	subj	_	Gloss=man.Masc
-28	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	22	parataxis:conj	_	Gloss=Neg.Prog|wordform=bâi
-29	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	28	subj/m	_	Gloss=-3Masc|SpacesBefore=No|wordform=ì=
+28	bâ	bâː	AUX	_	Aspect=Prog|Polarity=Neg	22	parataxis:conj	_	Gloss=Neg.Prog|wordform=bâi
+29	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	28	subj/m	_	Gloss=-3Masc|SpacesBefore=No|wordform=ì=
 30	amshèː	ams-	VERB	_	_	28	comp:aux	_	Gloss=seize
 31	min	min	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	30	comp:obl	_	Gloss=1Sing.Dat
 32	dà	dà	ADP	_	_	30	mod	_	Gloss=with
