@@ -34,7 +34,7 @@
 8	kwaːnaː	kwaːna-	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	7	comp	_	AlignBegin=11680|AlignEnd=11856|Gloss=lie_down.Vnoun.Masc
 9	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	10	subj/m	_	AlignBegin=12032|AlignEnd=12208|Gloss=2Masc|SpacesAfter=No
 10-11	ka	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=12032|AlignEnd=12208|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kakà
+10	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=12032|AlignEnd=12208|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kakà
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	10	comp:aux	_	AlignBegin=12032|AlignEnd=12208|Gloss=do.Vnoun.Masc
 12	//	//	PUNCT	_	_	6	punct	_	AlignBegin=12208|AlignEnd=12380|Gloss=PUNCT
 
@@ -327,7 +327,7 @@
 6	dà	dà	ADP	_	_	0	root	_	AlignBegin=57163|AlignEnd=57369|Gloss=with
 7	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	6	comp	_	AlignBegin=57369|AlignEnd=57575|Gloss=3Fem.Nom
 8	a-	a	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=57575|AlignEnd=57781|Gloss=4|SpacesAfter=No
-9	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=57575|AlignEnd=57781|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+9	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=57575|AlignEnd=57781|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
 10	cikoː	cik-	VERB	_	_	13	reparandum	_	AlignBegin=57781|AlignEnd=57987|Gloss=complete
 11	abìn	àbiː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	AlignBegin=57987|AlignEnd=58193|Gloss=thing.Masc.Def
 12	||	||	PUNCT	_	_	10	punct	_	AlignBegin=58193|AlignEnd=58399|Gloss=PUNCT
@@ -359,7 +359,7 @@
 3	dà	dà	ADP	_	_	0	root	_	AlignBegin=62748|AlignEnd=62904|Gloss=with
 4	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	3	comp	_	AlignBegin=62904|AlignEnd=63060|Gloss=3Fem.Nom
 5	a-	a	PRON	_	Person=4|PronType=Prs	6	subj/m	_	AlignBegin=63060|AlignEnd=63216|Gloss=4|SpacesAfter=No
-6	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=63060|AlignEnd=63216|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+6	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=63060|AlignEnd=63216|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
 7	koːyàː	koːy-	VERB	_	_	6	comp:aux	_	AlignBegin=63216|AlignEnd=63372|Gloss=teach
 8	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	7	comp:obl	_	AlignBegin=63372|AlignEnd=63528|Gloss=3Plur.Ben
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=63528|AlignEnd=63684|Gloss=PUNCT
@@ -372,7 +372,7 @@
 # text = a- kà koːyàː musù Hausa dà irì-n làːbàːrûn nan //
 # text_en = They teach them Hausa with this type of tales.
 1	a-	a	PRON	_	Person=4|PronType=Prs	2	subj/m	_	AlignBegin=63684|AlignEnd=63840|Gloss=4|SpacesAfter=No
-2	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	0	root	_	AlignBegin=63684|AlignEnd=63840|Gloss=Prog.Rel|wordform=akà
+2	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	0	root	_	AlignBegin=63684|AlignEnd=63840|Gloss=Prog.Rel|wordform=akà
 3	koːyàː	koːy-	VERB	_	_	2	comp:aux	_	AlignBegin=63840|AlignEnd=63996|Gloss=teach
 4	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=63996|AlignEnd=64152|Gloss=3Plur.Dat
 5	Hausa	Hausa	PROPN	_	_	3	comp:obj	_	AlignBegin=64152|AlignEnd=64308|Gloss=Hausa
@@ -396,7 +396,7 @@
 4	nàː	neː	AUX	_	Copula=Yes	0	root	_	AlignBegin=66003|AlignEnd=66183|Gloss=Ident
 5	>+	>+	PUNCT	_	_	7	punct	_	AlignBegin=66183|AlignEnd=66363|Gloss=PUNCT
 6	a-	a	PRON	_	Person=4|PronType=Prs	7	subj/m	_	AlignBegin=66363|AlignEnd=66543|Gloss=4|SpacesAfter=No
-7	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	AlignBegin=66363|AlignEnd=66543|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
+7	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	AlignBegin=66363|AlignEnd=66543|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akà
 8	koːyàː	koːy-	VERB	_	_	7	comp:aux	_	AlignBegin=66543|AlignEnd=66723|Gloss=teach
 9	musù	musù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	8	comp:obl	_	AlignBegin=66903|AlignEnd=67083|Gloss=3Plur.Dat
 10	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	8	comp:obj@T	_	AlignBegin=67083|AlignEnd=67263|Gloss=3Fem.Nom
@@ -506,7 +506,7 @@
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 3	ɓiki	ɓiki	NOUN	_	Gender=Masc	2	comp	_	AlignBegin=108828|AlignEnd=109195|Gloss=shit.Masc
 4	nàː	neː	PART	_	Gender=Masc|PartType=Foc	1	discourse@foc	_	AlignBegin=109195|AlignEnd=109562|Gloss=Emph.Masc/Plur
-5	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	0	root	_	AlignBegin=109562|AlignEnd=109929|Gloss=Prog.Rel
+5	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	0	root	_	AlignBegin=109562|AlignEnd=109929|Gloss=Prog.Rel
 6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=109929|AlignEnd=110296|ClauseType=Rel|Gloss=do|RelRole=mod
 7	mà	mà	ADP	_	Case=Dat	6	comp:obl	_	AlignBegin=110296|AlignEnd=110663|Gloss=Dat
 8	sàràkkuwaː	sìrikiː	NOUN	_	_	7	comp	_	AlignBegin=110663|AlignEnd=111030|GenderAf=Masc|Gloss=in-la|wordfrom=sàràkkuwaːtai

@@ -191,13 +191,13 @@
 # text_en = They went on and on travelling like that till they finished the whole of the world.
 1	hakànan	hakànan	ADV	_	_	0	root	_	AlignBegin=33319|AlignEnd=33500|Gloss=thus
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=33681|AlignEnd=33862|Gloss=3Plur|SpacesAfter=No
-3	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=33681|AlignEnd=33862|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
+3	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=33681|AlignEnd=33862|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
 4	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	5	mod	_	AlignBegin=33862|AlignEnd=34043|Gloss=Iter
 5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=34043|AlignEnd=34224|Gloss=go.Vnoun.Fem
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=34224|AlignEnd=34405|Gloss=PUNCT
 7	hakànan	hakànan	ADV	_	_	1	conj:redup	_	AlignBegin=34405|AlignEnd=34586|Gloss=thus
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=34767|AlignEnd=34948|Gloss=3Plur|SpacesAfter=No
-9	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:cleft	_	AlignBegin=34767|AlignEnd=34948|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
+9	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:cleft	_	AlignBegin=34767|AlignEnd=34948|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukà
 10	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	11	mod	_	AlignBegin=34948|AlignEnd=35129|Gloss=Iter
 11	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	9	comp:aux	_	AlignBegin=35129|AlignEnd=35310|Gloss=go.Vnoun.Fem
 12	duh	dukà	ADV	_	ExtPos=PRON|PronType=Tot	11	mod	_	AlignBegin=35491|AlignEnd=35672|Gloss=all
@@ -806,7 +806,7 @@
 4	>+	>+	PUNCT	_	_	6	punct	_	AlignBegin=123000|AlignEnd=123155|Gloss=PUNCT
 5	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=123155|AlignEnd=123310|Gloss=3Masc|SpacesAfter=No
 6-7	shikài	_	_	_	_	_	_	_	_
-6	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=123155|AlignEnd=123310|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+6	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=123155|AlignEnd=123310|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 7	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	6	comp:aux	_	AlignBegin=123155|AlignEnd=123310|Gloss=do.Vnoun.Masc
 8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=123310|AlignEnd=123465|Gloss=PUNCT
 9	kullun	kullun	ADV	_	_	10	mod	_	AlignBegin=123465|AlignEnd=123620|Gloss=always
@@ -814,7 +814,7 @@
 11	>+	>+	PUNCT	_	_	13	punct	_	AlignBegin=123930|AlignEnd=124085|Gloss=PUNCT
 12	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=124085|AlignEnd=124240|Gloss=3Masc|SpacesAfter=No
 13-14	shikài	_	_	_	_	_	_	_	_
-13	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	10	comp:cleft	_	AlignBegin=124085|AlignEnd=124240|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+13	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	10	comp:cleft	_	AlignBegin=124085|AlignEnd=124240|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:aux	_	AlignBegin=124085|AlignEnd=124240|Gloss=do.Vnoun.Masc
 15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=124240|AlignEnd=124399|Gloss=PUNCT
 
@@ -1308,14 +1308,14 @@
 2	>+	>+	PUNCT	_	_	4	punct	_	AlignBegin=187256|AlignEnd=187334|Gloss=PUNCT
 3	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=187334|AlignEnd=187412|Gloss=3Masc|SpacesAfter=No
 4-5	shikài	_	_	_	_	_	_	_	_
-4	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=187334|AlignEnd=187412|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+4	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=187334|AlignEnd=187412|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	AlignBegin=187334|AlignEnd=187412|Gloss=do.Vnoun.Masc
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=187412|AlignEnd=187490|Gloss=PUNCT
 7	hakànan	hakànan	ADV	_	_	1	conj:redup	_	AlignBegin=187490|AlignEnd=187568|Gloss=thus
 8	>+	>+	PUNCT	_	_	10	punct	_	AlignBegin=187646|AlignEnd=187724|Gloss=PUNCT
 9	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=187724|AlignEnd=187802|Gloss=3Masc|SpacesAfter=No
 10-11	shikài	_	_	_	_	_	_	_	_
-10	kà	nàː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:cleft	_	AlignBegin=187724|AlignEnd=187802|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
+10	kà	kèː	AUX	_	Aspect=Prog|Mood=Rel	7	comp:cleft	_	AlignBegin=187724|AlignEnd=187802|ClauseType=Cleft|Gloss=Prog.Rel|wordform=shikà
 11	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:aux	_	AlignBegin=187724|AlignEnd=187802|Gloss=do.Vnoun.Masc
 12	//	//	PUNCT	_	_	1	punct	_	AlignBegin=187802|AlignEnd=187883|Gloss=PUNCT
 
