@@ -884,7 +884,7 @@
 7-8	bân	_	_	_	_	_	_	_	_
 7	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	2	conj:coord	_	AlignBegin=133105|AlignEnd=133313|Gloss=there_is.Neg
 8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=Prs	7	subj	_	AlignBegin=133105|AlignEnd=133313|Gloss=1Sing
-9	dà	dà	ADP	_	_	7	comp:loc	_	AlignBegin=133313|AlignEnd=133521|Gloss=with
+9	dà	dà	ADP	_	_	7	comp:pred	_	AlignBegin=133313|AlignEnd=133521|Gloss=with
 10	ƙaːnèː	ƙaːnèː	NOUN	_	Gender=Masc	9	comp	_	AlignBegin=133521|AlignEnd=133729|Gloss=younger_brother.Masc
 11	?//]	?//]	PUNCT	_	_	2	punct	_	AlignBegin=133729|AlignEnd=133938|Gloss=PUNCT
 

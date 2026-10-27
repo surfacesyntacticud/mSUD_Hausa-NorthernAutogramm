@@ -44,7 +44,7 @@
 7	<	<	PUNCT	_	_	4	punct	_	AlignBegin=67530|AlignEnd=67655|Gloss=PUNCT
 8	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=67655|AlignEnd=67780|Gloss=there_is.Neg
 9	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	8	subj	_	AlignBegin=67780|AlignEnd=67905|Gloss=3Masc
-10	cikin	cikin	ADP	_	_	8	comp:loc	_	AlignBegin=67905|AlignEnd=68030|Gloss=inside
+10	cikin	cikin	ADP	_	_	8	comp:pred	_	AlignBegin=67905|AlignEnd=68030|Gloss=inside
 11	ràːhîn	ràːhiː	NOUN	_	Definite=Def|Gender=Masc	10	comp	_	AlignBegin=68030|AlignEnd=68155|Gloss=valley.Masc.Def
 12	nan	nan	DET	_	Deixis=ProxH	11	det	_	AlignBegin=68155|AlignEnd=68280|Gloss=PreRef|PreRef=Yes
 13	?//	?//	PUNCT	_	_	8	punct	_	AlignBegin=68280|AlignEnd=68400|Gloss=PUNCT

@@ -67,7 +67,7 @@
 9	Bàːgai	Bàːgai	PROPN	_	_	0	root	_	AlignBegin=12746|AlignEnd=12977|Gloss=Bagai|RelRole=mod
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=13208|AlignEnd=13439|Gloss=3Fem|SpacesAfter=No
 11	kè	nàː	AUX	_	Aspect=Prog	9	comp:cleft	_	AlignBegin=13208|AlignEnd=13439|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante
-12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	AlignBegin=13439|AlignEnd=13670|Gloss=follow.Part
+12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:aux	_	AlignBegin=13439|AlignEnd=13670|Gloss=follow.Part
 13	//	//	PUNCT	_	_	9	punct	_	AlignBegin=13670|AlignEnd=13900|Gloss=PUNCT
 
 # sent_id = HAUA_BC_DIAL_01_005-005
@@ -81,19 +81,19 @@
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=16828|AlignEnd=17066|Gloss=PUNCT
 3	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=17304|AlignEnd=17542|Gloss=3Plur|SpacesAfter=No
 4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=17304|AlignEnd=17542|Gloss=Prog|wordform=su
-5	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	4	comp:pred	_	AlignBegin=17542|AlignEnd=17780|Gloss=follow.Part
+5	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	4	comp:aux	_	AlignBegin=17542|AlignEnd=17780|Gloss=follow.Part
 6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=17780|AlignEnd=18018|Gloss=with
 7	Bàːgai	Bàːgai	PROPN	_	_	6	comp	_	AlignBegin=18018|AlignEnd=18256|Gloss=Bàːgai
 8	//=	//=	PUNCT	_	_	10	punct	_	AlignBegin=18256|AlignEnd=18494|Gloss=PUNCT
 9	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	10	subj/m	_	AlignBegin=18732|AlignEnd=18970|Gloss=3Plur|SpacesAfter=No
 10	nàː	nàː	AUX	_	Aspect=Prog	4	parataxis:conj	_	AlignBegin=18732|AlignEnd=18970|Gloss=Prog|wordform=su
-11	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	10	comp:pred	_	AlignBegin=18970|AlignEnd=19208|Gloss=follow.Part
+11	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	10	comp:aux	_	AlignBegin=18970|AlignEnd=19208|Gloss=follow.Part
 12	dà	dà	ADP	_	_	11	comp:obl	_	AlignBegin=19208|AlignEnd=19446|Gloss=with
 13	Bàːgai	Bàːgai	PROPN	_	_	12	comp	_	AlignBegin=19446|AlignEnd=19684|Gloss=Bàːgai
 14	//=	//=	PUNCT	_	_	16	punct	_	AlignBegin=19684|AlignEnd=19922|Gloss=PUNCT
 15	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	16	subj/m	_	AlignBegin=20160|AlignEnd=20398|Gloss=3Plur|SpacesAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	10	parataxis:conj	_	AlignBegin=20160|AlignEnd=20398|Gloss=Prog|wordform=su
-17	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	16	comp:pred	_	AlignBegin=20398|AlignEnd=20636|Gloss=follow.Part
+17	bìye	biy-	VERB	_	ExtPos=ADV|VerbForm=Part	16	comp:aux	_	AlignBegin=20398|AlignEnd=20636|Gloss=follow.Part
 18	dà	dà	ADP	_	_	17	comp:obl	_	AlignBegin=20636|AlignEnd=20874|Gloss=with
 19	Bàːgai	Bàːgai	PROPN	_	_	18	comp	_	AlignBegin=20874|AlignEnd=21112|Gloss=Bàːgai
 20	//	//	PUNCT	_	_	4	punct	_	AlignBegin=21112|AlignEnd=21360|Gloss=PUNCT
@@ -108,7 +108,7 @@
 1	Saːrèː	Saːrèː	PROPN	_	_	3	subj	_	AlignBegin=22380|AlignEnd=22559|Gloss=Saːrèː
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=22738|AlignEnd=22917|Gloss=3Plur|SpacesAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=22738|AlignEnd=22917|Gloss=Prog|wordform=su
-4	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:pred	_	AlignBegin=22917|AlignEnd=23096|Gloss=follow.Part
+4	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:aux	_	AlignBegin=22917|AlignEnd=23096|Gloss=follow.Part
 5	dà	dà	ADP	_	_	4	comp:obl	_	AlignBegin=23096|AlignEnd=23275|Gloss=with
 6	Gidan	Gidan	PROPN	_	_	5	comp	_	AlignBegin=23275|AlignEnd=23454|Gloss=Gidan
 7	Tudùː	Tudùː	PROPN	_	_	6	flat@name	_	AlignBegin=23454|AlignEnd=23633|Gloss=Tudu
@@ -948,7 +948,7 @@
 1	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=217460|AlignEnd=217648|Gloss=there_is.Neg
 2	bàutaː	bàutaː	NOUN	_	_	1	subj	_	AlignBegin=217648|AlignEnd=217836|Gloss=slavery
 3-4	s'àkaːniːnai	_	_	_	_	_	_	_	_
-3	s'àkaːnin	s'àkaːnin	ADP	_	_	1	comp:loc	_	AlignBegin=217836|AlignEnd=218024|Gloss=between
+3	s'àkaːnin	s'àkaːnin	ADP	_	_	1	comp:pred	_	AlignBegin=217836|AlignEnd=218024|Gloss=between
 4	-ai	sa	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp	_	AlignBegin=217836|AlignEnd=218024|Gloss=3SingGen
 5	dà	dà	CCONJ	_	_	6	cc	_	AlignBegin=218024|AlignEnd=218212|Gloss=and
 6	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	conj:coord	_	AlignBegin=218212|AlignEnd=218400|Gloss=3Plur.Nom
@@ -1340,7 +1340,7 @@
 10	<	<	PUNCT	_	_	6	punct	_	AlignBegin=289824|AlignEnd=290232|Gloss=PUNCT
 11	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	4	mod@relcl	_	AlignBegin=290232|AlignEnd=290640|ClauseType=Rel|Gloss=there_is.Neg|RelRole=mod|wordform=baːkà
 12	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	11	subj/m	_	AlignBegin=290232|AlignEnd=290640|Gloss=-2Masc|SpacesBefore=No
-13	dà	dà	ADP	_	_	11	comp:loc	_	AlignBegin=290640|AlignEnd=291048|Gloss=with
+13	dà	dà	ADP	_	_	11	comp:pred	_	AlignBegin=290640|AlignEnd=291048|Gloss=with
 14	iːkòː	iːkòː	NOUN	_	_	13	comp	_	AlignBegin=291048|AlignEnd=291456|Gloss=power.Masc|wordfrom=iːkòːnai
 15	-n	na	PART	_	Case=Gen|PartType=Case	14	mod@poss/m	_	Gloss=Gen.Masc/Plur|SpacesBefore=No
 16	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	15	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
@@ -2047,7 +2047,7 @@
 4	tàhiyà	tàhiyà	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	subj	_	AlignBegin=411750|AlignEnd=411980|Gloss=walk.Vnoun.Fem|wordform=tàhiyàkkà
 5	-k	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod/m	_	AlignBegin=411750|AlignEnd=411980|Gloss=Gen.Fem|SpacesBefore=No
 6	-kà	-kà	PRON	_	Case=Gen|Gender=Masc|Person=2|PronType=Prs	5	comp	_	Gloss=2Masc.Gen|SpacesBefore=No
-7	daban	daban	ADJ	_	_	3	comp:loc	_	AlignBegin=411980|AlignEnd=412210|Gloss=apart
+7	daban	daban	ADJ	_	_	3	comp:pred	_	AlignBegin=411980|AlignEnd=412210|Gloss=apart
 8	|c	|c	PUNCT	_	_	9	punct	_	AlignBegin=412210|AlignEnd=412440|Gloss=PUNCT
 9	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	3	conj:coord	_	AlignBegin=412440|AlignEnd=412670|Gloss=Gen.Fem
 10	wàncân	cân	PRON	_	Deixis=Med|Gender=Masc|PronType=Dem	9	comp	_	AlignBegin=412670|AlignEnd=412900|Gloss=Med.Masc

@@ -320,7 +320,7 @@
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=40130|AlignEnd=40364|Gloss=PUNCT
 8	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=40598|AlignEnd=40832|Gloss=3Masc|SpacesAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=40598|AlignEnd=40832|Gloss=Prog|wordform=shi
-10	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	AlignBegin=40832|AlignEnd=41066|Gloss=follow.Part
+10	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:aux	_	AlignBegin=40832|AlignEnd=41066|Gloss=follow.Part
 11	dà	dà	ADP	_	_	10	comp:obl	_	AlignBegin=41066|AlignEnd=41300|Gloss=with
 12	shìga	shìgaː	NOUN	_	_	11	comp	_	AlignBegin=41300|AlignEnd=41534|GenderAf=Fem|Gloss=track.Fem|wordform=shìgattà
 13	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	12	mod@poss/m	_	Gloss=Gen.Fem|SpacesBefore=No
@@ -344,7 +344,7 @@
 9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=42602|AlignEnd=42742|Gloss=PUNCT
 10	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=42742|AlignEnd=42882|Gloss=3Masc|SpacesAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=42742|AlignEnd=42882|Gloss=Prog|wordform=shi
-12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:pred	_	AlignBegin=42882|AlignEnd=43022|Gloss=follow.Part
+12	bìye	bi	VERB	_	ExtPos=ADV|VerbForm=Part	11	comp:aux	_	AlignBegin=42882|AlignEnd=43022|Gloss=follow.Part
 13	dà	dà	ADP	_	_	12	comp:obl	_	AlignBegin=43022|AlignEnd=43162|Gloss=with
 14	shìga	shìgaː	NOUN	_	_	13	comp	_	AlignBegin=43162|AlignEnd=43302|GenderAf=Fem|Gloss=track.Fem|wordform=shìgattà
 15	-t	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	14	mod/m	_	Gloss=Gen.Fem|SpacesBefore=No
