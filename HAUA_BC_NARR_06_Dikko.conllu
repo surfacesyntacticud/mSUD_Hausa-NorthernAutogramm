@@ -3191,7 +3191,7 @@
 11	zaman	zam-	VERB	_	Definite=Def|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	dislocated@top	_	Gloss=stay.Vnoun.Masc.Def|RelAnt=Yes
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=CompRel|Relz=Word
 13	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	14	subj/m	_	Gloss=1Sing
-14	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	12	comp	_	ClauseType=Rel|Gloss=be.Rel|RelRole=pred|Relz=Affix
+14	kè	nàː	AUX	_	Mood=Rel	12	comp	_	ClauseType=Rel|Gloss=be.Rel|RelRole=pred|Relz=Affix
 15	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 16	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	comp:obj	_	Gloss=Neg.Prog|wordform=baːnì
 17	-nì	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	16	subj/m	_	Gloss=1Sing|SpaceBefore=No
@@ -3585,8 +3585,8 @@
 4	dà	dà	ADP	_	_	0	root	_	Gloss=with
 5	kuː	kuː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	comp	_	Gloss=2Plur.Nom
 6	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	7	subj/m	_	Gloss=1Sing|SpaceAfter=No
-7	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
-8	dà	dà	ADP	_	_	7	comp:pred	_	Gloss=with
+7	kè	nàː	PART	_	Copula=Yes|Mood=Rel|PartType=Pred	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
+8	dà	dà	ADP	_	_	7	comp:loc	_	Gloss=with
 9	màganàː	màganàː	NOUN	_	Gender=Fem	8	comp	_	Gloss=speech.Fem
 10	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -10265,7 +10265,7 @@
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen.Masc/Plur|SpaceBefore=No
 20	maːbà	maːbà	NOUN	_	Gender=Fem	19	comp	_	Gloss=joking.Fem
 21	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	22	subj/m	_	Gloss=1Sing
-22	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	18	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
+22	kè	nàː	PART	_	Copula=Yes|Mood=Rel|PartType=Pred	18	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 23	“	“	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 24	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -13311,7 +13311,7 @@
 6	hwa	hwa	PART	_	PartType=Top	5	discourse@top	_	Gloss=indeed
 7	shìrye	shiry-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj	_	Gloss=get_ready.Part
 8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	9	subj/m	_	Gloss=1Sing
-9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	7	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
+9	kè	nàː	PART	_	Copula=Yes|Mood=Rel|PartType=Pred	7	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 10	tundà	tundà	SCONJ	_	_	7	mod	_	Gloss=since
 11	ni-	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	12	subj/m	_	Gloss=1Sing|SpaceAfter=No|wordform=nit
 12	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	10	comp	_	Gloss=Perf.Rel.Sing|wordform=t=
@@ -13357,7 +13357,7 @@
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	shìrye	shiry-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj@T	_	Gloss=get_ready.Part
 6	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	7	subj/m	_	Gloss=1Sing
-7	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
+7	kè	nàː	PART	_	Copula=Yes|Mood=Rel|PartType=Pred	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 8	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|wordform=.
 9	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -13371,7 +13371,7 @@
 4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	shìrye	shiry-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj@T	_	Gloss=get_ready.Part|Imperative=Yes
 6	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	7	subj/m	_	Gloss=1Sing
-7	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
+7	kè	nàː	PART	_	Copula=Yes|Mood=Rel|PartType=Pred	5	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 8	niː	niː	PRON	_	Case=Nom|Gender=Masc|Person=1|PronType=Prs	5	dislocated@subj	_	Gloss=1Sing.Nom
 9	"	"	PUNCT	_	_	2	punct	_	Gloss=PUNCT|wordform=.
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -15755,7 +15755,7 @@
 3	hwa	hwa	PART	_	PartType=Top	2	discourse@top	_	Gloss=indeed
 4	bàːƙoː	bàːƙoː	NOUN	_	Gender=Masc	0	root	_	Gloss=visitor.Masc
 5	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	6	subj/m	_	Gloss=1Sing
-6	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
+6	kè	nàː	PART	_	Copula=Yes|Mood=Rel|PartType=Pred	4	comp:cleft	_	ClauseType=Cleft|Gloss=be.Rel
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 8	"	"	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
@@ -18261,7 +18261,7 @@
 6	san	san-	VERB	_	_	5	comp:aux	_	Gloss=know
 7	koːwaː	koːwaː	PRON	_	Number=Sing|PronType=Int	6	comp:obj	_	Gloss=who.Sing
 8	ni	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	9	subj/m	_	Gloss=1Sing
-9	kè	nàː	AUX	_	Copula=Yes|Mood=Rel|PartType=Pred	7	mod@relcl	_	ClauseType=Rel|Gloss=be.Rel
+9	kè	nàː	PART	_	Copula=Yes|Mood=Rel|PartType=Pred	7	mod@relcl	_	ClauseType=Rel|Gloss=be.Rel
 10	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT|wordform=.
 11	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
